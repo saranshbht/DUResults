@@ -1,9 +1,9 @@
 
 //https://raw.githubusercontent.com/saranshbht/Project/master/Marks/Semester/16/570/015.csv
 var obj = new URL(location.href).searchParams;
-var file = sessionStorage.getItem("mode") + "/" + obj.get("admissionsOf") + "/" + obj.get("course") + "/" + obj.get("college") + ".csv";
+var file = obj.get("type") + "/" + sessionStorage.getItem("mode") + "/" + obj.get("admissionsOf") + "/" + obj.get("course") + "/" + obj.get("college") + ".csv";
 console.log(file);
-Papa.parse("https://raw.githubusercontent.com/saranshbht/Project/master/Marks/" + file, {
+Papa.parse("https://raw.githubusercontent.com/saranshbht/Project/master/" + file, {
     download: true,
     complete: function(results) {
         // console.log(results);
@@ -41,7 +41,7 @@ Papa.parse("https://raw.githubusercontent.com/saranshbht/Project/master/Marks/" 
         tablecontent += "</tr></thead>";
         // console.log(tablecontent);
         table.innerHTML += tablecontent;
-        $("[data-field=Percentage]").attr("data-formatter", "valueFormatter");
+        $("tr th:last-child").attr("data-formatter", "valueFormatter");
         $("tr td:first-child").addClass("h");
         $("th:first-child").addClass("h");
         var keys = results.data.shift();
