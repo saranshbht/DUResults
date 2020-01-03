@@ -1,0 +1,121 @@
+html, body{
+    height: 100%;
+    /* margin: 0;
+    padding: 0; */
+}
+#welcome {
+    background-image: url('images/graduation.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    margin: 0;
+    /* position: absolute; */
+    /* height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    left 10px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+  
+#second {
+    height: 100%;
+    /* position: absolute; */
+}
+
+h1 {
+    font-size: 15vw;
+    color: black;
+    text-align: center;
+    transform: translate(0%, 20%);
+}
+#second a {
+    height: 50%;
+    width: 100%;
+    /* font-family: "Trebuchet MS", Helvetica, sans-serif; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+a:hover {
+    font-style: italic;
+    font-size: 1.1em;
+    color: red;
+    text-decoration: underline black wavy;
+}
+form {
+    text-align: center;
+}
+
+select {
+    text-transform: uppercase;
+}
+
+/* .bootstrap-table .fixed-table-container .table thead th .th-inner {
+    white-space: normal;
+} */
+
+ #table th, #table td{
+    border: 2px solid black;
+    /* border-collapse: collapse; */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-transform: uppercase;
+    white-space: normal;
+    background-clip: padding-box;
+}
+.bootstrap-table .fixed-table-container .table thead th .th-inner {
+    white-space: normal;
+}
+#table tr:nth-child(odd){
+    background-color: lightgray;
+}
+
+th.sticky-header {
+    position: sticky;
+    top: 0px;
+    /* text-transform: uppercase; */
+    /* font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;  */
+    /* z-index: 1; */
+    /*To not have transparent background.*/
+    /* background-color: aliceblue; */
+  }
+
+.h {
+left: 0px;
+position: sticky;
+z-index: 100;
+background-color: #343a40;
+color: #fff;
+/* border: 2px solid black; */
+}
+.bounce {
+    /* transform: translate(-20%, -20%); */
+    font-size: 15vw;
+    position: absolute;
+    bottom: 0;
+    -moz-animation: bounce 2s infinite;
+    -webkit-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+  }
+  
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-30px);
+    }
+    60% {
+      transform: translateY(-15px);
+    }
+  }
