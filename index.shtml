@@ -1,4 +1,4 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
@@ -10,8 +10,7 @@
         <script defer src="fontawesome/js/all.js"></script>
         <link href="fontawesome/css/all.css" rel="stylesheet">
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-        <script type="text/javascript" src="index.js"></script> -->
-<!-- #include file="header.html" -->
+        <script type="text/javascript" src="index.js"></script>
     <body>
         <div id="welcome" class="container-fluid bg-dark">
             <h1>DU Results</h1>

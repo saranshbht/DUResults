@@ -1,4 +1,4 @@
-<body style="height: 5000px">
+<!-- <body style="height: 5000px">
     <table class="table">
         <thead>
           <tr>
@@ -63,4 +63,28 @@
    <input type="file" id="hello" />
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
    <script src="papaparse.js"></script>
-   <script src="test.js"></script>
+   <script src="test.js"></script> -->
+   <!DOCTYPE html>
+   <html>
+   <head>
+   <script type='text/javascript'>
+   function texting(e) {
+      let filing = e.target.files[0];
+      let ta = document.getElementById('ta');
+      r = new FileReader();
+      r.onload = function(e){ ta.innerHTML += e.target.result;}
+      r.readAsText(filing);
+   }
+   </script>
+   </head>
+   
+   <body>
+     <form name="uploadForm">
+       <div>
+         <input id="uploadInput" type="file" onchange="texting(event)">
+       </div>
+       <div><input type="submit" value="Submit"></div>
+     </form>
+     <textarea id="ta"></textarea>
+   </body>
+   </html>
