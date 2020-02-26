@@ -94,7 +94,9 @@ Papa.parse("https://raw.githubusercontent.com/saranshbht/Project/master/" + file
 });
 
 function valueFormatter(value){
-    return parseFloat(value).toFixed(3);
+    if(value)
+        return parseFloat(value).toFixed(3);
+    return value;
 }
 
 function sorter(a, b){
