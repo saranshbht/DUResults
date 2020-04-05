@@ -1,12 +1,13 @@
 
 //https://raw.githubusercontent.com/saranshbht/Project/master/Marks/Semester/16/570/015.csv
 var obj = new URL(location.href).searchParams;
-var file = obj.get("type") + "/" + sessionStorage.getItem("mode") + "/" + obj.get("admissionsOf") + "/" + obj.get("course") + "/" + obj.get("college") + ".csv";
-console.log(file);
-Papa.parse("https://raw.githubusercontent.com/saranshbht/Project/master/" + file, {
+var file = obj.get("type") + "/" + obj.get("mode") + "/" + obj.get("admissionsOf") + "/" + obj.get("course") + "/" + obj.get("college") + ".csv";
+var baseUrl = "https://raw.githubusercontent.com/saranshbht/Project/master/";
+// console.log(file);
+Papa.parse(baseUrl + file, {
     download: true,
     complete: function(results) {
-        // console.log(results);
+        // console.log(JSON.stringify(results.data));
         // console.log(results)
         // // console.log("hello");
         // var arr = results.data.slice(1);
@@ -33,38 +34,53 @@ Papa.parse("https://raw.githubusercontent.com/saranshbht/Project/master/" + file
 
 
         var table = document.getElementById("table");
-        var tablecontent = "<thead class='thead-dark'><tr>";
+        // var tablecontent = "<thead class='thead-dark'><tr>";
         var headerRow = results.data[0];
+        // for(let i = 0; i < headerRow.length; i++){
+        //     tablecontent += `<th class='align-middle' data-field='${headerRow[i]}' data-sortable="true" data-sorter="sorter">${headerRow[i]}</th>`;
+        // }
+        var columnData = [];
         for(let i = 0; i < headerRow.length; i++){
-            tablecontent += `<th class='align-middle sticky-header' data-field='${headerRow[i]}' data-sortable="true" data-sorter="sorter">${headerRow[i]}</th>`;
+            columnData.push({title: headerRow[i], render: valueFormatter});
         }
-        tablecontent += "</tr></thead>";
-        // console.log(tablecontent);
-        table.innerHTML += tablecontent;
-        $("tr th:last-child").attr("data-formatter", "valueFormatter");
-        $("tr td:first-child").addClass("h");
-        $("th:first-child").addClass("h");
-        var keys = results.data.shift();
-        var objects = results.data.map(function(values) {
-            return keys.reduce(function(o, k, i) {
-                o[k] = values[i];
-                return o;
-            }, {});        
-        });
-        // objects = JSON.stringify(objects.slice(50));
-        // console.log(objects);
-        // // bootstrapTable()
-        // $("table").bootstrapTable();
-        $("#table").bootstrapTable({
-            data: objects,
-            // stickyHeader: true,
+        // columnData[columnData.length - 1].render = valueFormatter;
+        // console.log(columnData);
+        // tablecontent += "</tr></thead>";
+        // // console.log(tablecontent);
+        // table.innerHTML += tablecontent;
+        // $("tr th:last-child").attr("data-formatter", "valueFormatter");
+        // $("tr td:first-child").addClass("h");
+        // $("th:first-child").addClass("h");
+        // var keys = results.data.shift();
+        // var objects = results.data.map(function(values) {
+        //     return keys.reduce(function(o, k, i) {
+        //         o[k] = values[i];
+        //         return o;
+        //     }, {});        
+        // });
+        results.data.pop();
+        $("#table").DataTable({
+            data: results.data.slice(1),
+            columns: columnData,
+            fixedHeader : true,
+            scrollX: true,
+            scrollY: 500,
+            scrollCollapse: true,
+            fixedColumns: true,
+            dom: 'lfrtipB',
+            buttons: [
+                'print',
+            ]
+            // responsive: true,
+            // scrollX: true
             // stickyHeaderOffsetLeft: '0',
             // stickyHeaderOffsetRight: '0',
         });
-        $("#table").bootstrapTable('remove', {
-            field: 'RollNo',
-            values: ''
-        });
+        
+        // $("#table").bootstrapTable('remove', {
+        //     field: 'RollNo',
+        //     values: ''
+        // });
         // var lastScrollLeft = 0;
         // // $(".fixed-table-body").scroll(function(e) {
         // //     console.log('scroll event');
@@ -90,22 +106,61 @@ Papa.parse("https://raw.githubusercontent.com/saranshbht/Project/master/" + file
         //     lastScrollLeft = documentScrollLeft;  
         // });
     },
-    error: function(err, file){ alert("No such records"); history.back();}
+    error: function(err, file){ 
+        $("#noRecord").modal('show');
+        $('#noRecord').on('hidden.bs.modal', function() {
+            history.back();
+        });
+        
+    }
+});
+// var offset = 3;
+// // console.log('hello');
+
+var table = $('#table').DataTable();
+console.log(table.columns([0]).values);
+// $('#table > tbody > tr').each(function () {
+//     console.log('Hello World');
+//     var values = [];
+
+//     $(this).children('td').each(function (i,v) {
+//         if (i < offset) return;
+//         var value = parseInt($(this).text());
+//         if(!isNaN(value))
+//             values.push(value);
+//     });
+
+//     var maxValue = Math.max.apply(null, values);
+//     var minValue = Math.min.apply(null, values);
+//     console.log(maxValue);
+//     $(this).children('td').each(function () {
+//         if ($(this).text() == maxValue.toString()) {
+//             $(this).addClass('max');
+//         }
+
+//         if ($(this).text() == minValue.toString()) {
+//             $(this).addClass('min');
+//         }
+//     });
+
 });
 
 function valueFormatter(value){
+    if(!value || isNaN(value))
+        return value;
+    if(value && value % 1 === 0)
+        return Math.abs(value);
     if(value)
         return parseFloat(value).toFixed(3);
-    return value;
 }
 
-function sorter(a, b){
-    floatA = parseFloat(a);
-    floatB = parseFloat(b);
-    if(isNaN(floatA) && isNaN(floatB))
-        return a <= b ? -1 : 1;
-    if(isNaN(floatA) || isNaN(floatB))
-        return a.length <= b.length ? -1 : 1;
-    return floatA - floatB;
-    // return parseFloat(a) - parseFloat(b);
-}
+// function sorter(a, b){
+//     floatA = parseFloat(a);
+//     floatB = parseFloat(b);
+//     if(isNaN(floatA) && isNaN(floatB))
+//         return a <= b ? -1 : 1;
+//     if(isNaN(floatA) || isNaN(floatB))
+//         return a.length <= b.length ? -1 : 1;
+//     return floatA - floatB;
+//     // return parseFloat(a) - parseFloat(b);
+// }
