@@ -117,8 +117,8 @@ Papa.parse(baseUrl + file, {
 // var offset = 3;
 // // console.log('hello');
 
-var table = $('#table').DataTable();
-console.log(table.columns([0]).values);
+// var table = $('#table').DataTable();
+// console.log(table.columns([0]).values);
 // $('#table > tbody > tr').each(function () {
 //     console.log('Hello World');
 //     var values = [];
@@ -143,7 +143,7 @@ console.log(table.columns([0]).values);
 //         }
 //     });
 
-});
+// });
 
 function valueFormatter(value){
     if(!value || isNaN(value))
