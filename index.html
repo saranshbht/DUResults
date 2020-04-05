@@ -6,32 +6,306 @@
         <link href="data:image/x-icon;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAxBC7AM9QNAAAnf8AC6MQAAAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAiAzBEAAABECIDMEQAAAEQIgMwRAAAARAiAzBEAAAAACIDMEQAAAAAAAMwAAAAUAAAAzAAAAAFAAUAAAAAAABQUFAAAAAAAAUABQAAAAAAAAAAUABQAAAAAAAFBQAAAAAAAABQDf/wAA3/8AAAAAAADSSQAA0kkAANJJAADSSQAA3kkAAN/PAADPzwAA138AANq/AADd3wAA3+4AAN/1AADf+wAA" rel="icon" type="image/x-icon" />
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="style.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script defer src="fontawesome/js/all.js"></script>
         <link href="fontawesome/css/all.css" rel="stylesheet">
-    <!-- <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script> -->
-        <!-- <script type="text/javascript" src="index.js"></script> -->
+    </head>
     <body>
         <div id="welcome" class="container-fluid bg-dark">
             <h1>DU Results</h1>
             <span class="bounce fas fa-angle-double-down" style="color:white; display:block; text-align:center;"></span>
         </div>
-        
-        <div id="second" class="container-fluid" style="display:none; padding:0px">
-            <a href="semester.shtml" class="bg-primary text-white"><h1>Semester</h1></a>
-            <a href="semester.shtml" class="bg-success text-white"><h1>Subject</h1></a>
+        <div id="formContainer" class="container-fluid" style="display:none">
+            <form action="result.html" method="get" class="text-center">
+                <div class="form-group row">
+                    <label for="mode" class="col col-form-label-lg">Mode</label>
+                    <div class="col-8">
+                        <select class="form-control form-control-lg" id="mode" name="mode" required>
+                            <option value="Semester">Semester</option>
+                            <option value="Subject">Subject</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="admissionsOf" class="col col-form-label-lg">Admissions Of</label>
+                    <div class="col-8">
+                        <select class="form-control form-control-lg" id="admissionsOf" name="admissionsOf" required>
+                            <option value="16">2016</option>
+                            <option value="17" selected>2017</option>
+                            <option value="18">2018</option>
+                            <option value="19">2019</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="college" class="col col-form-label-lg">College</label>
+                    <div class="col-8">
+                        <select class="form-control form-control-lg" id="college" name="college" required>
+                            <option value="001">Acharya Narendra Dev College</option>
+                            <option value="332">Aditi Mahavidhlaya (Teaching Centre)</option>
+                            <option value="002">Aditi Mahavidyalaya</option>
+                            <option value="333">Aryabhatta College (Teaching Centre)</option>
+                            <option value="059">Aryabhatta College [Formerly Ram Lal Anand College (Evening)]</option>
+                            <option value="003">Atma Ram Sanatan Dharam College</option>
+                            <option value="007">Bhagini Nivedita College</option>
+                            <option value="335">Bhagini Nivedita College (Teaching Centre)</option>
+                            <option value="008">Bharati College</option>
+                            <option value="325">Bharati College - Teaching Centre</option>
+                            <option value="009">Bhaskaracharya College of Applied Sciences</option>
+                            <option value="309">CAMPUS LAW CENTRE</option>
+                            <option value="COL">Campus of Open Learning</option>
+                            <option value="312">Cluster Innovation Centre (C.I.C.)</option>
+                            <option value="013">College Of Vocational Studies</option>
+                            <option value="336">College of Vocational Studies (Teaching Centre)</option>
+                            <option value="014">Daulat Ram College</option>
+                            <option value="015" selected>Deen Dayal Upadhyaya College</option>
+                            <option value="344">Deen Dayal Upadhyaya College (Teaching Centre)</option>
+                            <option value="016">Delhi College Of Arts & Commerce</option>
+                            <option value="316">Delhi School of Journalism</option>
+                            <option value="225">Department of Adult Education</option>
+                            <option value="226">Department of African Studies</option>
+                            <option value="215">Department of Anthropology</option>
+                            <option value="201">Department of ARABIC</option>
+                            <option value="290">Department of B.A (Programme Committee) Application Course-III Foundation Course-II</option>
+                            <option value="258">Department of Bio Medical Research</option>
+                            <option value="249">Department of Bio-chemistry</option>
+                            <option value="216">Department of Botany</option>
+                            <option value="202">Department of Buddhist Studies</option>
+                            <option value="248">Department of Business Economics</option>
+                            <option value="217">Department of Chemistry</option>
+                            <option value="238">Department of CLC</option>
+                            <option value="241">Department of Commerce</option>
+                            <option value="234">Department of Computer Science</option>
+                            <option value="228">Department of East Asian Studies</option>
+                            <option value="227">Department of Economics</option>
+                            <option value="243">Department of Education (C.I.E.)</option>
+                            <option value="251">Department of Electronics</option>
+                            <option value="203">Department of English</option>
+                            <option value="218">Department of Environmental Studies</option>
+                            <option value="101">Department of Faculty of Applied Social Sciences & Humanities</option>
+                            <option value="114">Department of Faculty of Science</option>
+                            <option value="252">Department of Genetics</option>
+                            <option value="229">Department of Geography</option>
+                            <option value="219">Department of Geology</option>
+                            <option value="204">Department of Germanic and Romance Studies</option>
+                            <option value="205">Department of Hindi</option>
+                            <option value="231">Department of History</option>
+                            <option value="291">Department of History (SDC)</option>
+                            <option value="220">Department of Home Science</option>
+                            <option value="255">Department of Indira Gandhi Institute of Physical Education and Sports Science</option>
+                            <option value="107">Department of Inter-Disciplinary And Applied Sciences</option>
+                            <option value="239">Department of LC-I</option>
+                            <option value="206">Department of Library and Information Science</option>
+                            <option value="207">Department of Linguistics</option>
+                            <option value="235">Department of Mathematics</option>
+                            <option value="253">Department of Microbiology</option>
+                            <option value="208">Department of MIL& LS</option>
+                            <option value="240">Department of Music</option>
+                            <option value="236">Department of Operational Research</option>
+                            <option value="209">Department of Persian</option>
+                            <option value="210">Department of Philosophy</option>
+                            <option value="222">Department of Physics</option>
+                            <option value="232">Department of Political Science</option>
+                            <option value="211">Department of Psychology</option>
+                            <option value="212">Department of Punjabi</option>
+                            <option value="213">Department of Sanskrit</option>
+                            <option value="115">Department of Social Sciences</option>
+                            <option value="233">Department of Social Work</option>
+                            <option value="230">Department of Sociology</option>
+                            <option value="237">Department of Statistics</option>
+                            <option value="214">Department of Urdu</option>
+                            <option value="223">Department of Zoology</option>
+                            <option value="019">Deshbandhu College (Day)</option>
+                            <option value="318">Dr. Ambedkar Center for Biomedical Research</option>
+                            <option value="334">Dr. B.R. Ambedkar (Teaching Centre)</option>
+                            <option value="010">Dr. Bhim Rao Ambedkar College</option>
+                            <option value="314">Durgabai Deshmukh College of Special Education (V.I.)</option>
+                            <option value="021">Dyal Singh College (Day)</option>
+                            <option value="022">Dyal Singh College (Eve)</option>
+                            <option value="109">Faculty of Management Studies</option>
+                            <option value="024">Gargi College</option>
+                            <option value="025">Hans Raj College</option>
+                            <option value="331">Hans Raj College - Teaching Centre</option>
+                            <option value="026">Hindu College</option>
+                            <option value="029">I.P.College For Women</option>
+                            <option value="028">Indira Gandhi Institute of Phy. Edu. & Sports Sciences</option>
+                            <option value="317">Institute of Cyber Security and Law (I.C.S.L.)</option>
+                            <option value="030">Institute Of Home Economics</option>
+                            <option value="031">Janki Devi Memorial College</option>
+                            <option value="322">Janki Devi Memorial College - Teaching Centre</option>
+                            <option value="032">Jesus & Mary College</option>
+                            <option value="326">Jesus & Mary College - Teaching Centre</option>
+                            <option value="306">Jubilee Hall</option>
+                            <option value="033">Kalindi College</option>
+                            <option value="323">Kalindi College - Teaching Centre</option>
+                            <option value="034">Kamla Nehru College</option>
+                            <option value="337">Keshav Mahavidlaya (Teaching Centre)</option>
+                            <option value="035">Keshav Mahavidyalaya</option>
+                            <option value="036">Kirori Mal College</option>
+                            <option value="038">Lady Irwin College</option>
+                            <option value="039">Lady Shri Ram College for Women</option>
+                            <option value="040">Lakshmibai College</option>
+                            <option value="328">Lakshmibai College - Teaching Centre</option>
+                            <option value="310">LAW CENTRE-I</option>
+                            <option value="311">LAW CENTRE-II</option>
+                            <option value="041">Maharaja Agrasen College</option>
+                            <option value="320">Maharaja Agrasen College - Teaching Centre</option>
+                            <option value="315">Maharshi Valmiki College of Education</option>
+                            <option value="043">Maitreyi College</option>
+                            <option value="327">Maitreyi College - Teaching Centre</option>
+                            <option value="044">Mata Sundri College For Women</option>
+                            <option value="321">Mata Sundri College For Women - Teaching Centre</option>
+                            <option value="047">Miranda House</option>
+                            <option value="338">Miranda House (Teaching Centre)</option>
+                            <option value="048">Moti Lal Nehru College (Day)</option>
+                            <option value="049">Moti Lal Nehru College (Eve)</option>
+                            <option value="339">Moti Lal Nehru College (Teaching Centre)</option>
+                            <option value="307">Non Collegiate Women Education Board (NCWEB)</option>
+                            <option value="053">P.G.D.A.V. College (Day)</option>
+                            <option value="054">P.G.D.A.V. College (Eve)</option>
+                            <option value="329">P.G.D.A.V. College - Teaching Centre</option>
+                            <option value="055">Rajdhani College</option>
+                            <option value="340">Rajdhani College (Teaching Centre)</option>
+                            <option value="058">Ram Lal Anand College (Day)</option>
+                            <option value="020">Ramanujan College</option>
+                            <option value="341">Ramanujan College (Teaching Centre)</option>
+                            <option value="056">Ramjas College</option>
+                            <option value="068">S.G.T.B. Khalsa College</option>
+                            <option value="062">Satyawati College (Day)</option>
+                            <option value="063">Satyawati College (Eve)</option>
+                            <option value="342">Satyawati College (Teaching Centre)</option>
+                            <option value="SOL">School of Open Learning</option>
+                            <option value="064">Shaheed Bhagat Singh College (Day)</option>
+                            <option value="065">Shaheed Bhagat Singh College (Eve)</option>
+                            <option value="066">Shaheed Rajguru College of Applied Sciences for Women</option>
+                            <option value="067">Shaheed Sukhdev College of Business Studies</option>
+                            <option value="071">Shivaji College</option>
+                            <option value="073">Shyam Lal College (Day)</option>
+                            <option value="074">Shyam Lal College (Eve)</option>
+                            <option value="324">Shyama Prasad Mukherjee College - Teaching Centre</option>
+                            <option value="075">Shyama Prasad Mukherji College for Women</option>
+                            <option value="SOLS">SOL Study Center South</option>
+                            <option value="076">Sri Aurobindo College (Day)</option>
+                            <option value="077">Sri Aurobindo College (Eve)</option>
+                            <option value="343">Sri Aurobindo College (Teaching Centre)</option>
+                            <option value="078">Sri Guru Gobind Singh College Of Commerce</option>
+                            <option value="330">Sri Guru Gobind Singh College Of Commerce - Teaching Centre</option>
+                            <option value="069">Sri Guru Nanak Dev Khalsa College</option>
+                            <option value="072">Sri Ram College Of Commerce</option>
+                            <option value="079">Sri Venkateswara College</option>
+                            <option value="080">St. Stephens College</option>
+                            <option value="081">Swami Shraddhanand College</option>
+                            <option value="100">University of Delhi</option>
+                            <option value="084">Vivekananda College</option>
+                            <option value="319">Vivekananda College - Teaching Centre</option>
+                            <option value="086">Zakir Husain College (Eve)</option>
+                            <option value="085">Zakir Husain Delhi College (Day)</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="course" class="col col-form-label-lg">Course</label>
+                    <div class="col-8">
+                        <select class="form-control form-control-lg" id="course" name="course" placeholder="Choose..." required>
+                            <option value="107">B. VOC. (Software Development) IT/ITes
+                            <option value="522">(CBCS) B.A.(HONS.) MULTI MEDIA AND MASS COMMUNICATION</option>
+                            <option value="528">(CBCS) B.A.(HONS.) PSYCHOLOGY</option>
+                            <option value="535">(CBCS) BACHELOR OF BUSINESS ADMINISTRATION</option>
+                            <option value="601">FIVE YEAR INTEGRATED PROGRAM IN JOURNALISM</option>
+                            <option value="591">(CBCS) B.SC.(PASS) HOME SCIENCE</option>
+                            <option value="561">(CBCS) B.SC.(HONS.) HOME SCIENCE</option>
+                            <option value="520">(CBCS) B.A.(HONS.) JOURNALISM</option>
+                            <option value="507">(CBCS) B.A.(HONS.) BENGALI</option>
+                            <option value="510">(CBCS) B.A.(HONS.) ECONOMICS</option>
+                            <option value="527">(CBCS) B.A.(HONS.) POLITICAL SCIENCE</option>
+                            <option value="567">(CBCS) B.SC.(HONS.) PHYSICS</option>
+                            <option value="583">(CBCS) B.SC. LIFE SCIENCE</option>
+                            <option value="584">(CBCS) B.SC. INDUSTRIAL CHEMISTRY</option>
+                            <option value="551">(CBCS) B.SC.(HONS.) ANTHROPOLOGY</option>
+                            <option value="516">(CBCS) B.A.(HONS.) HINDI</option>
+                            <option value="562">(CBCS) B.SC.(HONS.) INSTRUMENTATION</option>
+                            <option value="518">(CBCS) B.A.(HONS.) HISTORY</option>
+                            <option value="587">(CBCS)-B.SC. (MATHEMATICAL SCIENCES)</option>
+                            <option value="106">B. VOC. (BANKING & FINANCE) : Banking, Financial Services & Insurance (BFSI) Sector</option>
+                            <option value="505">(CBCS) B.A.(HONS.) APPLIED PSYCHOLOGY</option>
+                            <option value="506">(CBCS) B.A.(HONS.) ARABIC</option>
+                            <option value="102">B.(VOC) Retail Management and IT</option>
+                            <option value="568">(CBCS) B.SC.(HONS.) STATISTICS</option>
+                            <option value="554">(CBCS) B.SC.(HONS.) BIOMEDICAL SCIENCES</option>
+                            <option value="571">(CBCS) B.A.(VOC) HUMAN RESOURCE MANAGEMENT</option>
+                            <option value="532">(CBCS) B.A.(HONS.) SOCIAL WORK</option>
+                            <option value="513">(CBCS) B.A.(HONS.) GEOGRAPHY</option>
+                            <option value="556">(CBCS) B.SC.(HONS.) BOTANY</option>
+                            <option value="575">(CBCS) B.A.(VOC) OFFICE MANAGEMENT & SECRETARIAL PRACTICE</option>
+                            <option value="588">(CBCS) B.A.(HONS.) HINDI JOURNALISM & MASS COMMUNICATION</option>
+                            <option value="526">(CBCS) B.A.(HONS.) PHILOSOPHY</option>
+                            <option value="577">(CBCS) B.A.(VOC) TOURISM MANAGEMENT</option>
+                            <option value="569">(CBCS) B.SC.(HONS.) ZOOLOGY</option>
+                            <option value="533">(CBCS) B.A.(HONS.) URDU</option>
+                            <option value="572">(CBCS) B.A.(VOC) MANAGEMENT AND MARKETING OF INSURANCE</option>
+                            <option value="585">(CBCS) B.SC. ANALYTICAL CHEMISTRY</option>
+                            <option value="101">Advanced Diploma in TV Programmes and News Production</option>
+                            <option value="508">(CBCS) B.A.(HONS.) BUSINESS ECONOMICS</option>
+                            <option value="524">(CBCS) B.A.(HONS.) PUNJABI</option>
+                            <option value="592">(CBCS) B.A.(HONS.) PERCUSSION MUSIC</option>
+                            <option value="503">(CBCS) B.COM (PROG.)</option>
+                            <option value="512">(CBCS) B.A.(HONS.) FRENCH</option>
+                            <option value="530">(CBCS) B.A.(HONS.) SOCIOLOGY</option>
+                            <option value="563">(CBCS) B.SC.(HONS.) MATHEMATICS</option>
+                            <option value="514">(CBCS) B.A.(HONS.) GERMAN</option>
+                            <option value="570" selected>(CBCS) B.SC.(HONS.) COMPUTER SCIENCE</option>
+                            <option value="586">(CBCS) B.SC. APPLIED LIFE SCIENCES WITH AGRO-CHEMICALS AND PEST MANAGEMENT</option>
+                            <option value="529">(CBCS) B.A.(HONS.) SANSKRIT</option>
+                            <option value="582">(CBCS) B.SC. PHYSICAL SCIENCE</option>
+                            <option value="519">(CBCS) B.A.(HONS.) ITALIAN</option>
+                            <option value="523">(CBCS) B.A.(HONS.) HINDUSTANI MUSIC (VOCAL/INSTRUMENTAL)</option>
+                            <option value="553">(CBCS) B.SC.(HONS.) BIOCHEMISTRY</option>
+                            <option value="560">(CBCS) B.SC.(HONS.) GEOLOGY</option>
+                            <option value="104">B.(VOC) Printing Technology</option>
+                            <option value="595">(CBCS) B.P.ED. TWO YEAR PROGRAMME</option>
+                            <option value="544">(CBCS) B.A.(HONS.) KARNATAK MUSIC</option>
+                            <option value="573">(CBCS) B.A.(VOC) MARKETING MANAGEMENT AND RETAIL BUSINESS</option>
+                            <option value="558">(CBCS) B.SC.(HONS.) ELECTRONIC SCIENCE</option>
+                            <option value="103">B.(VOC) Health Care  Management</option>
+                            <option value="501">(CBCS) B.A.(PROG)</option>
+                            <option value="564">(CBCS) B.SC.(HONS.) MICROBIOLOGY</option>
+                            <option value="511">(CBCS) B.A.(HONS.) ENGLISH</option>
+                            <option value="559">(CBCS) B.SC.(HONS.) FOOD TECHNOLOGY</option>
+                            <option value="574">(CBCS) B.A.(VOC) MATERIALS MANAGEMENT</option>
+                            <option value="525">(CBCS) B.A.(HONS.) PERSIAN</option>
+                            <option value="590">(CBCS) BACHELOR OF MANAGEMENT STUDIES</option>
+                            <option value="555">(CBCS) B.SC.(HONS.) BIOLOGICAL SCIENCE</option>
+                            <option value="566">(CBCS) B.SC.(HONS.) POLYMER SCIENCE</option>
+                            <option value="914">(CBCS) (C.I.C) - B.A. HONOURS (HUMANITIES & SOCIAL SCIENCES)</option>
+                            <option value="589">(CBCS) B.Sc. (PHYSICAL EDUCATION, HEALTH EDUCATION & SPORTS)</option>
+                            <option value="105">B.(VOC) Web Designing</option>
+                            <option value="504">(CBCS) B.COM (HONS.)</option>
+                            <option value="531">(CBCS) B.A.(HONS.) SPANISH</option>
+                            <option value="557">(CBCS) B.SC.(HONS.) CHEMISTRY</option>
+                            <option value="576">(CBCS) B.A.(VOC) SMALL AND MEDIUM ENTERPRISES</option>
+                            
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="type" class="col col-form-label-lg">Type</label>
+                    <div class="col-8">
+                        <select class="form-control form-control-lg" id="type" name="type" required>
+                            <option value="Marks">Marks</option>
+                            <option value="CGPA">CGPA</option>                        
+                        </select>
+                    </div>
+                </div>
+                <button type="submit" class="btn-lg btn-primary">Continue <span class="fas fa-arrow-alt-circle-right"></span></button>
+            </form>
         </div>
-
     </body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
     <script>
         $("#welcome").click(function() {
-            $("#welcome").slideUp(1000);
-            $("#second").show();
-        });
-        $("a").click(function(e){
-            sessionStorage.setItem("mode", this.text);
+            $("#welcome").slideUp(100);
+            $("#formContainer").show();
         });
     </script>
 </html>
