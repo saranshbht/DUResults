@@ -9,16 +9,17 @@
         <script defer src="fontawesome/js/all.js"></script>
         <link href="fontawesome/css/all.css" rel="stylesheet">
     </head>
-    <body>
-        <div id="welcome" class="container-fluid bg-dark">
+    <body >
+        <div id="welcome" class="bg-dark">
             <h1>DU Results</h1>
-            <span class="bounce fas fa-angle-double-down" style="color:white; display:block; text-align:center;"></span>
+            <span class="bounce fas fa-angle-double-down"></span>
         </div>
-        <div id="formContainer" class="container-fluid" style="display:none">
+        <div id="container">
+        <div id="formContainer" style="display:none">
             <form action="result.html" method="get" class="text-center">
                 <div class="form-group row">
-                    <label for="mode" class="col col-form-label-lg">Mode</label>
-                    <div class="col-8">
+                    <label for="mode" class="col col-form-label-lg col-6">Mode</label>
+                    <div class="col-6">
                         <select class="form-control form-control-lg" id="mode" name="mode" required>
                             <option value="Semester">Semester</option>
                             <option value="Subject">Subject</option>
@@ -26,8 +27,8 @@
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="admissionsOf" class="col col-form-label-lg">Admissions Of</label>
-                    <div class="col-8">
+                    <label for="admissionsOf" class="col col-form-label-lg col-6">Admissions Of</label>
+                    <div class="col-6">
                         <select class="form-control form-control-lg" id="admissionsOf" name="admissionsOf" required>
                             <option value="16">2016</option>
                             <option value="17" selected>2017</option>
@@ -37,8 +38,8 @@
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="college" class="col col-form-label-lg">College</label>
-                    <div class="col-8">
+                    <label for="college" class="col col-form-label-lg col-6">College</label>
+                    <div class="col-6">
                         <select class="form-control form-control-lg" id="college" name="college" required>
                             <option value="001">Acharya Narendra Dev College</option>
                             <option value="332">Aditi Mahavidhlaya (Teaching Centre)</option>
@@ -203,8 +204,8 @@
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="course" class="col col-form-label-lg">Course</label>
-                    <div class="col-8">
+                    <label for="course" class="col col-form-label-lg col-6">Course</label>
+                    <div class="col-6">
                         <select class="form-control form-control-lg" id="course" name="course" placeholder="Choose..." required>
                             <option value="107">B. VOC. (Software Development) IT/ITes
                             <option value="522">(CBCS) B.A.(HONS.) MULTI MEDIA AND MASS COMMUNICATION</option>
@@ -287,8 +288,8 @@
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="type" class="col col-form-label-lg">Type</label>
-                    <div class="col-8">
+                    <label for="type" class="col col-form-label-lg col-6">Type</label>
+                    <div class="col-6">
                         <select class="form-control form-control-lg" id="type" name="type" required>
                             <option value="Marks">Marks</option>
                             <option value="CGPA">CGPA</option>                        
@@ -298,6 +299,7 @@
                 <button type="submit" class="btn-lg btn-primary">Continue <span class="fas fa-arrow-alt-circle-right"></span></button>
             </form>
         </div>
+    </div>
     </body>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>

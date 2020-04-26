@@ -1,19 +1,18 @@
 html, body{
     height: 100%;
-    width: 100%;
-    position: relative;
 }
+
 #welcome {
     background-image: url('images/graduation.jpg');
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
     height: 100%;
-    margin: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    overflow: auto;
 }
 
 h1 {
@@ -22,26 +21,6 @@ h1 {
     text-align: center;
     transform: translate(0%, 20%);
 }
-
-/* #second a {
-    height: 50%;
-    width: 100%;
-    font-family: "Trebuchet MS", Helvetica, sans-serif;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-a:hover {
-    font-style: italic;
-    font-size: 1.1em;
-    color: red;
-    text-decoration: underline black wavy; 
-} */
-/* form {
-    text-align: center;
-} */
 
 select {
     text-transform: uppercase;
@@ -52,6 +31,7 @@ th, tr td:first-child {
     color: white;
     white-space: normal;
 }
+
 th, td{
     border: 2px solid black;
     margin: 0;
@@ -64,56 +44,21 @@ th, td{
 td {
     white-space: nowrap;
 }
-/* #table > tbody > tr:first-child > td:first-child {
-    position: 
-} */
-/* .bootstrap-table .fixed-table-container .table thead th .th-inner {
-    white-space: normal;
-} */
 
 #table tr:nth-child(odd){
     background-color: #aaaaaa;
 }
 
-.dataTables_wrapper {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    /* justify-content: center;
-    align-items: center; */
-    margin: auto;
-    position: relative;
-}
-
-.DTFC_ScrollWrapper {
-    width: 100%;
-}
-
-.dataTables_scrollHead {
-    width: 97%;
-}
-/* th {
-    position: sticky !important;
-    top: 0;
-} */
-
-/* .h {
-    left: 0px;
-    position: sticky;
-    z-index: 100;
-    background-color: #343a40;
-    color: #fff;
-    /* border: 2px solid black; 
-} */
 .bounce {
-    /* transform: translate(-20%, -20%); */
     font-size: 15vw;
     position: absolute;
     bottom: 0;
     -moz-animation: bounce 2s infinite;
     -webkit-animation: bounce 2s infinite;
     animation: bounce 2s infinite;
+    color:white; 
+    display:block; 
+    text-align:center;
 }
   
 @keyframes bounce {
@@ -132,25 +77,29 @@ input {
     border-radius: 5px;
 }
 
-#formContainer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
+#container {
     width: 80%;
-}
-#tableContainer {
     height: 100%;
-    /* width: 90%; */
-    /* align-items: center; */
-    display: flex;
-    /* flex: wrap; */
-    flex-direction: column;
+    display: table;
     margin: auto;
-    /* justify-content: center; */
-    position: relative;
-    /* align-items: stretch; */
-} 
+}
+#formContainer, #addCollegeRow {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* .dataTables_wrapper {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}  */
+
+/* #table_filter, .dt-buttons, #table {
+    display: table-row;
+    text-align: center;
+    vertical-align: middle;
+} */
 
 #formContainer label {
     border-radius: 10px;
@@ -158,13 +107,11 @@ input {
 }
 
 .max {
-    color: blue
+    color:green;
+    font-weight: bold;
   }
   
-  .min {
-    color: red
-  }
-    /* .dataTables_scroll
-{
-    overflow:auto;
-} */
+.min {
+    color: red;
+    font-weight: bold;
+}
