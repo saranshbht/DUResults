@@ -54,6 +54,48 @@ var obj = new URL(location.href).searchParams;
 var path = obj.get("type") + "/" + obj.get("mode") + "/" + obj.get("admissionsOf") + "/" + obj.get("course") + "/";
 var file =  path + obj.get("college") + ".csv";
 var baseUrl = "https://raw.githubusercontent.com/saranshbht/Project/master/";
+
+Papa.parse(baseUrl + 'codes/collegeCodes.csv', {
+    download: true,
+    complete: function(results) {
+        var list = $("#college");
+        results.data.shift();
+        $.each(results.data, function(index, item) {
+            list.append(new Option(item[1], item[0]));
+        });
+        $("#college option[value='015']").prop('selected', true);
+        // console.log(results.data);
+    },
+    error: function(err, file){ 
+        // $("#noRecord").modal('show');
+        // $('#noRecord').on('hidden.bs.modal', function() {
+        //     history.back();
+        // });
+        console.log("can't load file");
+    }
+});
+
+Papa.parse(baseUrl + 'codes/courseCodes.csv', {
+    download: true,
+    complete: function(results) {
+        var list = $("#course");
+        results.data.shift();
+        $.each(results.data, function(index, item) {
+            list.append(new Option(item[1], item[0]));
+        });
+        $("#course option[value='570']").prop('selected', true);
+        // console.log(results.data);
+    },
+    error: function(err, file){ 
+        // $("#noRecord").modal('show');
+        // $('#noRecord').on('hidden.bs.modal', function() {
+        //     history.back();
+        // });
+        console.log("can't load file");
+    }
+});
+
+
 Papa.parse(baseUrl + file, {
     download: true,
     complete: function(results) {
