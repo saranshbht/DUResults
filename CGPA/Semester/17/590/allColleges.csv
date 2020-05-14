@@ -12,8 +12,8 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17067590016,YASH TIWARI,Shaheed Sukhdev College of Business Studies,8.45,9.27,8.5,9.43,9.25,8.98
 17067590022,SATVIEK GOEL,Shaheed Sukhdev College of Business Studies,8.27,9.55,8.79,9.0,9.25,8.972000000000001
 17067590008,ARYAN MAHESHWARI,Shaheed Sukhdev College of Business Studies,9.18,9.0,8.86,8.79,9.0,8.966000000000001
-17067590159,VANSHICA SAHNI,Shaheed Sukhdev College of Business Studies,8.18,9.45,9.36,9.21,8.5,8.940000000000003
 17067590149,SUMONA NAG,Shaheed Sukhdev College of Business Studies,9.0,9.45,8.5,9.0,8.75,8.940000000000003
+17067590159,VANSHICA SAHNI,Shaheed Sukhdev College of Business Studies,8.18,9.45,9.36,9.21,8.5,8.940000000000003
 17067590109,GARIMA ARORA,Shaheed Sukhdev College of Business Studies,9.27,9.27,8.36,8.79,9.0,8.937999999999997
 17067590114,DEVESH MITTAL,Shaheed Sukhdev College of Business Studies,8.27,9.27,8.79,9.21,9.0,8.908
 17015590041,SARTHAK DUA,Deen Dayal Upadhyaya College,9.18,8.73,8.79,8.79,9.0,8.898
@@ -75,8 +75,8 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17067590014,RITIKA GOYAL,Shaheed Sukhdev College of Business Studies,8.55,9.0,7.93,7.79,8.5,8.354000000000001
 17015590031,PARAS ARORA,Deen Dayal Upadhyaya College,8.64,8.27,7.93,9.14,7.75,8.346
 17078590010,DEEKSHA SHARMA,Sri Guru Gobind Singh College Of Commerce,8.45,8.36,7.93,8.71,8.25,8.34
-17015590023,ISHANI VIJAY,Deen Dayal Upadhyaya College,8.64,8.55,8.36,8.14,8.0,8.338
 17067590011,AASHITA GOEL,Shaheed Sukhdev College of Business Studies,8.45,9.27,7.93,7.79,8.25,8.338
+17015590023,ISHANI VIJAY,Deen Dayal Upadhyaya College,8.64,8.55,8.36,8.14,8.0,8.338
 17067590055,SIDDHANT CHANDRA,Shaheed Sukhdev College of Business Studies,8.36,8.36,8.57,8.14,8.25,8.336
 17035590047,YASH CHAUDHARY,Keshav Mahavidyalaya,7.91,8.0,8.93,8.07,8.75,8.331999999999999
 17020590024,PRANAV GUPTA,Ramanujan College,8.45,8.55,8.0,7.64,9.0,8.328
@@ -86,8 +86,8 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17067590062,SONAL GUPTA,Shaheed Sukhdev College of Business Studies,8.0,8.45,8.36,8.0,8.75,8.312000000000001
 17066590030,PRIYAL JINDAL,Shaheed Rajguru College of Applied Sciences for Women,7.91,8.18,8.29,8.43,8.75,8.312000000000001
 17067590156,SAMVIT BORDIA,Shaheed Sukhdev College of Business Studies,8.73,8.73,7.57,8.0,8.5,8.306000000000001
-17067590112,MUSKAN JAIN,Shaheed Sukhdev College of Business Studies,8.45,9.0,8.14,7.43,8.5,8.303999999999998
 17015590017,DHRUV JAIN,Deen Dayal Upadhyaya College,8.45,8.82,8.0,8.5,7.75,8.303999999999998
+17067590112,MUSKAN JAIN,Shaheed Sukhdev College of Business Studies,8.45,9.0,8.14,7.43,8.5,8.303999999999998
 17067590150,BHAVESH GUPTA,Shaheed Sukhdev College of Business Studies,8.45,8.55,8.36,8.14,8.0,8.3
 17015590022,HIMANSHI BATRA,Deen Dayal Upadhyaya College,8.64,8.55,7.93,8.36,8.0,8.296000000000001
 17067590113,PRACHI SINGH,Shaheed Sukhdev College of Business Studies,8.18,9.0,8.57,8.43,7.25,8.286
@@ -105,8 +105,8 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17067590137,UDAY SHARMA,Shaheed Sukhdev College of Business Studies,8.0,8.64,8.14,8.86,7.25,8.177999999999999
 17067590126,GUNEET KAUR,Shaheed Sukhdev College of Business Studies,7.73,8.45,7.93,9.0,7.75,8.172
 17067590191,SAURABH SAHU,Shaheed Sukhdev College of Business Studies,7.55,8.64,8.43,7.93,8.25,8.16
-17067590179,MANAS MALIK,Shaheed Sukhdev College of Business Studies,7.45,8.73,8.36,8.43,7.75,8.144
 17020590001,AANCHAL KATYAL,Ramanujan College,8.55,8.0,8.21,7.71,8.25,8.144
+17067590179,MANAS MALIK,Shaheed Sukhdev College of Business Studies,7.45,8.73,8.36,8.43,7.75,8.144
 17015590026,MAULIK THAPAR,Deen Dayal Upadhyaya College,7.91,8.55,8.5,8.0,7.75,8.142000000000001
 17020590014,KANIKA CHADHA,Ramanujan College,8.0,8.09,8.14,7.93,8.5,8.132
 17059590008,TUSHAR AGNIHOTRI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.09,8.18,8.71,8.43,8.25,8.132
@@ -117,10 +117,10 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17067590138,RITESH BHARTI,Shaheed Sukhdev College of Business Studies,8.18,8.55,7.36,8.36,8.0,8.09
 17067590060,RAGHAV AGGARWAL,Shaheed Sukhdev College of Business Studies,7.73,8.18,8.36,7.93,8.25,8.09
 17020590039,VISHRUTI GUPTA,Ramanujan College,7.27,7.45,9.0,8.71,8.0,8.086
-17067590056,KUNAAL GUPTA,Shaheed Sukhdev College of Business Studies,8.0,7.64,8.64,8.64,7.5,8.084
 17067590003,ANANYA BANSAL,Shaheed Sukhdev College of Business Studies,6.91,8.73,8.07,8.71,8.0,8.084
-17035590048,YASH VERMA,Keshav Mahavidyalaya,7.36,8.0,8.5,8.29,8.25,8.08
+17067590056,KUNAAL GUPTA,Shaheed Sukhdev College of Business Studies,8.0,7.64,8.64,8.64,7.5,8.084
 17059590003,DHRUV REKHI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,7.91,8.36,8.43,8.25,8.08
+17035590048,YASH VERMA,Keshav Mahavidyalaya,7.36,8.0,8.5,8.29,8.25,8.08
 17020590016,KAVYA KAUSHIK,Ramanujan College,7.64,8.0,8.21,7.5,9.0,8.07
 17078590013,GURKIRAT SINGH KALRA,Sri Guru Gobind Singh College Of Commerce,7.45,8.27,7.93,8.14,8.5,8.058
 17078590016,GURSIMRAN KAUR PAIK,Sri Guru Gobind Singh College Of Commerce,7.45,7.91,8.29,7.86,8.75,8.052
@@ -133,31 +133,31 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17066590006,BHAWINI BHARDWAJ,Shaheed Rajguru College of Applied Sciences for Women,7.91,7.55,8.14,8.21,8.25,8.012
 17035590045,VIVEK PATHAK,Keshav Mahavidyalaya,7.64,8.27,8.36,8.5,7.25,8.004
 17078590049,VINEET BHASIN,Sri Guru Gobind Singh College Of Commerce,8.27,8.36,7.71,8.07,7.5,7.981999999999998
-17078590005,AMRITA SINGH,Sri Guru Gobind Singh College Of Commerce,7.91,7.91,8.29,8.29,7.5,7.979999999999999
 17067590079,UPSHANT SAINI,Shaheed Sukhdev College of Business Studies,8.45,7.91,7.79,7.5,8.25,7.979999999999999
-17067590054,KANISSHK MAGGO,Shaheed Sukhdev College of Business Studies,6.91,8.64,7.93,7.64,8.75,7.974000000000001
+17078590005,AMRITA SINGH,Sri Guru Gobind Singh College Of Commerce,7.91,7.91,8.29,8.29,7.5,7.979999999999999
 17067590078,AASHIMA CHOPRA,Shaheed Sukhdev College of Business Studies,8.0,7.91,8.21,8.0,7.75,7.974000000000001
-17035590019,HIMANI GUPTA,Keshav Mahavidyalaya,6.64,7.45,8.57,8.71,8.5,7.974000000000001
 17020590010,GUPIL KOCHAR,Ramanujan College,8.0,8.55,8.0,7.07,8.25,7.974000000000001
+17035590019,HIMANI GUPTA,Keshav Mahavidyalaya,6.64,7.45,8.57,8.71,8.5,7.974000000000001
+17067590054,KANISSHK MAGGO,Shaheed Sukhdev College of Business Studies,6.91,8.64,7.93,7.64,8.75,7.974000000000001
 17015590048,SANCHIT JINDAL,Deen Dayal Upadhyaya College,8.36,8.55,6.21,8.21,8.5,7.965999999999998
 17067590136,ARCHIT JINDAL,Shaheed Sukhdev College of Business Studies,7.45,8.73,7.93,8.21,7.5,7.9639999999999995
 17067590120,VIDUSHI VERMA,Shaheed Sukhdev College of Business Studies,7.73,8.09,7.79,8.43,7.75,7.957999999999999
-17015590035,PRASHANT SINGH,Deen Dayal Upadhyaya College,7.82,7.82,7.93,8.21,8.0,7.956
 17067590171,SANJAY TOLANI,Shaheed Sukhdev College of Business Studies,7.73,8.73,8.21,7.36,7.75,7.956
+17015590035,PRASHANT SINGH,Deen Dayal Upadhyaya College,7.82,7.82,7.93,8.21,8.0,7.956
 17015590006,AKSHUL AGARWAL,Deen Dayal Upadhyaya College,8.18,8.64,8.0,7.64,7.25,7.942
 17058590039,MOHIT GOEL,Ram Lal Anand College (Day),8.18,8.27,8.0,8.0,7.25,7.94
 17078590022,JAPTEGH SINGH BAJAJ,Sri Guru Gobind Singh College Of Commerce,8.45,8.73,7.5,7.0,8.0,7.936
-17020590037,VAIBHAV KUMAR,Ramanujan College,7.73,7.73,7.57,7.86,8.75,7.928
 17015590033,PORUSH PURI,Deen Dayal Upadhyaya College,7.91,8.09,8.21,7.93,7.5,7.928
+17020590037,VAIBHAV KUMAR,Ramanujan College,7.73,7.73,7.57,7.86,8.75,7.928
 17015590025,KRITANK AHUJA,Deen Dayal Upadhyaya College,8.18,8.55,8.07,7.57,7.25,7.924000000000001
 17067590193,PRANSHU CHATURVEDI,Shaheed Sukhdev College of Business Studies,7.73,7.82,8.14,8.14,7.75,7.915999999999999
 17035590020,KIRTI GOEL,Keshav Mahavidyalaya,7.64,8.45,7.21,8.5,7.75,7.909999999999998
 17078590033,PRANKUSH BANSAL,Sri Guru Gobind Singh College Of Commerce,8.09,7.82,8.0,6.64,9.0,7.909999999999998
 17035590042,VANSHIKA GOSWAMI,Keshav Mahavidyalaya,8.36,8.0,8.57,7.86,6.75,7.907999999999999
 17059590031,ANEESH PANDEY,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.64,8.36,7.93,7.43,7.0,7.872000000000001
-17035590030,SAHIL MEHTA,Keshav Mahavidyalaya,7.64,8.0,7.79,7.64,8.25,7.864
 17078590001,ABHISHEK PAHWA,Sri Guru Gobind Singh College Of Commerce,7.91,8.27,8.14,7.5,7.5,7.864
 17015590004,ADITYA JANGRA,Deen Dayal Upadhyaya College,7.91,8.27,6.71,8.93,7.5,7.864
+17035590030,SAHIL MEHTA,Keshav Mahavidyalaya,7.64,8.0,7.79,7.64,8.25,7.864
 17067590058,SHIKHAR SACHDEV,Shaheed Sukhdev College of Business Studies,7.55,8.18,8.0,7.57,8.0,7.8599999999999985
 17015590003,ADITI JAIN,Deen Dayal Upadhyaya College,8.36,7.73,7.71,7.64,7.75,7.837999999999999
 17078590015,GURNEET SINGH ARORA,Sri Guru Gobind Singh College Of Commerce,7.18,8.18,7.93,8.07,7.75,7.822
@@ -173,8 +173,8 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17015590010,ANSIT KAUSHAL,Deen Dayal Upadhyaya College,7.82,8.82,7.21,7.71,7.25,7.762
 17020590028,ROHAN ARORA,Ramanujan College,7.55,8.45,7.57,7.71,7.5,7.756
 17066590004,APOORVA SAIGAL,Shaheed Rajguru College of Applied Sciences for Women,7.36,8.0,7.5,8.14,7.75,7.75
-17067590160,GUL PASSI,Shaheed Sukhdev College of Business Studies,7.18,8.0,7.71,8.36,7.5,7.75
 17078590044,SUPREET KAUR,Sri Guru Gobind Singh College Of Commerce,7.55,8.45,8.14,7.36,7.25,7.75
+17067590160,GUL PASSI,Shaheed Sukhdev College of Business Studies,7.18,8.0,7.71,8.36,7.5,7.75
 17078590017,HARSHIT SINGH OBEROI,Sri Guru Gobind Singh College Of Commerce,8.0,7.64,7.71,7.64,7.75,7.747999999999999
 17067590090,ANISH NARANG,Shaheed Sukhdev College of Business Studies,8.18,7.91,7.36,7.71,7.5,7.731999999999998
 17020590005,ANSHUL,Ramanujan College,8.0,8.0,7.64,7.5,7.5,7.728
@@ -185,12 +185,12 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17066590017,JAGRITI,Shaheed Rajguru College of Applied Sciences for Women,6.27,7.64,8.5,7.5,8.5,7.681999999999999
 17067590002,KSHITIJ SHISHODIA,Shaheed Sukhdev College of Business Studies,7.73,6.91,8.5,8.0,7.25,7.678
 17067590041,ARUSHI GUPTA,Shaheed Sukhdev College of Business Studies,6.45,8.18,7.93,7.57,8.25,7.675999999999998
-17066590019,KANIKA SAINI,Shaheed Rajguru College of Applied Sciences for Women,6.82,8.09,7.86,7.5,8.0,7.653999999999999
 17078590036,SAHEJPREET SINGH DHINGRA,Sri Guru Gobind Singh College Of Commerce,7.09,7.36,8.43,7.14,8.25,7.653999999999999
+17066590019,KANIKA SAINI,Shaheed Rajguru College of Applied Sciences for Women,6.82,8.09,7.86,7.5,8.0,7.653999999999999
 17078590024,JYOTBIR LAMBA,Sri Guru Gobind Singh College Of Commerce,7.09,7.82,7.5,8.07,7.75,7.646000000000001
 17015590024,JAGRIT SETHI,Deen Dayal Upadhyaya College,7.91,8.0,7.79,7.5,7.0,7.6400000000000015
-17067590130,ANJALIDEEP,Shaheed Sukhdev College of Business Studies,6.73,7.64,7.93,8.14,7.75,7.638
 17078590043,SUKRITI BATRA,Sri Guru Gobind Singh College Of Commerce,7.27,7.45,7.93,8.29,7.25,7.638
+17067590130,ANJALIDEEP,Shaheed Sukhdev College of Business Studies,6.73,7.64,7.93,8.14,7.75,7.638
 17067590073,UTKARSH CHAUDHARY,Shaheed Sukhdev College of Business Studies,7.45,7.36,8.36,8.0,7.0,7.6339999999999995
 17067590009,ABHISHEK JAIN,Shaheed Sukhdev College of Business Studies,7.91,7.64,7.93,7.43,7.25,7.632000000000001
 17058590044,ARUN KUMAR,Ram Lal Anand College (Day),7.18,7.18,7.79,8.0,8.0,7.63
@@ -198,11 +198,11 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17058590036,TANVI INDORKAR,Ram Lal Anand College (Day),7.45,8.18,6.93,7.79,7.75,7.619999999999999
 17035590038,SIDHAV GUPTA,Keshav Mahavidyalaya,7.82,7.18,8.29,7.0,7.75,7.608
 17067590072,MEGHA,Shaheed Sukhdev College of Business Studies,7.18,8.18,7.71,7.71,7.25,7.606
+17058590009,PAWAN KUMAR KUSHWAHA,Ram Lal Anand College (Day),7.18,8.09,7.79,7.21,7.75,7.603999999999999
 17067590067,AMAN GUPTA,Shaheed Sukhdev College of Business Studies,7.18,7.73,8.0,7.36,7.75,7.603999999999999
 17066590011,DIYA DHANIK,Shaheed Rajguru College of Applied Sciences for Women,7.36,8.45,7.71,7.5,7.0,7.603999999999999
-17058590009,PAWAN KUMAR KUSHWAHA,Ram Lal Anand College (Day),7.18,8.09,7.79,7.21,7.75,7.603999999999999
-17020590029,SACHIN GURJAR,Ramanujan College,7.64,8.0,7.07,7.29,8.0,7.6
 17066590045,ANAMIKA MAHATO,Shaheed Rajguru College of Applied Sciences for Women,7.09,8.27,7.07,7.57,8.0,7.6
+17020590029,SACHIN GURJAR,Ramanujan College,7.64,8.0,7.07,7.29,8.0,7.6
 17058590031,MEGHA SAWHNEY,Ram Lal Anand College (Day),6.91,8.0,7.64,7.43,8.0,7.596000000000001
 17059590030,PRIYANSHAA OHRI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],9.0,8.0,7.71,7.0,6.25,7.592
 17066590025,PARIDHI MEHRA,Shaheed Rajguru College of Applied Sciences for Women,6.91,7.18,8.07,7.79,8.0,7.590000000000002
@@ -211,15 +211,15 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17067590187,TUSHAR KUMAR,Shaheed Sukhdev College of Business Studies,6.36,8.27,7.5,7.79,8.0,7.584
 17078590007,ANIKA JINDAL,Sri Guru Gobind Singh College Of Commerce,7.18,7.82,7.71,7.43,7.75,7.577999999999999
 17059590013,AAINA NANDWANI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.0,8.0,7.57,7.79,7.5,7.572
-17059590045,SUNIL KUMAR YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,8.0,7.5,7.86,7.0,7.562
 17067590134,HARSHIT TANWAR,Shaheed Sukhdev College of Business Studies,7.27,8.18,7.29,7.57,7.5,7.562
+17059590045,SUNIL KUMAR YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,8.0,7.5,7.86,7.0,7.562
 17078590027,MANSIMRAN KAUR,Sri Guru Gobind Singh College Of Commerce,6.73,8.18,7.71,7.64,7.5,7.552000000000001
 17015590021,HARSHITA VERMA,Deen Dayal Upadhyaya College,7.36,8.27,7.14,7.21,7.75,7.546000000000001
 17067590081,PRANAV BASRA,Shaheed Sukhdev College of Business Studies,7.27,7.64,7.57,6.5,8.75,7.546000000000001
 17067590166,SHIVAM GULATI,Shaheed Sukhdev College of Business Studies,7.36,8.18,7.93,7.71,6.5,7.5360000000000005
 17035590032,SANCHIT GAMBHIR,Keshav Mahavidyalaya,7.36,7.45,8.5,6.86,7.5,7.534000000000002
-17059590025,GARIMA TOLWANI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,8.55,7.36,7.29,7.0,7.5299999999999985
 17059590026,NAVYA WALIA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.27,8.27,7.0,7.86,7.25,7.5299999999999985
+17059590025,GARIMA TOLWANI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,8.55,7.36,7.29,7.0,7.5299999999999985
 17078590004,AMBIKA AGGARWAL,Sri Guru Gobind Singh College Of Commerce,6.73,7.82,7.57,7.5,8.0,7.524000000000001
 17015590030,PALAK NARULA,Deen Dayal Upadhyaya College,7.18,8.0,7.14,7.29,8.0,7.522
 17067590086,SOHAIB MALIK,Shaheed Sukhdev College of Business Studies,7.73,7.36,7.79,7.43,7.25,7.512
@@ -268,16 +268,16 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17067590124,VISHAL,Shaheed Sukhdev College of Business Studies,6.91,6.91,8.0,7.79,6.0,7.122000000000001
 17020590009,ASHUTOSH RAVI,Ramanujan College,6.91,7.0,6.57,7.07,8.0,7.1099999999999985
 17067590139,AKHIL TANEJA,Shaheed Sukhdev College of Business Studies,7.27,7.45,6.57,7.0,7.25,7.108
-17066590031,PRIYA YADAV,Shaheed Rajguru College of Applied Sciences for Women,6.64,6.64,6.86,7.14,8.25,7.106
 17013590020,HARPAL SINGH RAYAT,College Of Vocational Studies,6.45,7.55,7.07,7.21,7.25,7.106
+17066590031,PRIYA YADAV,Shaheed Rajguru College of Applied Sciences for Women,6.64,6.64,6.86,7.14,8.25,7.106
 17066590016,JASMINE DEVGUN,Shaheed Rajguru College of Applied Sciences for Women,6.27,7.27,6.86,7.36,7.75,7.1019999999999985
 17078590002,AKANKSHA GHILDIYAL,Sri Guru Gobind Singh College Of Commerce,6.91,7.55,6.86,6.93,7.25,7.1
 17058590026,RISHABH SABHARWAL,Ram Lal Anand College (Day),6.73,8.55,6.79,7.43,6.0,7.1
 17078590019,JAIPREET SINGH BAKSHI,Sri Guru Gobind Singh College Of Commerce,6.91,6.91,7.36,7.29,7.0,7.0939999999999985
-17067590195,SHARUKH ALAM,Shaheed Sukhdev College of Business Studies,6.36,8.55,7.0,8.21,5.25,7.074000000000002
 17067590027,AJAY KUMAR JANGID,Shaheed Sukhdev College of Business Studies,6.45,8.0,7.21,7.21,6.5,7.074000000000002
-17067590075,VIGYAN LUTHRA,Shaheed Sukhdev College of Business Studies,6.27,7.73,7.36,7.0,7.0,7.072
+17067590195,SHARUKH ALAM,Shaheed Sukhdev College of Business Studies,6.36,8.55,7.0,8.21,5.25,7.074000000000002
 17067590069,ASHWANI KUMAR,Shaheed Sukhdev College of Business Studies,6.82,7.18,7.36,6.5,7.5,7.072
+17067590075,VIGYAN LUTHRA,Shaheed Sukhdev College of Business Studies,6.27,7.73,7.36,7.0,7.0,7.072
 17059590046,AMERENDRA KUMAR THAKUR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.27,7.18,7.0,7.14,6.75,7.0680000000000005
 17067590030,YASHRAJ YADAV,Shaheed Sukhdev College of Business Studies,7.0,7.91,7.29,7.14,6.0,7.0680000000000005
 17066590014,GARIMA MEHTA,Shaheed Rajguru College of Applied Sciences for Women,6.36,7.82,7.07,6.79,7.25,7.058
@@ -299,14 +299,14 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17078590009,AVNEET S CHANANA,Sri Guru Gobind Singh College Of Commerce,6.0,6.91,7.36,7.21,7.5,6.996
 17058590021,RAJNISH RAMAN,Ram Lal Anand College (Day),6.27,7.18,8.0,6.5,7.0,6.99
 17015590038,SANNA ARORA,Deen Dayal Upadhyaya College,7.64,7.45,7.21,6.64,6.0,6.988
-17067590053,SHIVANSH TULI,Shaheed Sukhdev College of Business Studies,6.91,7.64,7.5,6.57,6.25,6.974000000000001
 17013590009,ARCHIT CHAWLA,College Of Vocational Studies,6.64,7.27,7.07,6.14,7.75,6.974000000000001
+17067590053,SHIVANSH TULI,Shaheed Sukhdev College of Business Studies,6.91,7.64,7.5,6.57,6.25,6.974000000000001
 17013590049,ANANT TYAGI,College Of Vocational Studies,7.27,6.73,7.14,6.64,7.0,6.956
 17020590040,VIVEK SINGH KUSHWAHA,Ramanujan College,7.45,6.18,7.43,6.71,7.0,6.953999999999999
 17058590035,SOMYA KINRA,Ram Lal Anand College (Day),7.18,7.73,7.14,6.43,6.25,6.9460000000000015
 17067590162,KUSHAGRA YADAV,Shaheed Sukhdev College of Business Studies,6.91,6.55,7.93,7.0,6.25,6.928
-17059590047,ADITYA GARG,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,7.82,7.0,6.86,5.5,6.925999999999998
 17078590037,SAKSHAM CHOWDHRY,Sri Guru Gobind Singh College Of Commerce,5.73,6.36,6.86,7.93,7.75,6.925999999999998
+17059590047,ADITYA GARG,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,7.82,7.0,6.86,5.5,6.925999999999998
 17067590070,AAKASH YADAV,Shaheed Sukhdev College of Business Studies,6.91,7.18,7.57,5.93,7.0,6.918000000000001
 17078590032,PARTH LAL,Sri Guru Gobind Singh College Of Commerce,6.36,7.0,6.93,7.29,7.0,6.916
 17067590168,AASHI ANAND,Shaheed Sukhdev College of Business Studies,6.82,6.91,7.36,7.21,6.25,6.909999999999998
@@ -315,14 +315,14 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17013590008,ANURAG GUPTA,College Of Vocational Studies,6.36,7.45,7.64,6.0,7.0,6.8900000000000015
 17067590157,NEHA SHERSIA,Shaheed Sukhdev College of Business Studies,6.91,6.36,7.07,7.79,6.25,6.876
 17020590038,VIKAS SINGH,Ramanujan College,6.36,7.45,7.21,6.5,6.75,6.853999999999999
-17066590001,AAFREEN HOSSAIN,Shaheed Rajguru College of Applied Sciences for Women,5.91,7.64,7.07,7.14,6.5,6.852000000000001
 17013590004,AKASH SARKAR,College Of Vocational Studies,6.36,6.73,7.71,6.21,7.25,6.852000000000001
+17066590001,AAFREEN HOSSAIN,Shaheed Rajguru College of Applied Sciences for Women,5.91,7.64,7.07,7.14,6.5,6.852000000000001
 17066590042,YASHIKA POKHRIYAL,Shaheed Rajguru College of Applied Sciences for Women,6.55,6.73,7.07,6.36,7.5,6.8420000000000005
 17067590194,BIKASH KUMAR GUPTA,Shaheed Sukhdev College of Business Studies,6.64,7.82,6.29,7.43,6.0,6.836
 17067590052,VIPUL JINDAL,Shaheed Sukhdev College of Business Studies,7.45,7.36,7.36,5.93,6.0,6.82
 17066590040,SRISHTI PAL,Shaheed Rajguru College of Applied Sciences for Women,6.36,7.18,7.36,5.93,7.25,6.816
-17067590023,NIMANYU SHARMA,Shaheed Sukhdev College of Business Studies,6.91,6.64,6.93,6.79,6.75,6.8039999999999985
 17058590040,RADHIKA SHARMA,Ram Lal Anand College (Day),6.64,6.91,6.93,6.79,6.75,6.8039999999999985
+17067590023,NIMANYU SHARMA,Shaheed Sukhdev College of Business Studies,6.91,6.64,6.93,6.79,6.75,6.8039999999999985
 17015590036,PRATEEK JAIN,Deen Dayal Upadhyaya College,6.27,6.45,6.79,7.0,7.5,6.8020000000000005
 17067590188,PRATEEK KUMAR,Shaheed Sukhdev College of Business Studies,7.45,6.82,7.5,6.71,5.5,6.796000000000001
 17067590028,PRINCE BHARTI,Shaheed Sukhdev College of Business Studies,5.91,8.0,6.29,6.93,6.75,6.775999999999999
@@ -353,8 +353,8 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17013590048,ZAFAR ALI,College Of Vocational Studies,6.18,7.18,6.14,6.43,7.0,6.586
 17078590035,RHIEA CHHABRA,Sri Guru Gobind Singh College Of Commerce,6.18,6.45,6.5,7.29,6.5,6.5840000000000005
 17013590032,PRATEEK GABBI,College Of Vocational Studies,6.27,6.73,6.36,6.79,6.75,6.58
-17067590024,SHISHANK PAL,Shaheed Sukhdev College of Business Studies,6.45,5.64,6.71,6.79,7.25,6.5680000000000005
 17035590014,DEV CHOUDHARY,Keshav Mahavidyalaya,6.09,6.64,6.57,6.29,7.25,6.5680000000000005
+17067590024,SHISHANK PAL,Shaheed Sukhdev College of Business Studies,6.45,5.64,6.71,6.79,7.25,6.5680000000000005
 17066590028,PRACHI RANI,Shaheed Rajguru College of Applied Sciences for Women,6.36,6.36,6.86,6.5,6.75,6.566
 17015590001,AASHUTOSH KUMAR THAKUR,Deen Dayal Upadhyaya College,6.36,6.45,6.5,7.21,6.25,6.553999999999999
 17066590005,BHAVYA,Shaheed Rajguru College of Applied Sciences for Women,6.0,6.55,6.86,6.57,6.75,6.546000000000001
@@ -383,8 +383,8 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17078590023,JASMEET SINGH SHAHI,Sri Guru Gobind Singh College Of Commerce,6.09,6.55,6.57,6.57,6.0,6.356
 17059590037,PRERNA KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.0,6.91,6.57,6.64,4.5,6.324
 17035590006,AMIT KUMAR,Keshav Mahavidyalaya,5.82,5.36,6.79,6.57,7.0,6.308
-17078590040,SHREYANS PRAKASH,Sri Guru Gobind Singh College Of Commerce,5.91,6.55,6.71,6.07,6.25,6.297999999999999
 17020590041,YASH JAIN,Ramanujan College,6.18,6.45,6.86,6.0,6.0,6.297999999999999
+17078590040,SHREYANS PRAKASH,Sri Guru Gobind Singh College Of Commerce,5.91,6.55,6.71,6.07,6.25,6.297999999999999
 17013590050,NEHA SAHANI,College Of Vocational Studies,6.45,6.64,5.36,6.71,6.25,6.282
 17013590034,RAJAT CHAWLA,College Of Vocational Studies,5.09,6.45,6.64,6.43,6.75,6.272
 17035590029,SAHIL KATARIA,Keshav Mahavidyalaya,5.82,6.64,6.07,6.07,6.75,6.2700000000000005
@@ -503,8 +503,8 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
 17015590002,AAYUSHI SORTE,Deen Dayal Upadhyaya College,5.18,4.91,4.64,4.93,5.75,5.082
 17035590008,ANKIT,Keshav Mahavidyalaya,4.82,4.64,5.36,5.29,5.25,5.072
 17015590015,BHASHIKA PRAKASH,Deen Dayal Upadhyaya College,5.82,5.36,4.5,4.86,4.75,5.058
-17035590003,ADITYA SINGH PATEL,Keshav Mahavidyalaya,4.82,5.82,5.29,4.29,5.0,5.044
 17067590085,PRASIDH GAUTAM,Shaheed Sukhdev College of Business Studies,6.45,4.91,5.57,2.79,5.5,5.044
+17035590003,ADITYA SINGH PATEL,Keshav Mahavidyalaya,4.82,5.82,5.29,4.29,5.0,5.044
 17078590039,SHIVANSH AGGARWAL,Sri Guru Gobind Singh College Of Commerce,4.45,5.18,5.5,4.93,5.0,5.012
 17020590021,NAVEEN CHAUHAN,Ramanujan College,5.36,5.64,4.64,3.93,5.25,4.9639999999999995
 17059590042,PANKAJ KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.64,4.91,5.14,5.07,3.75,4.902
