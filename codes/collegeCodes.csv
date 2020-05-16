@@ -37,11 +37,12 @@ COL,Campus of Open Learning
 228,Department of East Asian Studies
 227,Department of Economics
 243,Department of Education (C.I.E.)
-251,Department of Electronics
+251,Department of Electronic Science
 203,Department of English
 218,Department of Environmental Studies
 101,Department of Faculty of Applied Social Sciences & Humanities
 114,Department of Faculty of Science
+259,Department of Financial Studies
 252,Department of Genetics
 229,Department of Geography
 219,Department of Geology
@@ -62,11 +63,14 @@ COL,Campus of Open Learning
 236,Department of Operational Research
 209,Department of Persian
 210,Department of Philosophy
+349,Department of Philosophy (SDC)
 222,Department of Physics
+261,Department of Plant Molicular Biology
 232,Department of Political Science
 211,Department of Psychology
 212,Department of Punjabi
 213,Department of Sanskrit
+242,Department of Slavonic And Finno-Ugrian Studies
 115,Department of Social Sciences
 233,Department of Social Work
 230,Department of Sociology
@@ -74,8 +78,8 @@ COL,Campus of Open Learning
 214,Department of Urdu
 223,Department of Zoology
 019,Deshbandhu College (Day)
-318,Dr. Ambedkar Center for Biomedical Research
 334,Dr. B.R. Ambedkar (Teaching Centre)
+318,Dr. B.R. Ambedkar Center for Biomedical Research
 010,Dr. Bhim Rao Ambedkar College
 314,Durgabai Deshmukh College of Special Education (V.I.)
 021,Dyal Singh College (Day)
@@ -89,6 +93,7 @@ COL,Campus of Open Learning
 028,Indira Gandhi Institute of Phy. Edu. & Sports Sciences
 317,Institute of Cyber Security and Law (I.C.S.L.)
 030,Institute Of Home Economics
+285,Institute of Informatics & Communication (IIC)
 031,Janki Devi Memorial College
 322,Janki Devi Memorial College - Teaching Centre
 032,Jesus & Mary College
@@ -133,6 +138,10 @@ COL,Campus of Open Learning
 063,Satyawati College (Eve)
 342,Satyawati College (Teaching Centre)
 SOL,School of Open Learning
+346,School of Open Learning (North Female)
+345,School of Open Learning (North Male)
+348,School of Open Learning (South Female)
+347,School of Open Learning (South Male)
 064,Shaheed Bhagat Singh College (Day)
 065,Shaheed Bhagat Singh College (Eve)
 066,Shaheed Rajguru College of Applied Sciences for Women
