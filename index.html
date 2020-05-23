@@ -2,23 +2,25 @@
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="data:image/x-icon;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAxBC7AM9QNAAAnf8AC6MQAAAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAiAzBEAAABECIDMEQAAAEQIgMwRAAAARAiAzBEAAAAACIDMEQAAAAAAAMwAAAAUAAAAzAAAAAFAAUAAAAAAABQUFAAAAAAAAUABQAAAAAAAAAAUABQAAAAAAAFBQAAAAAAAABQDf/wAA3/8AAAAAAADSSQAA0kkAANJJAADSSQAA3kkAAN/PAADPzwAA138AANq/AADd3wAA3+4AAN/1AADf+wAA" rel="icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width">
+        <link href="images/favicon.ico" rel="icon" type="image/x-icon" />
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+        <link href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="style.css">
-        <script defer src="fontawesome/js/all.js"></script>
-        <link href="fontawesome/css/all.css" rel="stylesheet">
     </head>
     <body >
-        <div id="welcome" class="bg-dark">
-            <h1>DU Results</h1>
-            <span class="bounce fas fa-angle-double-down"></span>
+        <div id="welcome">
+            <span id="heading">DU Results</span>
+            <i class="bounce material-icons">double_arrow</i>
         </div>
-        <div id="container">
-        <div id="formContainer" style="display:none">
+        <div class="container-fluid" id="container" style="display:none">
+        <div id="formContainer">
             <form action="result.html" method="get" class="text-center">
                 <div class="form-group row">
-                    <label for="mode" class="col col-form-label-lg col-6">Mode</label>
+                    <div class="col-6">
+                        <label for="mode" class="col col-form-label-lg">Mode</label>
+                    </div>
                     <div class="col-6">
                         <select class="form-control form-control-lg" id="mode" name="mode" required>
                             <option value="Semester">Semester</option>
@@ -27,32 +29,40 @@
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="admissionsOf" class="col col-form-label-lg col-6">Admissions Of</label>
+                    <div class="col-6">
+                        <label for="admissionsOf" class="col col-form-label-lg">Admissions Of</label>
+                    </div>
                     <div class="col-6">
                         <select class="form-control form-control-lg" id="admissionsOf" name="admissionsOf" required>
                             <option value="16">2016</option>
-                            <option value="17" selected>2017</option>
+                            <option value="17">2017</option>
                             <option value="18">2018</option>
                             <option value="19">2019</option>
                         </select>
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="college" class="col col-form-label-lg col-6">College</label>
                     <div class="col-6">
-                        <select class="form-control form-control-lg" id="college" name="college" required>
+                        <label for="college" class="col col-form-label-lg">College</label>
+                    </div>
+                    <div class="col-6">
+                        <select class="form-control form-control-lg" id="college" name="college" placeholder="Enter college..." required>
                         </select>
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="course" class="col col-form-label-lg col-6">Course</label>
                     <div class="col-6">
-                        <select class="form-control form-control-lg" id="course" name="course" placeholder="Choose..." required>
+                        <label for="course" class="col col-form-label-lg">Course</label>
+                    </div>
+                    <div class="col-6">
+                        <select class="form-control form-control-lg" id="course" name="course" placeholder="Enter course..." required>
                         </select>
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="type" class="col col-form-label-lg col-6">Type</label>
+                    <div class="col-6">
+                        <label for="type" class="col col-form-label-lg">Type</label>
+                    </div>
                     <div class="col-6">
                         <select class="form-control form-control-lg" id="type" name="type" required>
                             <option value="Marks">Marks</option>
@@ -60,19 +70,21 @@
                         </select>
                     </div>
                 </div>
-                <button type="submit" class="btn-lg btn-primary">Continue <span class="fas fa-arrow-alt-circle-right"></span></button>
+                <button type="submit" id="submitButton" class="btn-lg btn-primary">Continue <i class="material-icons" style="font-size: 16px">arrow_forward</i></button>
             </form>
         </div>
-    </div>
+        
+        </div>
     </body>
-    <!-- <script src="index.js"></script> -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
     <script>
         $("#welcome").click(function() {
-            $("#welcome").slideUp(100);
-            $("#formContainer").show();
+            $(".bounce").remove();
+            $("#welcome").slideUp(1000);
+            $("#container").show();
         });
     </script>
     <script src="papaparse.js"></script>

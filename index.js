@@ -1,6 +1,6 @@
 function sorter(a, b){
-    floatA = parseFloat(a);
-    floatB = parseFloat(b);
+    var floatA = parseFloat(a);
+    var floatB = parseFloat(b);
     if(isNaN(floatA) && isNaN(floatB))
         return a <= b ? -1 : 1;
     if(isNaN(floatA) || isNaN(floatB))
@@ -26,6 +26,7 @@ function addTooltip(){
 
 function addMinMax(){
     var table = $("#table").DataTable(); 
+    // console.log(table);
     var count = -1;
     table.columns().every(function() {
     var data = this.data();
@@ -55,6 +56,8 @@ var path = obj.get("type") + "/" + obj.get("mode") + "/" + obj.get("admissionsOf
 var file =  path + obj.get("college") + ".csv";
 var baseUrl = "https://raw.githubusercontent.com/saranshbht/Project/master/";
 
+$("select").select2({theme: "classic", width: "100%"});
+
 Papa.parse(baseUrl + 'codes/collegeCodes.csv', {
     download: true,
     complete: function(results) {
@@ -63,14 +66,8 @@ Papa.parse(baseUrl + 'codes/collegeCodes.csv', {
         $.each(results.data, function(index, item) {
             list.append(new Option(item[1], item[0]));
         });
-        $("#college option[value='015']").prop('selected', true);
-        // console.log(results.data);
     },
     error: function(err, file){ 
-        // $("#noRecord").modal('show');
-        // $('#noRecord').on('hidden.bs.modal', function() {
-        //     history.back();
-        // });
         console.log("can't load file");
     }
 });
@@ -83,18 +80,11 @@ Papa.parse(baseUrl + 'codes/courseCodes.csv', {
         $.each(results.data, function(index, item) {
             list.append(new Option(item[1], item[0]));
         });
-        $("#course option[value='570']").prop('selected', true);
-        // console.log(results.data);
     },
     error: function(err, file){ 
-        // $("#noRecord").modal('show');
-        // $('#noRecord').on('hidden.bs.modal', function() {
-        //     history.back();
-        // });
         console.log("can't load file");
     }
 });
-
 
 Papa.parse(baseUrl + file, {
     download: true,
@@ -105,7 +95,7 @@ Papa.parse(baseUrl + file, {
             columnData.push({title: headerRow[i], render: valueFormatter});
         }
         results.data.pop();
-        $("#table").DataTable({
+        var table = $("#table").DataTable({
             data: results.data.slice(1),
             columns: columnData,
             paging: false,
@@ -117,6 +107,57 @@ Papa.parse(baseUrl + file, {
         });
         addTooltip();
         addMinMax();
+        // console.log(table.rows().data());
+        // var chart = Highcharts.chart('highcharts-div', {
+        //     data: {
+        //         table: 'table',
+        //         startColumn: 2,
+        //         endColumn: 4
+        //     },
+        //     chart: {
+        //         type: 'column'
+        //     },
+        //     title: {
+        //         text: 'Data extracted from a HTML table in the page'
+        //     },
+        //     // xAxis:{
+        //     //     // categories: headerRow.slice(4)
+        //     // },
+        //     yAxis: {
+        //         // allowDecimals: false,
+        //         title: {
+        //             text: 'Marks'
+        //         }
+        //     },
+        //     tooltip: {
+        //         // formatter: function () {
+        //         //     return '<b>' + this.series.name + '</b><br/>' +
+        //         //         this.point.y + ' ' + this.point.name.toLowerCase();
+        //         // }
+        //     }
+            // series:[
+            //     {
+            //         name: results.data[9][0],
+            //         data: results.data[9].slice(4).map(function(num){
+            //             if(num)
+            //                 return parseFloat(num);
+            //             else
+            //                 return null;
+            //         })
+            //     },
+            //     {
+            //         name: results.data[22][0],
+            //         data: results.data[22].slice(4).map(function(num){
+            //             if(num)
+            //                 return parseFloat(num);
+            //             else
+            //                 return null;
+            //         })
+            //     }
+            // ]
+        // });
+        // console.log(chart);
+        // console.log(results.data[2].slice(4));
         // table.draw();
     },
     error: function(err, file){ 
@@ -129,8 +170,8 @@ Papa.parse(baseUrl + file, {
 });
 
 $("#addCollegeButton").click(function(){
-    var e = $("#addCollegeSelect").val();
-    file1 = path + e + '.csv';
+    var e = $("#college").val();
+    var file1 = path + e + '.csv';
     Papa.parse(baseUrl + file1, {
         download: true,
         complete: function(results) {
@@ -146,4 +187,3 @@ $("#addCollegeButton").click(function(){
         }
     });
 });
-
