@@ -109,12 +109,14 @@ input {
 }
 
 .max {
-    color:green;
+    background-color: green;
+    color:white;
     font-weight: bold;
   }
   
 .min {
-    color: red;
+    background-color: red;
+    color: white;
     font-weight: bold;
 }
 

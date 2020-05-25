@@ -181,6 +181,8 @@ $("#addCollegeButton").click(function(){
             addTooltip();
             addMinMax();
             table.draw();
+            $(".toast").toast({'delay': 1000});
+            $(".toast").toast('show');
         },
         error: function(err, file){ 
             $("#noRecord").modal('show');
