@@ -18,10 +18,17 @@ function valueFormatter(value, type){
 }
 
 function addTooltip(){
+    
     $("#table tbody tr").each(function(){
         var tds = $('td', this);
-        this.setAttribute('title', $(tds[0]).text() + ' , ' + $(tds[1]).text());
+        // this.attr('title', $(tds[0]).text() + ' , ' + $(tds[1]).text());
+        tds.each(function(){
+            this.setAttribute('data-toggle', 'tooltip');
+            this.setAttribute('data-html', 'true')
+            this.setAttribute('title', $(tds[1]).text() + "<br>" + $(tds[2]).text());
+        });
     });
+    $('[data-toggle="tooltip"]').tooltip({'placement': 'right'});
 }
 
 function addMinMax(){
@@ -30,24 +37,39 @@ function addMinMax(){
     var count = -1;
     table.columns().every(function() {
     var data = this.data();
-    count++;
-    if(count >= 3){
+    if(++count >= 4){
         var sorted = data.sort(sorter);
-        var maxVal = sorted[sorted.length - 1];
+        var maxVal = valueFormatter(sorted[sorted.length - 1], 'display');
         var i = 0;
         while(!sorted[i++]);
+        var minVal = valueFormatter(sorted[i - 1], 'display');
         var minVal = sorted[i - 1];
-        // console.log(valueFormatter(maxVal, 'display'));
+        // console.log(valueFormatter(minVal, 'display'));
             this.nodes().to$().each(function(){
                 $(this).removeClass('max min');
                 // console.log(valueFormatter(this.innerHTML));
-                if(valueFormatter(this.innerHTML, 'display') == valueFormatter(maxVal, 'display'))
+                if(valueFormatter(this.innerHTML, 'display') === maxVal)
                     $(this).addClass('max');
-                else if(valueFormatter(this.innerHTML, 'display') == valueFormatter(minVal, 'display'))
+                else if(valueFormatter(this.innerHTML, 'display') === minVal)
                     $(this).addClass('min');
             });
     }
     });
+}
+
+function preprocess(columns, data){
+    data.pop();
+    var keys = []
+    columns.forEach(e => keys.push(e.replace(/\./g, "")));
+
+    var objects = data.map(function(values) {
+        return keys.reduce(function(o, k, i) {
+            o[k] = values[i] || "";
+            return o;
+        }, {});
+    });
+
+    return {keys: keys, data: objects};
 }
 
 //https://raw.githubusercontent.com/saranshbht/Project/master/Marks/Semester/16/570/015.csv
@@ -61,10 +83,10 @@ $("select").select2({theme: "classic", width: "100%"});
 Papa.parse(baseUrl + 'codes/collegeCodes.csv', {
     download: true,
     complete: function(results) {
-        var list = $("#college");
+        collegeList = $("#college");
         results.data.shift();
         $.each(results.data, function(index, item) {
-            list.append(new Option(item[1], item[0]));
+            collegeList.append(new Option(item[1], item[0]));
         });
     },
     error: function(err, file){ 
@@ -75,10 +97,10 @@ Papa.parse(baseUrl + 'codes/collegeCodes.csv', {
 Papa.parse(baseUrl + 'codes/courseCodes.csv', {
     download: true,
     complete: function(results) {
-        var list = $("#course");
+        courseList = $("#course");
         results.data.shift();
         $.each(results.data, function(index, item) {
-            list.append(new Option(item[1], item[0]));
+            courseList.append(new Option(item[1], item[0]));
         });
     },
     error: function(err, file){ 
@@ -89,24 +111,42 @@ Papa.parse(baseUrl + 'codes/courseCodes.csv', {
 Papa.parse(baseUrl + file, {
     download: true,
     complete: function(results) {
-        var headerRow = results.data[0];
-        var columnData = [];
-        for(let i = 0; i < headerRow.length; i++){
-            columnData.push({title: headerRow[i], render: valueFormatter});
+        var val = new URL(location.href).searchParams.get("college");
+        if(val == "allColleges")
+            $("#addCollegeButton").prop('disabled', true);
+        else
+            collegeList.find('[value=' + val + ']').remove();
+        var obj = preprocess(results.data.shift(), results.data);
+        var keys = obj.keys;
+        var objects = obj.data;
+        
+        var columnData = [{data: 'id', defaultContent: '', searchable: false, orderable: false, targets: 0}];
+        for(let i = 0; i < keys.length; i++){
+            columnData.push({title: keys[i], name: keys[i], data: keys[i], render: valueFormatter});
         }
-        results.data.pop();
+        // console.log(columnData);
+        // objects.forEach(el => console.log(el["INTERNET TECHNOLOGIES (B.SC. (HONS) COMPUTER SCIENCE"]));
         var table = $("#table").DataTable({
-            data: results.data.slice(1),
+            data: objects,
             columns: columnData,
-            paging: false,
+            // paging: false,
             fixedHeader : true,
-            dom: 'frBt',
+            dom: 'frBtp',
+            order: [[1, 'asc']],
+            // "lengthMenu": [ 10, 25, 50 ],
+            "pageLength": 50,
             buttons: [
                 'print',
             ]
         });
         addTooltip();
         addMinMax();
+        table.on('order.dt search.dt', function () {
+            table.column(0, { search: 'applied', order: 'applied' }).nodes().each(function (cell, i) {
+                cell.innerHTML = i + 1;
+                // t.cell(cell).invalidate('dom');
+            });
+        }).draw();
         // console.log(table.rows().data());
         // var chart = Highcharts.chart('highcharts-div', {
         //     data: {
@@ -175,12 +215,65 @@ $("#addCollegeButton").click(function(){
     Papa.parse(baseUrl + file1, {
         download: true,
         complete: function(results) {
-            results.data.pop();
+            collegeList.find('[value=' + e + ']').remove();
+            var obj = preprocess(results.data.shift(), results.data);
+            var keys = obj.keys;
+            var objects = obj.data;
             var table = $("#table").DataTable();
-            table.rows.add(results.data.slice(1));
+            var old_keys = [];
+            var columns = table.settings().init().columns;
+            table.columns().every(function(index) { 
+                old_keys.push(columns[index].name);
+            });
+
+            old_keys.shift();
+            var headerRow = Array.from(new Set([...keys, ...old_keys]));
+            
+            var columnData = [{data: 'id', defaultContent: '', searchable: false, orderable: false, targets: 0}];
+            for(let i = 0; i < headerRow.length; i++){
+                columnData.push({"title": headerRow[i], "name": headerRow[i], "data": headerRow[i], "render": valueFormatter});
+            }
+            
+            old_data = table.rows().data().toArray();
+            var old_objects = old_data.map(function(values) {
+                return headerRow.reduce(function(o, k, i) {
+                    o[k] = values[k] || "";
+                    return o;
+                }, {});
+            });
+            
+            // console.log(old_data);
+            var objects = objects.map(function(values) {
+                return headerRow.reduce(function(o, k, i) {
+                    o[k] = values[k] || "";
+                    return o;
+                }, {});
+            });
+            // console.log(columnData);
+            // console.log(objects);
+            // console.log(old_objects);
+            table.destroy();
+            $("#table").empty();
+            var table = $("#table").DataTable({
+                data: objects.concat(old_objects),
+                columns: columnData,
+                // paging: false,
+                fixedHeader : true,
+                dom: 'frBtp',
+                "pageLength": 50,
+                order: [[1, 'asc']],
+                buttons: [
+                    'print',
+                ]
+            });
             addTooltip();
             addMinMax();
-            table.draw();
+            table.on('order.dt search.dt', function () {
+                table.column(0, { search: 'applied', order: 'applied' }).nodes().each(function (cell, i) {
+                    cell.innerHTML = i + 1;
+                    // t.cell(cell).invalidate('dom');
+                });
+            }).draw();
             $(".toast").toast({'delay': 1000});
             $(".toast").toast('show');
         },
@@ -189,3 +282,20 @@ $("#addCollegeButton").click(function(){
         }
     });
 });
+
+// $(document).ready(function() {
+//     var t = $('#table').DataTable( {
+//         "columnDefs": [ {
+//             "searchable": false,
+//             "orderable": false,
+//             "targets": 0
+//         } ],
+//         "order": [[ 1, 'asc' ]]
+//     } );
+ 
+//     t.on( 'order.dt search.dt', function () {
+//         t.column(0, {search:'applied', order:'applied'}).nodes().each( function (cell, i) {
+//             cell.innerHTML = i+1;
+//         } );
+//     } ).draw();
+// } );

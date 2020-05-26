@@ -31,8 +31,6 @@ th, tr td:first-child {
 
 th, td{
     border: 2px solid black;
-    /* margin: 0; */
-    /* padding: 0; */
     text-align: center;
     text-transform: uppercase;
     background-clip: padding-box;
@@ -95,6 +93,7 @@ input {
 #addCollegeRow {
     margin-top: 5px;
     margin-bottom: 5px;
+    text-align: center;
 }
 
 #formContainer {
@@ -120,8 +119,17 @@ input {
     font-weight: bold;
 }
 
-.highcharts-figure, .highcharts-data-table table {
-    min-width: 310px;
-    max-width: 800px;
-    margin: 1em auto;
+.form-group .select2-container {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+    display: table;
+    table-layout: fixed;
+}
+
+#addCollegeButton:disabled {
+    background-color: grey;
+    border-color: black;
 }
