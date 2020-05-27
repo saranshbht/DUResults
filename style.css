@@ -2,6 +2,10 @@ html, body{
     height: 100%;
 }
 
+body {
+    line-height: 1rem;
+}
+
 #welcome {
     background-image: url('images/graduation.jpg');
     background-size: 100% 100%;
@@ -37,8 +41,12 @@ th, td{
 }
 
 td {
-    white-space: nowrap;
+    white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+    white-space: -webkit-pre-wrap; /* Newer versions of Chrome/Safari*/
+    white-space: normal;
 }
+
 
 #table tr:nth-child(odd){
     background-color: #aaaaaa;
@@ -100,6 +108,8 @@ input {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #formContainer label {
