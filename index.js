@@ -8,24 +8,26 @@ function sorter(a, b){
     return floatA <= floatB ? -1 : 1;
 }
 
-function valueFormatter(value, type){
+function valueFormatter(value, type='display'){
     if(type === 'display' || type === 'filter') {
         if(!value || isNaN(value))
             return value;
         return +(Math.round(value + "e+3") + "e-3");
     }
-    return parseFloat(value);
+    var val = parseFloat(value);
+    return (val ? val : value);
 }
 
 function addTooltip(){
-    
+    var table = $("#table").DataTable();
+    var columns = table.settings().init().columns;
+
     $("#table tbody tr").each(function(){
-        var tds = $('td', this);
-        // this.attr('title', $(tds[0]).text() + ' , ' + $(tds[1]).text());
-        tds.each(function(){
+        var tds = $('td', this); 
+        tds.slice(4).each(function(){
+            column = columns[$(this).index()].name;
             this.setAttribute('data-toggle', 'tooltip');
-            this.setAttribute('data-html', 'true')
-            this.setAttribute('title', $(tds[1]).text() + "<br>" + $(tds[2]).text());
+            this.setAttribute('title', column);
         });
     });
     $('[data-toggle="tooltip"]').tooltip({'placement': 'right'});
@@ -33,27 +35,24 @@ function addTooltip(){
 
 function addMinMax(){
     var table = $("#table").DataTable(); 
-    // console.log(table);
+    // console.log(table.columns());
     var count = -1;
     table.columns().every(function() {
-    var data = this.data();
-    if(++count >= 4){
-        var sorted = data.sort(sorter);
-        var maxVal = valueFormatter(sorted[sorted.length - 1], 'display');
-        var i = 0;
-        while(!sorted[i++]);
-        var minVal = valueFormatter(sorted[i - 1], 'display');
-        var minVal = sorted[i - 1];
-        // console.log(valueFormatter(minVal, 'display'));
+        if(++count > 3) {
+            var data = this.data();
+            var sorted = data.sort(sorter);
+            var maxVal = valueFormatter(sorted[sorted.length - 1]);
+            var i = 0;
+            while(!sorted[i++]);
+            var minVal = valueFormatter(sorted[i - 1]);
             this.nodes().to$().each(function(){
                 $(this).removeClass('max min');
-                // console.log(valueFormatter(this.innerHTML));
-                if(valueFormatter(this.innerHTML, 'display') === maxVal)
+                if(valueFormatter(this.innerHTML) === maxVal)
                     $(this).addClass('max');
-                else if(valueFormatter(this.innerHTML, 'display') === minVal)
+                else if(valueFormatter(this.innerHTML) === minVal)
                     $(this).addClass('min');
             });
-    }
+        }
     });
 }
 
@@ -90,7 +89,7 @@ Papa.parse(baseUrl + 'codes/collegeCodes.csv', {
         });
     },
     error: function(err, file){ 
-        console.log("can't load file");
+        console.log("College List not loaded");
     }
 });
 
@@ -104,7 +103,7 @@ Papa.parse(baseUrl + 'codes/courseCodes.csv', {
         });
     },
     error: function(err, file){ 
-        console.log("can't load file");
+        console.log("Course List not loaded");
     }
 });
 
@@ -120,35 +119,25 @@ Papa.parse(baseUrl + file, {
         var keys = obj.keys;
         var objects = obj.data;
         
-        var columnData = [{data: 'id', defaultContent: '', searchable: false, orderable: false, targets: 0}];
+        var columnData = [{title: '#', data: 'id', defaultContent: '', searchable: false, orderable: false, targets: 0}];
         for(let i = 0; i < keys.length; i++){
             columnData.push({title: keys[i], name: keys[i], data: keys[i], render: valueFormatter});
         }
-        // console.log(columnData);
-        // objects.forEach(el => console.log(el["INTERNET TECHNOLOGIES (B.SC. (HONS) COMPUTER SCIENCE"]));
         var table = $("#table").DataTable({
             data: objects,
             columns: columnData,
-            // paging: false,
-            // responsive: true,
-            fixedHeader : true,
-            dom: 'frBtp',
+            dom: 'frtp',
             order: [[1, 'asc']],
-            // "lengthMenu": [ 10, 25, 50 ],
             "pageLength": 50,
-            buttons: [
-                'print',
-            ]
         });
         addTooltip();
         addMinMax();
+        $('#table').wrap('<div class="dataTables_scroll" />');
         table.on('order.dt search.dt', function () {
             table.column(0, { search: 'applied', order: 'applied' }).nodes().each(function (cell, i) {
                 cell.innerHTML = i + 1;
-                // t.cell(cell).invalidate('dom');
             });
         }).draw();
-        // console.log(table.rows().data());
         // var chart = Highcharts.chart('highcharts-div', {
         //     data: {
         //         table: 'table',
@@ -230,7 +219,7 @@ $("#addCollegeButton").click(function(){
             old_keys.shift();
             var headerRow = Array.from(new Set([...keys, ...old_keys]));
             
-            var columnData = [{data: 'id', defaultContent: '', searchable: false, orderable: false, targets: 0}];
+            var columnData = [{title: '#', data: 'id', defaultContent: '', searchable: false, orderable: false, targets: 0}];
             for(let i = 0; i < headerRow.length; i++){
                 columnData.push({"title": headerRow[i], "name": headerRow[i], "data": headerRow[i], "render": valueFormatter});
             }
@@ -243,36 +232,28 @@ $("#addCollegeButton").click(function(){
                 }, {});
             });
             
-            // console.log(old_data);
             var objects = objects.map(function(values) {
                 return headerRow.reduce(function(o, k, i) {
                     o[k] = values[k] || "";
                     return o;
                 }, {});
             });
-            // console.log(columnData);
-            // console.log(objects);
-            // console.log(old_objects);
+            
             table.destroy();
             $("#table").empty();
             var table = $("#table").DataTable({
                 data: objects.concat(old_objects),
                 columns: columnData,
-                // paging: false,
-                fixedHeader : true,
-                dom: 'frBtp',
+                dom: 'frtp',
                 "pageLength": 50,
                 order: [[1, 'asc']],
-                buttons: [
-                    'print',
-                ]
             });
             addTooltip();
             addMinMax();
+            $('#table').wrap('<div class="dataTables_scroll" />');
             table.on('order.dt search.dt', function () {
                 table.column(0, { search: 'applied', order: 'applied' }).nodes().each(function (cell, i) {
                     cell.innerHTML = i + 1;
-                    // t.cell(cell).invalidate('dom');
                 });
             }).draw();
             $(".toast").toast({'delay': 1000});

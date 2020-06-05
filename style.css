@@ -27,10 +27,17 @@ select {
     text-transform: uppercase;
 }
 
-th, tr td:first-child {
+th {
     background-color: #444444;
     color: white;
     white-space: normal;
+}
+
+tr th:nth-child(3), td:nth-child(3) {
+    position: sticky;
+    left: 0;
+    background-color:  #444444;
+    color: white;
 }
 
 th, td{
@@ -99,8 +106,8 @@ input {
 }
 
 #addCollegeRow {
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
@@ -143,3 +150,35 @@ input {
     background-color: grey;
     border-color: black;
 }
+
+.dataTables_paginate { 
+    margin: 10px;
+}
+
+.dataTables_scroll
+{
+    overflow:auto;
+}
+
+/* div.dataTables_scroll {
+    overflow: scroll;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+thead th {
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+  }
+  
+tbody td:nth-child(2) {
+    position: -webkit-sticky; 
+    position: sticky;
+    left: 0;
+}
+
+thead th:nth-child(2) {
+    left: 0;
+    z-index: 1;
+} */
