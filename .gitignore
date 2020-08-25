@@ -1,4 +1,6 @@
 *.py
 *.ipynb
-Trash
+Trash/
 test*
+node_modules/
+html/
