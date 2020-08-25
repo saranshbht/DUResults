@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="Images/favicon.ico" rel="icon" type="image/x-icon" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+        <link href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+
+    <body class="index">
+        
+        <div id="welcome">
+            <span id="heading">DU Results</span>
+            <span class="bounce"><i class="material-icons">double_arrow</i></span>
+        </div>
+        
+        <div class="container-fluid" id="container" style="display:none">
+            <div id="formContainer">
+                <form action="result.html" method="get" class="text-center">
+                    <div class="form-group row">
+                        <div class="col-6">
+                            <label for="mode" class="col col-form-label-lg">Mode</label>
+                        </div>
+                        <div class="col-6">
+                            <select class="form-control form-control-lg" id="mode" name="mode" required>
+                                <option value="Semester">Semester</option>
+                                <option value="Subject">Subject</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-6">
+                            <label for="admissionsOf" class="col col-form-label-lg">Admissions Of</label>
+                        </div>
+                        <div class="col-6">
+                            <select class="form-control form-control-lg" id="admissionsOf" name="admissionsOf" required>
+                                <option value="16">2016</option>
+                                <option value="17">2017</option>
+                                <option value="18">2018</option>
+                                <option value="19">2019</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-6">
+                            <label for="college" class="col col-form-label-lg">College</label>
+                        </div>
+                        <div class="col-6">
+                            <select class="form-control form-control-lg" id="college" name="college" required>
+                                <option value="allColleges">All Colleges</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-6">
+                            <label for="course" class="col col-form-label-lg">Course</label>
+                        </div>
+                        <div class="col-6">
+                            <select class="form-control form-control-lg" id="course" name="course" required>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-6">
+                            <label for="type" class="col col-form-label-lg">Type</label>
+                        </div>
+                        <div class="col-6">
+                            <select class="form-control form-control-lg" id="type" name="type" required>
+                                <option value="Marks">Marks</option>
+                                <option value="Grade">Grade</option>
+                            </select>
+                        </div>
+                    </div>
+                    <button type="submit" id="submitButton" class="btn-lg btn-primary">Continue <i class="material-icons" style="font-size: 16px">arrow_forward</i></button>
+                </form>
+            </div>
+        </div>
+    </body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script>
+        $("#welcome").click(function() {
+            $(".bounce").remove();
+            $("#welcome").slideUp(1000);
+            $("#container").show();
+        });
+    </script>
+    <script src="https://cdn.jsdelivr.net/pako/1.0.3/pako.min.js"></script>
+    <script src="index.js"></script>
+
+</html>
