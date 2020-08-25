@@ -1,0 +1,6 @@
+*.py
+*.ipynb
+Trash/
+test*
+html/
+node_modules/
