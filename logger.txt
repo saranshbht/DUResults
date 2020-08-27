@@ -1,0 +1,10 @@
+2020-08-27T07:40:36.413Z
+Grade
+ASP.NET_SessionId=5l2ybv55zlft3nun5gwmtg45
+{ '18': [], '19': [] }
+{ '18': [], '19': [] }
+2020-08-27T07:40:39.828Z
+Marks
+ASP.NET_SessionId=4joospziebjkjb55yx0lyx55
+{ '18': [], '19': [] }
+{ '18': [], '19': [] }
