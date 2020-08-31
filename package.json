@@ -1,0 +1,26 @@
+{
+  "name": "duresults",
+  "version": "1.0.0",
+  "description": "The motivation for this project came from my unhealthy fascination with numbers and a desire to compare my own rather okay-ish performance in the Semester examinations with others in the same boat as me. The original push came when I came across [this](https://github.com/jatin69/du-result-fetcher) repository. :fire: (To be continued...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saranshbht/DUResults.git"
+  },
+  "author": "Saransh Bhatia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saranshbht/DUResults/issues"
+  },
+  "homepage": "https://github.com/saranshbht/DUResults#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "qs": "^6.9.4",
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {}
+}
