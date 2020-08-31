@@ -2,7 +2,7 @@ name: cron job
 
 on: 
   schedule:
-    - cron: 0/5 7 * * *
+    - cron: 0 0 * * *
       
       
 jobs:
