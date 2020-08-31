@@ -1,0 +1,42 @@
+name: cron job
+
+on: 
+  schedule:
+    - cron: 0/5 7 * * *
+      
+      
+jobs:
+  create-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: checkout
+      uses: actions/checkout@v2
+
+    - name: set up node
+      uses: actions/setup-node@v1
+
+    - name: install
+      run: |
+        npm install
+
+    - name: run and push changes
+      run: |
+        git config user.name "Saransh Bhatia"
+        git config user.email "saranshbht@github.com"
+        git checkout testing
+        node runner.js Grade >> logger.txt
+        node runner.js Marks >> logger.txt
+        git add .
+        git commit -m "added changes at `date +'%Y-%m-%d %H:%M:%S'`"
+        git push origin testing
+
+    - name: send failure notification
+      if: failure()
+      env:
+        SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+      uses: voxmedia/github-action-slack-notify-build@v1
+      with:
+        channel: du-result
+        status: FAILED
+        color: danger 
