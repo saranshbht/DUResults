@@ -98,3 +98,13 @@ Marks
 ASP.NET_SessionId=3ptwyaf3soupkuabse0a0grr
 { '18': [], '19': [] }
 { '18': [], '19': [] }
+2020-09-02T00:44:52.169Z
+Grade
+ASP.NET_SessionId=vip5zi2jqcofvububdq3wp45
+{ '18': [], '19': [] }
+{ '18': [], '19': [] }
+2020-09-02T00:44:55.408Z
+Marks
+ASP.NET_SessionId=22qgglvi5ssvo1ig4etv1r45
+{ '18': [], '19': [] }
+{ '18': [], '19': [] }
