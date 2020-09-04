@@ -118,3 +118,17 @@ Marks
 ASP.NET_SessionId=zr5jwpzpq43mqcjcbwtwze45
 { '18': [], '19': [] }
 { '18': [], '19': [] }
+2020-09-04T00:49:45.469Z
+Grade
+ASP.NET_SessionId=hhgnvv2wkyw2hqnxybnelhii
+{ '18': [], '19': [ '707' ] }
+19 707 227
+{ '18': [], '19': [ '707' ] }
+Grade 19 707 227
+2020-09-04T00:52:00.621Z
+Marks
+ASP.NET_SessionId=4dqrxffgcletg2nogbyvp2ff
+{ '18': [], '19': [ '707' ] }
+19 707 227
+{ '18': [], '19': [ '707' ] }
+Marks 19 707 227
