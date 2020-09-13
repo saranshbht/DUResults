@@ -8,14 +8,14 @@ let sorter = (a, b) => {
     return float_a <= float_b ? -1 : 1;
 }
 
-let valueFormatter = (value, type = 'display') => {
+let valueFormatter = (value, type = 'display', row, meta) => {
     if (type === 'display' || type === 'filter') {
         if (!value || isNaN(value))
             return value;
         return +(Math.round(value + "e+3") + "e-3");
     }
     let val = parseFloat(value);
-    return (val ? val : value);
+    return (isNaN(val) ? (value === 'NaN' ? -1 : value) : val);
 }
 
 let addTooltip = () => {
@@ -36,21 +36,20 @@ let addTooltip = () => {
 
 let addMinMax = () => {
     let table = $("#table").DataTable();
-    // console.log(table.columns());
     let count = -1;
     table.columns().every(function() {
         if (++count > 2) {
             let data = this.data();
             let sorted = data.sort(sorter);
-            let maxVal = valueFormatter(sorted[sorted.length - 1]);
+            let max_val = valueFormatter(sorted[sorted.length - 1]);
             let i = 0;
             while (!sorted[i++]);
-            let minVal = valueFormatter(sorted[i - 1]);
+            let min_val = valueFormatter(sorted[i - 1]);
             this.nodes().to$().each(function() {
                 $(this).removeClass('max min');
-                if (valueFormatter(this.innerHTML) === maxVal)
+                if (valueFormatter(this.innerHTML) === max_val)
                     $(this).addClass('max');
-                else if (valueFormatter(this.innerHTML) === minVal)
+                else if (valueFormatter(this.innerHTML) === min_val)
                     $(this).addClass('min');
             });
         }
@@ -63,8 +62,13 @@ let createTable = (keys, objects) => {
 
     let columns = [];
     for (let i = 0; i < keys.length; i++) {
-        columns.push({ title: keys[i], name: keys[i], render: valueFormatter });
+        columns.push({ title: keys[i], name: keys[i], render: valueFormatter});
+        if (i == 1 || i == 2)
+            columns[i].type = 'string';
+        else
+            columns[i].type = 'num';
     }
+
     let table = $("#table").DataTable({
         data: objects,
         columns: columns,
@@ -109,12 +113,12 @@ const params = new URL(location.href).searchParams;
 const [mode, yoa, college, course, type] = params.values();
 const path = [type, mode, yoa, course].join('/');
 const file = ['json-zip', path, college + '.json.gz'].join('/');
-let baseUrl = "https://raw.githubusercontent.com/saranshbht/DUResults/testing/";
+let base_url = "https://raw.githubusercontent.com/saranshbht/DUResults/testing/";
 
 $("select").select2({ theme: "classic", width: "100%" });
 
-let setCollegeList = () => 
-fetch(baseUrl + 'codes/collegeCodes.json')
+let setCollegeList = () =>
+fetch(base_url + 'codes/collegeCodes.json')
 .then(res => res.json())
 .then(array => {
     let markup = [];
@@ -125,8 +129,8 @@ fetch(baseUrl + 'codes/collegeCodes.json')
 })
 .catch(error => alert(error));
 
-let setCourseList = () => 
-fetch(baseUrl + 'codes/courseCodes.json')
+let setCourseList = () =>
+fetch(base_url + 'codes/courseCodes.json')
 .then(res => res.json())
 .then(array => {
     let markup = [];
@@ -142,10 +146,8 @@ if ($('body').hasClass('index')) {
     setCourseList();
 }
 
-let url = "https://raw.githubusercontent.com/saranshbht/Project/testing/032.json.gz";
-
 if ($('body').hasClass('result')) {
-    url = baseUrl + file;
+    url = base_url + file;
     let a = performance.now();
     Promise.all([getData(url), setCollegeList()])
     .then(([array, ]) => {
@@ -153,9 +155,9 @@ if ($('body').hasClass('result')) {
         if (current_college == "allColleges")
             $("#addCollegeButton").prop('disabled', true);
         else
-           $('#college').find('[value=' + current_college + ']').remove();  
-        createTable(array['keys'], array['data']); 
-        console.log(performance.now() - a);     
+           $('#college').find('[value=' + current_college + ']').remove();
+        createTable(array['keys'], array['data']);
+        console.log(performance.now() - a);
     })
     .catch(err => {
         $("#noRecord").modal('show');
@@ -168,9 +170,9 @@ if ($('body').hasClass('result')) {
 
 $("#addCollegeButton").click(function() {
     let new_college = $("#college").val();
-    let newFile = ['json-zip', path, new_college + '.json.gz'].join('/');
+    let new_file = ['json-zip', path, new_college + '.json.gz'].join('/');
     $("#college").find('[value=' + new_college + ']').remove();
-    url = baseUrl + newFile;
+    url = base_url + new_file;
     getData(url)
     .then(array => {
         let table = $("#table").DataTable();
@@ -182,7 +184,7 @@ $("#addCollegeButton").click(function() {
 
         let keys = Array.from(new Set([...new_keys, ...old_keys]));
 
-        let a = performance.now();
+        let start = performance.now();
         let old_data = table.rows().data().toArray();
         let old_objects = old_data.map(values => {
             return old_keys.reduce((o, k, i) => {
@@ -212,7 +214,7 @@ $("#addCollegeButton").click(function() {
             }, []);
         });
 
-        console.log(performance.now() - a);
+        console.log(performance.now() - start);
         table.destroy();
         $("#table").empty();
         createTable(keys, [...old_array, ...new_array]);
@@ -221,8 +223,5 @@ $("#addCollegeButton").click(function() {
     })
     .catch(err => {
         $("#noRecord").modal('show');
-        // $('#noRecord').on('hidden.bs.modal', function() {
-        //     history.back();
-        // });
     });
 });
