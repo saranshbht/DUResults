@@ -778,3 +778,13 @@ Marks
   isAxiosError: true,
   toJSON: [Function: toJSON] }
 undefined
+2020-09-17T03:09:39.619Z
+Grade
+ASP.NET_SessionId=vjkssl55pm0sqr553bskkgug
+{ '18': [], '19': [] }
+{ '18': [], '19': [] }
+2020-09-17T03:09:43.016Z
+Marks
+ASP.NET_SessionId=wqymfa3ve1v2m0y3gidmgb55
+{ '18': [], '19': [] }
+{ '18': [], '19': [] }
