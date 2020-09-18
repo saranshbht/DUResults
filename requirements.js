@@ -134,7 +134,7 @@ let downloadHtmls = async(remaining, type, url, step, store_path) => {
 			// console.log('\nCourse', course);
 			if (!Object.keys(courses_colleges).includes(course))
 				continue;
-			
+
 			let issues = 0;
 			for (let college of courses_colleges[course]) {
 				// console.log('\nCollege', college);
@@ -186,7 +186,7 @@ let downloadHtmls = async(remaining, type, url, step, store_path) => {
 			}
 			if (!issues) {
 				downloaded[year] = downloaded[year] || [];
-				if (!(course in downloaded[year]))
+				if (!downloaded[year].includes(course))
 					downloaded[year].push(course);
 				fs.writeFile(`./downloaded${type}.json`, JSON.stringify(downloaded))
 				.catch(console.log);
@@ -225,15 +225,15 @@ let gradeFun = data => {
 	let sem_idx = headers.indexOf('Sem');
 	let sgpa_idx = headers.indexOf('SGPA');
 	let total = 0;
-	
+
 	// from 2nd row to last
 	sem_table.slice(1).each(function () {
-		
+
 		// only select cells having same index as their headings in the header row
 		let sem = $('td', this).eq(sem_idx).text();
 		let sgpa = $('td', this).eq(sgpa_idx).text();
 		semester['Sem' + sem] = sgpa;
-		total += parseFloat(sgpa); 
+		total += parseFloat(sgpa);
 	});
 	semester['Average'] = (total / (sem_table.length - 1)).toFixed(3);
 
@@ -287,20 +287,20 @@ let marksFun = data => {
 	// console.log(headers);
 	let sem_idx = headers.indexOf('Sem');
 	let total_idx = headers.indexOf('Total Obtained Marks');
-	let max_total_idx = headers.indexOf('Max Total Marks') 
+	let max_total_idx = headers.indexOf('Max Total Marks')
 	let total = 0;
 	let max_total = 0;
 
 	// from 2nd row to last
 	sem_table.slice(1).each(function () {
-		
+
 		// only select cells having same index as their headings in the header row
 		let sem = $('td', this).eq(sem_idx).text();
 		let marks = $('td', this).eq(total_idx).text();
 		let max_marks = $('td', this).eq(max_total_idx).text();
 		semester['Sem' + sem] = marks + '/' + max_marks;
 		total += parseFloat(marks);
-		max_total += parseFloat(max_marks); 
+		max_total += parseFloat(max_marks);
 	});
 	semester['Total'] = total + '/' + max_total;
 	semester['Percentage'] = (total * 100 / max_total).toFixed(3);
@@ -366,16 +366,16 @@ let makeJsons = (remaining, type, source_path, store_path, zip = false) => {
 			// console.log('\nCourse', course);
 			if (!Object.keys(courses_colleges).includes(course))
 				continue;
-			
+
 			// accumulators for all colleges
 			let all_sub = [];
 			let all_sem = [];
 			for (let college of courses_colleges[course]) {
 				// console.log('\nCollege', college);
-				
+
 				// get all files in the folder
 				let rolls = fss.readdirSync(path.resolve(source_path, year, course, college));
-				
+
 				// accumulators for a single college
 				let sub = [];
 				let sem = [];
@@ -386,14 +386,14 @@ let makeJsons = (remaining, type, source_path, store_path, zip = false) => {
 						marksFun(data) : gradeFun(data);
 					sub.push(subject);
 					sem.push(semester);
-					
+
 					all_sub.push(subject);
 					all_sem.push(semester);
 			 	});
 
 				let sub_dir = path.resolve(store_path, 'Subject', year, course);
 				let sem_dir = path.resolve(store_path, 'Semester', year, course);
-				
+
 				fss.mkdirSync(sub_dir, { recursive: true });
 				fss.mkdirSync(sem_dir, { recursive: true });
 
@@ -410,7 +410,7 @@ let makeJsons = (remaining, type, source_path, store_path, zip = false) => {
 				fss.writeFileSync(path.resolve(sem_dir, college + '.json' + (zip ? '.gz' : '')), sem_data);
 				console.log(type, year, course, college);
 			}
-			
+
 			let all_sub_data = properConvert(all_sub);
 			let all_sem_data = properConvert(all_sem);
 			if (zip) {
@@ -422,7 +422,7 @@ let makeJsons = (remaining, type, source_path, store_path, zip = false) => {
 
 			// add course to the array of updated courses for current year
 			updated[year] = updated[year] || [];
-			if (!(course in updated[year]))
+			if (!updated[year].includes(course))
 				updated[year].push(course);
 			fss.writeFileSync(`./updated${type}.json`, JSON.stringify(updated));
 		}
@@ -432,7 +432,7 @@ let makeJsons = (remaining, type, source_path, store_path, zip = false) => {
 let jsonsToJsonGzips = (remaining, type, source_path) => {
 	let store_path = path.resolve(source_path + '-zip', type);
 	source_path = path.resolve(source_path, type);
-	
+
 	for (let mode of ['Semester', 'Subject']) {
 		for (let year of Object.keys(remaining)) {
 			// console.log('\nYear', year);
