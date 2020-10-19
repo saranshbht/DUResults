@@ -14,7 +14,6 @@ jobs:
       uses: actions/checkout@v2
       with:
           ref: testing
-          lfs: true
 
     - name: set up node
       uses: actions/setup-node@v1
@@ -26,7 +25,8 @@ jobs:
       run: |
         node runner.js Grade >> logger.txt
         node runner.js Marks >> logger.txt
-        if [ -d "html" ]; then 7z u -t7z html.7z html; fi
+        if [ -d "html/Grade" ]; then 7z u -t7z html-zip/Grade.7z ./html/Grade; fi
+        if [ -d "html/Marks" ]; then 7z u -t7z html-zip/Marks.7z ./html/Marks; fi
 
     - name: push changes
       uses: stefanzweifel/git-auto-commit-action@v4.4.1
