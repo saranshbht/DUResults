@@ -1,32 +1,32 @@
-RollNo,Name,College,NETWORK ANALYSIS AND SYNTHESIS,SEMICONDUCTOR DEVICES AND MATERIAL,DIGITAL CIRCUIT DESIGN,MATHEMATICAL AND COMPUTATIONAL TECHNIQUES
-19251749001,ADARSH VERMA,Department of Electronic Science,6,7,6,6
-19251749002,ADITYA SHARMA,Department of Electronic Science,9,8,8,8
-19251749003,ADITYA NARAYAN MISHRA,Department of Electronic Science,8,7,7,7
-19251749004,AJIT YADAV,Department of Electronic Science,7,7,8,7
-19251749005,AMAN RANA,Department of Electronic Science,9,7,7,7
-19251749006,ARCHIT GUPTA,Department of Electronic Science,9,9,9,8
-19251749007,ASHISH KUMAR MAHESHWARI,Department of Electronic Science,8,7,8,8
-19251749008,ATUL KHANNA,Department of Electronic Science,7,7,8,8
-19251749009,AVINASH PARASHAR,Department of Electronic Science,10,8,9,8
-19251749010,BIDYUT KUMAR BARO,Department of Electronic Science,4,5,6,6
-19251749011,BRIJESH KUMAR,Department of Electronic Science,7,7,7,7
-19251749012,CHANDAN GUPTA,Department of Electronic Science,9,9,9,9
-19251749013,CHITRA SHARMA,Department of Electronic Science,9,8,10,8
-19251749014,DEBLINA CHAKRABORTY,Department of Electronic Science,6,7,8,8
-19251749015,HIMANSHU SINGH,Department of Electronic Science,0,0,0,0
-19251749016,MOHITA GANDOTRA,Department of Electronic Science,8,8,8,8
-19251749017,MOHD ABIS,Department of Electronic Science,5,6,7,6
-19251749018,RAHUL DHAKAR,Department of Electronic Science,0,0,0,0
-19251749019,RITESH RAJ,Department of Electronic Science,9,9,9,8
-19251749020,ROHAN KUMAR,Department of Electronic Science,6,6,5,5
-19251749021,ROHIT KUMAR,Department of Electronic Science,5,5,5,6
-19251749022,SAUMYA SRIVASTAVA,Department of Electronic Science,8,8,9,0
-19251749023,SHAIFALI,Department of Electronic Science,7,8,7,7
-19251749024,SHASHI KANT GIRI,Department of Electronic Science,9,8,8,8
-19251749025,SHRASHTI SHARMA,Department of Electronic Science,6,8,7,7
-19251749026,SUBHANKAR DAKUA,Department of Electronic Science,8,7,7,6
-19251749027,T RAJA AADHITHAN,Department of Electronic Science,7,7,9,8
-19251749028,TANYA SHIVHARE,Department of Electronic Science,8,8,8,8
-19251749029,USHA,Department of Electronic Science,6,6,6,7
-19251749030,VIKRAM SINGH,Department of Electronic Science,8,10,9,8
-19251749031,VIMAL KUMAR CHAUDHARY,Department of Electronic Science,6,7,7,7
+RollNo,Name,College,NETWORK ANALYSIS AND SYNTHESIS,SEMICONDUCTOR DEVICES AND MATERIAL,DIGITAL CIRCUIT DESIGN,MATHEMATICAL AND COMPUTATIONAL TECHNIQUES,SIGNALS & SYSTEMS,"ELECTROMAGNETICS, ANTENNA AND PROPAGATION",ANALOG CIRCUIT DESIGN,CONTROL SYSTEMS,DATA ACQUISITION SYSTEMS
+19251749001,ADARSH VERMA,Department of Electronic Science,6,7,6,6,7,8,8,8,8
+19251749002,ADITYA SHARMA,Department of Electronic Science,9,8,8,8,9,9,9,9,9
+19251749003,ADITYA NARAYAN MISHRA,Department of Electronic Science,8,7,7,7,8,9,9,9,9
+19251749004,AJIT YADAV,Department of Electronic Science,7,7,8,7,8,8,8,9,9
+19251749005,AMAN RANA,Department of Electronic Science,9,7,7,7,8,9,9,9,9
+19251749006,ARCHIT GUPTA,Department of Electronic Science,9,9,9,8,8,9,9,9,9
+19251749007,ASHISH KUMAR MAHESHWARI,Department of Electronic Science,8,7,8,8,8,9,9,9,9
+19251749008,ATUL KHANNA,Department of Electronic Science,7,7,8,8,8,8,8,9,9
+19251749009,AVINASH PARASHAR,Department of Electronic Science,10,8,9,8,8,9,10,10,9
+19251749010,BIDYUT KUMAR BARO,Department of Electronic Science,4,5,6,6,7,7,7,8,7
+19251749011,BRIJESH KUMAR,Department of Electronic Science,7,7,7,7,8,8,9,9,9
+19251749012,CHANDAN GUPTA,Department of Electronic Science,9,9,9,9,9,10,10,10,10
+19251749013,CHITRA SHARMA,Department of Electronic Science,9,8,10,8,9,9,10,9,9
+19251749014,DEBLINA CHAKRABORTY,Department of Electronic Science,6,7,8,8,8,9,9,9,9
+19251749015,HIMANSHU SINGH,Department of Electronic Science,0,0,0,0,,,,,
+19251749016,MOHITA GANDOTRA,Department of Electronic Science,8,8,8,8,8,8,9,9,9
+19251749017,MOHD ABIS,Department of Electronic Science,5,6,7,6,7,8,8,8,8
+19251749018,RAHUL DHAKAR,Department of Electronic Science,0,0,0,0,,,,,
+19251749019,RITESH RAJ,Department of Electronic Science,9,9,9,8,8,9,9,10,9
+19251749020,ROHAN KUMAR,Department of Electronic Science,6,6,5,5,6,6,6,6,7
+19251749021,ROHIT KUMAR,Department of Electronic Science,5,5,5,6,6,6,7,8,7
+19251749022,SAUMYA SRIVASTAVA,Department of Electronic Science,8,8,9,0,8,9,9,9,9
+19251749023,SHAIFALI,Department of Electronic Science,7,8,7,7,8,8,9,9,9
+19251749024,SHASHI KANT GIRI,Department of Electronic Science,9,8,8,8,8,8,9,9,9
+19251749025,SHRASHTI SHARMA,Department of Electronic Science,6,8,7,7,8,8,9,9,9
+19251749026,SUBHANKAR DAKUA,Department of Electronic Science,8,7,7,6,7,8,8,8,8
+19251749027,T RAJA AADHITHAN,Department of Electronic Science,7,7,9,8,7,8,8,8,8
+19251749028,TANYA SHIVHARE,Department of Electronic Science,8,8,8,8,9,9,9,9,9
+19251749029,USHA,Department of Electronic Science,6,6,6,7,7,8,8,8,8
+19251749030,VIKRAM SINGH,Department of Electronic Science,8,10,9,8,8,9,10,10,9
+19251749031,VIMAL KUMAR CHAUDHARY,Department of Electronic Science,6,7,7,7,7,8,8,8,8

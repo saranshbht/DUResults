@@ -1,15 +1,15 @@
-RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
-17085525001,AAMIR BAIG,Zakir Husain Delhi College (Day),7,7.55,7.14,7,7.25,7.188
-17085525002,ANAM WARSI,Zakir Husain Delhi College (Day),7.27,8.45,7.5,6,5.75,6.994
-17085525003,FARHEEN,Zakir Husain Delhi College (Day),5.36,6.64,6.07,4.57,4.75,5.478
-17085525004,FARHEEN NAAZ,Zakir Husain Delhi College (Day),4.82,6,6.07,5.86,5.5,5.65
-17085525006,MARIYA KHATOON,Zakir Husain Delhi College (Day),6.45,6.91,6.5,6,6.25,6.422
-17085525007,MD MUNTAZIR ALAM,Zakir Husain Delhi College (Day),5.91,6.27,5.86,5.71,7.25,6.2
-17085525008,RAMSHA,Zakir Husain Delhi College (Day),4.82,5.73,6.5,7.36,7,6.282
-17085525009,RUBY SHAHEEN,Zakir Husain Delhi College (Day),5.64,6.91,6.07,6.29,5,5.982
-17085525010,SANIA,Zakir Husain Delhi College (Day),5.36,6.09,5.86,4.57,4.5,5.276
-17086525001,MOHD ARIF,Zakir Husain College (Eve),6.64,6.09,6.5,6.93,7.75,6.782
-17086525003,ABDULLAH KHAN,Zakir Husain College (Eve),5.73,3.73,5.64,5,7.25,5.47
-17086525004,AKBAR ALI,Zakir Husain College (Eve),4.18,5.64,3.64,4.36,6.75,4.914
-17086525005,SIDRA MEHDI,Zakir Husain College (Eve),6.55,6.27,5.21,5.43,6.25,5.942
-17086525006,SYED ALI SAHIL NAQVI,Zakir Husain College (Eve),5.55,5.36,5.57,5.64,5.5,5.524
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Overall CGPA
+17086525001,MOHD ARIF,Zakir Husain College (Eve),6.64,6.09,6.50,6.93,7.75,6.790
+17086525003,ABDULLAH KHAN,Zakir Husain College (Eve),5.73,3.73,5.64,5.00,7.25,5.484
+17086525004,AKBAR ALI,Zakir Husain College (Eve),4.18,5.64,3.64,4.36,6.75,4.855
+17086525005,SIDRA MEHDI,Zakir Husain College (Eve),6.55,6.27,5.21,5.43,6.25,5.887
+17086525006,SYED ALI SAHIL NAQVI,Zakir Husain College (Eve),5.55,5.36,5.57,5.64,5.50,5.532
+17085525001,AAMIR BAIG,Zakir Husain Delhi College (Day),7.00,7.55,7.14,7.00,7.25,7.177
+17085525002,ANAM WARSI,Zakir Husain Delhi College (Day),7.27,8.45,7.50,6.00,5.75,6.952
+17085525003,FARHEEN,Zakir Husain Delhi College (Day),5.36,6.64,6.07,4.57,4.75,5.452
+17085525004,FARHEEN NAAZ,Zakir Husain Delhi College (Day),4.82,6.00,6.07,5.86,5.50,5.677
+17085525006,MARIYA KHATOON,Zakir Husain Delhi College (Day),6.45,6.91,6.50,6.00,6.25,6.403
+17085525007,MD MUNTAZIR ALAM,Zakir Husain Delhi College (Day),5.91,6.27,5.86,5.71,7.25,6.177
+17085525008,RAMSHA,Zakir Husain Delhi College (Day),4.82,5.73,6.50,7.36,7.00,6.355
+17085525009,RUBY SHAHEEN,Zakir Husain Delhi College (Day),5.64,6.91,6.07,6.29,5.00,5.984
+17085525010,SANIA,Zakir Husain Delhi College (Day),5.36,6.09,5.86,4.57,4.50,5.258

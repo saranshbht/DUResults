@@ -5,6 +5,8 @@ const path = require('path');
 const zlib = require('zlib');
 const axios = require('axios');
 const qs = require('qs');
+const csv = require('fast-csv');
+
 axios.defaults.withCredentials = true;
 
 let headers = {
@@ -132,8 +134,13 @@ let downloadHtmls = async(remaining, type, url, step, store_path) => {
 		// console.log('\nYear', year);
 		for (let course of remaining[year]) {
 			// console.log('\nCourse', course);
-			if (!Object.keys(courses_colleges).includes(course))
-				continue;
+			let new_course = false;
+			let to_be_removed = [];
+			if (!Object.keys(courses_colleges).includes(course)) {
+				new_course = true;
+				 let all_colleges = JSON.parse(fss.readFileSync('codes/collegeCodes.json').toString());
+				 courses_colleges[course] = all_colleges.map(obj => obj['CollegeCode']);
+			}
 
 			let issues = 0;
 			for (let college of courses_colleges[course]) {
@@ -173,6 +180,10 @@ let downloadHtmls = async(remaining, type, url, step, store_path) => {
 					});
 					if (count == step) {
 						if (j == 1) {
+							if (new_course) {
+								to_be_removed.push(college);
+								break;
+							}
 							issues++;
 							console.log('Error at', year, course, college);
 						}
@@ -189,6 +200,11 @@ let downloadHtmls = async(remaining, type, url, step, store_path) => {
 				if (!downloaded[year].includes(course))
 					downloaded[year].push(course);
 				fs.writeFile(`./downloaded${type}.json`, JSON.stringify(downloaded))
+				.catch(console.log);
+			}
+			if (new_course) {
+				courses_colleges[course] = courses_colleges[course].filter(e => !to_be_removed.includes(e));
+				fs.writeFile(`./coursesColleges.json`, JSON.stringify(courses_colleges))
 				.catch(console.log);
 			}
 		}
@@ -223,19 +239,23 @@ let gradeFun = data => {
 	});
 	// console.log(headers);
 	let sem_idx = headers.indexOf('Sem');
-	let sgpa_idx = headers.indexOf('SGPA');
-	let total = 0;
+	let tc_idx = headers.indexOf('Total Credit');
+	let tcp_idx = headers.indexOf('Total Credit Point');
+	let total_tc = 0;
+	let total_tcp = 0;
 
 	// from 2nd row to last
 	sem_table.slice(1).each(function () {
 
 		// only select cells having same index as their headings in the header row
 		let sem = $('td', this).eq(sem_idx).text();
-		let sgpa = $('td', this).eq(sgpa_idx).text();
-		semester['Sem' + sem] = sgpa;
-		total += parseFloat(sgpa);
+		let tc = $('td', this).eq(tc_idx).text();
+		let tcp = $('td', this).eq(tcp_idx).text();
+		semester['Sem-' + sem] = (tcp / tc).toFixed(2);
+		total_tc += parseFloat(tc);
+		total_tcp += parseFloat(tcp);
 	});
-	semester['Average'] = (total / (sem_table.length - 1)).toFixed(3);
+	semester['Overall CGPA'] = (total_tcp / total_tc).toFixed(3);
 
 	let sub_table = $('#gvshow tr');
 	headers = [];
@@ -298,7 +318,7 @@ let marksFun = data => {
 		let sem = $('td', this).eq(sem_idx).text();
 		let marks = $('td', this).eq(total_idx).text();
 		let max_marks = $('td', this).eq(max_total_idx).text();
-		semester['Sem' + sem] = marks + '/' + max_marks;
+		semester['Sem-' + sem] = marks + '/' + max_marks;
 		total += parseFloat(marks);
 		max_total += parseFloat(max_marks);
 	});
@@ -372,43 +392,47 @@ let makeJsons = (remaining, type, source_path, store_path, zip = false) => {
 			let all_sem = [];
 			for (let college of courses_colleges[course]) {
 				// console.log('\nCollege', college);
+				try {
+					// get all files in the folder
+					let rolls = fss.readdirSync(path.resolve(source_path, year, course, college));
 
-				// get all files in the folder
-				let rolls = fss.readdirSync(path.resolve(source_path, year, course, college));
+					// accumulators for a single college
+					let sub = [];
+					let sem = [];
+					rolls.map(roll => {
+						let filepath = path.resolve(source_path, year, course, college, roll);
+						let data = fss.readFileSync(filepath);
+						let [semester, subject] = type == 'Marks' ?
+							marksFun(data) : gradeFun(data);
+						sub.push(subject);
+						sem.push(semester);
 
-				// accumulators for a single college
-				let sub = [];
-				let sem = [];
-				rolls.map(roll => {
-					let filepath = path.resolve(source_path, year, course, college, roll);
-					let data = fss.readFileSync(filepath);
-					let [semester, subject] = type == 'Marks' ?
-						marksFun(data) : gradeFun(data);
-					sub.push(subject);
-					sem.push(semester);
+						all_sub.push(subject);
+						all_sem.push(semester);
+				 	});
 
-					all_sub.push(subject);
-					all_sem.push(semester);
-			 	});
+					let sub_dir = path.resolve(store_path, 'Subject', year, course);
+					let sem_dir = path.resolve(store_path, 'Semester', year, course);
 
-				let sub_dir = path.resolve(store_path, 'Subject', year, course);
-				let sem_dir = path.resolve(store_path, 'Semester', year, course);
+					fss.mkdirSync(sub_dir, { recursive: true });
+					fss.mkdirSync(sem_dir, { recursive: true });
 
-				fss.mkdirSync(sub_dir, { recursive: true });
-				fss.mkdirSync(sem_dir, { recursive: true });
+					let sub_data = properConvert(sub);
+					let sem_data = properConvert(sem);
 
-				let sub_data = properConvert(sub);
-				let sem_data = properConvert(sem);
+					// gzip data, if json-gzips are to be made
+					if (zip) {
+						sub_data = zlib.gzipSync(sub_data);
+						sem_data = zlib.gzipSync(sem_data);
+					}
 
-				// gzip data, if json-gzips are to be made
-				if (zip) {
-					sub_data = zlib.gzipSync(sub_data);
-					sem_data = zlib.gzipSync(sem_data);
+					fss.writeFileSync(path.resolve(sub_dir, college + '.json' + (zip ? '.gz' : '')), sub_data);
+					fss.writeFileSync(path.resolve(sem_dir, college + '.json' + (zip ? '.gz' : '')), sem_data);
+					console.log(type, year, course, college);
 				}
-
-				fss.writeFileSync(path.resolve(sub_dir, college + '.json' + (zip ? '.gz' : '')), sub_data);
-				fss.writeFileSync(path.resolve(sem_dir, college + '.json' + (zip ? '.gz' : '')), sem_data);
-				console.log(type, year, course, college);
+				catch (err) {
+					console.log(err);
+				}
 			}
 
 			let all_sub_data = properConvert(all_sub);
@@ -445,7 +469,9 @@ let jsonsToJsonGzips = (remaining, type, source_path) => {
 					// console.log('\nCollege', college);
 					let source_file = path.resolve(source_path, mode, year, course, college);
 					let store_file = path.resolve(store_path, mode, year, course, college + '.gz');
-
+					if (!fss.existsSync(path.resolve(store_path, mode, year, course))) {
+						fss.mkdirSync(path.resolve(store_path, mode, year, course), { recursive: true });
+					}
 					let data = fss.readFileSync(source_file);
 					fss.writeFileSync(store_file, zlib.gzipSync(data));
 				});
@@ -454,8 +480,35 @@ let jsonsToJsonGzips = (remaining, type, source_path) => {
 	}
 }
 
+let jsonsToCsvs = (remaining, type, source_path) => {
+	let store_path = path.resolve(source_path.replace('json', 'csv'), type);
+	source_path = path.resolve(source_path, type);
 
-const courses_colleges = JSON.parse(fss.readFileSync('./coursesColleges.json').toString());
+	for (let mode of ['Semester', 'Subject']) {
+		for (let year of Object.keys(remaining)) {
+			// console.log('\nYear', year);
+			for (let course of remaining[year]) {
+				// console.log('\nCourse', course);
+				if (!Object.keys(courses_colleges).includes(course))
+					continue;
+				let colleges = fss.readdirSync(path.resolve(source_path, mode, year, course));
+				colleges.map(college => {
+					// console.log('\nCollege', college);
+					let source_file = path.resolve(source_path, mode, year, course, college);
+					let store_file = path.resolve(store_path, mode, year, course, college.slice(0, -4) + 'csv');
+					if (!fss.existsSync(path.resolve(store_path, mode, year, course))) {
+						fss.mkdirSync(path.resolve(store_path, mode, year, course), { recursive: true });
+					}
+					let data = JSON.parse(fss.readFileSync(source_file).toString());
+					data['data'].unshift(data['keys']);
+					csv.writeToPath(store_file, data['data']);
+				});
+			}
+		}
+	}
+}
+
+let courses_colleges = JSON.parse(fss.readFileSync('./coursesColleges.json').toString());
 
 let downloaded = {};
 let updated = {};
@@ -477,5 +530,6 @@ module.exports = {
 	downloadHtmls,
 	makeJsons,
 	loadFiles,
-	jsonsToJsonGzips
+	jsonsToJsonGzips,
+	jsonsToCsvs
 }

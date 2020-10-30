@@ -1,69 +1,70 @@
-RollNo,Name,College,SemI,SemII,Average
-19067570001,HARSHIT GUPTA,Shaheed Sukhdev College of Business Studies,8.73,9,8.865
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19067570001,HARSHIT GUPTA,Shaheed Sukhdev College of Business Studies,8.73,9.00,8.864
 19067570002,HRITHIK KAURA,Shaheed Sukhdev College of Business Studies,9.27,9.82,9.545
-19067570003,SRISHTI WADHERA,Shaheed Sukhdev College of Business Studies,9.82,9.82,9.82
-19067570004,AYUSH CHHABRA,Shaheed Sukhdev College of Business Studies,9.27,9.27,9.27
+19067570003,SRISHTI WADHERA,Shaheed Sukhdev College of Business Studies,9.82,9.82,9.818
+19067570004,AYUSH CHHABRA,Shaheed Sukhdev College of Business Studies,9.27,9.27,9.273
 19067570005,EKANSH DHINGRA,Shaheed Sukhdev College of Business Studies,9.27,9.82,9.545
-19067570006,PARAS VERMA,Shaheed Sukhdev College of Business Studies,7.91,8.55,8.23
-19067570007,AKSHIT WALIAN,Shaheed Sukhdev College of Business Studies,6.64,8.55,7.595
-19067570008,BHAVYA PANDEY,Shaheed Sukhdev College of Business Studies,8.45,9,8.725
+19067570006,PARAS VERMA,Shaheed Sukhdev College of Business Studies,7.91,8.55,8.227
+19067570007,AKSHIT WALIAN,Shaheed Sukhdev College of Business Studies,6.64,8.55,7.591
+19067570008,BHAVYA PANDEY,Shaheed Sukhdev College of Business Studies,8.45,9.00,8.727
 19067570009,HARI OM MISHRA,Shaheed Sukhdev College of Business Studies,9.27,9.82,9.545
-19067570010,KING BALIYAN,Shaheed Sukhdev College of Business Studies,8.45,8.73,8.59
-19067570011,AMAN GAUR,Shaheed Sukhdev College of Business Studies,8.18,9,8.59
-19067570012,SEJAL  GUPTA,Shaheed Sukhdev College of Business Studies,9.55,9.82,9.685
+19067570010,KING BALIYAN,Shaheed Sukhdev College of Business Studies,8.45,8.73,8.591
+19067570011,AMAN GAUR,Shaheed Sukhdev College of Business Studies,8.18,9.00,8.591
+19067570012,SEJAL  GUPTA,Shaheed Sukhdev College of Business Studies,9.55,9.82,9.682
 19067570013,PRATYUSH SRIJAN,Shaheed Sukhdev College of Business Studies,9.09,9.82,9.455
-19067570014,SHIVAM GUPTA,Shaheed Sukhdev College of Business Studies,8.73,9,8.865
-19067570015,SHREYANSH SINGH,Shaheed Sukhdev College of Business Studies,9,8.73,8.865
-19067570016,SHIVANSH MEHENDIRATTA,Shaheed Sukhdev College of Business Studies,8.45,9,8.725
-19067570017,NITI TYAGI,Shaheed Sukhdev College of Business Studies,9.55,9,9.275
-19067570018,VIRAJ JAYANT,Shaheed Sukhdev College of Business Studies,9.27,9.27,9.27
-19067570019,ARUN KUMAR,Shaheed Sukhdev College of Business Studies,9.27,9.27,9.27
-19067570020,KANIKA TANWAR,Shaheed Sukhdev College of Business Studies,9.09,9.55,9.32
+19067570014,SHIVAM GUPTA,Shaheed Sukhdev College of Business Studies,8.73,9.00,8.864
+19067570015,SHREYANSH SINGH,Shaheed Sukhdev College of Business Studies,9.00,8.73,8.864
+19067570016,SHIVANSH MEHENDIRATTA,Shaheed Sukhdev College of Business Studies,8.45,9.00,8.727
+19067570017,NITI TYAGI,Shaheed Sukhdev College of Business Studies,9.55,9.00,9.273
+19067570018,VIRAJ JAYANT,Shaheed Sukhdev College of Business Studies,9.27,9.27,9.273
+19067570019,ARUN KUMAR,Shaheed Sukhdev College of Business Studies,9.27,9.27,9.273
+19067570020,KANIKA TANWAR,Shaheed Sukhdev College of Business Studies,9.09,9.55,9.318
 19067570021,RHEA GUPTA,Shaheed Sukhdev College of Business Studies,6.36,8.55,7.455
 19067570022,ISHAN SONI,Shaheed Sukhdev College of Business Studies,9.27,9.82,9.545
-19067570023,SHIVAM PANDEY,Shaheed Sukhdev College of Business Studies,6.36,7.27,6.815
-19067570024,SHUBHAM DHIMAN,Shaheed Sukhdev College of Business Studies,8.73,9.55,9.14
-19067570025,MANAN BEDI,Shaheed Sukhdev College of Business Studies,9.73,9.55,9.64
+19067570023,SHIVAM PANDEY,Shaheed Sukhdev College of Business Studies,6.36,7.27,6.818
+19067570024,SHUBHAM DHIMAN,Shaheed Sukhdev College of Business Studies,8.73,9.55,9.136
+19067570025,MANAN BEDI,Shaheed Sukhdev College of Business Studies,9.73,9.55,9.636
 19067570026,GURINDERPAL SINGH,Shaheed Sukhdev College of Business Studies,9.27,9.82,9.545
-19067570028,YUVRAJ SINGH RAGHAV,Shaheed Sukhdev College of Business Studies,6.64,8,7.32
-19067570029,KUSHAGRA KAUSHIK,Shaheed Sukhdev College of Business Studies,7.73,8.27,8
-19067570030,AAKANKSHA PANWAR,Shaheed Sukhdev College of Business Studies,7.91,8.27,8.09
-19067570031,SHEFALIKA GHOSH,Shaheed Sukhdev College of Business Studies,9.27,9.27,9.27
-19067570032,VAISHNAVI KHARE,Shaheed Sukhdev College of Business Studies,8.45,8.82,8.635
-19067570033,AKSHAJ KRISHNAN,Shaheed Sukhdev College of Business Studies,7.45,7.82,7.635
-19067570034,YASH GOEL,Shaheed Sukhdev College of Business Studies,8.45,9,8.725
-19067570035,ISHAAN MALIK,Shaheed Sukhdev College of Business Studies,8.73,9.55,9.14
-19067570036,MADHUR AGGARWAL,Shaheed Sukhdev College of Business Studies,8.55,9,8.775
+19067570027,GAURAV SINGH KANYAL,Shaheed Sukhdev College of Business Studies,0.00,,0.000
+19067570028,YUVRAJ SINGH RAGHAV,Shaheed Sukhdev College of Business Studies,6.64,8.00,7.318
+19067570029,KUSHAGRA KAUSHIK,Shaheed Sukhdev College of Business Studies,7.73,8.27,8.000
+19067570030,AAKANKSHA PANWAR,Shaheed Sukhdev College of Business Studies,7.91,8.27,8.091
+19067570031,SHEFALIKA GHOSH,Shaheed Sukhdev College of Business Studies,9.27,9.27,9.273
+19067570032,VAISHNAVI KHARE,Shaheed Sukhdev College of Business Studies,8.45,8.82,8.636
+19067570033,AKSHAJ KRISHNAN,Shaheed Sukhdev College of Business Studies,7.45,7.82,7.636
+19067570034,YASH GOEL,Shaheed Sukhdev College of Business Studies,8.45,9.00,8.727
+19067570035,ISHAAN MALIK,Shaheed Sukhdev College of Business Studies,8.73,9.55,9.136
+19067570036,MADHUR AGGARWAL,Shaheed Sukhdev College of Business Studies,8.55,9.00,8.773
 19067570037,ANUBHAV PRATAP SINGH,Shaheed Sukhdev College of Business Studies,9.27,9.82,9.545
-19067570038,ARPAN,Shaheed Sukhdev College of Business Studies,7.45,8,7.725
-19067570039,SAMARTH AGARWAL,Shaheed Sukhdev College of Business Studies,8.82,9,8.91
-19067570040,NANDINI PRIYA,Shaheed Sukhdev College of Business Studies,9.55,9.82,9.685
-19067570041,TANYA SINGH,Shaheed Sukhdev College of Business Studies,8.36,9,8.68
-19067570042,AYUSH TYAGI,Shaheed Sukhdev College of Business Studies,9.55,9.82,9.685
-19067570043,YUVRAJ CHANDRA,Shaheed Sukhdev College of Business Studies,8.82,9,8.91
-19067570044,SUYASH AGARWAL,Shaheed Sukhdev College of Business Studies,7.73,8.55,8.14
+19067570038,ARPAN,Shaheed Sukhdev College of Business Studies,7.45,8.00,7.727
+19067570039,SAMARTH AGARWAL,Shaheed Sukhdev College of Business Studies,8.82,9.00,8.909
+19067570040,NANDINI PRIYA,Shaheed Sukhdev College of Business Studies,9.55,9.82,9.682
+19067570041,TANYA SINGH,Shaheed Sukhdev College of Business Studies,8.36,9.00,8.682
+19067570042,AYUSH TYAGI,Shaheed Sukhdev College of Business Studies,9.55,9.82,9.682
+19067570043,YUVRAJ CHANDRA,Shaheed Sukhdev College of Business Studies,8.82,9.00,8.909
+19067570044,SUYASH AGARWAL,Shaheed Sukhdev College of Business Studies,7.73,8.55,8.136
 19067570045,SHIVAM GUPTA,Shaheed Sukhdev College of Business Studies,8.82,9.27,9.045
-19067570046,HARSH RAJ,Shaheed Sukhdev College of Business Studies,8.27,8.73,8.5
-19067570047,DEEPESH KULBHUSHAN SAGAR,Shaheed Sukhdev College of Business Studies,7,8,7.5
-19067570048,SPARSH SHARMA,Shaheed Sukhdev College of Business Studies,9.09,9.27,9.18
-19067570049,SOMYA PANDIT,Shaheed Sukhdev College of Business Studies,7,8.55,7.775
-19067570050,PARAS PRATEEK,Shaheed Sukhdev College of Business Studies,9.09,9.55,9.32
+19067570046,HARSH RAJ,Shaheed Sukhdev College of Business Studies,8.27,8.73,8.500
+19067570047,DEEPESH KULBHUSHAN SAGAR,Shaheed Sukhdev College of Business Studies,7.00,8.00,7.500
+19067570048,SPARSH SHARMA,Shaheed Sukhdev College of Business Studies,9.09,9.27,9.182
+19067570049,SOMYA PANDIT,Shaheed Sukhdev College of Business Studies,7.00,8.55,7.773
+19067570050,PARAS PRATEEK,Shaheed Sukhdev College of Business Studies,9.09,9.55,9.318
 19067570051,KHUSHI JAIN,Shaheed Sukhdev College of Business Studies,5.82,7.27,6.545
-19067570052,SAIJAL BHALLA,Shaheed Sukhdev College of Business Studies,8.55,9.27,8.91
-19067570053,SIPU SRIVASTAVA,Shaheed Sukhdev College of Business Studies,9,9,9
-19067570054,SADHANA SHRIVASTAVA,Shaheed Sukhdev College of Business Studies,8.73,9.27,9
-19067570055,PUSHPIT BHARDWAJ,Shaheed Sukhdev College of Business Studies,8.55,9.27,8.91
+19067570052,SAIJAL BHALLA,Shaheed Sukhdev College of Business Studies,8.55,9.27,8.909
+19067570053,SIPU SRIVASTAVA,Shaheed Sukhdev College of Business Studies,9.00,9.00,9.000
+19067570054,SADHANA SHRIVASTAVA,Shaheed Sukhdev College of Business Studies,8.73,9.27,9.000
+19067570055,PUSHPIT BHARDWAJ,Shaheed Sukhdev College of Business Studies,8.55,9.27,8.909
 19067570056,SHIVANI ARYA,Shaheed Sukhdev College of Business Studies,7.91,8.18,8.045
-19067570057,VIVEK KARANWAL,Shaheed Sukhdev College of Business Studies,7.09,8.55,7.82
-19067570058,YOGESHWAR,Shaheed Sukhdev College of Business Studies,6.18,8.09,7.135
-19067570059,ADITYA,Shaheed Sukhdev College of Business Studies,6.91,8,7.455
-19067570060,MAYANK,Shaheed Sukhdev College of Business Studies,8.09,9,8.545
-19067570061,ANUSHAKA GURJAR,Shaheed Sukhdev College of Business Studies,7.18,8.55,7.865
-19067570062,SHUBHAM KUMAR,Shaheed Sukhdev College of Business Studies,7.73,8,7.865
-19067570063,TENZIN PHENDE,Shaheed Sukhdev College of Business Studies,8,9,8.5
-19067570064,AMAN RAJ SHARMA,Shaheed Sukhdev College of Business Studies,7.73,8.27,8
-19067570065,ANIKET KUMAR GUPTA,Shaheed Sukhdev College of Business Studies,7,8,7.5
-19067570066,VAMSHI HRUTHIK GAJULA,Shaheed Sukhdev College of Business Studies,3.82,2.18,3
-19067570067,ABHISHEK BASISTA,Shaheed Sukhdev College of Business Studies,7.18,8.55,7.865
-19067570068,HIMANSHU CHAHAL,Shaheed Sukhdev College of Business Studies,8.27,9.27,8.77
-19067570069,TANU PRATAP,Shaheed Sukhdev College of Business Studies,7.55,8.27,7.91
+19067570057,VIVEK KARANWAL,Shaheed Sukhdev College of Business Studies,7.09,8.55,7.818
+19067570058,YOGESHWAR,Shaheed Sukhdev College of Business Studies,6.18,8.09,7.136
+19067570059,ADITYA,Shaheed Sukhdev College of Business Studies,6.91,8.00,7.455
+19067570060,MAYANK,Shaheed Sukhdev College of Business Studies,8.09,9.00,8.545
+19067570061,ANUSHAKA GURJAR,Shaheed Sukhdev College of Business Studies,7.18,8.55,7.864
+19067570062,SHUBHAM KUMAR,Shaheed Sukhdev College of Business Studies,7.73,8.00,7.864
+19067570063,TENZIN PHENDE,Shaheed Sukhdev College of Business Studies,8.00,9.00,8.500
+19067570064,AMAN RAJ SHARMA,Shaheed Sukhdev College of Business Studies,7.73,8.27,8.000
+19067570065,ANIKET KUMAR GUPTA,Shaheed Sukhdev College of Business Studies,7.00,8.00,7.500
+19067570066,VAMSHI HRUTHIK GAJULA,Shaheed Sukhdev College of Business Studies,3.82,2.18,3.000
+19067570067,ABHISHEK BASISTA,Shaheed Sukhdev College of Business Studies,7.18,8.55,7.864
+19067570068,HIMANSHU CHAHAL,Shaheed Sukhdev College of Business Studies,8.27,9.27,8.773
+19067570069,TANU PRATAP,Shaheed Sukhdev College of Business Studies,7.55,8.27,7.909

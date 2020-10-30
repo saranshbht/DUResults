@@ -1,6 +1,6 @@
-RollNo,Name,College,SemI,SemII,Total,Percentage
+RollNo,Name,College,Sem-I,Sem-II,Total,Percentage
 19009564001,ANJALI SAGAR,Bhaskaracharya College of Applied Sciences,482/550,494/550,976/1100,88.727
-19009564002,AISHWARYA R NAIR,Bhaskaracharya College of Applied Sciences,426/500,429/500,855/1000,85.5
+19009564002,AISHWARYA R NAIR,Bhaskaracharya College of Applied Sciences,426/500,429/500,855/1000,85.500
 19009564003,NANCY,Bhaskaracharya College of Applied Sciences,451/550,494/550,945/1100,85.909
 19009564004,CHETANA MEENA,Bhaskaracharya College of Applied Sciences,466/550,477/550,943/1100,85.727
 19009564005,SIMRAN YADAV,Bhaskaracharya College of Applied Sciences,473/550,492/550,965/1100,87.727
@@ -8,7 +8,7 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19009564007,HEENA,Bhaskaracharya College of Applied Sciences,416/550,429/550,845/1100,76.818
 19009564008,MUSKAN MADAAN,Bhaskaracharya College of Applied Sciences,458/550,437/500,895/1050,85.238
 19009564009,HITIKK  CHAWLA,Bhaskaracharya College of Applied Sciences,446/550,461/550,907/1100,82.455
-19009564010,ARIF KHAN,Bhaskaracharya College of Applied Sciences,234/500,325/500,559/1000,55.9
+19009564010,ARIF KHAN,Bhaskaracharya College of Applied Sciences,234/500,325/500,559/1000,55.900
 19009564011,ARNAB BASAK,Bhaskaracharya College of Applied Sciences,429/550,471/550,900/1100,81.818
 19009564012,DHRUV SAKKARWAL,Bhaskaracharya College of Applied Sciences,382/550,450/550,832/1100,75.636
 19009564013,TRISHNA  RAI,Bhaskaracharya College of Applied Sciences,407/550,406/500,813/1050,77.429
@@ -24,8 +24,9 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19009564024,RIMMI,Bhaskaracharya College of Applied Sciences,402/550,453/550,855/1100,77.727
 19009564026,VARUN RAWAT,Bhaskaracharya College of Applied Sciences,415/550,424/550,839/1100,76.273
 19009564027,DEEPANSHI KARWALL,Bhaskaracharya College of Applied Sciences,396/500,455/550,851/1050,81.048
-19009564028,KRITIKA  GARG,Bhaskaracharya College of Applied Sciences,477/550,491/550,968/1100,88
+19009564028,KRITIKA  GARG,Bhaskaracharya College of Applied Sciences,477/550,491/550,968/1100,88.000
+19009564029,ESHA PILLEWAR,Bhaskaracharya College of Applied Sciences,47/500,,47/500,9.400
 19009564031,ANJALI ROY,Bhaskaracharya College of Applied Sciences,463/550,495/550,958/1100,87.091
-19009564032,DEVENDER SINGH,Bhaskaracharya College of Applied Sciences,332/550,416/550,748/1100,68
-19009564033,PRANAV CHAWLA,Bhaskaracharya College of Applied Sciences,441/550,483/550,924/1100,84
+19009564032,DEVENDER SINGH,Bhaskaracharya College of Applied Sciences,332/550,416/550,748/1100,68.000
+19009564033,PRANAV CHAWLA,Bhaskaracharya College of Applied Sciences,441/550,483/550,924/1100,84.000
 19009564034,SHIVAM GUPTA,Bhaskaracharya College of Applied Sciences,334/550,389/550,723/1100,65.727

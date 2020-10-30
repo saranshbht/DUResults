@@ -1,44 +1,46 @@
-RollNo,Name,College,SemI,SemII,Average
-19013570001,ADARSH KUMAR,College Of Vocational Studies,7.91,9.09,8.5
-19013570002,ABHISHEK PHULERA,College Of Vocational Studies,8,8.09,8.045
-19013570003,AKSHIT SANGAL,College Of Vocational Studies,8.18,9.09,8.635
-19013570005,BHANU PRATAP,College Of Vocational Studies,5.36,8.09,6.725
-19013570006,DHARMENDRA BHATI,College Of Vocational Studies,6.55,7.82,7.185
-19013570007,DEEPAK,College Of Vocational Studies,6.27,7.55,6.91
-19013570008,DIGVIJAY SINGH,College Of Vocational Studies,7.09,8.55,7.82
-19013570009,DIVYA PANDEY,College Of Vocational Studies,8.18,8.82,8.5
-19013570010,GURPREET SINGH,College Of Vocational Studies,8.45,8.82,8.635
-19013570011,HARSH JAIN,College Of Vocational Studies,8.09,8.55,8.32
-19013570012,HARSH KUMAR,College Of Vocational Studies,6.55,8.55,7.55
-19013570013,KARTIK,College Of Vocational Studies,6.45,7.55,7
-19013570014,KANISHK MADHUKAR,College Of Vocational Studies,5.73,6.55,6.14
-19013570015,KRISHNA GUPTA,College Of Vocational Studies,7.09,6.55,6.82
-19013570016,KHUSHAL RASTOGI,College Of Vocational Studies,8.64,9.82,9.23
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19013570001,ADARSH KUMAR,College Of Vocational Studies,7.91,9.09,8.500
+19013570002,ABHISHEK PHULERA,College Of Vocational Studies,8.00,8.09,8.045
+19013570003,AKSHIT SANGAL,College Of Vocational Studies,8.18,9.09,8.636
+19013570004,ATUL KUMAR,College Of Vocational Studies,0.00,,0.000
+19013570005,BHANU PRATAP,College Of Vocational Studies,5.36,8.09,6.727
+19013570006,DHARMENDRA BHATI,College Of Vocational Studies,6.55,7.82,7.182
+19013570007,DEEPAK,College Of Vocational Studies,6.27,7.55,6.909
+19013570008,DIGVIJAY SINGH,College Of Vocational Studies,7.09,8.55,7.818
+19013570009,DIVYA PANDEY,College Of Vocational Studies,8.18,8.82,8.500
+19013570010,GURPREET SINGH,College Of Vocational Studies,8.45,8.82,8.636
+19013570011,HARSH JAIN,College Of Vocational Studies,8.09,8.55,8.318
+19013570012,HARSH KUMAR,College Of Vocational Studies,6.55,8.55,7.545
+19013570013,KARTIK,College Of Vocational Studies,6.45,7.55,7.000
+19013570014,KANISHK MADHUKAR,College Of Vocational Studies,5.73,6.55,6.136
+19013570015,KRISHNA GUPTA,College Of Vocational Studies,7.09,6.55,6.818
+19013570016,KHUSHAL RASTOGI,College Of Vocational Studies,8.64,9.82,9.227
 19013570017,KUNAL GAUR,College Of Vocational Studies,7.27,7.82,7.545
-19013570018,KUNAL SINGH,College Of Vocational Studies,5.91,7.82,6.865
-19013570019,MANISH KUMAR,College Of Vocational Studies,0.73,0.91,0.82
-19013570020,MANISH PAL,College Of Vocational Studies,4.91,5.73,5.32
-19013570021,MAYANK KUMAR,College Of Vocational Studies,8.27,9.09,8.68
-19013570022,MEHAK KATARIA,College Of Vocational Studies,8.82,9.55,9.185
-19013570023,MOHINI YADAV,College Of Vocational Studies,5.18,7.09,6.135
+19013570018,KUNAL SINGH,College Of Vocational Studies,5.91,7.82,6.864
+19013570019,MANISH KUMAR,College Of Vocational Studies,0.73,0.91,0.818
+19013570020,MANISH PAL,College Of Vocational Studies,4.91,5.73,5.318
+19013570021,MAYANK KUMAR,College Of Vocational Studies,8.27,9.09,8.682
+19013570022,MEHAK KATARIA,College Of Vocational Studies,8.82,9.55,9.182
+19013570023,MOHINI YADAV,College Of Vocational Studies,5.18,7.09,6.136
+19013570024,MOHIT CHOUDHARY,College Of Vocational Studies,6.00,,6.000
 19013570025,NISHTHA KHURANA,College Of Vocational Studies,5.27,7.82,6.545
-19013570026,OMSATYAM SHARMA,College Of Vocational Studies,7.18,8.09,7.635
-19013570027,PRACHI SHARMA,College Of Vocational Studies,7.18,8.82,8
-19013570028,PREETY,College Of Vocational Studies,9.18,9.27,9.225
-19013570029,PRANAV ARORA,College Of Vocational Studies,8,8.82,8.41
-19013570030,PRITI GUPTA,College Of Vocational Studies,8.55,9.09,8.82
-19013570031,PRIYANSHU MAIKHURI,College Of Vocational Studies,7.73,8.55,8.14
-19013570032,RAVI ANAND,College Of Vocational Studies,4.64,7.09,5.865
-19013570033,RISHABH CHAUHAN,College Of Vocational Studies,6.18,7.27,6.725
+19013570026,OMSATYAM SHARMA,College Of Vocational Studies,7.18,8.09,7.636
+19013570027,PRACHI SHARMA,College Of Vocational Studies,7.18,8.82,8.000
+19013570028,PREETY,College Of Vocational Studies,9.18,9.27,9.227
+19013570029,PRANAV ARORA,College Of Vocational Studies,8.00,8.82,8.409
+19013570030,PRITI GUPTA,College Of Vocational Studies,8.55,9.09,8.818
+19013570031,PRIYANSHU MAIKHURI,College Of Vocational Studies,7.73,8.55,8.136
+19013570032,RAVI ANAND,College Of Vocational Studies,4.64,7.09,5.864
+19013570033,RISHABH CHAUHAN,College Of Vocational Studies,6.18,7.27,6.727
 19013570034,ROHIT JETHI,College Of Vocational Studies,6.27,7.64,6.955
-19013570035,ROHIT KUMAR YADAV,College Of Vocational Studies,5.45,7.09,6.27
-19013570036,SAGAR ADHIKARI,College Of Vocational Studies,7.82,8.55,8.185
-19013570037,SHIVAM YADAV,College Of Vocational Studies,7.45,8.55,8
-19013570038,SIDDHANT CHHATWAL,College Of Vocational Studies,5.27,6.55,5.91
-19013570039,SUMIT KUMAR DAS,College Of Vocational Studies,4.73,7.27,6
-19013570040,VINEET SHARMA,College Of Vocational Studies,6.09,7.55,6.82
-19013570041,VIPIN KUMAR GUPTA,College Of Vocational Studies,6.45,7.82,7.135
-19013570042,VIVEK PANDEY,College Of Vocational Studies,5.45,7.55,6.5
-19013570043,SIMRAN ARORA,College Of Vocational Studies,6.91,8.64,7.775
-19013570044,NITIN TANWAR,College Of Vocational Studies,7.73,6.45,7.09
-19013570045,UMANG TAYAL,College Of Vocational Studies,2,2.73,2.365
+19013570035,ROHIT KUMAR YADAV,College Of Vocational Studies,5.45,7.09,6.273
+19013570036,SAGAR ADHIKARI,College Of Vocational Studies,7.82,8.55,8.182
+19013570037,SHIVAM YADAV,College Of Vocational Studies,7.45,8.55,8.000
+19013570038,SIDDHANT CHHATWAL,College Of Vocational Studies,5.27,6.55,5.909
+19013570039,SUMIT KUMAR DAS,College Of Vocational Studies,4.73,7.27,6.000
+19013570040,VINEET SHARMA,College Of Vocational Studies,6.09,7.55,6.818
+19013570041,VIPIN KUMAR GUPTA,College Of Vocational Studies,6.45,7.82,7.136
+19013570042,VIVEK PANDEY,College Of Vocational Studies,5.45,7.55,6.500
+19013570043,SIMRAN ARORA,College Of Vocational Studies,6.91,8.64,7.773
+19013570044,NITIN TANWAR,College Of Vocational Studies,7.73,6.45,7.091
+19013570045,UMANG TAYAL,College Of Vocational Studies,2.00,2.73,2.364

@@ -1,4 +1,4 @@
-RollNo,Name,College,SemI,SemII,SemIII,SemIV,Total,Percentage
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Total,Percentage
 18066535001,AIMEN AZIZ,Shaheed Rajguru College of Applied Sciences for Women,247/400,333/450,329/500,392/500,1301/1850,70.324
 18066535002,ANISHA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,318/400,325/450,367/500,406/500,1416/1850,76.541
 18066535003,ANSHU MALHOTRA,Shaheed Rajguru College of Applied Sciences for Women,326/400,400/450,394/500,413/500,1533/1850,82.865
@@ -10,8 +10,8 @@ RollNo,Name,College,SemI,SemII,SemIII,SemIV,Total,Percentage
 18066535009,GUNJAN GOEL,Shaheed Rajguru College of Applied Sciences for Women,360/400,429/450,425/500,436/500,1650/1850,89.189
 18066535010,HARLEEN KAUR,Shaheed Rajguru College of Applied Sciences for Women,259/400,317/450,294/500,341/500,1211/1850,65.459
 18066535011,HARSHITA  SINGHAL,Shaheed Rajguru College of Applied Sciences for Women,274/400,381/450,342/500,376/500,1373/1850,74.216
-18066535012,HRISHITA ANAND,Shaheed Rajguru College of Applied Sciences for Women,284/400,335/450,333/500,385/500,1337/1850,72.27
-18066535013,JAISVEEN KAUR KOHLI,Shaheed Rajguru College of Applied Sciences for Women,287/400,348/400,403/500,420/500,1458/1800,81
+18066535012,HRISHITA ANAND,Shaheed Rajguru College of Applied Sciences for Women,284/400,335/450,333/500,385/500,1337/1850,72.270
+18066535013,JAISVEEN KAUR KOHLI,Shaheed Rajguru College of Applied Sciences for Women,287/400,348/400,403/500,420/500,1458/1800,81.000
 18066535014,KHUSHBOO  YADAV,Shaheed Rajguru College of Applied Sciences for Women,277/400,352/450,316/500,356/500,1301/1850,70.324
 18066535015,MANSI MATHUR,Shaheed Rajguru College of Applied Sciences for Women,344/400,411/450,414/500,406/500,1575/1850,85.135
 18066535016,MUSKAN   JAIN,Shaheed Rajguru College of Applied Sciences for Women,305/400,388/450,390/500,427/500,1510/1850,81.622

@@ -1,75 +1,76 @@
-RollNo,Name,College,SemI,SemII,SemIII,SemIV,Total,Percentage
-18059504002,AYUSH NANDA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],294/400,305/400,340/500,360/500,1299/1800,72.167
-18059504003,RISHITA BHANDARI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],307/400,281/400,357/500,409/500,1354/1800,75.222
-18059504004,JESSICA CHHABRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],273/400,281/400,317/500,368/500,1239/1800,68.833
-18059504005,TUSHAR KAIM,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],274/400,258/400,326/500,390/500,1248/1800,69.333
-18059504006,MOHIT SINGH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],346/400,319/400,416/500,448/500,1529/1800,84.944
-18059504007,RUCHIKA GUPTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],347/400,293/400,381/500,430/500,1451/1800,80.611
-18059504008,SNEHASISH DUTTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],231/400,217/400,314/500,364/500,1126/1800,62.556
-18059504009,UTSAV JAIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],311/400,293/400,388/500,426/500,1418/1800,78.778
-18059504010,RAVINDRA KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],285/400,286/400,347/500,399/500,1317/1800,73.167
-18059504011,GIRISH CHAHAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],287/400,289/400,358/500,397/500,1331/1800,73.944
-18059504012,OM PRAKASH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],283/400,253/400,344/500,402/500,1282/1800,71.222
-18059504013,KULBIR KAUR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],266/400,274/400,348/500,390/500,1278/1800,71
-18059504014,ARYAN GIRDHAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],269/400,247/400,311/500,364/500,1191/1800,66.167
-18059504015,AARYAN VOHRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],227/400,249/400,332/500,367/500,1175/1800,65.278
-18059504016,AVI JAIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],273/400,260/400,352/500,378/500,1263/1800,70.167
-18059504018,AYUSH AGARWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],278/400,276/400,352/500,388/500,1294/1800,71.889
-18059504019,ANANYA AWASTHI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],299/400,287/400,373/500,405/500,1364/1800,75.778
-18059504020,RAHUL GUSAIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],291/400,296/400,374/500,398/500,1359/1800,75.5
-18059504021,ABHISHEK PRASAD,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],204/400,237/400,292/500,364/500,1097/1800,60.944
-18059504022,PARTH GOEL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],275/400,269/400,342/500,372/500,1258/1800,69.889
-18059504023,PARAS MITTAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],248/400,139/400,284/500,290/500,961/1800,53.389
-18059504024,PRAJVAL GUPTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],320/400,298/400,386/500,418/500,1422/1800,79
-18059504025,ARCHIT AGGARWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],278/400,288/400,383/500,422/500,1371/1800,76.167
-18059504026,RAVEENA YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],259/400,295/400,337/500,382/500,1273/1800,70.722
-18059504027,ARPIT PUROHIT,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],168/400,145/400,230/500,242/500,785/1800,43.611
-18059504028,HIMANSHU VERMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],198/400,203/400,200/500,301/500,902/1800,50.111
-18059504029,RISHABH VOHRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],288/400,251/400,325/500,331/500,1195/1800,66.389
-18059504030,GAGAN KOHLI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],301/400,294/400,344/500,383/500,1322/1800,73.444
-18059504031,SANYAM KATOCH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],298/400,278/400,330/500,380/500,1286/1800,71.444
-18059504033,HRITIK SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],269/400,244/400,271/500,284/500,1068/1800,59.333
-18059504034,RITIKA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],245/400,260/400,297/500,322/500,1124/1800,62.444
-18059504035,SHIWANGI GAUTAM,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],157/400,207/400,259/500,307/500,930/1800,51.667
-18059504036,AMIT MALIK,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],218/400,213/400,295/500,331/500,1057/1800,58.722
-18059504037,HEMANT,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],211/400,159/400,264/500,306/500,940/1800,52.222
-18059504038,MOHD. DILSHAD,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],271/400,242/400,323/500,375/500,1211/1800,67.278
-18059504039,SUMIT KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],240/400,197/400,307/500,345/500,1089/1800,60.5
-18059504040,AMIT,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],226/400,242/400,303/500,364/500,1135/1800,63.056
-18059504041,GULSHAN KUMAR MAURYA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],241/400,229/400,283/500,357/500,1110/1800,61.667
-18059504042,ASHUTOSH SINGH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],218/400,203/400,314/500,355/500,1090/1800,60.556
-18059504043,PULKIT GOLA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],242/400,182/400,272/500,334/500,1030/1800,57.222
-18059504044,TUSHAR GOLA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],169/400,159/400,177/500,173/500,678/1800,37.667
-18059504045,JUGNU,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],202/400,190/400,260/500,327/500,979/1800,54.389
-18059504046,VISHAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],166/400,198/400,261/500,329/500,954/1800,53
-18059504047,NITIKA NAGAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],218/400,256/400,297/500,350/500,1121/1800,62.278
-18059504048,LAKSHAY SONI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],210/400,185/400,299/500,344/500,1038/1800,57.667
-18059504049,DIPIKA SAKKARWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],209/400,190/400,280/500,332/500,1011/1800,56.167
-18059504050,ANJALI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],197/400,200/400,279/500,304/500,980/1800,54.444
-18059504051,ARCHANA C,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],216/400,188/400,222/500,306/500,932/1800,51.778
-18059504052,KUNAL SAIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],231/400,181/400,246/500,308/500,966/1800,53.667
-18059504053,ROHIT KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],207/400,174/400,274/500,311/500,966/1800,53.667
-18059504054,AVINASH KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],283/400,253/400,335/500,388/500,1259/1800,69.944
-18059504055,GAURAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],169/400,148/400,225/500,272/500,814/1800,45.222
-18059504056,ASHISH KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],127/400,112/400,196/500,211/500,646/1800,35.889
-18059504057,BUNTY,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],233/400,237/400,295/500,358/500,1123/1800,62.389
-18059504058,ANKIT,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],256/400,208/400,285/500,373/500,1122/1800,62.333
-18059504059,VINOD KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],191/400,160/400,257/500,339/500,947/1800,52.611
-18059504060,SHIVANI YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],142/400,124/400,295/500,247/500,808/1800,44.889
-18059504061,VIPIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],173/400,162/400,226/500,297/500,858/1800,47.667
-18059504062,HARSH KESHRI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],201/400,190/400,287/500,357/500,1035/1800,57.5
-18059504063,BASANT KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],201/400,193/400,296/500,365/500,1055/1800,58.611
-18059504064,ABHISHEK SOOD,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],160/400,148/400,174/500,268/500,750/1800,41.667
-18059504065,ANSHUM KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],182/400,155/400,179/500,261/500,777/1800,43.167
-18059504066,ATUL YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],224/400,131/400,130/500,220/500,705/1800,39.167
-18059504067,SAURAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],226/400,177/400,270/500,320/500,993/1800,55.167
-18059504068,SUNNY KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],190/400,40/400,67/500,230/500,527/1800,29.278
-18059504069,SACHIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],237/400,228/400,276/500,338/500,1079/1800,59.944
-18059504070,CHANDAN RAM,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],239/400,165/400,254/500,319/500,977/1800,54.278
-18059504071,SAHIL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],178/400,137/400,230/500,288/500,833/1800,46.278
-18059504072,AJAY KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],222/400,224/400,294/500,363/500,1103/1800,61.278
-18059504073,ROHIT BIBYAN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],203/400,218/400,267/500,346/500,1034/1800,57.444
-18059504074,ISHAAN YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],185/400,143/400,226/500,290/500,844/1800,46.889
-18059504075,AMAN VERMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],229/400,230/400,263/500,287/500,1009/1800,56.056
-18059504076,ESHANK,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],187/400,150/400,221/500,283/500,841/1800,46.722
-18059504077,SACHIN KIRAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],201/400,164/400,254/500,318/500,937/1800,52.056
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Total,Percentage,Sem-IV
+18059504001,SHUBH KHATTAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],377/450,346/450,417/550,1140/1450,78.621,
+18059504002,AYUSH NANDA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],294/400,305/400,340/500,1299/1800,72.167,360/500
+18059504003,RISHITA BHANDARI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],307/400,281/400,357/500,1354/1800,75.222,409/500
+18059504004,JESSICA CHHABRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],273/400,281/400,317/500,1239/1800,68.833,368/500
+18059504005,TUSHAR KAIM,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],274/400,258/400,326/500,1248/1800,69.333,390/500
+18059504006,MOHIT SINGH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],346/400,319/400,416/500,1529/1800,84.944,448/500
+18059504007,RUCHIKA GUPTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],347/400,293/400,381/500,1451/1800,80.611,430/500
+18059504008,SNEHASISH DUTTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],231/400,217/400,314/500,1126/1800,62.556,364/500
+18059504009,UTSAV JAIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],311/400,293/400,388/500,1418/1800,78.778,426/500
+18059504010,RAVINDRA KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],285/400,286/400,347/500,1317/1800,73.167,399/500
+18059504011,GIRISH CHAHAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],287/400,289/400,358/500,1331/1800,73.944,397/500
+18059504012,OM PRAKASH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],283/400,253/400,344/500,1282/1800,71.222,402/500
+18059504013,KULBIR KAUR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],266/400,274/400,348/500,1278/1800,71.000,390/500
+18059504014,ARYAN GIRDHAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],269/400,247/400,311/500,1191/1800,66.167,364/500
+18059504015,AARYAN VOHRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],227/400,249/400,332/500,1175/1800,65.278,367/500
+18059504016,AVI JAIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],273/400,260/400,352/500,1263/1800,70.167,378/500
+18059504018,AYUSH AGARWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],278/400,276/400,352/500,1294/1800,71.889,388/500
+18059504019,ANANYA AWASTHI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],299/400,287/400,373/500,1364/1800,75.778,405/500
+18059504020,RAHUL GUSAIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],291/400,296/400,374/500,1359/1800,75.500,398/500
+18059504021,ABHISHEK PRASAD,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],204/400,237/400,292/500,1097/1800,60.944,364/500
+18059504022,PARTH GOEL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],275/400,269/400,342/500,1258/1800,69.889,372/500
+18059504023,PARAS MITTAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],248/400,139/400,284/500,961/1800,53.389,290/500
+18059504024,PRAJVAL GUPTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],320/400,298/400,386/500,1422/1800,79.000,418/500
+18059504025,ARCHIT AGGARWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],278/400,288/400,383/500,1371/1800,76.167,422/500
+18059504026,RAVEENA YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],259/400,295/400,337/500,1273/1800,70.722,382/500
+18059504027,ARPIT PUROHIT,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],168/400,145/400,230/500,785/1800,43.611,242/500
+18059504028,HIMANSHU VERMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],198/400,203/400,200/500,902/1800,50.111,301/500
+18059504029,RISHABH VOHRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],288/400,251/400,325/500,1195/1800,66.389,331/500
+18059504030,GAGAN KOHLI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],301/400,294/400,344/500,1322/1800,73.444,383/500
+18059504031,SANYAM KATOCH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],298/400,278/400,330/500,1286/1800,71.444,380/500
+18059504033,HRITIK SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],269/400,244/400,271/500,1068/1800,59.333,284/500
+18059504034,RITIKA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],245/400,260/400,297/500,1124/1800,62.444,322/500
+18059504035,SHIWANGI GAUTAM,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],157/400,207/400,259/500,930/1800,51.667,307/500
+18059504036,AMIT MALIK,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],218/400,213/400,295/500,1057/1800,58.722,331/500
+18059504037,HEMANT,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],211/400,159/400,264/500,940/1800,52.222,306/500
+18059504038,MOHD. DILSHAD,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],271/400,242/400,323/500,1211/1800,67.278,375/500
+18059504039,SUMIT KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],240/400,197/400,307/500,1089/1800,60.500,345/500
+18059504040,AMIT,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],226/400,242/400,303/500,1135/1800,63.056,364/500
+18059504041,GULSHAN KUMAR MAURYA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],241/400,229/400,283/500,1110/1800,61.667,357/500
+18059504042,ASHUTOSH SINGH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],218/400,203/400,314/500,1090/1800,60.556,355/500
+18059504043,PULKIT GOLA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],242/400,182/400,272/500,1030/1800,57.222,334/500
+18059504044,TUSHAR GOLA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],169/400,159/400,177/500,678/1800,37.667,173/500
+18059504045,JUGNU,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],202/400,190/400,260/500,979/1800,54.389,327/500
+18059504046,VISHAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],166/400,198/400,261/500,954/1800,53.000,329/500
+18059504047,NITIKA NAGAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],218/400,256/400,297/500,1121/1800,62.278,350/500
+18059504048,LAKSHAY SONI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],210/400,185/400,299/500,1038/1800,57.667,344/500
+18059504049,DIPIKA SAKKARWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],209/400,190/400,280/500,1011/1800,56.167,332/500
+18059504050,ANJALI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],197/400,200/400,279/500,980/1800,54.444,304/500
+18059504051,ARCHANA C,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],216/400,188/400,222/500,932/1800,51.778,306/500
+18059504052,KUNAL SAIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],231/400,181/400,246/500,966/1800,53.667,308/500
+18059504053,ROHIT KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],207/400,174/400,274/500,966/1800,53.667,311/500
+18059504054,AVINASH KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],283/400,253/400,335/500,1259/1800,69.944,388/500
+18059504055,GAURAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],169/400,148/400,225/500,814/1800,45.222,272/500
+18059504056,ASHISH KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],127/400,112/400,196/500,646/1800,35.889,211/500
+18059504057,BUNTY,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],233/400,237/400,295/500,1123/1800,62.389,358/500
+18059504058,ANKIT,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],256/400,208/400,285/500,1122/1800,62.333,373/500
+18059504059,VINOD KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],191/400,160/400,257/500,947/1800,52.611,339/500
+18059504060,SHIVANI YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],142/400,124/400,295/500,808/1800,44.889,247/500
+18059504061,VIPIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],173/400,162/400,226/500,858/1800,47.667,297/500
+18059504062,HARSH KESHRI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],201/400,190/400,287/500,1035/1800,57.500,357/500
+18059504063,BASANT KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],201/400,193/400,296/500,1055/1800,58.611,365/500
+18059504064,ABHISHEK SOOD,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],160/400,148/400,174/500,750/1800,41.667,268/500
+18059504065,ANSHUM KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],182/400,155/400,179/500,777/1800,43.167,261/500
+18059504066,ATUL YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],224/400,131/400,130/500,705/1800,39.167,220/500
+18059504067,SAURAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],226/400,177/400,270/500,993/1800,55.167,320/500
+18059504068,SUNNY KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],190/400,40/400,67/500,527/1800,29.278,230/500
+18059504069,SACHIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],237/400,228/400,276/500,1079/1800,59.944,338/500
+18059504070,CHANDAN RAM,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],239/400,165/400,254/500,977/1800,54.278,319/500
+18059504071,SAHIL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],178/400,137/400,230/500,833/1800,46.278,288/500
+18059504072,AJAY KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],222/400,224/400,294/500,1103/1800,61.278,363/500
+18059504073,ROHIT BIBYAN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],203/400,218/400,267/500,1034/1800,57.444,346/500
+18059504074,ISHAAN YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],185/400,143/400,226/500,844/1800,46.889,290/500
+18059504075,AMAN VERMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],229/400,230/400,263/500,1009/1800,56.056,287/500
+18059504076,ESHANK,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],187/400,150/400,221/500,841/1800,46.722,283/500
+18059504077,SACHIN KIRAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],201/400,164/400,254/500,937/1800,52.056,318/500

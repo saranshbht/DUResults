@@ -1,66 +1,66 @@
-RollNo,Name,College,SemI,SemII,Average
-19010588001,SANGEETA RANA,Dr. Bhim Rao Ambedkar College,6.64,7.18,6.91
-19010588003,ISHIKA DAS,Dr. Bhim Rao Ambedkar College,7.91,7.73,7.82
-19010588004,ANIMESH RANJAN SINGH,Dr. Bhim Rao Ambedkar College,6.09,7.73,6.91
-19010588005,AANCHAL PANDEY,Dr. Bhim Rao Ambedkar College,8.45,8.73,8.59
-19010588006,AASHISH  KUMAR,Dr. Bhim Rao Ambedkar College,7,7.55,7.275
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19010588001,SANGEETA RANA,Dr. Bhim Rao Ambedkar College,6.64,7.18,6.909
+19010588003,ISHIKA DAS,Dr. Bhim Rao Ambedkar College,7.91,7.73,7.818
+19010588004,ANIMESH RANJAN SINGH,Dr. Bhim Rao Ambedkar College,6.09,7.73,6.909
+19010588005,AANCHAL PANDEY,Dr. Bhim Rao Ambedkar College,8.45,8.73,8.591
+19010588006,AASHISH  KUMAR,Dr. Bhim Rao Ambedkar College,7.00,7.55,7.273
 19010588007,HARESH KUMAR,Dr. Bhim Rao Ambedkar College,7.18,7.73,7.455
-19010588008,RANJANA,Dr. Bhim Rao Ambedkar College,7.36,8,7.68
-19010588009,AMAN,Dr. Bhim Rao Ambedkar College,6.73,7.45,7.09
-19010588010,KARAN  KUMAR,Dr. Bhim Rao Ambedkar College,4.73,6.27,5.5
-19010588011,SHIKHA,Dr. Bhim Rao Ambedkar College,6.91,7.73,7.32
-19010588012,RIYA KUMARI,Dr. Bhim Rao Ambedkar College,8,8.55,8.275
-19010588013,VIVEK SHARMA,Dr. Bhim Rao Ambedkar College,6.64,6.73,6.685
-19010588014,SANDEEP KUMAR,Dr. Bhim Rao Ambedkar College,7.64,7.73,7.685
-19010588015,MOHNISH  KUMAR,Dr. Bhim Rao Ambedkar College,5.91,6.73,6.32
-19010588016,NAYUM  HUSSAIN,Dr. Bhim Rao Ambedkar College,5.91,6.45,6.18
-19010588017,RITIKA,Dr. Bhim Rao Ambedkar College,6.09,7.73,6.91
-19010588018,KRISHAN KUMAR,Dr. Bhim Rao Ambedkar College,6.18,7,6.59
-19010588019,PARAS  GAUR,Dr. Bhim Rao Ambedkar College,7,7.27,7.135
+19010588008,RANJANA,Dr. Bhim Rao Ambedkar College,7.36,8.00,7.682
+19010588009,AMAN,Dr. Bhim Rao Ambedkar College,6.73,7.45,7.091
+19010588010,KARAN  KUMAR,Dr. Bhim Rao Ambedkar College,4.73,6.27,5.500
+19010588011,SHIKHA,Dr. Bhim Rao Ambedkar College,6.91,7.73,7.318
+19010588012,RIYA KUMARI,Dr. Bhim Rao Ambedkar College,8.00,8.55,8.273
+19010588013,VIVEK SHARMA,Dr. Bhim Rao Ambedkar College,6.64,6.73,6.682
+19010588014,SANDEEP KUMAR,Dr. Bhim Rao Ambedkar College,7.64,7.73,7.682
+19010588015,MOHNISH  KUMAR,Dr. Bhim Rao Ambedkar College,5.91,6.73,6.318
+19010588016,NAYUM  HUSSAIN,Dr. Bhim Rao Ambedkar College,5.91,6.45,6.182
+19010588017,RITIKA,Dr. Bhim Rao Ambedkar College,6.09,7.73,6.909
+19010588018,KRISHAN KUMAR,Dr. Bhim Rao Ambedkar College,6.18,7.00,6.591
+19010588019,PARAS  GAUR,Dr. Bhim Rao Ambedkar College,7.00,7.27,7.136
 19010588020,SHANU TOMAR,Dr. Bhim Rao Ambedkar College,6.64,7.27,6.955
 19010588021,TUSHAR,Dr. Bhim Rao Ambedkar College,5.73,6.18,5.955
 19010588022,KISHAN KUMAR,Dr. Bhim Rao Ambedkar College,7.18,7.73,7.455
-19010588023,AMAN  JAISWAL,Dr. Bhim Rao Ambedkar College,6.64,7.73,7.185
-19010588024,GAURAV RAWAT,Dr. Bhim Rao Ambedkar College,5.73,6.27,6
-19010588025,SHIVAM  SINGH,Dr. Bhim Rao Ambedkar College,7.73,8,7.865
-19010588026,PINKI,Dr. Bhim Rao Ambedkar College,6.45,6.73,6.59
-19010588027,SRISHTI,Dr. Bhim Rao Ambedkar College,4.82,6.45,5.635
-19010588028,KULDEEP KUMAR PRAJAPATI,Dr. Bhim Rao Ambedkar College,7.09,7.55,7.32
-19010588029,MUKUND,Dr. Bhim Rao Ambedkar College,8,8.82,8.41
+19010588023,AMAN  JAISWAL,Dr. Bhim Rao Ambedkar College,6.64,7.73,7.182
+19010588024,GAURAV RAWAT,Dr. Bhim Rao Ambedkar College,5.73,6.27,6.000
+19010588025,SHIVAM  SINGH,Dr. Bhim Rao Ambedkar College,7.73,8.00,7.864
+19010588026,PINKI,Dr. Bhim Rao Ambedkar College,6.45,6.73,6.591
+19010588027,SRISHTI,Dr. Bhim Rao Ambedkar College,4.82,6.45,5.636
+19010588028,KULDEEP KUMAR PRAJAPATI,Dr. Bhim Rao Ambedkar College,7.09,7.55,7.318
+19010588029,MUKUND,Dr. Bhim Rao Ambedkar College,8.00,8.82,8.409
 19010588030,VIRENDER,Dr. Bhim Rao Ambedkar College,5.36,6.73,6.045
-19010588031,URMILA,Dr. Bhim Rao Ambedkar College,6.91,7.73,7.32
-19010588032,NAGMA ERAM,Dr. Bhim Rao Ambedkar College,6.91,7.73,7.32
-19010588033,RITIK SAVITA,Dr. Bhim Rao Ambedkar College,8,8.73,8.365
-19010588034,SHAHEEN,Dr. Bhim Rao Ambedkar College,6.45,7.55,7
-19010588035,SUMIT KUMAR GAUTAM,Dr. Bhim Rao Ambedkar College,6.09,7,6.545
-19010588036,SAKSHI UPADHYAY,Dr. Bhim Rao Ambedkar College,6.64,8,7.32
-19010588037,SHILPI,Dr. Bhim Rao Ambedkar College,7.73,7.73,7.73
-19010588038,MONI,Dr. Bhim Rao Ambedkar College,6.64,7.73,7.185
-19010588039,NEHA KUMARI,Dr. Bhim Rao Ambedkar College,7.55,7.73,7.64
-19010588040,KM RIYA RAI,Dr. Bhim Rao Ambedkar College,8.27,8.73,8.5
-19010588041,ALEX KINDO,Dr. Bhim Rao Ambedkar College,6.36,5.45,5.905
-19010588043,CHANDA,Dr. Bhim Rao Ambedkar College,6.09,7.18,6.635
+19010588031,URMILA,Dr. Bhim Rao Ambedkar College,6.91,7.73,7.318
+19010588032,NAGMA ERAM,Dr. Bhim Rao Ambedkar College,6.91,7.73,7.318
+19010588033,RITIK SAVITA,Dr. Bhim Rao Ambedkar College,8.00,8.73,8.364
+19010588034,SHAHEEN,Dr. Bhim Rao Ambedkar College,6.45,7.55,7.000
+19010588035,SUMIT KUMAR GAUTAM,Dr. Bhim Rao Ambedkar College,6.09,7.00,6.545
+19010588036,SAKSHI UPADHYAY,Dr. Bhim Rao Ambedkar College,6.64,8.00,7.318
+19010588037,SHILPI,Dr. Bhim Rao Ambedkar College,7.73,7.73,7.727
+19010588038,MONI,Dr. Bhim Rao Ambedkar College,6.64,7.73,7.182
+19010588039,NEHA KUMARI,Dr. Bhim Rao Ambedkar College,7.55,7.73,7.636
+19010588040,KM RIYA RAI,Dr. Bhim Rao Ambedkar College,8.27,8.73,8.500
+19010588041,ALEX KINDO,Dr. Bhim Rao Ambedkar College,6.36,5.45,5.909
+19010588043,CHANDA,Dr. Bhim Rao Ambedkar College,6.09,7.18,6.636
 19010588044,ISHA GUPTA,Dr. Bhim Rao Ambedkar College,7.18,7.73,7.455
-19010588045,SAHIL,Dr. Bhim Rao Ambedkar College,6.18,6.45,6.315
-19010588046,KIRAN PAL,Dr. Bhim Rao Ambedkar College,6.73,6.73,6.73
+19010588045,SAHIL,Dr. Bhim Rao Ambedkar College,6.18,6.45,6.318
+19010588046,KIRAN PAL,Dr. Bhim Rao Ambedkar College,6.73,6.73,6.727
 19010588047,JYOTI,Dr. Bhim Rao Ambedkar College,7.36,7.73,7.545
-19010588048,MOIN ANSARI,Dr. Bhim Rao Ambedkar College,6.73,2.91,4.82
-19010588049,NISHA,Dr. Bhim Rao Ambedkar College,7.73,8.27,8
+19010588048,MOIN ANSARI,Dr. Bhim Rao Ambedkar College,6.73,2.91,4.818
+19010588049,NISHA,Dr. Bhim Rao Ambedkar College,7.73,8.27,8.000
 19010588050,AJAY DHANGAR,Dr. Bhim Rao Ambedkar College,6.64,6.45,6.545
-19010588051,DIKSHA GUPTA,Dr. Bhim Rao Ambedkar College,6.91,7.73,7.32
-19010588052,DEEP CHOUDHARY,Dr. Bhim Rao Ambedkar College,5.91,4.82,5.365
-19010588053,ABBAS,Dr. Bhim Rao Ambedkar College,6.45,7.27,6.86
-19010588054,MOHD SHOAIB,Dr. Bhim Rao Ambedkar College,5.09,5.91,5.5
-19010588055,KOMAL,Dr. Bhim Rao Ambedkar College,6.82,7.73,7.275
-19010588056,KANIKA GUPTA,Dr. Bhim Rao Ambedkar College,6.36,6.91,6.635
-19010588057,KISHAN KUMAR,Dr. Bhim Rao Ambedkar College,6.73,7.45,7.09
-19010588058,MOHD ANAS,Dr. Bhim Rao Ambedkar College,6.64,6.73,6.685
-19010588059,ANIL,Dr. Bhim Rao Ambedkar College,6.45,7,6.725
-19010588060,VANSH NAGPAL,Dr. Bhim Rao Ambedkar College,4.91,6.45,5.68
-19010588061,MITALI,Dr. Bhim Rao Ambedkar College,6.64,7.55,7.095
-19010588062,TANU MISHRA,Dr. Bhim Rao Ambedkar College,8,8.73,8.365
-19010588063,AMAN PARIHAR,Dr. Bhim Rao Ambedkar College,5.91,3.27,4.59
-19010588064,SHIVAM UJJAWAL,Dr. Bhim Rao Ambedkar College,5.09,5.91,5.5
-19010588065,MOHD AMAN,Dr. Bhim Rao Ambedkar College,5.18,6.45,5.815
-19010588066,VIKASH,Dr. Bhim Rao Ambedkar College,5.64,6.55,6.095
-19010588067,KARTIK TIWARI,Dr. Bhim Rao Ambedkar College,5.09,6.18,5.635
+19010588051,DIKSHA GUPTA,Dr. Bhim Rao Ambedkar College,6.91,7.73,7.318
+19010588052,DEEP CHOUDHARY,Dr. Bhim Rao Ambedkar College,5.91,4.82,5.364
+19010588053,ABBAS,Dr. Bhim Rao Ambedkar College,6.45,7.27,6.864
+19010588054,MOHD SHOAIB,Dr. Bhim Rao Ambedkar College,5.09,5.91,5.500
+19010588055,KOMAL,Dr. Bhim Rao Ambedkar College,6.82,7.73,7.273
+19010588056,KANIKA GUPTA,Dr. Bhim Rao Ambedkar College,6.36,6.91,6.636
+19010588057,KISHAN KUMAR,Dr. Bhim Rao Ambedkar College,6.73,7.45,7.091
+19010588058,MOHD ANAS,Dr. Bhim Rao Ambedkar College,6.64,6.73,6.682
+19010588059,ANIL,Dr. Bhim Rao Ambedkar College,6.45,7.00,6.727
+19010588060,VANSH NAGPAL,Dr. Bhim Rao Ambedkar College,4.91,6.45,5.682
+19010588061,MITALI,Dr. Bhim Rao Ambedkar College,6.64,7.55,7.091
+19010588062,TANU MISHRA,Dr. Bhim Rao Ambedkar College,8.00,8.73,8.364
+19010588063,AMAN PARIHAR,Dr. Bhim Rao Ambedkar College,5.91,3.27,4.591
+19010588064,SHIVAM UJJAWAL,Dr. Bhim Rao Ambedkar College,5.09,5.91,5.500
+19010588065,MOHD AMAN,Dr. Bhim Rao Ambedkar College,5.18,6.45,5.818
+19010588066,VIKASH,Dr. Bhim Rao Ambedkar College,5.64,6.55,6.091
+19010588067,KARTIK TIWARI,Dr. Bhim Rao Ambedkar College,5.09,6.18,5.636

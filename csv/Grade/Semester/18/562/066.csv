@@ -1,30 +1,30 @@
-RollNo,Name,College,SemI,SemII,SemIII,SemIV,Average
-18066562001,ANCHAL SHAKYA,Shaheed Rajguru College of Applied Sciences for Women,8.09,7.55,8.43,9,8.268
-18066562002,ARUSHI CHAUBEY,Shaheed Rajguru College of Applied Sciences for Women,8.45,8.45,8.71,9.21,8.705
-18066562003,DIVYA SAINI,Shaheed Rajguru College of Applied Sciences for Women,6.82,7.45,7.86,9.21,7.835
-18066562004,HEENA,Shaheed Rajguru College of Applied Sciences for Women,6.09,7.73,7.93,8.79,7.635
-18066562006,JYOTI SHARMA,Shaheed Rajguru College of Applied Sciences for Women,5.91,5.91,6.5,8.21,6.633
-18066562007,KAJAL,Shaheed Rajguru College of Applied Sciences for Women,5.45,3.55,5.5,7.14,5.41
-18066562008,KAJAL GUPTA,Shaheed Rajguru College of Applied Sciences for Women,7.55,7.55,7.14,8.57,7.702
-18066562009,KAJAL SHARMA,Shaheed Rajguru College of Applied Sciences for Women,7,6.64,8.07,9.21,7.73
-18066562010,KM DRISHTI PANDEY,Shaheed Rajguru College of Applied Sciences for Women,4.45,4.18,4.21,6.79,4.907
-18066562011,MANIMALA KUMARI,Shaheed Rajguru College of Applied Sciences for Women,5,5.73,7.07,8.36,6.54
-18066562012,MANVI VARSHNEY,Shaheed Rajguru College of Applied Sciences for Women,7.36,7.91,8.79,9,8.265
-18066562013,MEGHA SHARMA,Shaheed Rajguru College of Applied Sciences for Women,6.91,6.36,7.29,8.79,7.337
-18066562014,POOJA SHUKLA,Shaheed Rajguru College of Applied Sciences for Women,6.82,8.09,8,8.79,7.925
-18066562015,PRACHI SHARMA,Shaheed Rajguru College of Applied Sciences for Women,5.45,4.55,0,0,2.5
-18066562016,PRIYANKA,Shaheed Rajguru College of Applied Sciences for Women,5.27,4.91,5.36,7.36,5.725
-18066562017,RAVEENA RAUTELA,Shaheed Rajguru College of Applied Sciences for Women,8.27,8.55,9.21,10,9.008
-18066562018,RITIKA,Shaheed Rajguru College of Applied Sciences for Women,7.09,8,9.36,9.43,8.47
-18066562019,RUPALI PRIYA,Shaheed Rajguru College of Applied Sciences for Women,7.55,7.91,7.93,9,8.098
-18066562020,RUPAM KUMARI,Shaheed Rajguru College of Applied Sciences for Women,8,8.73,8.57,9.21,8.628
-18066562021,SHRUTI SAGAR,Shaheed Rajguru College of Applied Sciences for Women,5.27,5.73,6.43,8.07,6.375
-18066562022,SHUBHAM SHARMA,Shaheed Rajguru College of Applied Sciences for Women,8.18,7.18,7.64,8,7.75
-18066562023,SMITA RANI JENA,Shaheed Rajguru College of Applied Sciences for Women,7.55,8.55,8.29,9,8.348
-18066562024,SONI,Shaheed Rajguru College of Applied Sciences for Women,7.73,7.82,8.57,8.36,8.12
-18066562025,SONIA SAMANTA,Shaheed Rajguru College of Applied Sciences for Women,7.27,8.55,8.93,9.57,8.58
-18066562026,SRISHTI CHAUDHARY,Shaheed Rajguru College of Applied Sciences for Women,6.91,8.73,7.86,9,8.125
-18066562027,STUTI AGGARWAL,Shaheed Rajguru College of Applied Sciences for Women,8.55,9.36,8.71,9.64,9.065
-18066562028,SUSHMITA DWIVEDI,Shaheed Rajguru College of Applied Sciences for Women,7.27,8.55,8.71,9.14,8.418
-18066562029,TANIYA,Shaheed Rajguru College of Applied Sciences for Women,3.09,2.27,4.14,1.86,2.84
-18066562030,TANUSHREE DUTTA,Shaheed Rajguru College of Applied Sciences for Women,6.45,7,8.29,9.21,7.737
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Overall CGPA
+18066562001,ANCHAL SHAKYA,Shaheed Rajguru College of Applied Sciences for Women,8.09,7.55,8.43,9.00,8.320
+18066562002,ARUSHI CHAUBEY,Shaheed Rajguru College of Applied Sciences for Women,8.45,8.45,8.71,9.21,8.740
+18066562003,DIVYA SAINI,Shaheed Rajguru College of Applied Sciences for Women,6.82,7.45,7.86,9.21,7.920
+18066562004,HEENA,Shaheed Rajguru College of Applied Sciences for Women,6.09,7.73,7.93,8.79,7.720
+18066562006,JYOTI SHARMA,Shaheed Rajguru College of Applied Sciences for Women,5.91,5.91,6.50,8.21,6.720
+18066562007,KAJAL,Shaheed Rajguru College of Applied Sciences for Women,5.45,3.55,5.50,7.14,5.520
+18066562008,KAJAL GUPTA,Shaheed Rajguru College of Applied Sciences for Women,7.55,7.55,7.14,8.57,7.720
+18066562009,KAJAL SHARMA,Shaheed Rajguru College of Applied Sciences for Women,7.00,6.64,8.07,9.21,7.840
+18066562010,KM DRISHTI PANDEY,Shaheed Rajguru College of Applied Sciences for Women,4.45,4.18,4.21,6.79,4.980
+18066562011,MANIMALA KUMARI,Shaheed Rajguru College of Applied Sciences for Women,5.00,5.73,7.07,8.36,6.680
+18066562012,MANVI VARSHNEY,Shaheed Rajguru College of Applied Sciences for Women,7.36,7.91,8.79,9.00,8.340
+18066562013,MEGHA SHARMA,Shaheed Rajguru College of Applied Sciences for Women,6.91,6.36,7.29,8.79,7.420
+18066562014,POOJA SHUKLA,Shaheed Rajguru College of Applied Sciences for Women,6.82,8.09,8.00,8.79,7.980
+18066562015,PRACHI SHARMA,Shaheed Rajguru College of Applied Sciences for Women,5.45,4.55,0.00,0.00,2.200
+18066562016,PRIYANKA,Shaheed Rajguru College of Applied Sciences for Women,5.27,4.91,5.36,7.36,5.800
+18066562017,RAVEENA RAUTELA,Shaheed Rajguru College of Applied Sciences for Women,8.27,8.55,9.21,10.00,9.080
+18066562018,RITIKA,Shaheed Rajguru College of Applied Sciences for Women,7.09,8.00,9.36,9.43,8.580
+18066562019,RUPALI PRIYA,Shaheed Rajguru College of Applied Sciences for Women,7.55,7.91,7.93,9.00,8.140
+18066562020,RUPAM KUMARI,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.73,8.57,9.21,8.660
+18066562021,SHRUTI SAGAR,Shaheed Rajguru College of Applied Sciences for Women,5.27,5.73,6.43,8.07,6.480
+18066562022,SHUBHAM SHARMA,Shaheed Rajguru College of Applied Sciences for Women,8.18,7.18,7.64,8.00,7.760
+18066562023,SMITA RANI JENA,Shaheed Rajguru College of Applied Sciences for Women,7.55,8.55,8.29,9.00,8.380
+18066562024,SONI,Shaheed Rajguru College of Applied Sciences for Women,7.73,7.82,8.57,8.36,8.160
+18066562025,SONIA SAMANTA,Shaheed Rajguru College of Applied Sciences for Women,7.27,8.55,8.93,9.57,8.660
+18066562026,SRISHTI CHAUDHARY,Shaheed Rajguru College of Applied Sciences for Women,6.91,8.73,7.86,9.00,8.160
+18066562027,STUTI AGGARWAL,Shaheed Rajguru College of Applied Sciences for Women,8.55,9.36,8.71,9.64,9.080
+18066562028,SUSHMITA DWIVEDI,Shaheed Rajguru College of Applied Sciences for Women,7.27,8.55,8.71,9.14,8.480
+18066562029,TANIYA,Shaheed Rajguru College of Applied Sciences for Women,3.09,2.27,4.14,1.86,2.860
+18066562030,TANUSHREE DUTTA,Shaheed Rajguru College of Applied Sciences for Women,6.45,7.00,8.29,9.21,7.860

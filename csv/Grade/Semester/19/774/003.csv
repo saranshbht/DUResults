@@ -1,16 +1,16 @@
-RollNo,Name,College,Sem1,Average
-19003774011,RADHIKA JHAWAR,Atma Ram Sanatan Dharam College,8.4,8.4
-19003774006,JHANVI KHURANA,Atma Ram Sanatan Dharam College,7.6,7.6
-19003774007,KOMAL YADAV,Atma Ram Sanatan Dharam College,7.6,7.6
-19003774005,HARNOOR SINGH,Atma Ram Sanatan Dharam College,7.4,7.4
-19003774013,SEJAL ARORA,Atma Ram Sanatan Dharam College,7.4,7.4
-19003774009,PRIYA AGGARWAL,Atma Ram Sanatan Dharam College,7.2,7.2
-19003774010,PRIYANKA BHARDWAJ,Atma Ram Sanatan Dharam College,7.2,7.2
-19003774003,ASHITA ADHIKARI,Atma Ram Sanatan Dharam College,7,7
-19003774004,DHRUV,Atma Ram Sanatan Dharam College,6.6,6.6
-19003774001,ARUN SINGH LODHI,Atma Ram Sanatan Dharam College,5.8,5.8
-19003774012,REEMA KUMARI,Atma Ram Sanatan Dharam College,5.8,5.8
-19003774014,SONALI PAHADIYA,Atma Ram Sanatan Dharam College,5.8,5.8
-19003774015,YOGITA,Atma Ram Sanatan Dharam College,5.8,5.8
-19003774002,ASHISH KUMAR,Atma Ram Sanatan Dharam College,5.6,5.6
-19003774008,NIRMAL BHAGAT,Atma Ram Sanatan Dharam College,5.4,5.4
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19003774001,ARUN SINGH LODHI,Atma Ram Sanatan Dharam College,5.80,7.40,6.600
+19003774002,ASHISH KUMAR,Atma Ram Sanatan Dharam College,5.60,7.80,6.700
+19003774003,ASHITA ADHIKARI,Atma Ram Sanatan Dharam College,7.00,7.80,7.400
+19003774004,DHRUV,Atma Ram Sanatan Dharam College,6.60,7.80,7.200
+19003774005,HARNOOR SINGH,Atma Ram Sanatan Dharam College,7.40,7.80,7.600
+19003774006,JHANVI KHURANA,Atma Ram Sanatan Dharam College,7.60,8.60,8.100
+19003774007,KOMAL YADAV,Atma Ram Sanatan Dharam College,7.60,8.60,8.100
+19003774008,NIRMAL BHAGAT,Atma Ram Sanatan Dharam College,5.40,6.80,6.100
+19003774009,PRIYA AGGARWAL,Atma Ram Sanatan Dharam College,7.20,8.00,7.600
+19003774010,PRIYANKA BHARDWAJ,Atma Ram Sanatan Dharam College,7.20,7.80,7.500
+19003774011,RADHIKA JHAWAR,Atma Ram Sanatan Dharam College,8.40,9.00,8.700
+19003774012,REEMA KUMARI,Atma Ram Sanatan Dharam College,5.80,7.80,6.800
+19003774013,SEJAL ARORA,Atma Ram Sanatan Dharam College,7.40,8.60,8.000
+19003774014,SONALI PAHADIYA,Atma Ram Sanatan Dharam College,5.80,7.60,6.700
+19003774015,YOGITA,Atma Ram Sanatan Dharam College,5.80,7.40,6.600

@@ -27,4 +27,6 @@ Promise.all([req.getRemaining(declared_url, type), req.setCookie(cookie_url)])
 	req.makeJsons(to_be_updated, type, source, store);
 	// console.log('making json-gzips');
 	req.jsonsToJsonGzips(to_be_updated, type, store);
+	// console.log('making csvs');
+	req.jsonsToCsvs(to_be_updated, type, store);
 });
