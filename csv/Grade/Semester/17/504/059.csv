@@ -1,79 +1,79 @@
-RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
-17059504005,RACHITA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.91,8,8.86,8.43,8.75,8.39
-17059504054,RAMNEEK GULATI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.55,7,9.21,8.5,8.5,8.352
-17059504023,ARPITA MANCHANDA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.82,7.73,8.79,8.64,8.75,8.346
-17059504011,CHANCHAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.91,7.27,9.21,8.07,8.75,8.242
-17059504001,ADITI JASWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.64,7.45,9,6.93,8.75,8.154
-17059504041,VATSALA MEHTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.91,7.82,8.57,8.21,8,8.102
-17059504033,MAHIR ADLAKHA,Sri Guru Gobind Singh College Of Commerce,7.45,7.36,8.5,8.36,8.5,8.034
-17059504063,BHARAT BHATNAGAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.55,7.09,8.79,7.64,8,8.014
-17059504045,JAGRITI GARG,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.18,6.55,8.79,7.57,8.5,7.918
-17059504046,HEMANT KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.45,6.82,8.14,7.79,8,7.84
-17059504026,SHREYA KWATRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.27,6.91,8.79,7.21,8,7.836
-17059504042,AAKRITI MATHUR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.82,6.36,7.93,7.79,8.25,7.83
-17059504056,NEHA JAIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.55,6.55,8.36,7.64,9,7.82
-17059504016,ABHISHEK GUPTA,Sri Guru Gobind Singh College Of Commerce,8.45,7.55,8.21,7.36,7.5,7.814
-17059504012,JASLEEN SADANA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.91,6.82,8.36,7.57,8.25,7.782
-17059504052,SHIRIN KATHURIA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.73,6.55,8.14,7.57,7.75,7.748
-17059504079,SARTHAK KHERA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7,5.73,8.36,8.86,8.75,7.74
-17059504076,AARTI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.45,6.27,7.93,8,8,7.73
-17059504022,GUNJAN GUPTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,7,8.36,7.14,8.5,7.69
-17059504007,TARANDEEP KAUR MARWAH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.73,7.18,8.43,7.36,7.75,7.69
-17059504015,SURABHI AGARWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8,7.55,7.93,6.57,8,7.61
-17059504003,KAPIL BANSAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.73,6.73,7.21,7.57,8.5,7.548
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Overall CGPA
+17059504001,ADITI JASWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.64,7.45,9.00,6.93,8.75,8.145
+17059504002,DARSHNA SOMANI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.27,7.18,7.57,6.57,7.25,7.339
+17059504003,KAPIL BANSAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.73,6.73,7.21,7.57,8.50,7.548
 17059504004,DEVANSH BHARDWAJ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.09,6.82,7.36,7.14,9.25,7.532
-17059504036,AAYUSHI SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.27,6.82,8.79,7,7.75,7.526
-17059504044,OMKAR SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.45,7.09,8.14,6.71,7,7.478
-17059504070,RUCHIKA BISHT,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8,6,8.14,7.21,8,7.47
-17059504032,MUSKAN GROVER,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.82,6.55,7.71,7,8.25,7.466
-17059504008,SANSKRITI NEGI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.91,7.09,8.36,6.93,8,7.458
-17059504028,CHARVI RATTAN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,7,8.07,6.71,8,7.446
-17059504035,DIKSHIT ARORA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.18,6.18,8,7.21,8.5,7.414
-17059504013,RISHABH AHUJA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.64,6.82,7.79,7.21,7.5,7.392
-17059504068,SIDAK MALHOTRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.91,5.45,7.93,7.57,8,7.372
-17059504002,DARSHNA SOMANI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.27,7.18,7.57,6.57,7.25,7.368
-17059504014,TANMAY TANEJA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.55,6.82,7.21,7.21,7,7.358
-17059504043,MRIDUL GOEL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.18,6.55,7.93,6.57,7.25,7.296
-17059504081,SHATAKSHI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.18,6.27,7.5,7.21,7.25,7.282
-17059504047,RASHMI CHUGH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8,6.27,7.93,6.14,7.75,7.218
-17059504010,RAHUL BAJAJ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7,5.91,8.14,7.21,7.75,7.202
-17059504029,ASTHA RANA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.18,6.27,7.71,6.79,7,7.19
-17059504025,APOORV SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.55,6,7.71,6.93,7.75,7.188
-17059504039,DIKSHA MADAN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.82,6.09,7.93,6.5,7.5,7.168
-17059504021,SHIVAM SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,6.27,7.79,7,8,7.158
-17059504087,VEDANT COMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.45,6.73,7.57,6.79,8.25,7.158
-17059504074,CHARU JINDAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7,5.82,8,7.14,7.25,7.042
-17059504027,AMANJOT KAUR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.45,7,7.5,6.5,7.75,7.04
-17059504038,UJJWAL BHARDWAJ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8,6.09,6.71,6.36,8,7.032
-17059504084,ANSHIKA VASHIST,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,6.27,7.5,7,7.5,7
-17059504077,NIPUN BHATIA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.91,5.73,7.71,7.21,7.25,6.962
-17059504048,MANISH ARYA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,5.82,7.14,6.79,8.25,6.946
-17059504053,RISHABH KALRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.45,6.09,7.5,6.57,8,6.922
-17059504020,DHANANJAY KATARIA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.55,5.18,7.93,6.57,8.25,6.896
-17059504018,ARUSHI BARTHWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.18,6.45,7.57,6.5,7.75,6.89
-17059504037,AARADHYA KHANNA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,6.82,6.71,6.36,7,6.868
-17059504059,HITESH SACHDEVA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.18,5.27,7.14,7,7.5,6.818
-17059504009,GEETISH CHADHA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.27,6,7.07,6.5,7,6.768
-17059504071,FEROJ KHAN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,5,7.71,7.14,7.25,6.766
-17059504024,AASHA SANGWAN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.82,6,7.79,6.57,6.5,6.736
-17059504040,JATIN CHAHAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7,5.82,5.93,6.79,7.75,6.658
-17059504065,KARTIK DAGA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.27,5.73,6.71,7.21,6.75,6.534
-17059504078,SHRADUL JAIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6,6.09,6.93,6.57,7,6.518
-17059504055,TANMAY SACHDEVA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5,6,7.71,6.36,7.25,6.464
-17059504058,ADITYA ARORA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,5,5.86,6.79,7.75,6.426
-17059504031,NITISH KUMAR MISHRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.82,4,7.29,6.29,7.5,6.38
-17059504082,HITASHA ROHILLA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,5.55,6.93,5.36,7,6.314
-17059504062,JAHNAVI JINDAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.18,4.91,6.43,6.14,7.5,6.232
-17059504017,PRATHAM AHUJA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.27,5.82,6.36,5.36,6.75,6.112
-17059504075,DEEPIKA YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.64,5.18,6.79,5.93,7,6.108
-17059504067,YUKTI AHUJA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.36,4.45,6.93,6.36,7,6.02
-17059504083,ASHWINI KUMAR SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.36,4.45,6.93,5.5,6.75,5.998
-17059504049,HARDIK GANDHI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.18,5.27,6.43,5.07,6.75,5.94
-17059504064,VINAY MITTAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.91,4.18,5.93,6.14,6.5,5.732
-17059504066,VARUN KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.27,4.91,6.14,5.29,7,5.722
-17059504072,PRANAV MAKHIJANI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.27,4.18,6,6.36,6.5,5.662
-17059504051,CHIRAG SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.45,4.45,6.36,4.07,6.75,5.616
-17059504050,LAKSHAY CHOPRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6,4.27,5.93,5.29,6.5,5.598
-17059504085,ASHU KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.18,4.45,6.14,4.86,6.75,5.476
-17059504030,APOORVAH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.82,4.45,5.36,3.43,6,5.012
-17059504073,MADHUR TYAGI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],4.82,4.45,5,2.86,5.5,4.526
+17059504005,RACHITA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.91,8.00,8.86,8.43,8.75,8.419
+17059504007,TARANDEEP KAUR MARWAH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.73,7.18,8.43,7.36,7.75,7.710
+17059504008,SANSKRITI NEGI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.91,7.09,8.36,6.93,8.00,7.484
+17059504009,GEETISH CHADHA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.27,6.00,7.07,6.50,7.00,6.774
+17059504010,RAHUL BAJAJ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.00,5.91,8.14,7.21,7.75,7.258
+17059504011,CHANCHAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.91,7.27,9.21,8.07,8.75,8.290
+17059504012,JASLEEN SADANA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.91,6.82,8.36,7.57,8.25,7.806
+17059504013,RISHABH AHUJA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.64,6.82,7.79,7.21,7.50,7.403
+17059504014,TANMAY TANEJA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.55,6.82,7.21,7.21,7.00,7.339
+17059504015,SURABHI AGARWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.00,7.55,7.93,6.57,8.00,7.581
+17059504016,ABHISHEK GUPTA,Sri Guru Gobind Singh College Of Commerce,8.45,7.55,8.21,7.36,7.50,7.806
+17059504017,PRATHAM AHUJA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.27,5.82,6.36,5.36,6.75,6.097
+17059504018,ARUSHI BARTHWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.18,6.45,7.57,6.50,7.75,6.919
+17059504020,DHANANJAY KATARIA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.55,5.18,7.93,6.57,8.25,6.952
+17059504021,SHIVAM SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,6.27,7.79,7.00,8.00,7.194
+17059504022,GUNJAN GUPTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,7.00,8.36,7.14,8.50,7.710
+17059504023,ARPITA MANCHANDA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.82,7.73,8.79,8.64,8.75,8.387
+17059504024,AASHA SANGWAN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.82,6.00,7.79,6.57,6.50,6.774
+17059504025,APOORV SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.55,6.00,7.71,6.93,7.75,7.210
+17059504026,SHREYA KWATRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.27,6.91,8.79,7.21,8.00,7.855
+17059504027,AMANJOT KAUR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.45,7.00,7.50,6.50,7.75,7.048
+17059504028,CHARVI RATTAN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,7.00,8.07,6.71,8.00,7.452
+17059504029,ASTHA RANA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.18,6.27,7.71,6.79,7.00,7.194
+17059504030,APOORVAH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.82,4.45,5.36,3.43,6.00,4.968
+17059504031,NITISH KUMAR MISHRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.82,4.00,7.29,6.29,7.50,6.435
+17059504032,MUSKAN GROVER,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.82,6.55,7.71,7.00,8.25,7.468
+17059504033,MAHIR ADLAKHA,Sri Guru Gobind Singh College Of Commerce,7.45,7.36,8.50,8.36,8.50,8.081
+17059504035,DIKSHIT ARORA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.18,6.18,8.00,7.21,8.50,7.452
+17059504036,AAYUSHI SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.27,6.82,8.79,7.00,7.75,7.565
+17059504037,AARADHYA KHANNA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,6.82,6.71,6.36,7.00,6.839
+17059504038,UJJWAL BHARDWAJ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.00,6.09,6.71,6.36,8.00,7.000
+17059504039,DIKSHA MADAN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.82,6.09,7.93,6.50,7.50,7.177
+17059504040,JATIN CHAHAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.00,5.82,5.93,6.79,7.75,6.645
+17059504041,VATSALA MEHTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.91,7.82,8.57,8.21,8.00,8.129
+17059504042,AAKRITI MATHUR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.82,6.36,7.93,7.79,8.25,7.839
+17059504043,MRIDUL GOEL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.18,6.55,7.93,6.57,7.25,7.290
+17059504044,OMKAR SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.45,7.09,8.14,6.71,7.00,7.468
+17059504045,JAGRITI GARG,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.18,6.55,8.79,7.57,8.50,7.952
+17059504046,HEMANT KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.45,6.82,8.14,7.79,8.00,7.855
+17059504047,RASHMI CHUGH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.00,6.27,7.93,6.14,7.75,7.210
+17059504048,MANISH ARYA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,5.82,7.14,6.79,8.25,6.968
+17059504049,HARDIK GANDHI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.18,5.27,6.43,5.07,6.75,5.935
+17059504050,LAKSHAY CHOPRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.00,4.27,5.93,5.29,6.50,5.613
+17059504051,CHIRAG SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.45,4.45,6.36,4.07,6.75,5.597
+17059504052,SHIRIN KATHURIA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.73,6.55,8.14,7.57,7.75,7.758
+17059504053,RISHABH KALRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.45,6.09,7.50,6.57,8.00,6.952
+17059504054,RAMNEEK GULATI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.55,7.00,9.21,8.50,8.50,8.403
+17059504055,TANMAY SACHDEVA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.00,6.00,7.71,6.36,7.25,6.532
+17059504056,NEHA JAIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.55,6.55,8.36,7.64,9.00,7.855
+17059504058,ADITYA ARORA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,5.00,5.86,6.79,7.75,6.435
+17059504059,HITESH SACHDEVA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.18,5.27,7.14,7.00,7.50,6.855
+17059504062,JAHNAVI JINDAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.18,4.91,6.43,6.14,7.50,6.258
+17059504063,BHARAT BHATNAGAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.55,7.09,8.79,7.64,8.00,8.032
+17059504064,VINAY MITTAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.91,4.18,5.93,6.14,6.50,5.774
+17059504065,KARTIK DAGA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.27,5.73,6.71,7.21,6.75,6.581
+17059504066,VARUN KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.27,4.91,6.14,5.29,7.00,5.742
+17059504067,YUKTI AHUJA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.36,4.45,6.93,6.36,7.00,6.097
+17059504068,SIDAK MALHOTRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.91,5.45,7.93,7.57,8.00,7.419
+17059504070,RUCHIKA BISHT,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.00,6.00,8.14,7.21,8.00,7.500
+17059504071,FEROJ KHAN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,5.00,7.71,7.14,7.25,6.839
+17059504072,PRANAV MAKHIJANI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.27,4.18,6.00,6.36,6.50,5.726
+17059504073,MADHUR TYAGI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],4.82,4.45,5.00,2.86,5.50,4.484
+17059504074,CHARU JINDAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.00,5.82,8.00,7.14,7.25,7.097
+17059504075,DEEPIKA YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.64,5.18,6.79,5.93,7.00,6.145
+17059504076,AARTI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.45,6.27,7.93,8.00,8.00,7.758
+17059504077,NIPUN BHATIA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.91,5.73,7.71,7.21,7.25,7.016
+17059504078,SHRADUL JAIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.00,6.09,6.93,6.57,7.00,6.548
+17059504079,SARTHAK KHERA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.00,5.73,8.36,8.86,8.75,7.839
+17059504081,SHATAKSHI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],8.18,6.27,7.50,7.21,7.25,7.290
+17059504082,HITASHA ROHILLA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,5.55,6.93,5.36,7.00,6.306
+17059504083,ASHWINI KUMAR SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.36,4.45,6.93,5.50,6.75,6.032
+17059504084,ANSHIKA VASHIST,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,6.27,7.50,7.00,7.50,7.032
+17059504085,ASHU KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.18,4.45,6.14,4.86,6.75,5.500
+17059504087,VEDANT COMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.45,6.73,7.57,6.79,8.25,7.177

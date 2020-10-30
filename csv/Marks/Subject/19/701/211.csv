@@ -1,30 +1,30 @@
-RollNo,Name,College,INTRODUCTION TO APPLIED PSYCHOLOGY,COMMUNITY PSYCHOLOGY,QUANTITATIVE RESEARCH METHODS,APPLIED COGNITIVE PSYCHOLOGY,PRACTICUM
-19211701001,AAMYA SINGH,Department of Psychology,77,73,46,64,65
-19211701002,ADARSH KUMAR VERMA,Department of Psychology,80,68,72,75,73
-19211701003,ANIKA VIRMANI,Department of Psychology,72,61,69,56,68
-19211701004,ANJNA DAHIYA,Department of Psychology,79,75,63,71,71
-19211701005,ANSHIKA PRAKASH,Department of Psychology,76,79,74,54,70
-19211701006,ANUKRATI RANA,Department of Psychology,95,70,77,68,74
-19211701007,ANUSHKA JAISWAL,Department of Psychology,78,66,58,67,71
-19211701008,ASHVIKA A SINGH,Department of Psychology,95,64,69,67,75
-19211701009,BHAVYA JOSHI,Department of Psychology,84,76,82,78,79
-19211701010,BRYAN RAPHAEL,Department of Psychology,65,55,34,53,70
-19211701011,DEISHA SETHI,Department of Psychology,81,78,71,85,76
-19211701012,DEVU RAJEEV,Department of Psychology,84,82,80,89,80
-19211701013,EMAMAN MANSURI,Department of Psychology,78,76,70,61,75
-19211701014,ESHITA BANSAL,Department of Psychology,86,76,76,81,74
-19211701015,HRISHIKA AWASTHI,Department of Psychology,83,77,86,77,76
-19211701016,ISHITA SINGH,Department of Psychology,79,69,59,68,65
-19211701017,JASMINE SHEORAN,Department of Psychology,84,76,80,65,82
-19211701018,JYOTSANA RAJURA,Department of Psychology,80,76,81,76,76
-19211701019,KATENI KETY RAJINA,Department of Psychology,80,74,72,69,77
-19211701020,MEGHA PRASAD,Department of Psychology,79,73,72,70,70
-19211701021,PIYASA DAS,Department of Psychology,79,71,77,79,79
-19211701022,PRASHASTI TRIPATHI,Department of Psychology,83,77,70,59,79
-19211701023,PUNYO KAMPU,Department of Psychology,82,73,70,70,74
-19211701024,SANDHYA SINGH,Department of Psychology,55,71,23,65,100
-19211701025,SANDRA S PRAKASH,Department of Psychology,77,59,50,79,78
-19211701026,SANGHAMITRA,Department of Psychology,76,73,58,75,71
-19211701027,SHASWATI DAS,Department of Psychology,74,74,56,77,100
-19211701028,SWATI KULSHRESTHA,Department of Psychology,62,72,42,47,69
-19211701029,YADVENDER SINGH,Department of Psychology,87,82,82,83,78
+RollNo,Name,College,Introduction to Applied Psychology,Community Psychology,Quantitative Research Methods,Applied Cognitive Psychology,Practicum,Applied Psychometrics,Qualitative Research methods,Practicum ,Psychopathology,Psychotherapeutic Processes,Basics of Organizational Behaviour,Applied Industrial/Organizational Psychology
+19211701001,AAMYA SINGH,Department of Psychology,77,73,46,64,0,0,0,0,0,0,,
+19211701002,ADARSH KUMAR VERMA,Department of Psychology,80,68,72,75,0,0,0,0,0,0,,
+19211701003,ANIKA VIRMANI,Department of Psychology,72,61,69,56,0,0,0,0,,,0,0
+19211701004,ANJNA DAHIYA,Department of Psychology,79,75,63,71,0,0,0,0,,,0,0
+19211701005,ANSHIKA PRAKASH,Department of Psychology,76,79,74,54,0,0,0,0,,,0,0
+19211701006,ANUKRATI RANA,Department of Psychology,25,70,77,68,0,0,0,0,0,0,,
+19211701007,ANUSHKA JAISWAL,Department of Psychology,78,66,58,67,0,0,0,0,0,0,,
+19211701008,ASHVIKA A SINGH,Department of Psychology,25,64,69,67,0,0,0,0,0,0,,
+19211701009,BHAVYA JOSHI,Department of Psychology,84,76,82,78,0,0,0,0,0,0,,
+19211701010,BRYAN RAPHAEL,Department of Psychology,65,55,34,53,0,0,0,0,0,0,,
+19211701011,DEISHA SETHI,Department of Psychology,81,78,71,85,0,0,0,0,0,0,,
+19211701012,DEVU RAJEEV,Department of Psychology,84,82,80,89,0,0,0,0,0,0,,
+19211701013,EMAMAN MANSURI,Department of Psychology,78,76,70,61,0,0,0,0,0,0,,
+19211701014,ESHITA BANSAL,Department of Psychology,86,76,76,81,0,0,0,0,0,0,,
+19211701015,HRISHIKA AWASTHI,Department of Psychology,83,77,86,77,0,0,0,0,0,0,,
+19211701016,ISHITA SINGH,Department of Psychology,79,69,59,68,0,0,0,0,0,0,,
+19211701017,JASMINE SHEORAN,Department of Psychology,84,76,80,65,0,0,0,0,0,0,,
+19211701018,JYOTSANA RAJURA,Department of Psychology,80,76,81,76,0,0,0,0,0,0,,
+19211701019,KATENI KETY RAJINA,Department of Psychology,80,74,72,69,0,0,0,0,0,0,,
+19211701020,MEGHA PRASAD,Department of Psychology,79,73,72,70,0,0,0,0,0,0,,
+19211701021,PIYASA DAS,Department of Psychology,79,71,77,79,0,0,0,0,0,0,,
+19211701022,PRASHASTI TRIPATHI,Department of Psychology,83,77,70,59,0,0,0,0,,,0,0
+19211701023,PUNYO KAMPU,Department of Psychology,82,73,70,70,0,0,0,0,0,0,,
+19211701024,SANDHYA SINGH,Department of Psychology,55,71,23,65,0,0,0,0,0,0,,
+19211701025,SANDRA S PRAKASH,Department of Psychology,77,59,50,79,0,0,0,0,0,0,,
+19211701026,SANGHAMITRA,Department of Psychology,76,73,58,75,0,0,0,0,,,0,0
+19211701027,SHASWATI DAS,Department of Psychology,74,74,56,77,0,0,0,0,0,0,,
+19211701028,SWATI KULSHRESTHA,Department of Psychology,62,72,42,47,0,0,0,0,0,0,,
+19211701029,YADVENDER SINGH,Department of Psychology,87,82,82,83,0,0,0,0,0,0,,

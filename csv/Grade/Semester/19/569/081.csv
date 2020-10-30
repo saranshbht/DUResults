@@ -1,44 +1,44 @@
-RollNo,Name,College,SemI,SemII,Average
-19081569001,JASVINDER,Swami Shraddhanand College,7,7.27,7.135
-19081569002,HITESH,Swami Shraddhanand College,7.45,8.09,7.77
-19081569003,GAURAV,Swami Shraddhanand College,5.91,6.82,6.365
-19081569004,SAGIR AHAMAD,Swami Shraddhanand College,7.18,8.27,7.725
-19081569005,SANDEEP KUMAR,Swami Shraddhanand College,8.09,9.55,8.82
-19081569006,DEEPESH KUMAR SHARMA,Swami Shraddhanand College,8.27,8.27,8.27
-19081569007,CHAITANYA PRAKASH,Swami Shraddhanand College,6.45,8,7.225
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19081569001,JASVINDER,Swami Shraddhanand College,7.00,7.27,7.136
+19081569002,HITESH,Swami Shraddhanand College,7.45,8.09,7.773
+19081569003,GAURAV,Swami Shraddhanand College,5.91,6.82,6.364
+19081569004,SAGIR AHAMAD,Swami Shraddhanand College,7.18,8.27,7.727
+19081569005,SANDEEP KUMAR,Swami Shraddhanand College,8.09,9.55,8.818
+19081569006,DEEPESH KUMAR SHARMA,Swami Shraddhanand College,8.27,8.27,8.273
+19081569007,CHAITANYA PRAKASH,Swami Shraddhanand College,6.45,8.00,7.227
 19081569008,SHASHI RAJ,Swami Shraddhanand College,3.27,6.82,5.045
-19081569009,YAMAN CHAUDHARY,Swami Shraddhanand College,8.27,8.55,8.41
-19081569010,KHUSHI,Swami Shraddhanand College,7.27,8.55,7.91
-19081569011,HEMA,Swami Shraddhanand College,7.45,8.55,8
-19081569012,SAMRAT NASKAR,Swami Shraddhanand College,7.73,8.82,8.275
-19081569013,POOJA,Swami Shraddhanand College,6,8.82,7.41
-19081569014,SANDHYA CHAUDHARY,Swami Shraddhanand College,7.27,8.55,7.91
-19081569015,MONU,Swami Shraddhanand College,5.45,6.27,5.86
-19081569016,NEHA,Swami Shraddhanand College,7.27,8.55,7.91
-19081569017,TEJJSI,Swami Shraddhanand College,7.91,8.55,8.23
-19081569018,AISHWARYA NEHRA,Swami Shraddhanand College,7.45,8.55,8
-19081569019,FABIHA HASAN,Swami Shraddhanand College,7.18,8.55,7.865
-19081569020,SAKSHI,Swami Shraddhanand College,7.27,8.27,7.77
-19081569021,AYUSHI GUPTA,Swami Shraddhanand College,8.45,9.55,9
-19081569022,SAURABH KUMAR,Swami Shraddhanand College,6.45,8.27,7.36
-19081569023,VANSHIKA TYAGI,Swami Shraddhanand College,6.45,8.27,7.36
-19081569024,SHABANA KHATOON,Swami Shraddhanand College,6.18,7.45,6.815
-19081569025,VISHAL MISHRA,Swami Shraddhanand College,6,8.27,7.135
-19081569026,SONI SINGH,Swami Shraddhanand College,7,8.27,7.635
-19081569027,KASHIKA MEHTA,Swami Shraddhanand College,7,8,7.5
-19081569028,MANVI PATHAK,Swami Shraddhanand College,7.73,8.55,8.14
-19081569029,ARZOO CHAUDHARY,Swami Shraddhanand College,9,9.55,9.275
-19081569030,SADHVI SHARMA,Swami Shraddhanand College,8.27,8.73,8.5
-19081569031,ABHISHEK SINGH,Swami Shraddhanand College,6.73,8.55,7.64
-19081569032,KANIKA,Swami Shraddhanand College,6.55,8.55,7.55
-19081569033,SAKSHI JHA,Swami Shraddhanand College,8,9,8.5
+19081569009,YAMAN CHAUDHARY,Swami Shraddhanand College,8.27,8.55,8.409
+19081569010,KHUSHI,Swami Shraddhanand College,7.27,8.55,7.909
+19081569011,HEMA,Swami Shraddhanand College,7.45,8.55,8.000
+19081569012,SAMRAT NASKAR,Swami Shraddhanand College,7.73,8.82,8.273
+19081569013,POOJA,Swami Shraddhanand College,6.00,8.82,7.409
+19081569014,SANDHYA CHAUDHARY,Swami Shraddhanand College,7.27,8.55,7.909
+19081569015,MONU,Swami Shraddhanand College,5.45,6.27,5.864
+19081569016,NEHA,Swami Shraddhanand College,7.27,8.55,7.909
+19081569017,TEJJSI,Swami Shraddhanand College,7.91,8.55,8.227
+19081569018,AISHWARYA NEHRA,Swami Shraddhanand College,7.45,8.55,8.000
+19081569019,FABIHA HASAN,Swami Shraddhanand College,7.18,8.55,7.864
+19081569020,SAKSHI,Swami Shraddhanand College,7.27,8.27,7.773
+19081569021,AYUSHI GUPTA,Swami Shraddhanand College,8.45,9.55,9.000
+19081569022,SAURABH KUMAR,Swami Shraddhanand College,6.45,8.27,7.364
+19081569023,VANSHIKA TYAGI,Swami Shraddhanand College,6.45,8.27,7.364
+19081569024,SHABANA KHATOON,Swami Shraddhanand College,6.18,7.45,6.818
+19081569025,VISHAL MISHRA,Swami Shraddhanand College,6.00,8.27,7.136
+19081569026,SONI SINGH,Swami Shraddhanand College,7.00,8.27,7.636
+19081569027,KASHIKA MEHTA,Swami Shraddhanand College,7.00,8.00,7.500
+19081569028,MANVI PATHAK,Swami Shraddhanand College,7.73,8.55,8.136
+19081569029,ARZOO CHAUDHARY,Swami Shraddhanand College,9.00,9.55,9.273
+19081569030,SADHVI SHARMA,Swami Shraddhanand College,8.27,8.73,8.500
+19081569031,ABHISHEK SINGH,Swami Shraddhanand College,6.73,8.55,7.636
+19081569032,KANIKA,Swami Shraddhanand College,6.55,8.55,7.545
+19081569033,SAKSHI JHA,Swami Shraddhanand College,8.00,9.00,8.500
 19081569034,USHEMA TOMAR,Swami Shraddhanand College,6.18,7.73,6.955
-19081569035,SHABIR HUSSAIN,Swami Shraddhanand College,0.91,5.45,3.18
+19081569035,SHABIR HUSSAIN,Swami Shraddhanand College,0.91,5.45,3.182
 19081569036,ANAMIKA SISODIYA,Swami Shraddhanand College,6.36,7.55,6.955
-19081569037,AFSAR ABBAS SYED,Swami Shraddhanand College,2.18,1.64,1.91
-19081569038,V RITU,Swami Shraddhanand College,5.45,7.27,6.36
-19081569039,SRI ADARSH SHIVAM,Swami Shraddhanand College,7.45,8.55,8
-19081569040,NUTAN,Swami Shraddhanand College,7.82,9,8.41
-19081569041,DIYA KAUSHIK,Swami Shraddhanand College,7.73,8.55,8.14
-19081569042,RESHMA KUAMARI,Swami Shraddhanand College,7.73,9,8.365
-19081569043,LAXMI SHARMA,Swami Shraddhanand College,7.45,8.73,8.09
+19081569037,AFSAR ABBAS SYED,Swami Shraddhanand College,2.18,1.64,1.909
+19081569038,V RITU,Swami Shraddhanand College,5.45,7.27,6.364
+19081569039,SRI ADARSH SHIVAM,Swami Shraddhanand College,7.45,8.55,8.000
+19081569040,NUTAN,Swami Shraddhanand College,7.82,9.00,8.409
+19081569041,DIYA KAUSHIK,Swami Shraddhanand College,7.73,8.55,8.136
+19081569042,RESHMA KUAMARI,Swami Shraddhanand College,7.73,9.00,8.364
+19081569043,LAXMI SHARMA,Swami Shraddhanand College,7.45,8.73,8.091

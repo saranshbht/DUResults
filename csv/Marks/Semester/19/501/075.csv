@@ -1,7 +1,7 @@
-RollNo,Name,College,SemI,SemII,Total,Percentage
-19075501001,AKANKSHA PRAJAPATI,Shyama Prasad Mukherji College for Women,298/450,341/450,639/900,71
+RollNo,Name,College,Sem-I,Sem-II,Total,Percentage
+19075501001,AKANKSHA PRAJAPATI,Shyama Prasad Mukherji College for Women,298/450,341/450,639/900,71.000
 19075501002,ALKA KUMARI,Shyama Prasad Mukherji College for Women,316/450,360/450,676/900,75.111
-19075501003,ANKITA,Shyama Prasad Mukherji College for Women,192/450,276/450,468/900,52
+19075501003,ANKITA,Shyama Prasad Mukherji College for Women,192/450,276/450,468/900,52.000
 19075501004,ANKITA TANWAR,Shyama Prasad Mukherji College for Women,297/450,330/450,627/900,69.667
 19075501005,DIKSHU,Shyama Prasad Mukherji College for Women,287/450,336/450,623/900,69.222
 19075501006,ISHA,Shyama Prasad Mukherji College for Women,205/450,275/450,480/900,53.333
@@ -12,12 +12,13 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19075501011,RICHA MALIK,Shyama Prasad Mukherji College for Women,236/450,296/450,532/900,59.111
 19075501012,SHIKHA SHOKEEN,Shyama Prasad Mukherji College for Women,301/450,318/450,619/900,68.778
 19075501013,YOGITA,Shyama Prasad Mukherji College for Women,181/450,256/450,437/900,48.556
+19075501014,AARTI,Shyama Prasad Mukherji College for Women,47/450,,47/450,10.444
 19075501015,PRANJAL SONI,Shyama Prasad Mukherji College for Women,314/450,338/450,652/900,72.444
 19075501016,KUMKUM,Shyama Prasad Mukherji College for Women,271/450,318/450,589/900,65.444
 19075501017,ANJALI BHARDWAJ,Shyama Prasad Mukherji College for Women,302/450,334/450,636/900,70.667
 19075501018,JYOTI GAUTAM,Shyama Prasad Mukherji College for Women,177/450,267/450,444/900,49.333
 19075501019,KANIKA,Shyama Prasad Mukherji College for Women,334/450,358/450,692/900,76.889
-19075501020,NISHITA,Shyama Prasad Mukherji College for Women,235/450,305/450,540/900,60
+19075501020,NISHITA,Shyama Prasad Mukherji College for Women,235/450,305/450,540/900,60.000
 19075501021,PRANJALI KAUSHIK,Shyama Prasad Mukherji College for Women,248/450,318/450,566/900,62.889
 19075501022,POOJA PAL,Shyama Prasad Mukherji College for Women,273/450,322/450,595/900,66.111
 19075501023,PULKITA,Shyama Prasad Mukherji College for Women,252/450,322/450,574/900,63.778
@@ -45,7 +46,7 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19075501045,RASHI BHAKUNI,Shyama Prasad Mukherji College for Women,294/450,352/450,646/900,71.778
 19075501046,ROSHNI,Shyama Prasad Mukherji College for Women,289/450,338/450,627/900,69.667
 19075501047,URVIKA,Shyama Prasad Mukherji College for Women,325/450,372/450,697/900,77.444
-19075501048,VIDYA.P.C,Shyama Prasad Mukherji College for Women,364/450,392/450,756/900,84
+19075501048,VIDYA.P.C,Shyama Prasad Mukherji College for Women,364/450,392/450,756/900,84.000
 19075501049,AKSHITA GOYAL,Shyama Prasad Mukherji College for Women,229/450,290/450,519/900,57.667
 19075501050,AMISHA LAXMI,Shyama Prasad Mukherji College for Women,240/450,311/450,551/900,61.222
 19075501051,ANJALI,Shyama Prasad Mukherji College for Women,274/450,310/450,584/900,64.889
@@ -64,16 +65,16 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19075501064,SHWETA KUMARI,Shyama Prasad Mukherji College for Women,256/450,322/450,578/900,64.222
 19075501065,SNEHA RASAILY,Shyama Prasad Mukherji College for Women,232/450,313/450,545/900,60.556
 19075501066,YUVIKA TANORIA,Shyama Prasad Mukherji College for Women,255/450,296/450,551/900,61.222
-19075501067,AKSHITA SINGH,Shyama Prasad Mukherji College for Women,229/400,315/450,544/850,64
+19075501067,AKSHITA SINGH,Shyama Prasad Mukherji College for Women,229/400,315/450,544/850,64.000
 19075501068,ANJALI,Shyama Prasad Mukherji College for Women,208/400,292/450,500/850,58.824
 19075501069,ANSHIKA,Shyama Prasad Mukherji College for Women,33/400,203/450,236/850,27.765
 19075501070,DHRITY VERMA,Shyama Prasad Mukherji College for Women,92/400,213/450,305/850,35.882
-19075501071,DIVYA MANN,Shyama Prasad Mukherji College for Women,188/400,288/450,476/850,56
+19075501071,DIVYA MANN,Shyama Prasad Mukherji College for Women,188/400,288/450,476/850,56.000
 19075501072,DOLI,Shyama Prasad Mukherji College for Women,176/400,280/450,456/850,53.647
 19075501073,ESHVEE DESWAL,Shyama Prasad Mukherji College for Women,216/400,289/450,505/850,59.412
 19075501074,GARIMA SETHI,Shyama Prasad Mukherji College for Women,218/400,281/450,499/850,58.706
 19075501075,JASMINE,Shyama Prasad Mukherji College for Women,192/400,283/450,475/850,55.882
-19075501076,JYOTI,Shyama Prasad Mukherji College for Women,213/400,331/450,544/850,64
+19075501076,JYOTI,Shyama Prasad Mukherji College for Women,213/400,331/450,544/850,64.000
 19075501077,KAJAL KUMARI,Shyama Prasad Mukherji College for Women,210/400,299/450,509/850,59.882
 19075501078,KHUSHBOO,Shyama Prasad Mukherji College for Women,247/400,318/450,565/850,66.471
 19075501079,KHUSHI,Shyama Prasad Mukherji College for Women,162/400,270/450,432/850,50.824
@@ -111,321 +112,327 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19075501111,BHAVYA CHOPRA,Shyama Prasad Mukherji College for Women,76/450,218/450,294/900,32.667
 19075501112,BHAVYA SHARMA,Shyama Prasad Mukherji College for Women,255/400,270/400,525/800,65.625
 19075501113,MAHINOOR KHAN,Shyama Prasad Mukherji College for Women,247/400,270/400,517/800,64.625
+19075501114,NIDHI,Shyama Prasad Mukherji College for Women,241/400,,241/400,60.250
 19075501115,REENA,Shyama Prasad Mukherji College for Women,225/400,268/400,493/800,61.625
 19075501116,SANJANA,Shyama Prasad Mukherji College for Women,265/400,292/400,557/800,69.625
-19075501117,VANDANA,Shyama Prasad Mukherji College for Women,212/400,260/400,472/800,59
-19075501118,AARTI,Shyama Prasad Mukherji College for Women,234/400,306/400,540/800,67.5
-19075501119,AARTI SHARMA,Shyama Prasad Mukherji College for Women,260/400,306/400,566/800,70.75
-19075501120,ANKITA MEHAR,Shyama Prasad Mukherji College for Women,194/400,244/400,438/800,54.75
-19075501121,MAHIN ARORA,Shyama Prasad Mukherji College for Women,192/400,228/400,420/800,52.5
+19075501117,VANDANA,Shyama Prasad Mukherji College for Women,212/400,260/400,472/800,59.000
+19075501118,AARTI,Shyama Prasad Mukherji College for Women,234/400,306/400,540/800,67.500
+19075501119,AARTI SHARMA,Shyama Prasad Mukherji College for Women,260/400,306/400,566/800,70.750
+19075501120,ANKITA MEHAR,Shyama Prasad Mukherji College for Women,194/400,244/400,438/800,54.750
+19075501121,MAHIN ARORA,Shyama Prasad Mukherji College for Women,192/400,228/400,420/800,52.500
 19075501122,MAMTA,Shyama Prasad Mukherji College for Women,261/400,298/400,559/800,69.875
-19075501123,MAUSAM,Shyama Prasad Mukherji College for Women,232/400,288/400,520/800,65
-19075501124,PALAK,Shyama Prasad Mukherji College for Women,304/400,330/400,634/800,79.25
+19075501123,MAUSAM,Shyama Prasad Mukherji College for Women,232/400,288/400,520/800,65.000
+19075501124,PALAK,Shyama Prasad Mukherji College for Women,304/400,330/400,634/800,79.250
 19075501125,PALLAVI SINGH,Shyama Prasad Mukherji College for Women,249/400,284/400,533/800,66.625
 19075501126,PREETI BAGHEL,Shyama Prasad Mukherji College for Women,211/400,270/400,481/800,60.125
-19075501127,RITIKA BHARDWAJ,Shyama Prasad Mukherji College for Women,58/400,180/400,238/800,29.75
-19075501128,RYTHM DIXIT,Shyama Prasad Mukherji College for Women,222/400,256/400,478/800,59.75
-19075501132,SHAKREEN BANO,Shyama Prasad Mukherji College for Women,234/400,290/400,524/800,65.5
-19075501133,SHALINI MEHTA,Shyama Prasad Mukherji College for Women,204/400,266/400,470/800,58.75
-19075501134,SIMRAN,Shyama Prasad Mukherji College for Women,240/400,286/400,526/800,65.75
-19075501135,SUDHA,Shyama Prasad Mukherji College for Women,236/400,290/400,526/800,65.75
+19075501127,RITIKA BHARDWAJ,Shyama Prasad Mukherji College for Women,58/400,180/400,238/800,29.750
+19075501128,RYTHM DIXIT,Shyama Prasad Mukherji College for Women,222/400,256/400,478/800,59.750
+19075501129,SAHIBA KHAN,Shyama Prasad Mukherji College for Women,66/400,,66/400,16.500
+19075501132,SHAKREEN BANO,Shyama Prasad Mukherji College for Women,234/400,290/400,524/800,65.500
+19075501133,SHALINI MEHTA,Shyama Prasad Mukherji College for Women,204/400,266/400,470/800,58.750
+19075501134,SIMRAN,Shyama Prasad Mukherji College for Women,240/400,286/400,526/800,65.750
+19075501135,SUDHA,Shyama Prasad Mukherji College for Women,236/400,290/400,526/800,65.750
 19075501136,DEEPANSHI SODHI,Shyama Prasad Mukherji College for Women,191/400,212/400,403/800,50.375
-19075501137,LAXMI,Shyama Prasad Mukherji College for Women,172/400,256/400,428/800,53.5
-19075501138,MUSKAN CHHABRA,Shyama Prasad Mukherji College for Women,160/400,184/400,344/800,43
+19075501137,LAXMI,Shyama Prasad Mukherji College for Women,172/400,256/400,428/800,53.500
+19075501138,MUSKAN CHHABRA,Shyama Prasad Mukherji College for Women,160/400,184/400,344/800,43.000
 19075501139,SIMRAN,Shyama Prasad Mukherji College for Women,169/400,230/400,399/800,49.875
 19075501140,ISHA JAIN,Shyama Prasad Mukherji College for Women,234/400,286/450,520/850,61.176
-19075501141,RADHA CHAUDHARY,Shyama Prasad Mukherji College for Women,196/400,263/450,459/850,54
+19075501141,RADHA CHAUDHARY,Shyama Prasad Mukherji College for Women,196/400,263/450,459/850,54.000
 19075501142,ZEBA PRAVEEN,Shyama Prasad Mukherji College for Women,227/450,298/450,525/900,58.333
 19075501143,SABIHAR,Shyama Prasad Mukherji College for Women,271/450,320/450,591/900,65.667
-19075501144,ANJALI,Shyama Prasad Mukherji College for Women,218/400,268/400,486/800,60.75
+19075501144,ANJALI,Shyama Prasad Mukherji College for Women,218/400,268/400,486/800,60.750
 19075501145,DIKSHA,Shyama Prasad Mukherji College for Women,233/400,272/400,505/800,63.125
 19075501146,GARINA,Shyama Prasad Mukherji College for Women,287/400,328/400,615/800,76.875
-19075501147,HIMANI,Shyama Prasad Mukherji College for Women,270/400,322/400,592/800,74
-19075501148,JUHI KHATOON,Shyama Prasad Mukherji College for Women,236/400,278/400,514/800,64.25
-19075501149,JYOTI SINGH,Shyama Prasad Mukherji College for Women,196/400,258/400,454/800,56.75
-19075501150,KHUSHI CHAUDHARY,Shyama Prasad Mukherji College for Women,220/400,262/400,482/800,60.25
-19075501151,KUMARI SWETA,Shyama Prasad Mukherji College for Women,206/400,262/400,468/800,58.5
-19075501152,MANSI SHARMA,Shyama Prasad Mukherji College for Women,192/400,232/400,424/800,53
-19075501153,NEHA,Shyama Prasad Mukherji College for Women,172/400,218/400,390/800,48.75
-19075501154,PRIYANKA,Shyama Prasad Mukherji College for Women,190/400,262/400,452/800,56.5
-19075501155,RICHA KUMARI,Shyama Prasad Mukherji College for Women,234/400,286/400,520/800,65
+19075501147,HIMANI,Shyama Prasad Mukherji College for Women,270/400,322/400,592/800,74.000
+19075501148,JUHI KHATOON,Shyama Prasad Mukherji College for Women,236/400,278/400,514/800,64.250
+19075501149,JYOTI SINGH,Shyama Prasad Mukherji College for Women,196/400,258/400,454/800,56.750
+19075501150,KHUSHI CHAUDHARY,Shyama Prasad Mukherji College for Women,220/400,262/400,482/800,60.250
+19075501151,KUMARI SWETA,Shyama Prasad Mukherji College for Women,206/400,262/400,468/800,58.500
+19075501152,MANSI SHARMA,Shyama Prasad Mukherji College for Women,192/400,232/400,424/800,53.000
+19075501153,NEHA,Shyama Prasad Mukherji College for Women,172/400,218/400,390/800,48.750
+19075501154,PRIYANKA,Shyama Prasad Mukherji College for Women,190/400,262/400,452/800,56.500
+19075501155,RICHA KUMARI,Shyama Prasad Mukherji College for Women,234/400,286/400,520/800,65.000
 19075501156,SAUMYA SHARMA,Shyama Prasad Mukherji College for Women,203/400,260/400,463/800,57.875
-19075501157,SHIVANI,Shyama Prasad Mukherji College for Women,198/400,264/400,462/800,57.75
+19075501157,SHIVANI,Shyama Prasad Mukherji College for Women,198/400,264/400,462/800,57.750
 19075501158,AASTHA SHARMA,Shyama Prasad Mukherji College for Women,223/400,274/400,497/800,62.125
-19075501159,ANJALI GUPTA,Shyama Prasad Mukherji College for Women,242/400,294/400,536/800,67
-19075501160,ASHI,Shyama Prasad Mukherji College for Women,226/400,280/400,506/800,63.25
+19075501159,ANJALI GUPTA,Shyama Prasad Mukherji College for Women,242/400,294/400,536/800,67.000
+19075501160,ASHI,Shyama Prasad Mukherji College for Women,226/400,280/400,506/800,63.250
 19075501161,D. KRISHNASRI,Shyama Prasad Mukherji College for Women,285/400,314/400,599/800,74.875
 19075501162,D. KAVYASRI,Shyama Prasad Mukherji College for Women,275/400,304/400,579/800,72.375
-19075501163,EKTA,Shyama Prasad Mukherji College for Women,174/400,224/400,398/800,49.75
-19075501164,KAJAL,Shyama Prasad Mukherji College for Women,148/400,214/400,362/800,45.25
-19075501165,KHUSHBOO,Shyama Prasad Mukherji College for Women,242/400,276/400,518/800,64.75
+19075501163,EKTA,Shyama Prasad Mukherji College for Women,174/400,224/400,398/800,49.750
+19075501164,KAJAL,Shyama Prasad Mukherji College for Women,148/400,214/400,362/800,45.250
+19075501165,KHUSHBOO,Shyama Prasad Mukherji College for Women,242/400,276/400,518/800,64.750
 19075501166,KOMAL YADAV,Shyama Prasad Mukherji College for Women,229/400,284/400,513/800,64.125
-19075501167,MUSKAN,Shyama Prasad Mukherji College for Women,150/400,230/400,380/800,47.5
-19075501168,NIKKAM KUMARI GIRI,Shyama Prasad Mukherji College for Women,222/400,264/400,486/800,60.75
-19075501169,NIRU,Shyama Prasad Mukherji College for Women,154/400,108/400,262/800,32.75
+19075501167,MUSKAN,Shyama Prasad Mukherji College for Women,150/400,230/400,380/800,47.500
+19075501168,NIKKAM KUMARI GIRI,Shyama Prasad Mukherji College for Women,222/400,264/400,486/800,60.750
+19075501169,NIRU,Shyama Prasad Mukherji College for Women,154/400,108/400,262/800,32.750
 19075501170,PRANJAL SHARMA,Shyama Prasad Mukherji College for Women,231/400,266/400,497/800,62.125
 19075501171,PRATIBHA,Shyama Prasad Mukherji College for Women,169/400,206/400,375/800,46.875
-19075501172,MUSKAN,Shyama Prasad Mukherji College for Women,112/400,186/400,298/800,37.25
-19075501173,SAKSHI,Shyama Prasad Mukherji College for Women,210/400,274/400,484/800,60.5
-19075501174,SHRUTI SINGH,Shyama Prasad Mukherji College for Women,212/400,268/400,480/800,60
-19075501175,SONAM,Shyama Prasad Mukherji College for Women,188/400,256/400,444/800,55.5
-19075501176,SWATI,Shyama Prasad Mukherji College for Women,182/400,216/400,398/800,49.75
-19075501177,TINA YADAV,Shyama Prasad Mukherji College for Women,172/400,248/400,420/800,52.5
-19075501178,ANSHIKA,Shyama Prasad Mukherji College for Women,248/400,284/400,532/800,66.5
+19075501172,MUSKAN,Shyama Prasad Mukherji College for Women,112/400,186/400,298/800,37.250
+19075501173,SAKSHI,Shyama Prasad Mukherji College for Women,210/400,274/400,484/800,60.500
+19075501174,SHRUTI SINGH,Shyama Prasad Mukherji College for Women,212/400,268/400,480/800,60.000
+19075501175,SONAM,Shyama Prasad Mukherji College for Women,188/400,256/400,444/800,55.500
+19075501176,SWATI,Shyama Prasad Mukherji College for Women,182/400,216/400,398/800,49.750
+19075501177,TINA YADAV,Shyama Prasad Mukherji College for Women,172/400,248/400,420/800,52.500
+19075501178,ANSHIKA,Shyama Prasad Mukherji College for Women,248/400,284/400,532/800,66.500
 19075501179,ASHITA KESHARI,Shyama Prasad Mukherji College for Women,277/400,310/400,587/800,73.375
 19075501180,BHARTI,Shyama Prasad Mukherji College for Women,267/400,300/400,567/800,70.875
 19075501181,GARIMA,Shyama Prasad Mukherji College for Women,253/400,284/400,537/800,67.125
-19075501182,JAYA SHARMA,Shyama Prasad Mukherji College for Women,170/400,216/400,386/800,48.25
+19075501182,JAYA SHARMA,Shyama Prasad Mukherji College for Women,170/400,216/400,386/800,48.250
 19075501183,JYOTI,Shyama Prasad Mukherji College for Women,259/400,296/400,555/800,69.375
-19075501184,KHUSHBOO CHAUHAN,Shyama Prasad Mukherji College for Women,198/400,260/400,458/800,57.25
+19075501184,KHUSHBOO CHAUHAN,Shyama Prasad Mukherji College for Women,198/400,260/400,458/800,57.250
 19075501185,KHUSHI GUPTA,Shyama Prasad Mukherji College for Women,257/400,310/400,567/800,70.875
 19075501186,KHUSHI SHARMA,Shyama Prasad Mukherji College for Women,235/400,274/400,509/800,63.625
 19075501187,MEENAKSHI,Shyama Prasad Mukherji College for Women,261/400,310/400,571/800,71.375
 19075501188,RUBY,Shyama Prasad Mukherji College for Women,237/400,270/400,507/800,63.375
-19075501189,SAKSHI GUPTA,Shyama Prasad Mukherji College for Women,204/400,222/400,426/800,53.25
+19075501189,SAKSHI GUPTA,Shyama Prasad Mukherji College for Women,204/400,222/400,426/800,53.250
 19075501190,SHEETAL BELWAL,Shyama Prasad Mukherji College for Women,225/400,250/400,475/800,59.375
 19075501191,SHREYA GARG,Shyama Prasad Mukherji College for Women,247/400,278/400,525/800,65.625
-19075501192,SIMRAN,Shyama Prasad Mukherji College for Women,126/400,160/400,286/800,35.75
+19075501192,SIMRAN,Shyama Prasad Mukherji College for Women,126/400,160/400,286/800,35.750
 19075501193,VIDHI,Shyama Prasad Mukherji College for Women,251/400,290/400,541/800,67.625
 19075501194,AIESHA FATIMA HAYAT,Shyama Prasad Mukherji College for Women,123/400,162/400,285/800,35.625
-19075501195,AKANSHA KASHYAP,Shyama Prasad Mukherji College for Women,160/400,200/400,360/800,45
+19075501195,AKANSHA KASHYAP,Shyama Prasad Mukherji College for Women,160/400,200/400,360/800,45.000
 19075501196,ANANYA GUPTA,Shyama Prasad Mukherji College for Women,187/400,246/400,433/800,54.125
-19075501197,AMLIKA SETH,Shyama Prasad Mukherji College for Women,214/400,248/400,462/800,57.75
-19075501198,ISHIKA YADAV,Shyama Prasad Mukherji College for Women,20/400,124/400,144/800,18
+19075501197,AMLIKA SETH,Shyama Prasad Mukherji College for Women,214/400,248/400,462/800,57.750
+19075501198,ISHIKA YADAV,Shyama Prasad Mukherji College for Women,20/400,124/400,144/800,18.000
 19075501199,KALPANA,Shyama Prasad Mukherji College for Women,199/400,260/400,459/800,57.375
 19075501200,KUNJUM MUKHIJA,Shyama Prasad Mukherji College for Women,21/400,138/400,159/800,19.875
-19075501201,POOJA KUMARI,Shyama Prasad Mukherji College for Women,186/400,242/400,428/800,53.5
+19075501201,POOJA KUMARI,Shyama Prasad Mukherji College for Women,186/400,242/400,428/800,53.500
 19075501202,PRIYANKA,Shyama Prasad Mukherji College for Women,225/400,274/400,499/800,62.375
 19075501203,SHREYA,Shyama Prasad Mukherji College for Women,195/400,254/400,449/800,56.125
 19075501204,SOMYA GUPTA,Shyama Prasad Mukherji College for Women,243/400,278/400,521/800,65.125
 19075501205,TEJASVI,Shyama Prasad Mukherji College for Women,291/400,322/400,613/800,76.625
-19075501206,YASHIKA PASSI,Shyama Prasad Mukherji College for Women,224/400,272/400,496/800,62
+19075501206,YASHIKA PASSI,Shyama Prasad Mukherji College for Women,224/400,272/400,496/800,62.000
 19075501207,AARTI,Shyama Prasad Mukherji College for Women,215/400,262/400,477/800,59.625
-19075501208,CHANCHAL YADAV,Shyama Prasad Mukherji College for Women,244/400,296/400,540/800,67.5
-19075501209,CHHAYA SHARMA,Shyama Prasad Mukherji College for Women,218/400,264/400,482/800,60.25
+19075501208,CHANCHAL YADAV,Shyama Prasad Mukherji College for Women,244/400,296/400,540/800,67.500
+19075501209,CHHAYA SHARMA,Shyama Prasad Mukherji College for Women,218/400,264/400,482/800,60.250
 19075501210,DEEPIKA YADAV,Shyama Prasad Mukherji College for Women,181/400,254/400,435/800,54.375
 19075501211,KAJAL,Shyama Prasad Mukherji College for Women,239/400,290/400,529/800,66.125
 19075501212,JYOTI,Shyama Prasad Mukherji College for Women,213/400,276/400,489/800,61.125
 19075501213,KHUSHBOO,Shyama Prasad Mukherji College for Women,175/400,260/400,435/800,54.375
-19075501214,KOMAL,Shyama Prasad Mukherji College for Women,226/400,260/400,486/800,60.75
+19075501214,KOMAL,Shyama Prasad Mukherji College for Women,226/400,260/400,486/800,60.750
 19075501215,MANYA SINGH,Shyama Prasad Mukherji College for Women,217/400,118/400,335/800,41.875
 19075501216,MUSKAN KUMARI,Shyama Prasad Mukherji College for Women,275/400,292/400,567/800,70.875
 19075501217,NANDINI,Shyama Prasad Mukherji College for Women,175/400,242/400,417/800,52.125
-19075501218,PRACHI RAJPOOT,Shyama Prasad Mukherji College for Women,270/400,310/400,580/800,72.5
-19075501219,PREETI PANDEY,Shyama Prasad Mukherji College for Women,230/400,292/400,522/800,65.25
+19075501218,PRACHI RAJPOOT,Shyama Prasad Mukherji College for Women,270/400,310/400,580/800,72.500
+19075501219,PREETI PANDEY,Shyama Prasad Mukherji College for Women,230/400,292/400,522/800,65.250
 19075501220,RICKY KUMARI,Shyama Prasad Mukherji College for Women,157/400,234/400,391/800,48.875
-19075501221,RUKSANA,Shyama Prasad Mukherji College for Women,236/400,292/400,528/800,66
-19075501222,SHAMA PRAVEEN,Shyama Prasad Mukherji College for Women,240/400,288/400,528/800,66
-19075501223,SHIVANI PAL,Shyama Prasad Mukherji College for Women,176/400,228/400,404/800,50.5
+19075501221,RUKSANA,Shyama Prasad Mukherji College for Women,236/400,292/400,528/800,66.000
+19075501222,SHAMA PRAVEEN,Shyama Prasad Mukherji College for Women,240/400,288/400,528/800,66.000
+19075501223,SHIVANI PAL,Shyama Prasad Mukherji College for Women,176/400,228/400,404/800,50.500
 19075501224,DEEPALI,Shyama Prasad Mukherji College for Women,221/400,280/400,501/800,62.625
 19075501225,DEEPIKA DAS,Shyama Prasad Mukherji College for Women,201/400,238/400,439/800,54.875
+19075501226,ISHITA SHARMA,Shyama Prasad Mukherji College for Women,28/400,,28/400,7.000
 19075501227,LEKHA SHARMA,Shyama Prasad Mukherji College for Women,163/400,226/400,389/800,48.625
-19075501228,NIKY,Shyama Prasad Mukherji College for Women,158/400,228/400,386/800,48.25
+19075501228,NIKY,Shyama Prasad Mukherji College for Women,158/400,228/400,386/800,48.250
 19075501229,NISHA,Shyama Prasad Mukherji College for Women,161/400,246/400,407/800,50.875
 19075501230,POOJA,Shyama Prasad Mukherji College for Women,177/400,232/400,409/800,51.125
 19075501231,SONIA,Shyama Prasad Mukherji College for Women,209/400,276/400,485/800,60.625
-19075501232,SUMAN,Shyama Prasad Mukherji College for Women,182/400,252/400,434/800,54.25
-19075501233,VARSHA,Shyama Prasad Mukherji College for Women,222/400,274/400,496/800,62
+19075501232,SUMAN,Shyama Prasad Mukherji College for Women,182/400,252/400,434/800,54.250
+19075501233,VARSHA,Shyama Prasad Mukherji College for Women,222/400,274/400,496/800,62.000
 19075501234,VERSHA SHARMA,Shyama Prasad Mukherji College for Women,231/400,286/400,517/800,64.625
-19075501235,AANCHAL,Shyama Prasad Mukherji College for Women,182/400,234/400,416/800,52
+19075501235,AANCHAL,Shyama Prasad Mukherji College for Women,182/400,234/400,416/800,52.000
 19075501236,AAYUSHI DANDRIYAL,Shyama Prasad Mukherji College for Women,53/400,150/400,203/800,25.375
 19075501237,ANGOM SIMRAN DEVI,Shyama Prasad Mukherji College for Women,271/400,308/400,579/800,72.375
 19075501238,CHHAVI ATTRI,Shyama Prasad Mukherji College for Women,243/400,286/400,529/800,66.125
-19075501239,DIVYA KHATRI,Shyama Prasad Mukherji College for Women,166/400,224/400,390/800,48.75
+19075501239,DIVYA KHATRI,Shyama Prasad Mukherji College for Women,166/400,224/400,390/800,48.750
 19075501240,JYOTI,Shyama Prasad Mukherji College for Women,139/400,202/400,341/800,42.625
 19075501241,HAYA,Shyama Prasad Mukherji College for Women,185/400,250/400,435/800,54.375
-19075501242,KOMAL,Shyama Prasad Mukherji College for Women,214/400,244/400,458/800,57.25
-19075501243,NANCY MITTAL,Shyama Prasad Mukherji College for Women,254/400,278/400,532/800,66.5
+19075501242,KOMAL,Shyama Prasad Mukherji College for Women,214/400,244/400,458/800,57.250
+19075501243,NANCY MITTAL,Shyama Prasad Mukherji College for Women,254/400,278/400,532/800,66.500
 19075501244,NISHITA BERWANI,Shyama Prasad Mukherji College for Women,287/400,314/400,601/800,75.125
 19075501245,PRERNA,Shyama Prasad Mukherji College for Women,203/400,252/400,455/800,56.875
-19075501246,RADHIKA,Shyama Prasad Mukherji College for Women,262/400,298/400,560/800,70
+19075501246,RADHIKA,Shyama Prasad Mukherji College for Women,262/400,298/400,560/800,70.000
 19075501247,RITU BHARTI,Shyama Prasad Mukherji College for Women,179/400,232/400,411/800,51.375
 19075501248,RUPALI,Shyama Prasad Mukherji College for Women,215/400,252/400,467/800,58.375
-19075501249,SONALIKA CHAUHAN,Shyama Prasad Mukherji College for Women,246/400,290/400,536/800,67
+19075501249,SONALIKA CHAUHAN,Shyama Prasad Mukherji College for Women,246/400,290/400,536/800,67.000
 19075501250,YASHITA GUPTA,Shyama Prasad Mukherji College for Women,259/400,296/400,555/800,69.375
 19075501251,KRITIKA CHAUHAN,Shyama Prasad Mukherji College for Women,217/400,260/400,477/800,59.625
-19075501252,NISHITA JAIN,Shyama Prasad Mukherji College for Women,168/400,210/400,378/800,47.25
+19075501252,NISHITA JAIN,Shyama Prasad Mukherji College for Women,168/400,210/400,378/800,47.250
 19075501253,RIYA YADAV,Shyama Prasad Mukherji College for Women,221/400,276/400,497/800,62.125
 19075501254,SHARDHA YADAV,Shyama Prasad Mukherji College for Women,161/400,232/400,393/800,49.125
-19075501255,AANCHAL,Shyama Prasad Mukherji College for Women,142/400,178/400,320/800,40
-19075501256,APARNA SHUKLA,Shyama Prasad Mukherji College for Women,182/400,250/400,432/800,54
+19075501255,AANCHAL,Shyama Prasad Mukherji College for Women,142/400,178/400,320/800,40.000
+19075501256,APARNA SHUKLA,Shyama Prasad Mukherji College for Women,182/400,250/400,432/800,54.000
 19075501257,DHRITI GOEL,Shyama Prasad Mukherji College for Women,211/400,226/400,437/800,54.625
-19075501258,DHWANI GOGIA,Shyama Prasad Mukherji College for Women,196/400,246/400,442/800,55.25
+19075501258,DHWANI GOGIA,Shyama Prasad Mukherji College for Women,196/400,246/400,442/800,55.250
 19075501259,DOLLY MISHRA,Shyama Prasad Mukherji College for Women,261/400,306/400,567/800,70.875
 19075501260,GRISHIKHA MAIR,Shyama Prasad Mukherji College for Women,213/400,246/400,459/800,57.375
-19075501261,JANVI,Shyama Prasad Mukherji College for Women,144/400,218/400,362/800,45.25
+19075501261,JANVI,Shyama Prasad Mukherji College for Women,144/400,218/400,362/800,45.250
 19075501262,JOSHIKA YADAV,Shyama Prasad Mukherji College for Women,171/400,202/400,373/800,46.625
 19075501263,KANISHKA GOSAIN,Shyama Prasad Mukherji College for Women,27/400,128/400,155/800,19.375
+19075501264,MANASVI ADHIKARI,Shyama Prasad Mukherji College for Women,171/400,,171/400,42.750
 19075501265,MANISHA,Shyama Prasad Mukherji College for Women,187/400,240/400,427/800,53.375
 19075501266,LAKSHITA JAIN,Shyama Prasad Mukherji College for Women,205/400,242/400,447/800,55.875
-19075501267,MANSI,Shyama Prasad Mukherji College for Women,246/400,288/400,534/800,66.75
-19075501268,MEGHNA PRIYA,Shyama Prasad Mukherji College for Women,270/400,300/400,570/800,71.25
+19075501267,MANSI,Shyama Prasad Mukherji College for Women,246/400,288/400,534/800,66.750
+19075501268,MEGHNA PRIYA,Shyama Prasad Mukherji College for Women,270/400,300/400,570/800,71.250
 19075501269,NIDHI,Shyama Prasad Mukherji College for Women,189/400,242/400,431/800,53.875
 19075501270,NIKITA KOHLI,Shyama Prasad Mukherji College for Women,213/400,262/400,475/800,59.375
 19075501271,NISHA MAGAN,Shyama Prasad Mukherji College for Women,175/400,240/400,415/800,51.875
-19075501272,NISHTHA,Shyama Prasad Mukherji College for Women,244/400,280/400,524/800,65.5
-19075501273,NIVRITEE MISHRA,Shyama Prasad Mukherji College for Women,176/400,248/400,424/800,53
-19075501274,PRIYA,Shyama Prasad Mukherji College for Women,202/400,246/400,448/800,56
-19075501275,RAJNANDNI BHARTI,Shyama Prasad Mukherji College for Women,34/400,152/400,186/800,23.25
+19075501272,NISHTHA,Shyama Prasad Mukherji College for Women,244/400,280/400,524/800,65.500
+19075501273,NIVRITEE MISHRA,Shyama Prasad Mukherji College for Women,176/400,248/400,424/800,53.000
+19075501274,PRIYA,Shyama Prasad Mukherji College for Women,202/400,246/400,448/800,56.000
+19075501275,RAJNANDNI BHARTI,Shyama Prasad Mukherji College for Women,34/400,152/400,186/800,23.250
 19075501276,RIMJHIM YADAV,Shyama Prasad Mukherji College for Women,277/400,316/400,593/800,74.125
 19075501277,RITIKA,Shyama Prasad Mukherji College for Women,145/400,218/400,363/800,45.375
-19075501278,RITIKA SHARMA,Shyama Prasad Mukherji College for Women,192/400,226/400,418/800,52.25
+19075501278,RITIKA SHARMA,Shyama Prasad Mukherji College for Women,192/400,226/400,418/800,52.250
 19075501279,RUQAYYA,Shyama Prasad Mukherji College for Women,171/400,226/400,397/800,49.625
 19075501280,SAKSHI RATHI,Shyama Prasad Mukherji College for Women,225/400,152/400,377/800,47.125
-19075501281,SAKSHI SINGH,Shyama Prasad Mukherji College for Women,184/400,204/400,388/800,48.5
+19075501281,SAKSHI SINGH,Shyama Prasad Mukherji College for Women,184/400,204/400,388/800,48.500
 19075501282,SAKSHI VERMA,Shyama Prasad Mukherji College for Women,219/400,258/400,477/800,59.625
-19075501283,SANJANA SINGH,Shyama Prasad Mukherji College for Women,230/400,266/400,496/800,62
+19075501283,SANJANA SINGH,Shyama Prasad Mukherji College for Women,230/400,266/400,496/800,62.000
 19075501284,SARIKA,Shyama Prasad Mukherji College for Women,185/400,242/400,427/800,53.375
-19075501285,SARITA,Shyama Prasad Mukherji College for Women,196/400,222/400,418/800,52.25
+19075501285,SARITA,Shyama Prasad Mukherji College for Women,196/400,222/400,418/800,52.250
 19075501286,SAROJ YADAV,Shyama Prasad Mukherji College for Women,253/400,268/400,521/800,65.125
-19075501287,SHALLU,Shyama Prasad Mukherji College for Women,278/400,302/400,580/800,72.5
+19075501287,SHALLU,Shyama Prasad Mukherji College for Women,278/400,302/400,580/800,72.500
 19075501288,SHAILJA TIWARI,Shyama Prasad Mukherji College for Women,25/400,124/400,149/800,18.625
-19075501289,SHIVANI SWAMI,Shyama Prasad Mukherji College for Women,152/400,206/400,358/800,44.75
+19075501289,SHIVANI SWAMI,Shyama Prasad Mukherji College for Women,152/400,206/400,358/800,44.750
 19075501290,SONALI KUMARI,Shyama Prasad Mukherji College for Women,217/400,252/400,469/800,58.625
-19075501291,SONALIN MAHAPATRA,Shyama Prasad Mukherji College for Women,256/400,286/400,542/800,67.75
+19075501291,SONALIN MAHAPATRA,Shyama Prasad Mukherji College for Women,256/400,286/400,542/800,67.750
 19075501292,SONAM,Shyama Prasad Mukherji College for Women,195/400,264/400,459/800,57.375
-19075501293,SURBHI SATTI,Shyama Prasad Mukherji College for Women,230/400,248/400,478/800,59.75
+19075501293,SURBHI SATTI,Shyama Prasad Mukherji College for Women,230/400,248/400,478/800,59.750
 19075501294,TANISHA SINGH,Shyama Prasad Mukherji College for Women,43/400,164/400,207/800,25.875
 19075501295,VISHNU PRIYA MISHRA,Shyama Prasad Mukherji College for Women,37/400,146/400,183/800,22.875
 19075501296,WAHIDA KHATOON,Shyama Prasad Mukherji College for Women,169/400,230/400,399/800,49.875
-19075501297,WAJDA HUMERA,Shyama Prasad Mukherji College for Women,194/400,238/400,432/800,54
-19075501298,YASHIKA JAIN,Shyama Prasad Mukherji College for Women,186/400,240/400,426/800,53.25
+19075501297,WAJDA HUMERA,Shyama Prasad Mukherji College for Women,194/400,238/400,432/800,54.000
+19075501298,YASHIKA JAIN,Shyama Prasad Mukherji College for Women,186/400,240/400,426/800,53.250
 19075501299,DEEPALI,Shyama Prasad Mukherji College for Women,211/400,272/400,483/800,60.375
-19075501300,KANIKA,Shyama Prasad Mukherji College for Women,160/400,242/400,402/800,50.25
-19075501301,MALTI,Shyama Prasad Mukherji College for Women,196/400,260/400,456/800,57
-19075501302,NANCY,Shyama Prasad Mukherji College for Women,236/400,286/400,522/800,65.25
+19075501300,KANIKA,Shyama Prasad Mukherji College for Women,160/400,242/400,402/800,50.250
+19075501301,MALTI,Shyama Prasad Mukherji College for Women,196/400,260/400,456/800,57.000
+19075501302,NANCY,Shyama Prasad Mukherji College for Women,236/400,286/400,522/800,65.250
 19075501303,NEELAM,Shyama Prasad Mukherji College for Women,57/400,116/400,173/800,21.625
 19075501304,NUZHAT BANO,Shyama Prasad Mukherji College for Women,235/400,282/400,517/800,64.625
 19075501305,PREETI NIGAM,Shyama Prasad Mukherji College for Women,151/400,178/400,329/800,41.125
-19075501306,RAZIYA KHATOON,Shyama Prasad Mukherji College for Women,216/400,270/400,486/800,60.75
+19075501306,RAZIYA KHATOON,Shyama Prasad Mukherji College for Women,216/400,270/400,486/800,60.750
 19075501307,REENA,Shyama Prasad Mukherji College for Women,27/400,166/400,193/800,24.125
-19075501308,SHIVANI BAGHEL,Shyama Prasad Mukherji College for Women,232/400,268/400,500/800,62.5
+19075501308,SHIVANI BAGHEL,Shyama Prasad Mukherji College for Women,232/400,268/400,500/800,62.500
 19075501309,SHIVANI KUMARI,Shyama Prasad Mukherji College for Women,209/400,268/400,477/800,59.625
 19075501310,AARTI,Shyama Prasad Mukherji College for Women,209/400,266/400,475/800,59.375
 19075501311,AASHU,Shyama Prasad Mukherji College for Women,227/400,284/400,511/800,63.875
-19075501312,ADITI KUMARI,Shyama Prasad Mukherji College for Women,248/400,294/400,542/800,67.75
-19075501313,ALKA PREETI,Shyama Prasad Mukherji College for Women,250/400,280/400,530/800,66.25
+19075501312,ADITI KUMARI,Shyama Prasad Mukherji College for Women,248/400,294/400,542/800,67.750
+19075501313,ALKA PREETI,Shyama Prasad Mukherji College for Women,250/400,280/400,530/800,66.250
 19075501314,ANJALI,Shyama Prasad Mukherji College for Women,237/400,280/400,517/800,64.625
-19075501315,ANJALI PANDEY,Shyama Prasad Mukherji College for Women,214/400,264/400,478/800,59.75
+19075501315,ANJALI PANDEY,Shyama Prasad Mukherji College for Women,214/400,264/400,478/800,59.750
 19075501316,ANSHIKA,Shyama Prasad Mukherji College for Women,219/400,262/400,481/800,60.125
-19075501317,ARCHNA,Shyama Prasad Mukherji College for Women,230/400,268/400,498/800,62.25
+19075501317,ARCHNA,Shyama Prasad Mukherji College for Women,230/400,268/400,498/800,62.250
 19075501318,AROMA MISHRA,Shyama Prasad Mukherji College for Women,237/400,280/400,517/800,64.625
 19075501319,BABITA KUMARI,Shyama Prasad Mukherji College for Women,207/400,276/400,483/800,60.375
 19075501320,BHARTI,Shyama Prasad Mukherji College for Women,183/400,232/400,415/800,51.875
-19075501321,BHAVNA SHARMA,Shyama Prasad Mukherji College for Women,266/400,304/400,570/800,71.25
-19075501322,BOBBY KUMARI,Shyama Prasad Mukherji College for Women,42/400,178/400,220/800,27.5
+19075501321,BHAVNA SHARMA,Shyama Prasad Mukherji College for Women,266/400,304/400,570/800,71.250
+19075501322,BOBBY KUMARI,Shyama Prasad Mukherji College for Women,42/400,178/400,220/800,27.500
 19075501323,CHERIE RAO,Shyama Prasad Mukherji College for Women,23/400,150/400,173/800,21.625
-19075501324,GAURI SHARMA,Shyama Prasad Mukherji College for Women,224/400,226/400,450/800,56.25
-19075501325,KAJAL SHARMA,Shyama Prasad Mukherji College for Women,176/400,234/400,410/800,51.25
+19075501324,GAURI SHARMA,Shyama Prasad Mukherji College for Women,224/400,226/400,450/800,56.250
+19075501325,KAJAL SHARMA,Shyama Prasad Mukherji College for Women,176/400,234/400,410/800,51.250
 19075501326,KIRAN,Shyama Prasad Mukherji College for Women,205/400,258/400,463/800,57.875
-19075501327,KOMAL,Shyama Prasad Mukherji College for Women,244/400,282/400,526/800,65.75
-19075501328,MARJINA,Shyama Prasad Mukherji College for Women,242/400,286/400,528/800,66
-19075501329,MUSHRRAT KHATOON,Shyama Prasad Mukherji College for Women,254/400,284/400,538/800,67.25
+19075501327,KOMAL,Shyama Prasad Mukherji College for Women,244/400,282/400,526/800,65.750
+19075501328,MARJINA,Shyama Prasad Mukherji College for Women,242/400,286/400,528/800,66.000
+19075501329,MUSHRRAT KHATOON,Shyama Prasad Mukherji College for Women,254/400,284/400,538/800,67.250
 19075501330,MUSKAN,Shyama Prasad Mukherji College for Women,215/400,270/400,485/800,60.625
-19075501331,MUSKAN,Shyama Prasad Mukherji College for Women,236/400,288/400,524/800,65.5
+19075501331,MUSKAN,Shyama Prasad Mukherji College for Women,236/400,288/400,524/800,65.500
 19075501332,NEELAM SINGH,Shyama Prasad Mukherji College for Women,245/400,296/400,541/800,67.625
-19075501333,PRIYANSHU,Shyama Prasad Mukherji College for Women,202/400,242/400,444/800,55.5
+19075501333,PRIYANSHU,Shyama Prasad Mukherji College for Women,202/400,242/400,444/800,55.500
 19075501334,RAJNI,Shyama Prasad Mukherji College for Women,223/400,270/400,493/800,61.625
 19075501335,RAMRATI KUMARI,Shyama Prasad Mukherji College for Women,197/400,216/400,413/800,51.625
-19075501336,RAVINA KUMARI,Shyama Prasad Mukherji College for Women,272/400,304/400,576/800,72
-19075501337,RITU,Shyama Prasad Mukherji College for Women,246/400,276/400,522/800,65.25
-19075501338,RIYA,Shyama Prasad Mukherji College for Women,220/400,264/400,484/800,60.5
+19075501336,RAVINA KUMARI,Shyama Prasad Mukherji College for Women,272/400,304/400,576/800,72.000
+19075501337,RITU,Shyama Prasad Mukherji College for Women,246/400,276/400,522/800,65.250
+19075501338,RIYA,Shyama Prasad Mukherji College for Women,220/400,264/400,484/800,60.500
 19075501339,SHILPA,Shyama Prasad Mukherji College for Women,199/400,248/400,447/800,55.875
-19075501340,SHIVANI JAIN,Shyama Prasad Mukherji College for Women,204/400,222/400,426/800,53.25
-19075501341,SONAM,Shyama Prasad Mukherji College for Women,242/400,272/400,514/800,64.25
+19075501340,SHIVANI JAIN,Shyama Prasad Mukherji College for Women,204/400,222/400,426/800,53.250
+19075501341,SONAM,Shyama Prasad Mukherji College for Women,242/400,272/400,514/800,64.250
 19075501342,SONI KUMARI,Shyama Prasad Mukherji College for Women,213/400,278/400,491/800,61.375
 19075501343,TANNU GUPTA,Shyama Prasad Mukherji College for Women,247/400,278/400,525/800,65.625
 19075501344,VERSHA,Shyama Prasad Mukherji College for Women,249/400,290/400,539/800,67.375
-19075501345,YASMEEN FATIMA,Shyama Prasad Mukherji College for Women,258/400,306/400,564/800,70.5
-19075501346,ABHILASHA,Shyama Prasad Mukherji College for Women,180/400,246/400,426/800,53.25
-19075501347,ADITI DADHICH,Shyama Prasad Mukherji College for Women,250/400,288/400,538/800,67.25
-19075501348,ALEESHA SHIBU,Shyama Prasad Mukherji College for Women,182/400,256/400,438/800,54.75
+19075501345,YASMEEN FATIMA,Shyama Prasad Mukherji College for Women,258/400,306/400,564/800,70.500
+19075501346,ABHILASHA,Shyama Prasad Mukherji College for Women,180/400,246/400,426/800,53.250
+19075501347,ADITI DADHICH,Shyama Prasad Mukherji College for Women,250/400,288/400,538/800,67.250
+19075501348,ALEESHA SHIBU,Shyama Prasad Mukherji College for Women,182/400,256/400,438/800,54.750
 19075501349,DEEPA,Shyama Prasad Mukherji College for Women,219/400,272/400,491/800,61.375
 19075501350,DHRUVI SHARMA,Shyama Prasad Mukherji College for Women,217/400,282/400,499/800,62.375
 19075501351,ISHITA SACHDEVA,Shyama Prasad Mukherji College for Women,163/400,250/400,413/800,51.625
-19075501352,JAISHREE DABAS,Shyama Prasad Mukherji College for Women,222/400,280/400,502/800,62.75
-19075501353,JANKI,Shyama Prasad Mukherji College for Women,234/400,280/400,514/800,64.25
+19075501352,JAISHREE DABAS,Shyama Prasad Mukherji College for Women,222/400,280/400,502/800,62.750
+19075501353,JANKI,Shyama Prasad Mukherji College for Women,234/400,280/400,514/800,64.250
 19075501354,KHUSHI DWIVEDI,Shyama Prasad Mukherji College for Women,193/400,268/400,461/800,57.625
-19075501355,KIRAN,Shyama Prasad Mukherji College for Women,236/400,282/400,518/800,64.75
+19075501355,KIRAN,Shyama Prasad Mukherji College for Women,236/400,282/400,518/800,64.750
 19075501356,MANISHA,Shyama Prasad Mukherji College for Women,157/400,246/400,403/800,50.375
-19075501357,MANJU,Shyama Prasad Mukherji College for Women,236/400,296/400,532/800,66.5
+19075501357,MANJU,Shyama Prasad Mukherji College for Women,236/400,296/400,532/800,66.500
 19075501358,MONIKA,Shyama Prasad Mukherji College for Women,249/400,294/400,543/800,67.875
-19075501359,NEER PARASHAR,Shyama Prasad Mukherji College for Women,226/400,276/400,502/800,62.75
+19075501359,NEER PARASHAR,Shyama Prasad Mukherji College for Women,226/400,276/400,502/800,62.750
 19075501360,NITIKA,Shyama Prasad Mukherji College for Women,207/400,276/400,483/800,60.375
 19075501361,PINKI,Shyama Prasad Mukherji College for Women,91/400,204/400,295/800,36.875
 19075501362,PINKI KUMARI,Shyama Prasad Mukherji College for Women,227/400,276/400,503/800,62.875
-19075501363,POONAM MAURYA,Shyama Prasad Mukherji College for Women,250/400,300/400,550/800,68.75
+19075501363,POONAM MAURYA,Shyama Prasad Mukherji College for Women,250/400,300/400,550/800,68.750
 19075501364,RAKHI,Shyama Prasad Mukherji College for Women,251/400,288/400,539/800,67.375
 19075501365,SHIVIKA HASTWALA,Shyama Prasad Mukherji College for Women,233/400,290/400,523/800,65.375
-19075501366,SHREYA PANDEY,Shyama Prasad Mukherji College for Women,246/400,294/400,540/800,67.5
-19075501367,SNEHLATA,Shyama Prasad Mukherji College for Women,228/400,282/400,510/800,63.75
-19075501368,SOFIYA,Shyama Prasad Mukherji College for Women,238/400,294/400,532/800,66.5
+19075501366,SHREYA PANDEY,Shyama Prasad Mukherji College for Women,246/400,294/400,540/800,67.500
+19075501367,SNEHLATA,Shyama Prasad Mukherji College for Women,228/400,282/400,510/800,63.750
+19075501368,SOFIYA,Shyama Prasad Mukherji College for Women,238/400,294/400,532/800,66.500
 19075501369,SWETA,Shyama Prasad Mukherji College for Women,229/400,296/400,525/800,65.625
 19075501370,TANNU KAUSHIK,Shyama Prasad Mukherji College for Women,243/400,308/400,551/800,68.875
 19075501371,TANNU KUMARI,Shyama Prasad Mukherji College for Women,253/400,280/400,533/800,66.625
 19075501372,TANYA NAGPAL,Shyama Prasad Mukherji College for Women,221/400,280/400,501/800,62.625
-19075501373,TRIPTI,Shyama Prasad Mukherji College for Women,218/400,270/400,488/800,61
-19075501374,VANSHIKA,Shyama Prasad Mukherji College for Women,54/400,154/400,208/800,26
-19075501375,VARSHA,Shyama Prasad Mukherji College for Women,258/400,302/400,560/800,70
-19075501376,VARUNA ARYA,Shyama Prasad Mukherji College for Women,220/400,270/400,490/800,61.25
-19075501377,AATIYA,Shyama Prasad Mukherji College for Women,276/400,306/400,582/800,72.75
+19075501373,TRIPTI,Shyama Prasad Mukherji College for Women,218/400,270/400,488/800,61.000
+19075501374,VANSHIKA,Shyama Prasad Mukherji College for Women,54/400,154/400,208/800,26.000
+19075501375,VARSHA,Shyama Prasad Mukherji College for Women,258/400,302/400,560/800,70.000
+19075501376,VARUNA ARYA,Shyama Prasad Mukherji College for Women,220/400,270/400,490/800,61.250
+19075501377,AATIYA,Shyama Prasad Mukherji College for Women,276/400,306/400,582/800,72.750
 19075501378,AKSHITA ATRI,Shyama Prasad Mukherji College for Women,225/400,272/400,497/800,62.125
-19075501379,ALKA,Shyama Prasad Mukherji College for Women,220/400,274/400,494/800,61.75
-19075501380,ASHA,Shyama Prasad Mukherji College for Women,264/400,298/400,562/800,70.25
-19075501381,BHAWNA,Shyama Prasad Mukherji College for Women,258/400,294/400,552/800,69
+19075501379,ALKA,Shyama Prasad Mukherji College for Women,220/400,274/400,494/800,61.750
+19075501380,ASHA,Shyama Prasad Mukherji College for Women,264/400,298/400,562/800,70.250
+19075501381,BHAWNA,Shyama Prasad Mukherji College for Women,258/400,294/400,552/800,69.000
 19075501382,KAJAL,Shyama Prasad Mukherji College for Women,225/400,246/400,471/800,58.875
-19075501383,MADHURI,Shyama Prasad Mukherji College for Women,192/400,230/400,422/800,52.75
-19075501384,MANISHA RUCHAL,Shyama Prasad Mukherji College for Women,14/400,116/400,130/800,16.25
-19075501385,NIKITA,Shyama Prasad Mukherji College for Women,230/400,272/400,502/800,62.75
+19075501383,MADHURI,Shyama Prasad Mukherji College for Women,192/400,230/400,422/800,52.750
+19075501384,MANISHA RUCHAL,Shyama Prasad Mukherji College for Women,14/400,116/400,130/800,16.250
+19075501385,NIKITA,Shyama Prasad Mukherji College for Women,230/400,272/400,502/800,62.750
 19075501386,PARUL,Shyama Prasad Mukherji College for Women,289/400,304/400,593/800,74.125
 19075501387,PAYAL MEHRA,Shyama Prasad Mukherji College for Women,263/400,300/400,563/800,70.375
-19075501388,PRIYA,Shyama Prasad Mukherji College for Women,218/400,274/400,492/800,61.5
-19075501389,RADHIKA GUPTA,Shyama Prasad Mukherji College for Women,174/400,210/400,384/800,48
+19075501388,PRIYA,Shyama Prasad Mukherji College for Women,218/400,274/400,492/800,61.500
+19075501389,RADHIKA GUPTA,Shyama Prasad Mukherji College for Women,174/400,210/400,384/800,48.000
 19075501390,SANGEETA,Shyama Prasad Mukherji College for Women,247/400,294/400,541/800,67.625
-19075501392,SEJAL TANWAR,Shyama Prasad Mukherji College for Women,168/400,216/400,384/800,48
+19075501391,SAPNA KUMARI,Shyama Prasad Mukherji College for Women,107/400,,107/400,26.750
+19075501392,SEJAL TANWAR,Shyama Prasad Mukherji College for Women,168/400,216/400,384/800,48.000
 19075501393,UMA,Shyama Prasad Mukherji College for Women,261/400,300/400,561/800,70.125
-19075501394,AARTI KUMARI,Shyama Prasad Mukherji College for Women,254/400,288/400,542/800,67.75
+19075501394,AARTI KUMARI,Shyama Prasad Mukherji College for Women,254/400,288/400,542/800,67.750
 19075501395,ANSHIKA,Shyama Prasad Mukherji College for Women,205/400,226/400,431/800,53.875
-19075501396,ANUSHREE BHARDWAJ,Shyama Prasad Mukherji College for Women,212/400,264/400,476/800,59.5
+19075501396,ANUSHREE BHARDWAJ,Shyama Prasad Mukherji College for Women,212/400,264/400,476/800,59.500
 19075501397,ASMITA DAS,Shyama Prasad Mukherji College for Women,239/400,282/400,521/800,65.125
-19075501398,B.REETHIKA,Shyama Prasad Mukherji College for Women,276/400,308/400,584/800,73
+19075501398,B.REETHIKA,Shyama Prasad Mukherji College for Women,276/400,308/400,584/800,73.000
 19075501399,DEEPSHIKHA,Shyama Prasad Mukherji College for Women,29/400,150/400,179/800,22.375
 19075501400,GEETU,Shyama Prasad Mukherji College for Women,265/400,288/400,553/800,69.125
 19075501401,HANIFA,Shyama Prasad Mukherji College for Women,209/400,262/400,471/800,58.875
 19075501402,ISHITA CHUGH,Shyama Prasad Mukherji College for Women,217/400,256/400,473/800,59.125
-19075501403,JAYANTI,Shyama Prasad Mukherji College for Women,194/400,240/400,434/800,54.25
-19075501404,JYOTI YADAV,Shyama Prasad Mukherji College for Women,298/400,304/400,602/800,75.25
+19075501403,JAYANTI,Shyama Prasad Mukherji College for Women,194/400,240/400,434/800,54.250
+19075501404,JYOTI YADAV,Shyama Prasad Mukherji College for Women,298/400,304/400,602/800,75.250
 19075501405,KETNA GUPTA,Shyama Prasad Mukherji College for Women,209/400,272/400,481/800,60.125
-19075501406,KIRAN,Shyama Prasad Mukherji College for Women,188/400,252/400,440/800,55
-19075501407,MAHAK BHARDWAJ,Shyama Prasad Mukherji College for Women,156/400,240/400,396/800,49.5
-19075501408,MAMTA,Shyama Prasad Mukherji College for Women,222/400,274/400,496/800,62
-19075501409,MANASVI SHOKEEN,Shyama Prasad Mukherji College for Women,204/400,262/400,466/800,58.25
-19075501410,MS. SUJATA,Shyama Prasad Mukherji College for Women,180/400,252/400,432/800,54
+19075501406,KIRAN,Shyama Prasad Mukherji College for Women,188/400,252/400,440/800,55.000
+19075501407,MAHAK BHARDWAJ,Shyama Prasad Mukherji College for Women,156/400,240/400,396/800,49.500
+19075501408,MAMTA,Shyama Prasad Mukherji College for Women,222/400,274/400,496/800,62.000
+19075501409,MANASVI SHOKEEN,Shyama Prasad Mukherji College for Women,204/400,262/400,466/800,58.250
+19075501410,MS. SUJATA,Shyama Prasad Mukherji College for Women,180/400,252/400,432/800,54.000
 19075501411,NEHA KUMARI,Shyama Prasad Mukherji College for Women,221/400,272/400,493/800,61.625
 19075501412,NISHU KUMARI,Shyama Prasad Mukherji College for Women,191/400,238/400,429/800,53.625
-19075501413,PARUL,Shyama Prasad Mukherji College for Women,164/400,228/400,392/800,49
-19075501414,PAYAL GUPTA,Shyama Prasad Mukherji College for Women,236/400,274/400,510/800,63.75
-19075501415,PRIYANSHI JAIN,Shyama Prasad Mukherji College for Women,182/400,256/400,438/800,54.75
-19075501417,RIYA DAHIYA,Shyama Prasad Mukherji College for Women,308/400,330/400,638/800,79.75
+19075501413,PARUL,Shyama Prasad Mukherji College for Women,164/400,228/400,392/800,49.000
+19075501414,PAYAL GUPTA,Shyama Prasad Mukherji College for Women,236/400,274/400,510/800,63.750
+19075501415,PRIYANSHI JAIN,Shyama Prasad Mukherji College for Women,182/400,256/400,438/800,54.750
+19075501416,RITIKA,Shyama Prasad Mukherji College for Women,28/400,,28/400,7.000
+19075501417,RIYA DAHIYA,Shyama Prasad Mukherji College for Women,308/400,330/400,638/800,79.750
 19075501418,SHALU KUSHWAH,Shyama Prasad Mukherji College for Women,217/400,254/400,471/800,58.875
-19075501419,SHREYA SINHA,Shyama Prasad Mukherji College for Women,198/400,248/400,446/800,55.75
+19075501419,SHREYA SINHA,Shyama Prasad Mukherji College for Women,198/400,248/400,446/800,55.750
 19075501420,SONALI,Shyama Prasad Mukherji College for Women,191/400,248/400,439/800,54.875
 19075501421,TRIPTI JULKA,Shyama Prasad Mukherji College for Women,179/400,248/400,427/800,53.375
-19075501422,URVASHI,Shyama Prasad Mukherji College for Women,280/400,308/400,588/800,73.5
+19075501422,URVASHI,Shyama Prasad Mukherji College for Women,280/400,308/400,588/800,73.500
 19075501423,VIDHI BHATNAGAR,Shyama Prasad Mukherji College for Women,225/400,268/400,493/800,61.625
 19075501424,SANYA VYAS,Shyama Prasad Mukherji College for Women,209/400,254/400,463/800,57.875
-19075501425,SHWETA,Shyama Prasad Mukherji College for Women,224/400,260/400,484/800,60.5
+19075501425,SHWETA,Shyama Prasad Mukherji College for Women,224/400,260/400,484/800,60.500
 19075501426,SIMRAN,Shyama Prasad Mukherji College for Women,223/400,266/400,489/800,61.125
-19075501427,SIMRAN KUMARI,Shyama Prasad Mukherji College for Women,220/400,262/400,482/800,60.25
-19075501428,ANSHU KUMARI,Shyama Prasad Mukherji College for Women,156/400,242/400,398/800,49.75
-19075501429,ARCHNA DIWEDI,Shyama Prasad Mukherji College for Women,162/400,206/400,368/800,46
+19075501427,SIMRAN KUMARI,Shyama Prasad Mukherji College for Women,220/400,262/400,482/800,60.250
+19075501428,ANSHU KUMARI,Shyama Prasad Mukherji College for Women,156/400,242/400,398/800,49.750
+19075501429,ARCHNA DIWEDI,Shyama Prasad Mukherji College for Women,162/400,206/400,368/800,46.000
 19075501430,BHAWAN BHULLAR,Shyama Prasad Mukherji College for Women,117/400,160/400,277/800,34.625
-19075501431,DIVYANSHI SHARMA,Shyama Prasad Mukherji College for Women,202/400,256/400,458/800,57.25
+19075501431,DIVYANSHI SHARMA,Shyama Prasad Mukherji College for Women,202/400,256/400,458/800,57.250
 19075501432,DRISHTI RAJ,Shyama Prasad Mukherji College for Women,215/400,274/400,489/800,61.125
 19075501433,DRISHTI SOLANKI,Shyama Prasad Mukherji College for Women,153/400,228/400,381/800,47.625
 19075501434,GUDIYA KUMARI,Shyama Prasad Mukherji College for Women,169/400,218/400,387/800,48.375
 19075501435,KAVITA KUMARI,Shyama Prasad Mukherji College for Women,225/400,278/400,503/800,62.875
-19075501436,KHUSHBU,Shyama Prasad Mukherji College for Women,164/400,246/400,410/800,51.25
+19075501436,KHUSHBU,Shyama Prasad Mukherji College for Women,164/400,246/400,410/800,51.250
 19075501437,KIRTI,Shyama Prasad Mukherji College for Women,109/400,186/400,295/800,36.875
 19075501438,MONIKA,Shyama Prasad Mukherji College for Women,149/400,194/400,343/800,42.875
 19075501439,MUSKAN,Shyama Prasad Mukherji College for Women,143/400,208/400,351/800,43.875
@@ -433,55 +440,55 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19075501441,AARTI DEVI,Shyama Prasad Mukherji College for Women,269/400,304/400,573/800,71.625
 19075501442,BANTI DEVI,Shyama Prasad Mukherji College for Women,95/400,116/400,211/800,26.375
 19075501443,KOMAL KUMARI,Shyama Prasad Mukherji College for Women,21/400,156/400,177/800,22.125
-19075501444,MANISHA KUMARI,Shyama Prasad Mukherji College for Women,182/400,220/400,402/800,50.25
-19075501445,SWATI,Shyama Prasad Mukherji College for Women,198/400,240/400,438/800,54.75
+19075501444,MANISHA KUMARI,Shyama Prasad Mukherji College for Women,182/400,220/400,402/800,50.250
+19075501445,SWATI,Shyama Prasad Mukherji College for Women,198/400,240/400,438/800,54.750
 19075501446,SUPRIYA,Shyama Prasad Mukherji College for Women,263/400,284/400,547/800,68.375
-19075501447,VARSHA,Shyama Prasad Mukherji College for Women,8/400,124/400,132/800,16.5
+19075501447,VARSHA,Shyama Prasad Mukherji College for Women,8/400,124/400,132/800,16.500
 19075501448,SONDOS FATIMA,Shyama Prasad Mukherji College for Women,205/400,254/400,459/800,57.375
-19075501449,AMISHA RATHEE,Shyama Prasad Mukherji College for Women,250/400,296/400,546/800,68.25
-19075501450,PAYAL MALIK,Shyama Prasad Mukherji College for Women,226/400,270/400,496/800,62
+19075501449,AMISHA RATHEE,Shyama Prasad Mukherji College for Women,250/400,296/400,546/800,68.250
+19075501450,PAYAL MALIK,Shyama Prasad Mukherji College for Women,226/400,270/400,496/800,62.000
 19075501451,SONA,Shyama Prasad Mukherji College for Women,215/400,274/400,489/800,61.125
 19075501452,KM. VIDHUSHI,Shyama Prasad Mukherji College for Women,267/400,300/400,567/800,70.875
-19075501453,AARZOO VERMA,Shyama Prasad Mukherji College for Women,18/400,100/400,118/800,14.75
+19075501453,AARZOO VERMA,Shyama Prasad Mukherji College for Women,18/400,100/400,118/800,14.750
 19075501454,ANJALI JOSHI,Shyama Prasad Mukherji College for Women,219/400,254/400,473/800,59.125
-19075501455,ANUPAMA SOLANKI,Shyama Prasad Mukherji College for Women,202/400,254/400,456/800,57
+19075501455,ANUPAMA SOLANKI,Shyama Prasad Mukherji College for Women,202/400,254/400,456/800,57.000
 19075501456,APARNA,Shyama Prasad Mukherji College for Women,159/400,200/400,359/800,44.875
-19075501457,AAKANSHA RATHOR,Shyama Prasad Mukherji College for Women,230/400,276/400,506/800,63.25
-19075501458,DAYAKSHI KAUSHIK,Shyama Prasad Mukherji College for Women,192/400,248/400,440/800,55
-19075501459,DEEPMALA,Shyama Prasad Mukherji College for Women,170/400,224/400,394/800,49.25
+19075501457,AAKANSHA RATHOR,Shyama Prasad Mukherji College for Women,230/400,276/400,506/800,63.250
+19075501458,DAYAKSHI KAUSHIK,Shyama Prasad Mukherji College for Women,192/400,248/400,440/800,55.000
+19075501459,DEEPMALA,Shyama Prasad Mukherji College for Women,170/400,224/400,394/800,49.250
 19075501460,EKTA OHLAN,Shyama Prasad Mukherji College for Women,207/400,250/400,457/800,57.125
-19075501461,HAUDINGPUII,Shyama Prasad Mukherji College for Women,218/400,250/400,468/800,58.5
+19075501461,HAUDINGPUII,Shyama Prasad Mukherji College for Women,218/400,250/400,468/800,58.500
 19075501462,JANHVI SHUKLA,Shyama Prasad Mukherji College for Women,233/400,282/400,515/800,64.375
 19075501463,JOLLY CHAUDHARY,Shyama Prasad Mukherji College for Women,181/400,158/400,339/800,42.375
 19075501464,MUSKAN,Shyama Prasad Mukherji College for Women,199/400,258/400,457/800,57.125
-19075501465,ANSHU DABAS,Shyama Prasad Mukherji College for Women,216/400,266/400,482/800,60.25
+19075501465,ANSHU DABAS,Shyama Prasad Mukherji College for Women,216/400,266/400,482/800,60.250
 19075501466,NEETU,Shyama Prasad Mukherji College for Women,191/400,252/400,443/800,55.375
 19075501467,PREETI KUMARI,Shyama Prasad Mukherji College for Women,217/400,272/400,489/800,61.125
 19075501468,SWEETY,Shyama Prasad Mukherji College for Women,145/400,240/400,385/800,48.125
-19075501469,TANIYA GAUTAM,Shyama Prasad Mukherji College for Women,176/400,238/400,414/800,51.75
-19075501470,TANYA SINGH,Shyama Prasad Mukherji College for Women,196/400,264/400,460/800,57.5
+19075501469,TANIYA GAUTAM,Shyama Prasad Mukherji College for Women,176/400,238/400,414/800,51.750
+19075501470,TANYA SINGH,Shyama Prasad Mukherji College for Women,196/400,264/400,460/800,57.500
 19075501471,VIDHI SHARMA,Shyama Prasad Mukherji College for Women,173/400,226/400,399/800,49.875
 19075501472,ANAM NAAZ,Shyama Prasad Mukherji College for Women,151/400,220/400,371/800,46.375
 19075501473,ANISHA YADAV,Shyama Prasad Mukherji College for Women,239/400,300/400,539/800,67.375
 19075501474,BHUMIKA SHARMA,Shyama Prasad Mukherji College for Women,137/400,208/400,345/800,43.125
-19075501475,JYOTI,Shyama Prasad Mukherji College for Women,184/400,262/400,446/800,55.75
+19075501475,JYOTI,Shyama Prasad Mukherji College for Women,184/400,262/400,446/800,55.750
 19075501476,MAHVISH,Shyama Prasad Mukherji College for Women,43/400,174/400,217/800,27.125
 19075501477,PAYAL,Shyama Prasad Mukherji College for Women,217/400,266/400,483/800,60.375
 19075501478,POOJA,Shyama Prasad Mukherji College for Women,233/400,288/400,521/800,65.125
-19075501479,POOJA KUSHWAHA,Shyama Prasad Mukherji College for Women,272/400,304/400,576/800,72
-19075501480,POORNIMA KUMARI,Shyama Prasad Mukherji College for Women,214/400,280/400,494/800,61.75
-19075501481,PREETI SINGH,Shyama Prasad Mukherji College for Women,46/400,182/400,228/800,28.5
-19075501482,RAVEENA GUPTA,Shyama Prasad Mukherji College for Women,186/400,246/400,432/800,54
-19075501483,SAPNA,Shyama Prasad Mukherji College for Women,80/400,174/400,254/800,31.75
+19075501479,POOJA KUSHWAHA,Shyama Prasad Mukherji College for Women,272/400,304/400,576/800,72.000
+19075501480,POORNIMA KUMARI,Shyama Prasad Mukherji College for Women,214/400,280/400,494/800,61.750
+19075501481,PREETI SINGH,Shyama Prasad Mukherji College for Women,46/400,182/400,228/800,28.500
+19075501482,RAVEENA GUPTA,Shyama Prasad Mukherji College for Women,186/400,246/400,432/800,54.000
+19075501483,SAPNA,Shyama Prasad Mukherji College for Women,80/400,174/400,254/800,31.750
 19075501484,SHALU DAGAR,Shyama Prasad Mukherji College for Women,147/400,212/400,359/800,44.875
-19075501485,SHWETA SINGH,Shyama Prasad Mukherji College for Women,254/400,306/400,560/800,70
-19075501486,SONALI PATRA,Shyama Prasad Mukherji College for Women,178/400,258/400,436/800,54.5
+19075501485,SHWETA SINGH,Shyama Prasad Mukherji College for Women,254/400,306/400,560/800,70.000
+19075501486,SONALI PATRA,Shyama Prasad Mukherji College for Women,178/400,258/400,436/800,54.500
 19075501487,NEELAM,Shyama Prasad Mukherji College for Women,155/400,232/400,387/800,48.375
-19075501488,BHARTI  DAHIYA,Shyama Prasad Mukherji College for Women,244/400,290/400,534/800,66.75
-19075501489,KHUSHBOO DESHWAL,Shyama Prasad Mukherji College for Women,242/400,276/400,518/800,64.75
-19075501490,KHUSHI PATHAK,Shyama Prasad Mukherji College for Women,228/400,282/400,510/800,63.75
-19075501491,RAJNI,Shyama Prasad Mukherji College for Women,180/400,248/400,428/800,53.5
-19075501492,RISHIKA,Shyama Prasad Mukherji College for Women,210/400,256/400,466/800,58.25
+19075501488,BHARTI  DAHIYA,Shyama Prasad Mukherji College for Women,244/400,290/400,534/800,66.750
+19075501489,KHUSHBOO DESHWAL,Shyama Prasad Mukherji College for Women,242/400,276/400,518/800,64.750
+19075501490,KHUSHI PATHAK,Shyama Prasad Mukherji College for Women,228/400,282/400,510/800,63.750
+19075501491,RAJNI,Shyama Prasad Mukherji College for Women,180/400,248/400,428/800,53.500
+19075501492,RISHIKA,Shyama Prasad Mukherji College for Women,210/400,256/400,466/800,58.250
 19075501493,SHALINI,Shyama Prasad Mukherji College for Women,179/400,218/400,397/800,49.625
 19075501494,VISHAKHA SINGH,Shyama Prasad Mukherji College for Women,207/400,258/400,465/800,58.125
 19075501495,MUSKAN KANGDA,Shyama Prasad Mukherji College for Women,175/400,220/400,395/800,49.375
@@ -495,27 +502,29 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19075501503,RIYA YADAV,Shyama Prasad Mukherji College for Women,175/400,234/450,409/850,48.118
 19075501504,VANSHIKHA VAANI,Shyama Prasad Mukherji College for Women,220/400,300/450,520/850,61.176
 19075501505,JYOTI,Shyama Prasad Mukherji College for Women,217/400,256/400,473/800,59.125
-19075501506,POOJA GOSWAMI,Shyama Prasad Mukherji College for Women,180/400,252/400,432/800,54
-19075501507,RITU,Shyama Prasad Mukherji College for Women,180/400,250/400,430/800,53.75
-19075501508,ROOPAL SAHARAN,Shyama Prasad Mukherji College for Women,10/400,142/400,152/800,19
-19075501509,SANJANA,Shyama Prasad Mukherji College for Women,178/400,226/400,404/800,50.5
-19075501510,JAHANVEE VERMA,Shyama Prasad Mukherji College for Women,180/400,240/400,420/800,52.5
+19075501506,POOJA GOSWAMI,Shyama Prasad Mukherji College for Women,180/400,252/400,432/800,54.000
+19075501507,RITU,Shyama Prasad Mukherji College for Women,180/400,250/400,430/800,53.750
+19075501508,ROOPAL SAHARAN,Shyama Prasad Mukherji College for Women,10/400,142/400,152/800,19.000
+19075501509,SANJANA,Shyama Prasad Mukherji College for Women,178/400,226/400,404/800,50.500
+19075501510,JAHANVEE VERMA,Shyama Prasad Mukherji College for Women,180/400,240/400,420/800,52.500
 19075501511,POOJA,Shyama Prasad Mukherji College for Women,157/400,164/400,321/800,40.125
 19075501512,RUSHALI POPLI,Shyama Prasad Mukherji College for Women,159/400,220/400,379/800,47.375
 19075501513,RIYA MENDIRATTA,Shyama Prasad Mukherji College for Women,145/400,172/400,317/800,39.625
 19075501514,TANNYA VAISHNO PANWAR,Shyama Prasad Mukherji College for Women,21/400,164/400,185/800,23.125
 19075501515,PRIYA,Shyama Prasad Mukherji College for Women,171/400,278/450,449/850,52.824
 19075501516,HIMANI SHARMA,Shyama Prasad Mukherji College for Women,4/400,143/450,147/850,17.294
-19075501517,JANVI,Shyama Prasad Mukherji College for Women,54/400,198/400,252/800,31.5
+19075501517,JANVI,Shyama Prasad Mukherji College for Women,54/400,198/400,252/800,31.500
 19075501518,GEET BHATIA,Shyama Prasad Mukherji College for Women,243/400,294/400,537/800,67.125
-19075501519,SAMRITI BAJAJ,Shyama Prasad Mukherji College for Women,196/400,246/400,442/800,55.25
+19075501519,SAMRITI BAJAJ,Shyama Prasad Mukherji College for Women,196/400,246/400,442/800,55.250
 19075501520,PAKHI CHOUDHARY,Shyama Prasad Mukherji College for Women,65/450,185/450,250/900,27.778
 19075501521,RAKHI,Shyama Prasad Mukherji College for Women,175/400,220/400,395/800,49.375
-19075501522,APEKSHA,Shyama Prasad Mukherji College for Women,0/400,124/400,124/800,15.5
-19075501523,KANCHAN SHARMA,Shyama Prasad Mukherji College for Women,194/400,238/400,432/800,54
+19075501522,APEKSHA,Shyama Prasad Mukherji College for Women,0/400,124/400,124/800,15.500
+19075501523,KANCHAN SHARMA,Shyama Prasad Mukherji College for Women,194/400,238/400,432/800,54.000
 19075501524,NEHA KUMARI,Shyama Prasad Mukherji College for Women,155/400,200/400,355/800,44.375
-19075501525,RINKI,Shyama Prasad Mukherji College for Women,228/400,268/400,496/800,62
-19075501526,NIKITA RAMAWAT,Shyama Prasad Mukherji College for Women,174/400,200/400,374/800,46.75
+19075501525,RINKI,Shyama Prasad Mukherji College for Women,228/400,268/400,496/800,62.000
+19075501526,NIKITA RAMAWAT,Shyama Prasad Mukherji College for Women,174/400,200/400,374/800,46.750
 19075501527,KOMAL,Shyama Prasad Mukherji College for Women,185/400,208/400,393/800,49.125
-19075501528,DHANAPATI MAIBAM,Shyama Prasad Mukherji College for Women,230/400,278/400,508/800,63.5
-19075501530,SITA,Shyama Prasad Mukherji College for Women,234/400,278/400,512/800,64
+19075501528,DHANAPATI MAIBAM,Shyama Prasad Mukherji College for Women,230/400,278/400,508/800,63.500
+19075501529,SUNIDHI PANDEY,Shyama Prasad Mukherji College for Women,20/400,,20/400,5.000
+19075501530,SITA,Shyama Prasad Mukherji College for Women,234/400,278/400,512/800,64.000
+19075501531,SHOBHA,Shyama Prasad Mukherji College for Women,8/400,,8/400,2.000

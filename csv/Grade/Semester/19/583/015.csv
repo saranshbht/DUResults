@@ -1,36 +1,36 @@
-RollNo,Name,College,SemI,SemII,Average
-19015583001,ANKIT SRIVASTAVA,Deen Dayal Upadhyaya College,7.64,8.73,8.185
-19015583002,ANKITA KAPIL,Deen Dayal Upadhyaya College,8,9,8.5
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19015583001,ANKIT SRIVASTAVA,Deen Dayal Upadhyaya College,7.64,8.73,8.182
+19015583002,ANKITA KAPIL,Deen Dayal Upadhyaya College,8.00,9.00,8.500
 19015583003,ANOOP  YADAV,Deen Dayal Upadhyaya College,8.73,9.18,8.955
-19015583004,ARPIT,Deen Dayal Upadhyaya College,8.73,9.45,9.09
-19015583005,ARVIND,Deen Dayal Upadhyaya College,6.45,8,7.225
-19015583006,ASHISH,Deen Dayal Upadhyaya College,5.91,8,6.955
-19015583007,ASHUTOSH,Deen Dayal Upadhyaya College,7.27,9,8.135
-19015583008,AYUSHI SINGH,Deen Dayal Upadhyaya College,8,9,8.5
-19015583009,BARBIE  NAGPAL,Deen Dayal Upadhyaya College,6.91,8.27,7.59
-19015583010,DIVYA SHARMA,Deen Dayal Upadhyaya College,8.45,9.73,9.09
-19015583011,GEETA RANI,Deen Dayal Upadhyaya College,8.73,9.45,9.09
-19015583012,HARITA,Deen Dayal Upadhyaya College,7.45,8.73,8.09
-19015583013,HIMANSHI DALAL,Deen Dayal Upadhyaya College,6.36,8,7.18
-19015583014,KOMARAGIRI NIKHIL,Deen Dayal Upadhyaya College,4.73,7.55,6.14
-19015583015,NEHA YADAV,Deen Dayal Upadhyaya College,8.55,9,8.775
-19015583016,PORISHMITA KUTUM,Deen Dayal Upadhyaya College,7.18,8.55,7.865
-19015583017,PRASHANT SAKIT,Deen Dayal Upadhyaya College,7.27,8.18,7.725
-19015583018,SAKSHI,Deen Dayal Upadhyaya College,9,9.73,9.365
-19015583019,SAMEEKSHA JHA,Deen Dayal Upadhyaya College,8.18,9,8.59
-19015583020,SHAILJA SINGH,Deen Dayal Upadhyaya College,8.18,9,8.59
-19015583021,SHASHI KANT SHEKHAR,Deen Dayal Upadhyaya College,8.55,8.45,8.5
-19015583022,SONAKSHI SAXENA,Deen Dayal Upadhyaya College,7.73,8.73,8.23
-19015583023,VANSHIKA GAHLOT,Deen Dayal Upadhyaya College,0,0,0.000
+19015583004,ARPIT,Deen Dayal Upadhyaya College,8.73,9.45,9.091
+19015583005,ARVIND,Deen Dayal Upadhyaya College,6.45,8.00,7.227
+19015583006,ASHISH,Deen Dayal Upadhyaya College,5.91,8.00,6.955
+19015583007,ASHUTOSH,Deen Dayal Upadhyaya College,7.27,9.00,8.136
+19015583008,AYUSHI SINGH,Deen Dayal Upadhyaya College,8.00,9.00,8.500
+19015583009,BARBIE  NAGPAL,Deen Dayal Upadhyaya College,6.91,8.27,7.591
+19015583010,DIVYA SHARMA,Deen Dayal Upadhyaya College,8.45,9.73,9.091
+19015583011,GEETA RANI,Deen Dayal Upadhyaya College,8.73,9.45,9.091
+19015583012,HARITA,Deen Dayal Upadhyaya College,7.45,8.73,8.091
+19015583013,HIMANSHI DALAL,Deen Dayal Upadhyaya College,6.36,8.00,7.182
+19015583014,KOMARAGIRI NIKHIL,Deen Dayal Upadhyaya College,4.73,7.55,6.136
+19015583015,NEHA YADAV,Deen Dayal Upadhyaya College,8.55,9.00,8.773
+19015583016,PORISHMITA KUTUM,Deen Dayal Upadhyaya College,7.18,8.55,7.864
+19015583017,PRASHANT SAKIT,Deen Dayal Upadhyaya College,7.27,8.18,7.727
+19015583018,SAKSHI,Deen Dayal Upadhyaya College,9.00,9.73,9.364
+19015583019,SAMEEKSHA JHA,Deen Dayal Upadhyaya College,8.18,9.00,8.591
+19015583020,SHAILJA SINGH,Deen Dayal Upadhyaya College,8.18,9.00,8.591
+19015583021,SHASHI KANT SHEKHAR,Deen Dayal Upadhyaya College,8.55,8.45,8.500
+19015583022,SONAKSHI SAXENA,Deen Dayal Upadhyaya College,7.73,8.73,8.227
+19015583023,VANSHIKA GAHLOT,Deen Dayal Upadhyaya College,0.00,0.00,0.000
 19015583024,VERSHA PANDEY,Deen Dayal Upadhyaya College,8.18,8.73,8.455
 19015583025,VIKKY SINGH,Deen Dayal Upadhyaya College,4.64,7.27,5.955
-19015583026,YOGITA GAUR,Deen Dayal Upadhyaya College,5.55,7.27,6.41
-19015583027,MANPREET LOCHAB,Deen Dayal Upadhyaya College,7.64,8.73,8.185
-19015583028,ANJALI TYAGI,Deen Dayal Upadhyaya College,7.45,8.45,7.95
-19015583029,SUMAN,Deen Dayal Upadhyaya College,7.27,8.73,8
-19015583030,GEETANJALI,Deen Dayal Upadhyaya College,0,0,0.000
-19015583031,SAHIL KHURANA,Deen Dayal Upadhyaya College,5.36,8,6.68
-19015583032,YOGITA TOMER,Deen Dayal Upadhyaya College,6.64,8.73,7.685
+19015583026,YOGITA GAUR,Deen Dayal Upadhyaya College,5.55,7.27,6.409
+19015583027,MANPREET LOCHAB,Deen Dayal Upadhyaya College,7.64,8.73,8.182
+19015583028,ANJALI TYAGI,Deen Dayal Upadhyaya College,7.45,8.45,7.955
+19015583029,SUMAN,Deen Dayal Upadhyaya College,7.27,8.73,8.000
+19015583030,GEETANJALI,Deen Dayal Upadhyaya College,0.00,0.00,0.000
+19015583031,SAHIL KHURANA,Deen Dayal Upadhyaya College,5.36,8.00,6.682
+19015583032,YOGITA TOMER,Deen Dayal Upadhyaya College,6.64,8.73,7.682
 19015583033,SWETA SINGH,Deen Dayal Upadhyaya College,6.82,8.27,7.545
-19015583034,MANDAVI SHUKLA,Deen Dayal Upadhyaya College,8.18,9.27,8.725
-19015583035,NISHITA BHARDWAJ,Deen Dayal Upadhyaya College,8.73,9.73,9.23
+19015583034,MANDAVI SHUKLA,Deen Dayal Upadhyaya College,8.18,9.27,8.727
+19015583035,NISHITA BHARDWAJ,Deen Dayal Upadhyaya College,8.73,9.73,9.227

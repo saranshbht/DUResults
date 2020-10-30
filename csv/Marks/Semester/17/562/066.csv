@@ -1,4 +1,4 @@
-RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Total,Percentage
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Total,Percentage
 17066562001,AKANSHA AGGARWAL,Shaheed Rajguru College of Applied Sciences for Women,414/500,436/500,595/650,576/650,512/600,2533/2900,87.345
 17066562002,APOORVA GAUTAM,Shaheed Rajguru College of Applied Sciences for Women,425/500,427/500,579/650,566/650,495/600,2492/2900,85.931
 17066562003,BHAWNA BABBER,Shaheed Rajguru College of Applied Sciences for Women,370/500,365/500,600/700,548/700,455/600,2338/3000,77.933
@@ -20,7 +20,7 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Total,Percentage
 17066562019,POOJA,Shaheed Rajguru College of Applied Sciences for Women,336/500,334/500,452/650,459/650,424/600,2005/2900,69.138
 17066562020,POOJA KUMARI,Shaheed Rajguru College of Applied Sciences for Women,335/500,357/500,478/650,493/650,430/600,2093/2900,72.172
 17066562021,POOJA RAI,Shaheed Rajguru College of Applied Sciences for Women,354/550,368/550,457/700,532/700,422/600,2133/3100,68.806
-17066562022,PREETI KUMARI,Shaheed Rajguru College of Applied Sciences for Women,409/500,393/500,500/650,576/650,500/600,2378/2900,82
+17066562022,PREETI KUMARI,Shaheed Rajguru College of Applied Sciences for Women,409/500,393/500,500/650,576/650,500/600,2378/2900,82.000
 17066562023,PRERNA UNIYAL,Shaheed Rajguru College of Applied Sciences for Women,337/500,307/500,441/650,467/650,386/600,1938/2900,66.828
 17066562024,RIYA AGGARWAL,Shaheed Rajguru College of Applied Sciences for Women,356/500,396/500,464/650,533/650,478/600,2227/2900,76.793
 17066562025,SAJIA,Shaheed Rajguru College of Applied Sciences for Women,351/550,349/550,412/650,437/650,405/600,1954/3000,65.133
@@ -29,10 +29,10 @@ RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Total,Percentage
 17066562029,SHALINI,Shaheed Rajguru College of Applied Sciences for Women,431/550,452/550,545/700,582/700,500/600,2510/3100,80.968
 17066562030,SHIVANI,Shaheed Rajguru College of Applied Sciences for Women,281/550,327/550,370/700,462/650,377/600,1817/3050,59.574
 17066562031,SIMRAN PERVEEN,Shaheed Rajguru College of Applied Sciences for Women,400/500,437/500,575/650,570/650,504/600,2486/2900,85.724
-17066562032,SOMYA JAIN,Shaheed Rajguru College of Applied Sciences for Women,387/500,401/500,567/650,556/650,505/600,2416/2900,83.31
+17066562032,SOMYA JAIN,Shaheed Rajguru College of Applied Sciences for Women,387/500,401/500,567/650,556/650,505/600,2416/2900,83.310
 17066562033,TARA SINGH,Shaheed Rajguru College of Applied Sciences for Women,359/550,335/500,429/650,520/700,381/600,2024/3000,67.467
 17066562034,VARSHA GOEL,Shaheed Rajguru College of Applied Sciences for Women,329/500,339/500,427/650,512/650,418/600,2025/2900,69.828
-17066562035,VAISHALI,Shaheed Rajguru College of Applied Sciences for Women,242/500,247/500,320/700,369/650,315/600,1493/2950,50.61
+17066562035,VAISHALI,Shaheed Rajguru College of Applied Sciences for Women,242/500,247/500,320/700,369/650,315/600,1493/2950,50.610
 17066562036,VANI JAIN,Shaheed Rajguru College of Applied Sciences for Women,448/550,435/550,597/700,572/700,482/600,2534/3100,81.742
 17066562037,DEVANSHI,Shaheed Rajguru College of Applied Sciences for Women,341/550,322/550,390/700,453/700,393/600,1899/3100,61.258
 17066562038,SABIYA KHAN,Shaheed Rajguru College of Applied Sciences for Women,274/500,275/500,333/650,361/650,331/600,1574/2900,54.276

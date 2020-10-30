@@ -1,10 +1,12 @@
-RollNo,Name,College,Field Theory,Complex Analysis,Measure and Integration,Differential Equations,Module Theory,Introduction to Topology,Functional Analysis,Fluid Dynamics
-19019758001,LOKESH MEENA,Deshbandhu College (Day),34,44,30,31,0,0,0,0
-19019758002,ANCHAL SINGH,Deshbandhu College (Day),53,82,86,55,0,0,0,0
-19019758003,MANISH,Deshbandhu College (Day),42,46,43,47,0,0,0,0
-19019758005,SUNEEL KUMAR BAIRWA,Deshbandhu College (Day),57,67,64,63,0,0,0,0
-19019758006,ANIL KUMAR BURNWAL,Deshbandhu College (Day),23,19,12,24,0,0,0,0
-19019758007,BHAVYA VERMA,Deshbandhu College (Day),41,49,37,54,0,0,0,0
-19019758008,MAHIPAL,Deshbandhu College (Day),57,71,73,72,0,0,0,0
-19019758009,RADHA,Deshbandhu College (Day),25,40,44,37,0,0,0,0
-19019758010,KOMAL GOYAL,Deshbandhu College (Day),53,92,80,70,0,0,0,0
+RollNo,Name,College,Field Theory,Complex Analysis,Measure and Integration,Differential Equations,Module Theory,Introduction to Topology,Functional Analysis,Fluid Dynamics,FIELD THEORY,COMPLEX ANALYSIS,MEASURE AND INTEGRATION,DIFFERENTIAL EQUATIONS
+19019758001,LOKESH MEENA,Deshbandhu College (Day),34,44,30,31,0,0,0,0,,,,
+19019758002,ANCHAL SINGH,Deshbandhu College (Day),53,82,86,55,0,0,0,0,,,,
+19019758003,MANISH,Deshbandhu College (Day),42,46,43,47,0,0,0,0,,,,
+19019758004,SAMUNG DEB BARMA,Deshbandhu College (Day),,,,,,,,,3,12,5,5
+19019758005,SUNEEL KUMAR BAIRWA,Deshbandhu College (Day),57,67,64,63,0,0,0,0,,,,
+19019758006,ANIL KUMAR BURNWAL,Deshbandhu College (Day),23,19,12,24,0,0,0,0,,,,
+19019758007,BHAVYA VERMA,Deshbandhu College (Day),41,49,37,54,0,0,0,0,,,,
+19019758008,MAHIPAL,Deshbandhu College (Day),57,71,73,72,0,0,0,0,,,,
+19019758009,RADHA,Deshbandhu College (Day),25,40,44,37,0,0,0,0,,,,
+19019758010,KOMAL GOYAL,Deshbandhu College (Day),53,92,80,70,0,0,0,0,,,,
+19019758011,ANKIT YADAV,Deshbandhu College (Day),,,,,,,,,72,70,70,70

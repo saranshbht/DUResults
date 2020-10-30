@@ -1,12 +1,12 @@
-RollNo,Name,College,SemI,SemII,SemIII,SemIV,Average
-18085525001,AISHA HASHIM,Zakir Husain Delhi College (Day),7.55,7.82,7.71,8.21,7.823
-18085525002,IFRA,Zakir Husain Delhi College (Day),5.27,6.91,7.21,5.07,6.115
-18085525003,JUNAID AHMAD,Zakir Husain Delhi College (Day),9,9.09,8.57,9,8.915
-18085525004,MD AZHAR,Zakir Husain Delhi College (Day),7,7.64,8,8.43,7.768
-18085525005,MD FIROZ ALAM KHAN,Zakir Husain Delhi College (Day),8.45,8.82,8.43,9,8.675
-18085525006,SABA SULTAN,Zakir Husain Delhi College (Day),5.91,8.36,7.79,8.21,7.567
-18085525007,SAIRA RAFIQ,Zakir Husain Delhi College (Day),4.82,5.18,6.14,2.36,4.625
-18085525008,SIDRAT,Zakir Husain Delhi College (Day),6.09,7.36,6,7,6.612
-18085525011,SYED MURTUZA AHMED,Zakir Husain Delhi College (Day),4.73,4.09,5.71,6.79,5.33
-18086525001,MOHAMMAD UBAID,Zakir Husain College (Eve),5.82,6.27,4.43,1.29,4.452
-18086525002,TASLEEM AHMED,Zakir Husain College (Eve),6.09,6.73,7.36,7.79,6.992
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Overall CGPA
+18086525001,MOHAMMAD UBAID,Zakir Husain College (Eve),5.82,6.27,4.43,1.29,4.260
+18086525002,TASLEEM AHMED,Zakir Husain College (Eve),6.09,6.73,7.36,7.79,7.060
+18085525001,AISHA HASHIM,Zakir Husain Delhi College (Day),7.55,7.82,7.71,8.21,7.840
+18085525002,IFRA,Zakir Husain Delhi College (Day),5.27,6.91,7.21,5.07,6.120
+18085525003,JUNAID AHMAD,Zakir Husain Delhi College (Day),9.00,9.09,8.57,9.00,8.900
+18085525004,MD AZHAR,Zakir Husain Delhi College (Day),7.00,7.64,8.00,8.43,7.820
+18085525005,MD FIROZ ALAM KHAN,Zakir Husain Delhi College (Day),8.45,8.82,8.43,9.00,8.680
+18085525006,SABA SULTAN,Zakir Husain Delhi College (Day),5.91,8.36,7.79,8.21,7.620
+18085525007,SAIRA RAFIQ,Zakir Husain Delhi College (Day),4.82,5.18,6.14,2.36,4.580
+18085525008,SIDRAT,Zakir Husain Delhi College (Day),6.09,7.36,6.00,7.00,6.600
+18085525011,SYED MURTUZA AHMED,Zakir Husain Delhi College (Day),4.73,4.09,5.71,6.79,5.440

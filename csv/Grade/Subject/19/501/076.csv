@@ -84,6 +84,7 @@ RollNo,Name,College,HINDI-B,HISTORY OF INDIA FROM EARLIEST TIMES UPTO 300 CE,INT
 19076501083,AMAN KUMAR,Sri Aurobindo College (Day),,5,6,5,,6,7,7,7,,7,,,,,,,,,,
 19076501084,RAJ YADAV,Sri Aurobindo College (Day),,5,6,,,6,7,7,,0,,5,5,,,,,,,,
 19076501085,MITHLESH TRIPATHI,Sri Aurobindo College (Day),,5,6,4,,5,6,6,5,6,,,,,,,,,,,
+19076501086,PARVINDER YADAV,Sri Aurobindo College (Day),,0,4,0,,,,,0,,,,,,,,,,,,
 19076501087,ADIBA SHOEB,Sri Aurobindo College (Day),,6,7,6,,7,8,7,7,7,,,,,,,,,,,
 19076501088,PRIYA,Sri Aurobindo College (Day),,6,6,5,,6,8,7,6,7,,,,,,,,,,,
 19076501089,BALDEV SARAN,Sri Aurobindo College (Day),,5,6,6,,6,7,7,7,6,,,,,,,,,,,
@@ -116,6 +117,7 @@ RollNo,Name,College,HINDI-B,HISTORY OF INDIA FROM EARLIEST TIMES UPTO 300 CE,INT
 19076501116,JAYA GOCHER,Sri Aurobindo College (Day),,6,6,5,,6,7,7,6,7,,,,,,,,,,,
 19076501117,MUNFAID ALI,Sri Aurobindo College (Day),,5,6,4,,6,6,0,8,,6,,,,,,,,,,
 19076501118,RAHUL,Sri Aurobindo College (Day),,6,6,6,,7,7,7,8,,7,,,,,,,,,,
+19076501119,T. ANNA JARVISH,Sri Aurobindo College (Day),,0,0,,,,,,,,,0,0,,,,,,,,
 19076501120,GAGANDEEP SINGH,Sri Aurobindo College (Day),,6,6,5,,6,7,7,7,7,,,,,,,,,,,
 19076501121,UDAY KUMAR MEHTO,Sri Aurobindo College (Day),,5,6,5,6,6,7,6,7,,,,,,,,,,,,
 19076501122,MAHA LAXMI,Sri Aurobindo College (Day),,6,7,5,,7,8,7,8,,7,,,,,,,,,,
@@ -134,6 +136,7 @@ RollNo,Name,College,HINDI-B,HISTORY OF INDIA FROM EARLIEST TIMES UPTO 300 CE,INT
 19076501135,VAIBHAV MEENA,Sri Aurobindo College (Day),4,0,4,0,,5,5,6,,6,,,,,,,,,,,
 19076501136,MOHD HASEEB,Sri Aurobindo College (Day),,0,4,,,5,6,6,4,,6,,5,,,,,,,,
 19076501137,SHASHI KUMAR,Sri Aurobindo College (Day),,4,5,5,,6,7,7,6,6,,,,,,,,,,,
+19076501138,VINEET MAVI,Sri Aurobindo College (Day),,0,0,0,,,,,5,,,,,,,,,,,,
 19076501139,NITIN MAVI,Sri Aurobindo College (Day),,0,4,5,,5,0,0,4,,0,,,,,,,,,,
 19076501140,VISHAL YADAV,Sri Aurobindo College (Day),,6,5,5,,6,7,6,7,7,,,,,,,,,,,
 19076501141,DIANA LALRINFELI,Sri Aurobindo College (Day),,6,6,,,6,7,7,,7,,6,7,,,,,,,,
@@ -165,6 +168,7 @@ RollNo,Name,College,HINDI-B,HISTORY OF INDIA FROM EARLIEST TIMES UPTO 300 CE,INT
 19076501167,BHARGAVEE SHARMA,Sri Aurobindo College (Day),7,,7,6,8,,8,8,,,,,,6,8,,,,,,
 19076501168,SHARAD  NEGI,Sri Aurobindo College (Day),6,,7,6,,,7,8,,7,,,,5,7,,,,,,
 19076501169,SIDDHI GULERIA,Sri Aurobindo College (Day),6,,6,5,7,,7,7,,,,,,6,7,,,,,,
+19076501170,PRAKHAR PRATAP SINGH,Sri Aurobindo College (Day),5,,6,4,,,,,,,,,,4,,,,,,,
 19076501171,PARUL  GARG,Sri Aurobindo College (Day),6,,7,5,,,8,8,,7,,,,7,7,,,,,,
 19076501172,PRIYANSHU RANJAN,Sri Aurobindo College (Day),7,,7,,,,8,8,,7,,,7,6,8,,,,,,
 19076501173,IMRAN,Sri Aurobindo College (Day),,,6,6,,,7,7,7,7,,,,5,7,,,,,,
@@ -274,13 +278,16 @@ RollNo,Name,College,HINDI-B,HISTORY OF INDIA FROM EARLIEST TIMES UPTO 300 CE,INT
 19076501277,SHAMSHER SINGH,Sri Aurobindo College (Day),,,,5,,,,7,6,7,,,,6,7,,7,7,,,
 19076501278,ANKITA,Sri Aurobindo College (Day),,,,5,,,,8,5,7,,,,6,7,,7,7,,,
 19076501279,GARGI WADHWA,Sri Aurobindo College (Day),7,,,6,7,,,8,,,,,,6,7,,7,8,,,
+19076501280,PRIYANKA PASWAN,Sri Aurobindo College (Day),,,,0,,,,,0,,,,,0,,,0,,,,
 19076501281,MANSI MISHRA,Sri Aurobindo College (Day),,,,5,,,,6,4,6,,,,6,6,,6,5,,,
 19076501282,SHYAM SHARMA,Sri Aurobindo College (Day),7,,,5,,,,7,,6,,,,5,6,,7,7,,,
 19076501283,GAGAN YADAV,Sri Aurobindo College (Day),5,,,5,,,,7,,6,,,,6,7,,7,5,,,
 19076501284,VIKAS KHATANA,Sri Aurobindo College (Day),6,,,5,,,,7,,6,,,,6,6,,7,5,,,
 19076501285,HARSH CHOUDHARY,Sri Aurobindo College (Day),5,,,4,,,,6,,6,,,,5,6,,6,6,,,
 19076501286,UMA SHAKYA,Sri Aurobindo College (Day),4,5,,0,6,6,,6,,,,,,7,4,,,,,,
+19076501287,DEVANSH RAI,Sri Aurobindo College (Day),0,4,,,,,,,,,,,5,6,,,,,,,
 19076501288,RITIK,Sri Aurobindo College (Day),6,6,,6,,6,,7,,8,,,,6,4,,,,,,
+19076501289,HILAL,Sri Aurobindo College (Day),,4,,4,,,,,7,,,,,0,,,,,,,
 19076501290,ZUBAIR AHMAD KHAR,Sri Aurobindo College (Day),,4,,,,5,,6,,5,,,7,0,5,,,,4,,
 19076501291,ABHINAV  CHOUDHARY,Sri Aurobindo College (Day),0,0,,4,,4,,5,,4,,,,0,0,,,,,,
 19076501292,NARAYANI KUMARI,Sri Aurobindo College (Day),,6,,6,,8,,8,8,7,,,,6,7,,,,,,
@@ -310,6 +317,7 @@ RollNo,Name,College,HINDI-B,HISTORY OF INDIA FROM EARLIEST TIMES UPTO 300 CE,INT
 19076501316,UDAY SINGH NEGI,Sri Aurobindo College (Day),4,4,,5,7,6,,6,,,,,,0,6,,,,,,
 19076501317,GARIMA  BISHNOI,Sri Aurobindo College (Day),,6,,7,,7,,8,8,7,,,,0,7,,,,,,
 19076501318,AKASH,Sri Aurobindo College (Day),,6,,5,,6,,7,7,6,,,,0,6,,,,,,
+19076501319,RITIK,Sri Aurobindo College (Day),,4,,5,,,,,6,,,,,0,,,,,,,
 19076501320,ANURAG YADAV,Sri Aurobindo College (Day),6,6,,6,6,6,,7,,,,,,0,7,,,,,,
 19076501321,DEEPAK,Sri Aurobindo College (Day),4,5,,4,0,5,,6,,,,,,0,0,,,,,,
 19076501322,KAVITA,Sri Aurobindo College (Day),,4,,6,,6,,7,8,6,,,,0,7,,,,,,
@@ -346,6 +354,8 @@ RollNo,Name,College,HINDI-B,HISTORY OF INDIA FROM EARLIEST TIMES UPTO 300 CE,INT
 19076501354,HRITIK,Sri Aurobindo College (Day),,5,,5,,7,,7,4,,6,,,,,,,,,5,7
 19076501355,ISRAIL,Sri Aurobindo College (Day),,,4,6,7,,6,8,5,,,,,,,,,,,7,8
 19076501356,ADITYA DEV SINGH,Sri Aurobindo College (Day),5,,5,5,5,,6,5,,,,,,,,,,,,5,6
+19076501357,KHUSHBU,Sri Aurobindo College (Day),,,4,0,,,,,4,,,,,,,,,,,5,
+19076501358,NEHA,Sri Aurobindo College (Day),,,4,4,,,,,4,,,,,,,,,,,6,
 19076501359,ABHIT KUMAR,Sri Aurobindo College (Day),,,5,4,,,6,7,4,6,,,,,,,,,,6,6
 19076501360,JATIN KUMAR,Sri Aurobindo College (Day),,,5,6,,,6,6,4,6,,,,,,,,,,6,6
 19076501361,GAURAV BALDEV,Sri Aurobindo College (Day),,,6,6,,,6,6,6,6,,,,,,,,,,5,6
@@ -354,15 +364,19 @@ RollNo,Name,College,HINDI-B,HISTORY OF INDIA FROM EARLIEST TIMES UPTO 300 CE,INT
 19076501364,SONALAL KUMAR,Sri Aurobindo College (Day),,,6,6,,,6,7,5,6,,,,,,,,,,6,6
 19076501365,KUMAR GAUTAM,Sri Aurobindo College (Day),,,6,5,,,7,8,5,7,,,,,,,,,,7,8
 19076501366,RITIKA MISHRA,Sri Aurobindo College (Day),5,,4,4,,,6,7,,7,,,,,,,,,,6,6
+19076501367,MANISH,Sri Aurobindo College (Day),,,0,0,,,,,0,,,,,,,,,,,0,
 19076501368,DRUBH SHARMA,Sri Aurobindo College (Day),6,,6,,7,,8,7,,,,,5,7,8,,,,,,
 19076501369,SHAGUN,Sri Aurobindo College (Day),,6,6,6,,7,7,7,6,7,,,,,,,,,,,
 19076501370,NICOLAS YENGKHOM,Sri Aurobindo College (Day),,5,6,,,6,7,7,,7,,6,6,,,,,,,,
+19076501371,NADEEM AHMED,Sri Aurobindo College (Day),4,,4,4,,,,,,,,,,4,,,,,,,
 19076501372,LOBSANG  TENZIN,Sri Aurobindo College (Day),,6,7,,,7,7,8,,,7,6,6,,,,,,,,
 19076501373,AJAY,Sri Aurobindo College (Day),6,,5,6,6,,7,7,,,,,,5,7,,,,,,
 19076501374,TANUJ SHARMA,Sri Aurobindo College (Day),6,6,6,5,,6,6,7,,6,,,,,,,,,,,
+19076501375,ANKIT,Sri Aurobindo College (Day),0,,,0,,,,,,,,,,0,,,0,,,,
 19076501376,RAHUL SHARMA,Sri Aurobindo College (Day),0,4,,,5,5,,6,,,,,6,0,5,,,,,,
 19076501377,HARIOM  YADAV,Sri Aurobindo College (Day),,5,6,5,,6,8,7,5,6,,,,,,,,,,,
 19076501378,DHRUV,Sri Aurobindo College (Day),,,4,4,,,5,0,0,0,,,,0,4,,,,,,
 19076501379,LAKSH TANWAR,Sri Aurobindo College (Day),0,,4,0,,,5,5,,,4,,,4,0,,,,,,
 19076501380,NITIN KUMAR,Sri Aurobindo College (Day),0,5,,5,5,5,,6,,,,,,5,4,,,,,,
 19076501381,PARAS YADAV,Sri Aurobindo College (Day),0,,,4,5,,,6,,,,,,0,5,,6,4,,,
+19076501383,DESEN DOMA BHUTIA,Sri Aurobindo College (Day),,0,0,,,,,,,,,0,0,,,,,,,,

@@ -1,6 +1,6 @@
-RollNo,Name,College,INORGANIC CHEMISTRY-I,ORGANIC CHEMISTRY-I,PHYSICAL CHEMISTRY-I
-19001746001,AJAY CHAUHAN,Acharya Narendra Dev College,110,81,102
-19001746002,GAURAV MISHRA,Acharya Narendra Dev College,104,101,93
-19001746003,MANSI SINGH,Acharya Narendra Dev College,109,97,111
-19001746004,PARUL SALUJA,Acharya Narendra Dev College,93,65,75
-19001746005,POOJA,Acharya Narendra Dev College,117,102,114
+RollNo,Name,College,Inorganic Chemistry-I,Organic Chemistry-I,Physical Chemistry-I,Inorganic Chemistry – II,Organic Chemistry – II,Physical Chemistry – II
+19001746001,AJAY CHAUHAN,Acharya Narendra Dev College,78,51,67,0,0,0
+19001746002,GAURAV MISHRA,Acharya Narendra Dev College,69,66,61,0,0,0
+19001746003,MANSI SINGH,Acharya Narendra Dev College,71,64,76,0,0,0
+19001746004,PARUL SALUJA,Acharya Narendra Dev College,58,31,47,0,0,0
+19001746005,POOJA,Acharya Narendra Dev College,67,52,64,0,0,0

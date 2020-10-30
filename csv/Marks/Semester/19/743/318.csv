@@ -1,4 +1,4 @@
-RollNo,Name,College,SemI,SemII,Total,Percentage
+RollNo,Name,College,Sem-I,Sem-II,Total,Percentage
 19318743001,AANCHAL YADAV,Dr. B.R. Ambedkar Center for Biomedical Research,459/650,485/650,944/1300,72.615
 19318743002,ADITYA  KHANDELWAL,Dr. B.R. Ambedkar Center for Biomedical Research,400/650,454/650,854/1300,65.692
 19318743003,AKANKSHA NEGI,Dr. B.R. Ambedkar Center for Biomedical Research,429/650,461/650,890/1300,68.462
@@ -16,10 +16,10 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19318743015,KHANDSUREN KHASBAT,Dr. B.R. Ambedkar Center for Biomedical Research,156/650,108/650,264/1300,20.308
 19318743016,KULJEET SINGH,Dr. B.R. Ambedkar Center for Biomedical Research,424/650,453/650,877/1300,67.462
 19318743017,LUCKY,Dr. B.R. Ambedkar Center for Biomedical Research,469/650,498/650,967/1300,74.385
-19318743018,MANDAVI RAJI SARRAF,Dr. B.R. Ambedkar Center for Biomedical Research,460/650,489/650,949/1300,73
+19318743018,MANDAVI RAJI SARRAF,Dr. B.R. Ambedkar Center for Biomedical Research,460/650,489/650,949/1300,73.000
 19318743019,MANI GUPTA,Dr. B.R. Ambedkar Center for Biomedical Research,428/650,459/650,887/1300,68.231
 19318743020,MINAL,Dr. B.R. Ambedkar Center for Biomedical Research,329/650,405/650,734/1300,56.462
-19318743021,MOHAN KUMAR SINGH,Dr. B.R. Ambedkar Center for Biomedical Research,345/650,409/650,754/1300,58
+19318743021,MOHAN KUMAR SINGH,Dr. B.R. Ambedkar Center for Biomedical Research,345/650,409/650,754/1300,58.000
 19318743022,MOHIT,Dr. B.R. Ambedkar Center for Biomedical Research,312/650,406/650,718/1300,55.231
 19318743023,NEHA A,Dr. B.R. Ambedkar Center for Biomedical Research,382/650,431/650,813/1300,62.538
 19318743024,NITYA SHARMA,Dr. B.R. Ambedkar Center for Biomedical Research,451/650,484/650,935/1300,71.923
@@ -29,6 +29,7 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19318743028,PURVASHI PASRIJA,Dr. B.R. Ambedkar Center for Biomedical Research,453/650,486/650,939/1300,72.231
 19318743029,RAHUL VERMA,Dr. B.R. Ambedkar Center for Biomedical Research,475/650,497/650,972/1300,74.769
 19318743030,RAHUL VERMA,Dr. B.R. Ambedkar Center for Biomedical Research,420/650,468/650,888/1300,68.308
+19318743031,RICHA RAJ,Dr. B.R. Ambedkar Center for Biomedical Research,66/650,,66/650,10.154
 19318743032,SACHIN SHUKLA,Dr. B.R. Ambedkar Center for Biomedical Research,456/650,485/650,941/1300,72.385
 19318743033,SAKSHAM MEENA,Dr. B.R. Ambedkar Center for Biomedical Research,263/650,379/650,642/1300,49.385
 19318743034,SAURABH YADAV,Dr. B.R. Ambedkar Center for Biomedical Research,398/650,468/650,866/1300,66.615

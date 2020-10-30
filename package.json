@@ -19,6 +19,7 @@
   "dependencies": {
     "axios": "^0.20.0",
     "cheerio": "^1.0.0-rc.3",
+    "fast-csv": "^4.3.3",
     "qs": "^6.9.4",
     "zlib": "^1.0.5"
   },
