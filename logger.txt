@@ -3008,3 +3008,105 @@ Error at 19 724 024
 Error at 19 724 068
 Error at 19 724 043
 { '17': [], '18': [], '19': [] }
+2020-11-01T00:19:17.804Z
+Grade
+ASP.NET_SessionId=pq3vew45mfiuqbetzlo3exzb
+{ '17': [ '508', '535' ], '18': [], '19': [ '724' ] }
+17 508 040
+17 508 024
+17 508 068
+17 508 071
+17 508 010
+17 508 013
+17 508 069
+17 508 041
+17 508 059
+17 508 078
+17 535 067
+17 535 066
+Error at 19 724 039
+Error at 19 724 048
+Error at 19 724 034
+Error at 19 724 029
+Error at 19 724 033
+Error at 19 724 026
+Error at 19 724 003
+Error at 19 724 044
+Error at 19 724 053
+Error at 19 724 031
+Error at 19 724 036
+Error at 19 724 075
+Error at 19 724 062
+Error at 19 724 071
+Error at 19 724 019
+Error at 19 724 014
+Error at 19 724 040
+Error at 19 724 056
+Error at 19 724 085
+Error at 19 724 024
+Error at 19 724 068
+Error at 19 724 043
+{ '17': [ '508', '535' ], '18': [], '19': [] }
+Grade 17 508 040
+Grade 17 508 024
+Grade 17 508 068
+Grade 17 508 071
+Grade 17 508 010
+Grade 17 508 013
+Grade 17 508 069
+Grade 17 508 041
+Grade 17 508 059
+Grade 17 508 078
+Grade 17 535 067
+Grade 17 535 066
+2020-11-01T00:27:06.061Z
+Marks
+ASP.NET_SessionId=dqvneif42pkszl45h4akkvqd
+{ '17': [ '508', '535' ], '18': [], '19': [ '724' ] }
+17 508 040
+17 508 024
+17 508 068
+17 508 071
+17 508 010
+17 508 013
+17 508 069
+17 508 041
+17 508 059
+17 508 078
+17 535 067
+17 535 066
+Error at 19 724 039
+Error at 19 724 048
+Error at 19 724 034
+Error at 19 724 029
+Error at 19 724 033
+Error at 19 724 026
+Error at 19 724 003
+Error at 19 724 044
+Error at 19 724 053
+Error at 19 724 031
+Error at 19 724 036
+Error at 19 724 075
+Error at 19 724 062
+Error at 19 724 071
+Error at 19 724 019
+Error at 19 724 014
+Error at 19 724 040
+Error at 19 724 056
+Error at 19 724 085
+Error at 19 724 024
+Error at 19 724 068
+Error at 19 724 043
+{ '17': [ '508', '535' ], '18': [], '19': [] }
+Marks 17 508 040
+Marks 17 508 024
+Marks 17 508 068
+Marks 17 508 071
+Marks 17 508 010
+Marks 17 508 013
+Marks 17 508 069
+Marks 17 508 041
+Marks 17 508 059
+Marks 17 508 078
+Marks 17 535 067
+Marks 17 535 066
