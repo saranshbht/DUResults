@@ -138,8 +138,8 @@ let downloadHtmls = async(remaining, type, url, step, store_path) => {
 			let to_be_removed = [];
 			if (!Object.keys(courses_colleges).includes(course)) {
 				new_course = true;
-				 let all_colleges = JSON.parse(fss.readFileSync('codes/collegeCodes.json').toString());
-				 courses_colleges[course] = all_colleges.map(obj => obj['CollegeCode']);
+				let all_colleges = JSON.parse(fss.readFileSync('codes/collegeCodes.json').toString());
+				courses_colleges[course] = all_colleges.map(obj => obj['CollegeCode']);
 			}
 
 			let issues = 0;
@@ -204,8 +204,14 @@ let downloadHtmls = async(remaining, type, url, step, store_path) => {
 			}
 			if (new_course) {
 				courses_colleges[course] = courses_colleges[course].filter(e => !to_be_removed.includes(e));
-				fs.writeFile(`./coursesColleges.json`, JSON.stringify(courses_colleges))
-				.catch(console.log);
+				if (courses_colleges[course].length > 0) {
+					fs.writeFile(`./coursesColleges.json`, JSON.stringify(courses_colleges))
+					.catch(console.log);
+				}
+				else {
+					console.log("New course but no college");
+					delete courses_colleges[course];
+				}
 			}
 		}
 	}
