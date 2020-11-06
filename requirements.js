@@ -43,7 +43,7 @@ let getRemaining = (url, type) => {
 		let headers = [];
 		table.slice(0, 1).each(function () {
 			$('th', this).each(function () {
-				headers.push($(this).text());
+				headers.push($(this).text().trim());
 			})
 		});
 		let flag_idx = headers.indexOf('Exam Flag');
@@ -59,9 +59,9 @@ let getRemaining = (url, type) => {
 		}
 		let declared = {}
 		table.slice(1).each(function () {
-			let flag = $('td', this).eq(flag_idx).text();
-			let course = $('td', this).eq(course_idx).text();
-			let part = part_yoa[$('td', this).eq(part_idx).text()];
+			let flag = $('td', this).eq(flag_idx).text().trim();
+			let course = $('td', this).eq(course_idx).text().trim();
+			let part = part_yoa[$('td', this).eq(part_idx).text().trim()];
 			if (flag.includes('CBCS')) {
 				declared[part] = declared[part] || [];
 				declared[part].push(course);
@@ -240,7 +240,7 @@ let gradeFun = data => {
 	let sem_table = $('#gv_sgpa tr');
 	sem_table.slice(0, 1).each(function () {
 		$('th', this).each(function () {
-			headers.push($(this).text());
+			headers.push($(this).text().trim());
 		})
 	});
 	// console.log(headers);
@@ -254,9 +254,9 @@ let gradeFun = data => {
 	sem_table.slice(1).each(function () {
 
 		// only select cells having same index as their headings in the header row
-		let sem = $('td', this).eq(sem_idx).text();
-		let tc = $('td', this).eq(tc_idx).text();
-		let tcp = $('td', this).eq(tcp_idx).text();
+		let sem = $('td', this).eq(sem_idx).text().trim();
+		let tc = $('td', this).eq(tc_idx).text().trim();
+		let tcp = $('td', this).eq(tcp_idx).text().trim();
 		semester['Sem-' + sem] = (tcp / tc).toFixed(2);
 		total_tc += parseFloat(tc);
 		total_tcp += parseFloat(tcp);
@@ -267,15 +267,15 @@ let gradeFun = data => {
 	headers = [];
 	sub_table.slice(0, 1).each(function () {
 		$('th', this).each(function () {
-			headers.push($(this).text());
+			headers.push($(this).text().trim());
 		})
 	});
 
 	let paper_idx = headers.indexOf('Paper Name');
 	let grade_idx = headers.indexOf('Grade Point');
 	sub_table.slice(1).each(function () {
-		let paper = $('td', this).eq(paper_idx).text();
-		let grade = $('td', this).eq(grade_idx).text();
+		let paper = $('td', this).eq(paper_idx).text().trim();
+		let grade = $('td', this).eq(grade_idx).text().trim();
 		subject[paper] = grade;
 	});
 
@@ -306,7 +306,7 @@ let marksFun = data => {
 	let sem_table = $('#gvrslt tr');
 	sem_table.slice(0, 1).each(function () {
 		$('th', this).each(function () {
-			headers.push($(this).text());
+			headers.push($(this).text().trim());
 		})
 	});
 
@@ -321,9 +321,9 @@ let marksFun = data => {
 	sem_table.slice(1).each(function () {
 
 		// only select cells having same index as their headings in the header row
-		let sem = $('td', this).eq(sem_idx).text();
-		let marks = $('td', this).eq(total_idx).text();
-		let max_marks = $('td', this).eq(max_total_idx).text();
+		let sem = $('td', this).eq(sem_idx).text().trim();
+		let marks = $('td', this).eq(total_idx).text().trim();
+		let max_marks = $('td', this).eq(max_total_idx).text().trim();
 		semester['Sem-' + sem] = marks + '/' + max_marks;
 		total += parseFloat(marks);
 		max_total += parseFloat(max_marks);
@@ -335,18 +335,18 @@ let marksFun = data => {
 	headers = [];
 	sub_table.slice(0, 1).each(function () {
 		$('th', this).each(function () {
-			headers.push($(this).text());
+			headers.push($(this).text().trim());
 		})
 	});
 
 	let paper_idx = headers.indexOf('Paper Name');
 	sem_idx = headers.indexOf('Sem');
 	sub_table.slice(1).each(function () {
-		let paper = $('td', this).eq(paper_idx).text();
+		let paper = $('td', this).eq(paper_idx).text().trim();
 		let total = 0;
 		$('td', this).slice(sem_idx + 1, -1).each(function() {
 			// get only the numeric content from the cell
-			let val = $(this).text().match(/\d+/);
+			let val = $(this).text().trim().match(/\d+/);
 			if (val)
 				total += parseFloat(val[0]);
 		});
