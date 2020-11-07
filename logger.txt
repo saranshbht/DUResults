@@ -3898,3 +3898,69 @@ Error at undefined 563 066
 Error at undefined 563 069
 Error at undefined 563 059
 { '17': [], '18': [], '19': [] }
+2020-11-07T00:18:33.106Z
+Grade
+ASP.NET_SessionId=m4wzkr45yudvl5rkcugl2ln0
+{ '17': [], '18': [ '551' ], '19': [ '724', '753', '763' ] }
+18 551 025
+Error at 19 724 039
+Error at 19 724 048
+Error at 19 724 034
+Error at 19 724 029
+Error at 19 724 033
+Error at 19 724 026
+Error at 19 724 003
+Error at 19 724 044
+Error at 19 724 053
+Error at 19 724 031
+Error at 19 724 036
+Error at 19 724 075
+Error at 19 724 062
+Error at 19 724 071
+Error at 19 724 019
+Error at 19 724 014
+Error at 19 724 040
+Error at 19 724 056
+Error at 19 724 085
+Error at 19 724 024
+Error at 19 724 068
+Error at 19 724 043
+19 753 252
+19 763 261
+{ '17': [], '18': [ '551' ], '19': [ '753', '763' ] }
+Grade 18 551 025
+Grade 19 753 252
+Grade 19 763 261
+2020-11-07T00:21:19.115Z
+Marks
+ASP.NET_SessionId=brlfm155d1bh0krmdxyabvqh
+{ '17': [], '18': [ '551' ], '19': [ '724', '753', '763' ] }
+18 551 025
+Error at 19 724 039
+Error at 19 724 048
+Error at 19 724 034
+Error at 19 724 029
+Error at 19 724 033
+Error at 19 724 026
+Error at 19 724 003
+Error at 19 724 044
+Error at 19 724 053
+Error at 19 724 031
+Error at 19 724 036
+Error at 19 724 075
+Error at 19 724 062
+Error at 19 724 071
+Error at 19 724 019
+Error at 19 724 014
+Error at 19 724 040
+Error at 19 724 056
+Error at 19 724 085
+Error at 19 724 024
+Error at 19 724 068
+Error at 19 724 043
+19 753 252
+19 763 261
+{ '17': [], '18': [ '551' ], '19': [ '753', '763' ] }
+Marks 18 551 025
+Marks 19 753 252
+Marks 19 763 261
