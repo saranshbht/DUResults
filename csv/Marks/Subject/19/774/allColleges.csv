@@ -224,7 +224,7 @@ RollNo,Name,College,Business Statistics,Advanced Management Accounting,Manageria
 19241774008,AMARJEET GUPTA,Department of Commerce,85,77,64,70,56,0,0,0,0,0
 19241774009,ANJALI GARG,Department of Commerce,83,72,74,81,58,0,0,0,0,0
 19241774010,ANJALI GOSWAMI,Department of Commerce,84,70,77,86,55,0,0,0,0,0
-19241774011,ANKIT SWAMI,Department of Commerce,63,82,61,49,54,,,,,
+19241774011,ANKIT SWAMI,Department of Commerce,63,82,61,49,54,0,0,0,0,0
 19241774012,ANKITA JAIN,Department of Commerce,90,88,80,71,62,0,0,0,0,0
 19241774013,ANKITA KAMRA,Department of Commerce,59,72,54,66,53,0,0,0,0,0
 19241774014,ANNU,Department of Commerce,30,50,44,37,34,0,0,0,0,0
@@ -267,7 +267,7 @@ RollNo,Name,College,Business Statistics,Advanced Management Accounting,Manageria
 19241774051,MALATI MAJHI,Department of Commerce,54,60,66,64,38,0,0,0,0,0
 19241774052,MANMOHAN AGARWAL,Department of Commerce,36,44,52,39,40,0,0,0,0,0
 19241774053,MAYANK KUMAR,Department of Commerce,87,86,72,66,57,0,0,0,0,0
-19241774054,MEGHA JINDAL,Department of Commerce,81,80,66,68,59,,,,,
+19241774054,MEGHA JINDAL,Department of Commerce,81,80,66,68,59,0,0,0,0,0
 19241774055,MIR RASHID LATEEF,Department of Commerce,90,87,76,78,55,0,0,0,0,0
 19241774056,MOHIT KUMAR,Department of Commerce,87,82,81,78,65,0,0,0,0,0
 19241774057,MOHIT KUMAR,Department of Commerce,77,72,75,69,60,0,0,0,0,0
@@ -284,18 +284,18 @@ RollNo,Name,College,Business Statistics,Advanced Management Accounting,Manageria
 19241774068,NIKHIL KUMAR,Department of Commerce,56,58,68,62,62,0,0,0,0,0
 19241774069,NIKITA JAIN,Department of Commerce,66,77,65,69,57,0,0,0,0,0
 19241774070,PALLAVI SEJWAL,Department of Commerce,57,49,61,75,62,0,0,0,0,0
-19241774071,PAN LEI,Department of Commerce,59,70,43,45,25,,,,,
+19241774071,PAN LEI,Department of Commerce,59,70,43,45,25,0,0,0,0,0
 19241774072,POOJA BHARDWAJ,Department of Commerce,84,63,80,80,53,0,0,0,0,0
-19241774073,POOJA YADAV,Department of Commerce,50,32,70,54,66,,,,,
+19241774073,POOJA YADAV,Department of Commerce,50,32,70,54,66,0,0,0,0,0
 19241774074,PRANJAL SHARMA,Department of Commerce,75,69,49,42,4,,,,,
 19241774075,PRASHANT SONI,Department of Commerce,39,44,52,46,47,0,0,0,0,0
 19241774076,PRIYA,Department of Commerce,92,91,84,78,64,0,0,0,0,0
 19241774077,PRIYA GHOSH,Department of Commerce,58,76,60,59,49,0,0,0,0,0
 19241774078,PRIYANKA,Department of Commerce,58,67,62,81,52,0,0,0,0,0
 19241774079,PRIYANKA,Department of Commerce,44,36,63,68,52,0,0,0,0,0
-19241774080,RADHA KAUSHIK,Department of Commerce,57,64,72,65,53,,,,,
+19241774080,RADHA KAUSHIK,Department of Commerce,57,64,72,65,53,0,0,0,0,0
 19241774081,RAJUL,Department of Commerce,40,33,60,55,52,0,0,0,0,0
-19241774082,RAVI,Department of Commerce,2,7,63,31,29,,,,,
+19241774082,RAVI,Department of Commerce,2,7,63,31,29,0,0,0,0,0
 19241774083,RENU,Department of Commerce,73,83,68,66,67,0,0,0,0,0
 19241774084,RICHA,Department of Commerce,83,89,81,84,70,0,0,0,0,0
 19241774085,RICHA,Department of Commerce,53,65,64,58,42,0,0,0,0,0
@@ -314,7 +314,7 @@ RollNo,Name,College,Business Statistics,Advanced Management Accounting,Manageria
 19241774098,SHIVAM PARIK,Department of Commerce,55,64,69,66,40,0,0,0,0,0
 19241774099,SHIVANGI JAISWAL,Department of Commerce,5,18,0,17,0,0,0,0,0,0
 19241774100,SHOURYA SINGH,Department of Commerce,41,9,59,60,49,0,0,0,0,0
-19241774101,SHREYANSH NARAYAN,Department of Commerce,51,54,52,59,45,,,,,
+19241774101,SHREYANSH NARAYAN,Department of Commerce,51,54,52,59,45,0,0,0,0,0
 19241774102,SHUBHAM,Department of Commerce,95,82,74,94,67,0,0,0,0,0
 19241774103,SHIVAM GUPTA,Department of Commerce,88,93,79,73,65,0,0,0,0,0
 19241774104,SIMRAN,Department of Commerce,94,85,86,84,78,0,0,0,0,0
@@ -325,7 +325,7 @@ RollNo,Name,College,Business Statistics,Advanced Management Accounting,Manageria
 19241774109,SUMIT KUMAR,Department of Commerce,54,55,68,71,59,0,0,0,0,0
 19241774110,SUNITA YADAV,Department of Commerce,75,74,76,67,67,0,0,0,0,0
 19241774111,SUSMITA BORO,Department of Commerce,85,85,62,59,60,0,0,0,0,0
-19241774112,SUVAM DAS,Department of Commerce,62,75,58,62,51,,,,,
+19241774112,SUVAM DAS,Department of Commerce,62,75,58,62,51,0,0,0,0,0
 19241774113,TANYA,Department of Commerce,75,63,61,62,42,0,0,0,0,0
 19241774114,TANYA KHANEJA,Department of Commerce,72,66,71,58,47,0,0,0,0,0
 19241774115,TAYYABA,Department of Commerce,87,74,76,77,64,0,0,0,0,0

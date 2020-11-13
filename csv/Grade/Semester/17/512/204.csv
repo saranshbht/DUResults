@@ -1,24 +1,25 @@
-RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Overall CGPA
-17204512001,AAKASH SHARMA,Department of Germanic and Romance Studies,7.82,8.00,6.93,6.21,7.25,7.177
-17204512002,ABHAS SINGH,Department of Germanic and Romance Studies,8.55,8.27,8.36,7.21,7.00,7.855
-17204512003,ASHUTOSH PRATEEK,Department of Germanic and Romance Studies,8.36,9.27,8.79,9.00,8.50,8.790
-17204512004,CHANCHAL VERMA,Department of Germanic and Romance Studies,6.18,6.00,5.50,4.71,4.50,5.339
-17204512005,EKANSHI JAIN,Department of Germanic and Romance Studies,8.45,8.45,7.14,7.14,8.25,7.823
-17204512006,FAHAD P.K.,Department of Germanic and Romance Studies,7.18,6.91,5.50,4.71,0.00,4.806
-17204512007,FATHIMA LIYA VK,Department of Germanic and Romance Studies,5.18,6.09,5.07,2.43,0.00,3.694
-17204512008,GUNIKA BHATIA,Department of Germanic and Romance Studies,8.36,8.18,7.14,6.79,6.75,7.387
-17204512009,KANIKA RAWAT,Department of Germanic and Romance Studies,6.55,6.73,5.71,5.79,6.50,6.210
-17204512012,MANVENDRA SINGH THAKUR,Department of Germanic and Romance Studies,8.82,9.45,8.79,8.79,9.00,8.952
-17204512013,MUDRIKA VERMA,Department of Germanic and Romance Studies,7.18,7.18,7.14,6.50,6.25,6.839
-17204512014,NITISH KUMAR,Department of Germanic and Romance Studies,7.18,7.00,6.93,6.00,6.50,6.694
-17204512015,NIYATI JAIN,Department of Germanic and Romance Studies,8.27,8.18,8.21,7.79,8.25,8.129
-17204512016,PAYAL SHARMA,Department of Germanic and Romance Studies,8.36,7.45,8.00,7.57,8.50,7.968
-17204512017,PRAGEET GOEL,Department of Germanic and Romance Studies,9.00,8.82,7.57,6.93,7.75,7.935
-17204512018,PRAMOD KUMAR,Department of Germanic and Romance Studies,8.00,6.45,6.50,6.00,6.75,6.694
-17204512020,RAJNISH GAUR,Department of Germanic and Romance Studies,7.45,7.27,7.21,7.21,7.00,7.226
-17204512021,RIYA,Department of Germanic and Romance Studies,6.27,7.18,6.50,6.79,7.25,6.790
-17204512022,SAMAR,Department of Germanic and Romance Studies,7.73,6.91,6.29,6.36,6.00,6.613
-17204512023,SAMRAT RANA,Department of Germanic and Romance Studies,7.09,6.45,5.29,5.57,5.50,5.919
-17204512024,SARGAM KATYAL,Department of Germanic and Romance Studies,7.64,7.91,7.14,6.36,0.00,5.806
-17204512029,YUKTI SHARMA,Department of Germanic and Romance Studies,9.00,9.00,7.93,7.57,8.25,8.290
-17204512033,BINTY TALWAR,Department of Germanic and Romance Studies,8.55,8.27,7.36,6.14,0.00,6.032
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Sem-VI,Overall CGPA
+17204512001,AAKASH SHARMA,Department of Germanic and Romance Studies,7.82,8.00,6.93,6.21,7.25,8.00,7.311
+17204512002,ABHAS SINGH,Department of Germanic and Romance Studies,8.55,8.27,8.36,7.21,7.00,1.00,6.743
+17204512003,ASHUTOSH PRATEEK,Department of Germanic and Romance Studies,8.36,9.27,8.79,9.00,8.50,9.25,8.865
+17204512004,CHANCHAL VERMA,Department of Germanic and Romance Studies,6.18,6.00,5.50,4.71,4.50,6.75,5.568
+17204512005,EKANSHI JAIN,Department of Germanic and Romance Studies,8.45,8.45,7.14,7.14,8.25,8.75,7.973
+17204512006,FAHAD P.K.,Department of Germanic and Romance Studies,7.18,6.91,5.50,4.71,0.00,7.50,5.243
+17204512007,FATHIMA LIYA VK,Department of Germanic and Romance Studies,5.18,6.09,5.07,3.50,0.00,7.00,4.432
+17204512008,GUNIKA BHATIA,Department of Germanic and Romance Studies,8.36,8.18,7.14,6.79,6.75,6.50,7.243
+17204512009,KANIKA RAWAT,Department of Germanic and Romance Studies,6.55,6.73,5.71,5.79,6.50,8.00,6.500
+17204512010,MANISH KUMAR YADAV,Department of Germanic and Romance Studies,4.55,0.00,0.00,0.00,,,1.000
+17204512012,MANVENDRA SINGH THAKUR,Department of Germanic and Romance Studies,8.82,9.45,8.79,8.79,9.00,9.50,9.041
+17204512013,MUDRIKA VERMA,Department of Germanic and Romance Studies,7.18,7.18,7.14,6.50,6.25,8.25,7.068
+17204512014,NITISH KUMAR,Department of Germanic and Romance Studies,7.18,7.00,6.93,6.00,6.50,8.00,6.905
+17204512015,NIYATI JAIN,Department of Germanic and Romance Studies,8.27,8.18,8.21,7.79,8.25,8.75,8.230
+17204512016,PAYAL SHARMA,Department of Germanic and Romance Studies,8.36,7.45,8.00,7.57,8.50,9.00,8.135
+17204512017,PRAGEET GOEL,Department of Germanic and Romance Studies,9.00,8.82,7.57,7.14,7.75,9.00,8.149
+17204512018,PRAMOD KUMAR,Department of Germanic and Romance Studies,8.00,6.45,6.50,6.00,6.75,8.00,6.905
+17204512020,RAJNISH GAUR,Department of Germanic and Romance Studies,7.45,7.27,7.21,7.21,7.00,6.50,7.108
+17204512021,RIYA,Department of Germanic and Romance Studies,6.27,7.18,6.50,6.79,7.25,8.00,6.986
+17204512022,SAMAR,Department of Germanic and Romance Studies,7.73,6.91,6.29,6.36,6.00,7.75,6.797
+17204512023,SAMRAT RANA,Department of Germanic and Romance Studies,7.09,6.45,5.29,5.57,5.50,7.50,6.176
+17204512024,SARGAM KATYAL,Department of Germanic and Romance Studies,7.64,7.91,7.14,6.36,0.00,6.25,5.878
+17204512029,YUKTI SHARMA,Department of Germanic and Romance Studies,9.00,9.00,7.93,7.57,8.25,7.25,8.122
+17204512033,BINTY TALWAR,Department of Germanic and Romance Studies,8.55,8.27,7.36,6.14,0.00,8.25,6.392

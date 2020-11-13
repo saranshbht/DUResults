@@ -1,109 +1,110 @@
-RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Overall CGPA
-17001554001,ABHIJIT NAYEK,Acharya Narendra Dev College,7.73,7.00,7.64,6.71,7.25,7.258
-17001554002,ABHISEK PANI,Acharya Narendra Dev College,7.27,7.36,7.21,6.79,7.25,7.161
-17001554003,AKHILA A,Acharya Narendra Dev College,7.45,7.91,6.50,3.93,6.75,6.387
-17001554004,AMIT BABU,Acharya Narendra Dev College,7.55,7.36,6.00,5.07,6.00,6.306
-17001554005,AMIT SHARMA,Acharya Narendra Dev College,6.27,6.45,5.36,6.57,7.75,6.452
-17001554007,ARUNDHATI CHAUDHARY,Acharya Narendra Dev College,7.27,6.82,8.00,8.57,8.50,7.887
-17001554008,ASAD ALI,Acharya Narendra Dev College,8.09,6.64,6.36,7.64,7.00,7.129
-17001554010,ASHWIN UDAY,Acharya Narendra Dev College,8.55,7.91,8.14,7.43,7.75,7.935
-17001554011,BENSON RIANG,Acharya Narendra Dev College,6.45,6.36,6.00,6.79,7.25,6.565
-17001554012,BHARTI,Acharya Narendra Dev College,6.27,6.27,5.57,5.57,6.75,6.048
-17001554013,BHAWNA SAINI,Acharya Narendra Dev College,8.45,8.64,8.36,8.36,9.00,8.548
-17001554015,HARSHITA,Acharya Narendra Dev College,7.55,7.64,7.57,7.36,7.25,7.468
-17001554016,HITESH NAGILA,Acharya Narendra Dev College,5.27,5.27,6.29,5.93,7.00,5.984
-17001554017,INDU,Acharya Narendra Dev College,5.91,6.64,5.57,5.93,5.75,5.935
-17001554018,K GAUTAM,Acharya Narendra Dev College,8.00,7.45,7.93,8.36,8.75,8.113
-17001554019,KANIKA BHATIA,Acharya Narendra Dev College,9.00,8.27,8.79,9.00,7.75,8.581
-17001554020,KOYEL RAY,Acharya Narendra Dev College,8.45,8.18,8.00,7.79,7.50,7.968
-17001554021,LUCKY SANGAHI,Acharya Narendra Dev College,8.55,8.91,8.57,2.79,8.75,7.355
-17001554023,MAITRAYEE MITHI,Acharya Narendra Dev College,6.64,6.82,5.64,4.43,6.00,5.823
-17001554024,MAYANK KUMAR GUPTA,Acharya Narendra Dev College,5.73,5.64,6.00,7.14,6.50,6.242
-17001554026,MINTA THOMAS,Acharya Narendra Dev College,8.55,8.73,8.93,7.29,9.50,8.565
-17001554027,MOUSUMI CHAKRABORTY,Acharya Narendra Dev College,6.82,6.91,5.00,7.43,8.50,6.887
-17001554028,MUSKAAN JINDAL,Acharya Narendra Dev College,8.55,8.00,8.00,8.79,8.75,8.419
-17001554029,NAMAN SAINI,Acharya Narendra Dev College,5.27,5.18,5.57,5.93,5.00,5.419
-17001554031,PRACHI KHATTAR,Acharya Narendra Dev College,8.55,8.45,8.57,8.00,8.00,8.306
-17001554032,PREETI SINGHAL,Acharya Narendra Dev College,8.27,8.45,9.00,9.00,8.50,8.677
-17001554033,PURVA,Acharya Narendra Dev College,9.27,9.27,8.71,9.14,9.50,9.161
-17001554034,RAMAN KUMAR,Acharya Narendra Dev College,5.73,3.64,3.57,3.71,4.25,4.129
-17001554035,RHYTHEM KAUSHAL,Acharya Narendra Dev College,7.18,6.91,7.21,7.93,8.25,7.516
-17001554036,RIYA SRIVASTAVA,Acharya Narendra Dev College,9.00,8.91,8.93,9.00,9.50,9.065
-17001554037,ROHINI BHATT,Acharya Narendra Dev College,9.00,9.18,8.71,9.00,9.00,8.968
-17001554038,SAGAR MAURYA,Acharya Narendra Dev College,7.00,6.73,6.57,6.14,7.50,6.758
-17001554039,SAMRIDDHI,Acharya Narendra Dev College,4.91,5.55,5.21,3.14,3.00,4.323
-17001554040,SAMRIDHI DIDWANIA,Acharya Narendra Dev College,8.00,8.18,8.36,8.21,8.00,8.161
-17001554041,SANSI,Acharya Narendra Dev College,7.45,7.00,7.36,7.14,7.25,7.242
-17001554042,SARANG SAINI,Acharya Narendra Dev College,8.64,8.82,8.50,8.21,8.50,8.516
-17001554043,SHIPRA YADAV,Acharya Narendra Dev College,8.00,7.45,7.43,6.79,6.75,7.258
-17001554045,SHRISTI,Acharya Narendra Dev College,6.64,6.45,6.57,2.50,0.00,4.371
-17001554046,SWARNASANKHA ACHARJEE,Acharya Narendra Dev College,7.00,6.73,6.57,6.71,6.75,6.742
-17001554047,TENZIN,Acharya Narendra Dev College,7.00,7.91,7.43,7.79,8.00,7.629
-17001554049,VIVEK KUMAR PASWAN,Acharya Narendra Dev College,5.36,4.91,5.07,5.00,5.00,5.065
-17009554001,SAMARTH DHOLE,Bhaskaracharya College of Applied Sciences,8.73,8.73,8.21,9.00,9.25,8.774
-17009554004,MUSKAAN SHARMA,Bhaskaracharya College of Applied Sciences,9.00,9.00,9.36,9.36,10.00,9.355
-17009554005,SALONI SINGH,Bhaskaracharya College of Applied Sciences,8.18,7.73,8.36,7.93,8.25,8.097
-17009554006,PRIYANKA,Bhaskaracharya College of Applied Sciences,8.45,7.45,7.79,8.36,8.25,8.065
-17009554007,PRIYADARSHI ANAND,Bhaskaracharya College of Applied Sciences,7.91,7.73,7.50,7.79,6.75,7.532
-17009554008,OJAL SAHARAN,Bhaskaracharya College of Applied Sciences,8.91,9.00,8.93,9.57,9.50,9.194
-17009554009,NIHARIKA ATRIWAL,Bhaskaracharya College of Applied Sciences,8.27,8.45,8.36,8.21,8.50,8.355
-17009554010,NAVNEET KUMAR,Bhaskaracharya College of Applied Sciences,6.18,5.55,5.71,5.86,5.25,5.710
-17009554011,MEHAK BHATIA,Bhaskaracharya College of Applied Sciences,8.45,7.36,7.71,8.00,9.00,8.097
-17009554012,NILESH KUMAR KAUNDAL,Bhaskaracharya College of Applied Sciences,8.45,9.00,8.71,9.14,9.00,8.871
-17009554013,NAVEEN KUMAR MAURYA,Bhaskaracharya College of Applied Sciences,1.82,4.55,5.14,3.14,2.50,3.484
-17009554014,SAHIL RANA,Bhaskaracharya College of Applied Sciences,7.00,6.18,7.07,6.57,7.50,6.871
-17009554015,ANJALI JAIN,Bhaskaracharya College of Applied Sciences,8.18,8.45,8.36,8.64,8.50,8.435
-17009554018,KAPIL YADAV,Bhaskaracharya College of Applied Sciences,4.91,4.64,4.50,3.71,3.50,4.226
-17009554019,DEEPAK ARUN,Bhaskaracharya College of Applied Sciences,7.82,6.73,6.29,6.93,6.00,6.726
-17009554020,ARYAN,Bhaskaracharya College of Applied Sciences,6.73,6.18,5.86,6.00,5.75,6.081
-17009554021,DHRITI JHA,Bhaskaracharya College of Applied Sciences,8.64,8.45,8.57,8.14,9.25,8.597
-17009554022,VARNIKA KHATTAR,Bhaskaracharya College of Applied Sciences,9.27,8.73,8.71,9.36,9.75,9.161
-17009554023,DEVANSHI KHANNA,Bhaskaracharya College of Applied Sciences,8.18,8.45,8.50,8.57,8.75,8.500
-17009554024,YAMI GARG,Bhaskaracharya College of Applied Sciences,8.73,8.18,8.29,8.36,8.50,8.403
-17009554025,PRATIK SHARMA,Bhaskaracharya College of Applied Sciences,7.36,6.64,6.64,7.57,8.25,7.290
-17009554027,POOJA SHARMA,Bhaskaracharya College of Applied Sciences,8.27,8.27,7.93,8.00,7.25,7.935
-17009554028,SAZIDA,Bhaskaracharya College of Applied Sciences,7.55,7.73,7.29,8.14,7.50,7.645
-17009554029,NIKITA SINGH,Bhaskaracharya College of Applied Sciences,7.64,7.18,6.71,7.79,6.50,7.161
-17009554030,MAHIMA YADAV,Bhaskaracharya College of Applied Sciences,8.45,7.36,7.93,8.14,7.00,7.790
-17009554031,ROHIT PRASAD GUPTA,Bhaskaracharya College of Applied Sciences,7.27,6.36,6.14,6.79,5.50,6.403
-17009554032,DEEPTI ROY,Bhaskaracharya College of Applied Sciences,6.73,6.36,5.64,6.79,6.00,6.290
-17009554033,PUSHPA KUMARI,Bhaskaracharya College of Applied Sciences,7.91,7.64,7.64,7.36,7.50,7.597
-17009554034,VIJAY KUMAR,Bhaskaracharya College of Applied Sciences,6.91,5.64,6.36,6.57,5.50,6.210
-17009554035,KRITIKA PRASAD,Bhaskaracharya College of Applied Sciences,7.18,6.64,6.86,7.14,6.50,6.871
-17009554036,ROHIT SHRESHTHA,Bhaskaracharya College of Applied Sciences,7.18,6.09,6.29,7.21,5.50,6.468
-17009554037,KALINDI DANGE,Bhaskaracharya College of Applied Sciences,7.18,6.45,7.14,7.79,6.50,7.048
-17009554038,NAVEEN NISCHAL,Bhaskaracharya College of Applied Sciences,6.91,6.64,6.50,7.57,6.25,6.790
-17009554041,ANISH KUMAR RANJAN,Bhaskaracharya College of Applied Sciences,6.73,5.36,6.14,6.36,5.75,6.081
-17009554042,KM PRINSY,Bhaskaracharya College of Applied Sciences,4.55,4.91,5.86,5.57,5.00,5.226
-17009554043,DRISHTI SIKDAR,Bhaskaracharya College of Applied Sciences,6.18,6.09,6.14,6.14,5.75,6.065
-17066554001,AARTI KUMARI,Shaheed Rajguru College of Applied Sciences for Women,7.45,6.82,6.71,6.57,6.25,6.742
-17066554002,AISHWARYA RAJAN,Shaheed Rajguru College of Applied Sciences for Women,9.00,8.82,9.14,9.57,9.75,9.274
-17066554003,ALISHA LAL,Shaheed Rajguru College of Applied Sciences for Women,8.64,8.27,7.93,8.50,7.00,8.065
-17066554004,ANCHAL PORWAL,Shaheed Rajguru College of Applied Sciences for Women,9.18,9.00,8.93,9.57,9.50,9.242
-17066554005,ARUFI SINGH,Shaheed Rajguru College of Applied Sciences for Women,8.27,8.00,7.71,8.43,8.50,8.177
-17066554007,BHUVANASREE RK,Shaheed Rajguru College of Applied Sciences for Women,9.18,7.45,7.14,8.36,7.75,7.952
-17066554008,HUMERA KHATOON,Shaheed Rajguru College of Applied Sciences for Women,8.73,8.55,8.00,8.36,8.25,8.355
-17066554009,ISHI JAIN,Shaheed Rajguru College of Applied Sciences for Women,8.45,6.64,7.29,7.64,8.00,7.597
-17066554010,DIVYA,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.27,7.93,8.36,8.25,8.194
-17066554011,JHALAK AGGARWAL,Shaheed Rajguru College of Applied Sciences for Women,9.27,8.82,8.36,9.14,9.00,8.903
-17066554012,JUHI,Shaheed Rajguru College of Applied Sciences for Women,9.27,8.55,8.57,8.29,8.75,8.661
-17066554013,LAKSHMIPRIYA S,Shaheed Rajguru College of Applied Sciences for Women,8.73,8.27,8.14,8.71,8.00,8.371
-17066554014,LOVELY,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.18,7.14,7.86,7.50,7.710
-17066554015,MANSI SAHNI,Shaheed Rajguru College of Applied Sciences for Women,7.00,6.36,5.93,6.79,7.50,6.694
-17066554017,NEHA RAJORIA,Shaheed Rajguru College of Applied Sciences for Women,5.18,5.91,5.14,6.43,6.25,5.790
-17066554018,NIDHI CHAUDHARY,Shaheed Rajguru College of Applied Sciences for Women,7.55,7.73,7.36,8.36,8.00,7.806
-17066554020,PRAJWALI SAWANT,Shaheed Rajguru College of Applied Sciences for Women,8.45,7.18,6.36,7.93,7.75,7.500
-17066554021,PRAVEENA MISHRA,Shaheed Rajguru College of Applied Sciences for Women,7.64,7.45,7.50,8.43,8.00,7.823
-17066554022,PRERNA TIKOO,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.27,8.07,8.57,8.25,8.242
-17066554023,RACHNA KABIRAJ,Shaheed Rajguru College of Applied Sciences for Women,8.73,8.45,8.14,7.71,7.75,8.129
-17066554024,RAJESHWARI BHUYAN,Shaheed Rajguru College of Applied Sciences for Women,9.00,7.73,7.86,7.79,7.75,8.000
-17066554026,SALONI CHAWLA,Shaheed Rajguru College of Applied Sciences for Women,9.18,9.09,9.21,8.71,9.25,9.081
-17066554027,SHANNA SUSANNE PHILIP,Shaheed Rajguru College of Applied Sciences for Women,8.64,9.27,9.00,9.14,9.00,9.016
-17066554028,SHIVANGI VAISH,Shaheed Rajguru College of Applied Sciences for Women,8.45,9.27,9.00,8.79,8.75,8.855
-17066554029,SHIVANI GAUTAM,Shaheed Rajguru College of Applied Sciences for Women,8.45,8.00,8.36,9.36,8.50,8.565
-17066554030,SHOBIKA K,Shaheed Rajguru College of Applied Sciences for Women,9.00,9.09,8.79,9.36,8.75,9.000
-17066554032,SNIGDHA BANERJEE,Shaheed Rajguru College of Applied Sciences for Women,7.91,7.91,7.57,7.86,7.75,7.790
-17066554033,SUNITA BARO,Shaheed Rajguru College of Applied Sciences for Women,8.45,8.18,8.14,8.64,8.50,8.387
-17066554035,SUPRIYA YADAV,Shaheed Rajguru College of Applied Sciences for Women,5.82,5.36,5.07,5.93,6.00,5.629
-17066554036,VARTIKA MAJUMDAR,Shaheed Rajguru College of Applied Sciences for Women,7.18,7.18,6.57,7.14,6.25,6.855
-17066554038,HAWWA ILMA ZAHIR,Shaheed Rajguru College of Applied Sciences for Women,6.73,7.45,7.36,7.36,7.00,7.194
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Sem-VI,Overall CGPA
+17001554001,ABHIJIT NAYEK,Acharya Narendra Dev College,7.73,7.00,7.64,7.14,7.25,9.00,7.622
+17001554002,ABHISEK PANI,Acharya Narendra Dev College,7.27,7.36,7.21,6.79,7.25,8.75,7.419
+17001554003,AKHILA A,Acharya Narendra Dev College,7.45,7.91,6.50,7.14,6.75,9.25,7.459
+17001554004,AMIT BABU,Acharya Narendra Dev College,7.55,7.36,6.00,6.79,6.00,8.00,6.905
+17001554005,AMIT SHARMA,Acharya Narendra Dev College,6.27,6.45,5.36,6.57,7.75,8.25,6.743
+17001554007,ARUNDHATI CHAUDHARY,Acharya Narendra Dev College,7.27,6.82,8.00,8.57,8.50,9.00,8.068
+17001554008,ASAD ALI,Acharya Narendra Dev College,8.09,6.64,6.36,7.64,7.00,8.25,7.311
+17001554010,ASHWIN UDAY,Acharya Narendra Dev College,8.55,7.91,8.14,7.43,7.75,9.00,8.108
+17001554011,BENSON RIANG,Acharya Narendra Dev College,6.45,6.36,6.00,6.79,7.25,7.75,6.757
+17001554012,BHARTI,Acharya Narendra Dev College,6.27,6.27,5.57,5.57,6.75,8.50,6.446
+17001554013,BHAWNA SAINI,Acharya Narendra Dev College,8.45,8.64,8.36,8.36,9.00,9.25,8.662
+17001554015,HARSHITA,Acharya Narendra Dev College,7.55,7.64,7.57,7.36,7.25,9.00,7.716
+17001554016,HITESH NAGILA,Acharya Narendra Dev College,5.27,5.27,6.29,5.93,7.00,8.50,6.392
+17001554017,INDU,Acharya Narendra Dev College,5.91,6.64,5.57,5.93,5.75,8.25,6.311
+17001554018,K GAUTAM,Acharya Narendra Dev College,8.00,7.45,7.93,8.36,8.75,8.75,8.216
+17001554019,KANIKA BHATIA,Acharya Narendra Dev College,9.00,8.27,8.79,9.00,7.75,9.00,8.649
+17001554020,KOYEL RAY,Acharya Narendra Dev College,8.45,8.18,8.00,7.79,7.50,8.50,8.054
+17001554021,LUCKY SANGAHI,Acharya Narendra Dev College,8.55,8.91,8.57,8.36,8.75,9.00,8.676
+17001554023,MAITRAYEE MITHI,Acharya Narendra Dev College,6.64,6.82,5.64,6.57,6.00,8.25,6.622
+17001554024,MAYANK KUMAR GUPTA,Acharya Narendra Dev College,5.73,5.64,6.00,7.14,6.50,8.75,6.649
+17001554026,MINTA THOMAS,Acharya Narendra Dev College,8.55,8.73,8.93,9.21,9.50,9.00,9.000
+17001554027,MOUSUMI CHAKRABORTY,Acharya Narendra Dev College,6.82,6.91,5.00,8.07,8.50,8.25,7.230
+17001554028,MUSKAAN JINDAL,Acharya Narendra Dev College,8.55,8.00,8.00,8.79,8.75,9.25,8.554
+17001554029,NAMAN SAINI,Acharya Narendra Dev College,5.27,5.18,5.57,6.79,5.00,8.50,6.081
+17001554031,PRACHI KHATTAR,Acharya Narendra Dev College,8.55,8.45,8.57,8.00,8.00,9.25,8.459
+17001554032,PREETI SINGHAL,Acharya Narendra Dev College,8.27,8.45,9.00,9.00,8.50,9.00,8.730
+17001554033,PURVA,Acharya Narendra Dev College,9.27,9.27,8.71,9.14,9.50,9.50,9.216
+17001554034,RAMAN KUMAR,Acharya Narendra Dev College,5.73,5.27,3.57,5.00,4.25,8.00,5.243
+17001554035,RHYTHEM KAUSHAL,Acharya Narendra Dev College,7.18,6.91,7.21,7.93,8.25,6.25,7.311
+17001554036,RIYA SRIVASTAVA,Acharya Narendra Dev College,9.00,8.91,8.93,9.00,9.50,9.00,9.054
+17001554037,ROHINI BHATT,Acharya Narendra Dev College,9.00,9.18,8.71,9.00,9.00,9.25,9.014
+17001554038,SAGAR MAURYA,Acharya Narendra Dev College,7.00,6.73,6.57,6.14,7.50,8.50,7.041
+17001554039,SAMRIDDHI,Acharya Narendra Dev College,4.91,5.55,5.21,4.43,3.00,7.75,5.122
+17001554040,SAMRIDHI DIDWANIA,Acharya Narendra Dev College,8.00,8.18,8.36,8.21,8.00,7.00,7.973
+17001554041,SANSI,Acharya Narendra Dev College,7.45,7.00,7.36,7.14,7.25,8.50,7.446
+17001554042,SARANG SAINI,Acharya Narendra Dev College,8.64,8.82,8.50,8.21,8.50,8.75,8.554
+17001554043,SHIPRA YADAV,Acharya Narendra Dev College,8.00,7.45,7.43,6.79,6.75,8.50,7.459
+17001554045,SHRISTI,Acharya Narendra Dev College,6.64,6.45,6.57,7.43,0.00,8.50,5.973
+17001554046,SWARNASANKHA ACHARJEE,Acharya Narendra Dev College,7.00,6.73,6.57,6.71,6.75,8.50,7.027
+17001554047,TENZIN,Acharya Narendra Dev College,7.00,7.91,7.43,7.79,8.00,8.50,7.770
+17001554049,VIVEK KUMAR PASWAN,Acharya Narendra Dev College,5.36,4.91,5.07,5.00,5.00,8.25,5.581
+17009554001,SAMARTH DHOLE,Bhaskaracharya College of Applied Sciences,8.73,8.73,8.21,9.00,9.25,9.75,8.932
+17009554004,MUSKAAN SHARMA,Bhaskaracharya College of Applied Sciences,9.00,9.00,9.36,9.36,10.00,9.00,9.297
+17009554005,SALONI SINGH,Bhaskaracharya College of Applied Sciences,8.18,7.73,8.36,7.93,8.25,9.00,8.243
+17009554006,PRIYANKA,Bhaskaracharya College of Applied Sciences,8.45,7.45,7.79,8.36,8.25,8.75,8.176
+17009554007,PRIYADARSHI ANAND,Bhaskaracharya College of Applied Sciences,7.91,7.73,7.50,7.79,6.75,9.00,7.770
+17009554008,OJAL SAHARAN,Bhaskaracharya College of Applied Sciences,8.91,9.00,8.93,9.57,9.50,8.75,9.122
+17009554009,NIHARIKA ATRIWAL,Bhaskaracharya College of Applied Sciences,8.27,8.45,8.36,8.21,8.50,6.75,8.095
+17009554010,NAVNEET KUMAR,Bhaskaracharya College of Applied Sciences,6.18,5.55,5.71,5.86,5.25,8.25,6.122
+17009554011,MEHAK BHATIA,Bhaskaracharya College of Applied Sciences,8.45,7.36,7.71,8.00,9.00,9.00,8.243
+17009554012,NILESH KUMAR KAUNDAL,Bhaskaracharya College of Applied Sciences,8.45,9.00,8.71,9.14,9.00,9.50,8.973
+17009554013,NAVEEN KUMAR MAURYA,Bhaskaracharya College of Applied Sciences,1.82,4.55,5.14,4.21,2.50,6.50,4.176
+17009554014,SAHIL RANA,Bhaskaracharya College of Applied Sciences,7.00,6.18,7.07,6.57,7.50,8.25,7.095
+17009554015,ANJALI JAIN,Bhaskaracharya College of Applied Sciences,8.18,8.45,8.36,8.64,8.50,8.75,8.486
+17009554018,KAPIL YADAV,Bhaskaracharya College of Applied Sciences,4.91,4.64,4.50,4.79,3.50,7.25,4.919
+17009554019,DEEPAK ARUN,Bhaskaracharya College of Applied Sciences,7.82,6.73,6.29,6.93,6.00,8.00,6.932
+17009554020,ARYAN,Bhaskaracharya College of Applied Sciences,6.73,6.18,5.86,6.00,5.75,9.00,6.554
+17009554021,DHRITI JHA,Bhaskaracharya College of Applied Sciences,8.64,8.45,8.57,8.14,9.25,9.75,8.784
+17009554022,VARNIKA KHATTAR,Bhaskaracharya College of Applied Sciences,9.27,8.73,8.71,9.36,9.75,9.75,9.257
+17009554023,DEVANSHI KHANNA,Bhaskaracharya College of Applied Sciences,8.18,8.45,8.50,8.57,8.75,9.25,8.622
+17009554024,YAMI GARG,Bhaskaracharya College of Applied Sciences,8.73,8.18,8.29,8.36,8.50,9.25,8.541
+17009554025,PRATIK SHARMA,Bhaskaracharya College of Applied Sciences,7.36,6.64,6.64,7.57,8.25,8.75,7.527
+17009554027,POOJA SHARMA,Bhaskaracharya College of Applied Sciences,8.27,8.27,7.93,8.00,7.25,8.50,8.027
+17009554028,SAZIDA,Bhaskaracharya College of Applied Sciences,7.55,7.73,7.29,8.14,7.50,8.25,7.743
+17009554029,NIKITA SINGH,Bhaskaracharya College of Applied Sciences,7.64,7.18,6.71,7.79,6.50,8.00,7.297
+17009554030,MAHIMA YADAV,Bhaskaracharya College of Applied Sciences,8.45,7.36,7.93,8.14,7.00,9.25,8.027
+17009554031,ROHIT PRASAD GUPTA,Bhaskaracharya College of Applied Sciences,7.27,6.36,6.14,6.79,5.50,7.75,6.622
+17009554032,DEEPTI ROY,Bhaskaracharya College of Applied Sciences,6.73,6.36,5.64,6.79,6.00,9.00,6.730
+17009554033,PUSHPA KUMARI,Bhaskaracharya College of Applied Sciences,7.91,7.64,7.64,7.36,7.50,9.00,7.824
+17009554034,VIJAY KUMAR,Bhaskaracharya College of Applied Sciences,6.91,5.64,6.36,6.57,5.50,7.75,6.459
+17009554035,KRITIKA PRASAD,Bhaskaracharya College of Applied Sciences,7.18,6.64,6.86,7.14,6.50,8.50,7.135
+17009554036,ROHIT SHRESTHA,Bhaskaracharya College of Applied Sciences,7.18,6.09,6.29,7.21,5.50,7.25,6.595
+17009554037,KALINDI DANGE,Bhaskaracharya College of Applied Sciences,7.18,6.45,7.14,7.79,6.50,8.50,7.284
+17009554038,NAVEEN NISCHAL,Bhaskaracharya College of Applied Sciences,6.91,6.64,6.50,7.57,6.25,7.75,6.946
+17009554039,ROHAN VASHISTH,Bhaskaracharya College of Applied Sciences,4.00,4.18,7.14,8.57,,,6.200
+17009554041,ANISH KUMAR RANJAN,Bhaskaracharya College of Applied Sciences,6.73,5.36,6.14,6.36,5.75,7.50,6.311
+17009554042,KM PRINSY,Bhaskaracharya College of Applied Sciences,4.55,4.91,5.86,5.57,5.00,7.75,5.635
+17009554043,DRISHTI SIKDAR,Bhaskaracharya College of Applied Sciences,6.18,6.09,6.14,6.14,5.75,9.00,6.541
+17066554001,AARTI KUMARI,Shaheed Rajguru College of Applied Sciences for Women,7.45,6.82,6.71,6.57,6.25,7.75,6.905
+17066554002,AISHWARYA RAJAN,Shaheed Rajguru College of Applied Sciences for Women,9.00,8.82,9.14,9.57,9.75,9.25,9.270
+17066554003,ALISHA LAL,Shaheed Rajguru College of Applied Sciences for Women,8.64,8.27,7.93,8.50,7.00,8.75,8.176
+17066554004,ANCHAL PORWAL,Shaheed Rajguru College of Applied Sciences for Women,9.18,9.00,8.93,9.57,9.50,9.50,9.284
+17066554005,ARUFI SINGH,Shaheed Rajguru College of Applied Sciences for Women,8.27,8.00,7.71,8.43,8.50,9.00,8.311
+17066554007,BHUVANASREE RK,Shaheed Rajguru College of Applied Sciences for Women,9.18,7.45,7.14,8.36,7.75,9.00,8.122
+17066554008,HUMERA KHATOON,Shaheed Rajguru College of Applied Sciences for Women,8.73,8.55,8.00,8.36,8.25,9.50,8.541
+17066554009,ISHI JAIN,Shaheed Rajguru College of Applied Sciences for Women,8.45,6.64,7.29,7.64,8.00,8.75,7.784
+17066554010,DIVYA,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.27,7.93,8.36,8.25,8.75,8.284
+17066554011,JHALAK AGGARWAL,Shaheed Rajguru College of Applied Sciences for Women,9.27,8.82,8.36,9.14,9.00,9.25,8.959
+17066554012,JUHI,Shaheed Rajguru College of Applied Sciences for Women,9.27,8.55,8.57,8.29,8.75,8.75,8.676
+17066554013,LAKSHMIPRIYA S,Shaheed Rajguru College of Applied Sciences for Women,8.73,8.27,8.14,8.71,8.00,8.75,8.432
+17066554014,LOVELY,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.18,7.14,7.86,7.50,8.50,7.838
+17066554015,MANSI SAHNI,Shaheed Rajguru College of Applied Sciences for Women,7.00,6.36,5.93,6.79,7.50,9.00,7.068
+17066554017,NEHA RAJORIA,Shaheed Rajguru College of Applied Sciences for Women,5.18,5.91,5.14,6.43,6.25,5.50,5.743
+17066554018,NIDHI CHAUDHARY,Shaheed Rajguru College of Applied Sciences for Women,7.55,7.73,7.36,8.36,8.00,8.75,7.959
+17066554020,PRAJWALI SAWANT,Shaheed Rajguru College of Applied Sciences for Women,8.45,7.18,6.36,7.93,7.75,8.50,7.662
+17066554021,PRAVEENA MISHRA,Shaheed Rajguru College of Applied Sciences for Women,7.64,7.45,7.50,8.43,8.00,9.25,8.054
+17066554022,PRERNA TIKOO,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.27,8.07,8.57,8.25,9.50,8.446
+17066554023,RACHNA KABIRAJ,Shaheed Rajguru College of Applied Sciences for Women,8.73,8.45,8.14,7.71,7.75,9.25,8.311
+17066554024,RAJESHWARI BHUYAN,Shaheed Rajguru College of Applied Sciences for Women,9.00,7.73,7.86,7.79,7.75,8.50,8.081
+17066554026,SALONI CHAWLA,Shaheed Rajguru College of Applied Sciences for Women,9.18,9.09,9.21,8.71,9.25,9.75,9.189
+17066554027,SHANNA SUSANNE PHILIP,Shaheed Rajguru College of Applied Sciences for Women,8.64,9.27,9.00,9.14,9.00,9.50,9.095
+17066554028,SHIVANGI VAISH,Shaheed Rajguru College of Applied Sciences for Women,8.45,9.27,9.00,8.79,8.75,8.25,8.757
+17066554029,SHIVANI GAUTAM,Shaheed Rajguru College of Applied Sciences for Women,8.45,8.00,8.36,9.36,8.50,9.25,8.676
+17066554030,SHOBIKA K,Shaheed Rajguru College of Applied Sciences for Women,9.00,9.09,8.79,9.36,8.75,9.00,9.000
+17066554032,SNIGDHA BANERJEE,Shaheed Rajguru College of Applied Sciences for Women,7.91,7.91,7.57,7.86,7.75,9.25,8.027
+17066554033,SUNITA BARO,Shaheed Rajguru College of Applied Sciences for Women,8.45,8.18,8.14,8.64,8.50,9.25,8.527
+17066554035,SUPRIYA YADAV,Shaheed Rajguru College of Applied Sciences for Women,5.82,5.36,5.07,5.93,6.00,8.50,6.095
+17066554036,VARTIKA MAJUMDAR,Shaheed Rajguru College of Applied Sciences for Women,7.18,7.18,6.57,7.14,6.25,9.00,7.203
+17066554038,HAWWA ILMA ZAHIR,Shaheed Rajguru College of Applied Sciences for Women,6.73,7.45,7.36,7.36,7.00,9.00,7.486
