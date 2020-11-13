@@ -194,8 +194,10 @@ let downloadHtmls = async(remaining, type, url, step, store_path) => {
 					}
 					j += step;
 				}
+				if (issues >= 5)
+					break;
 			}
-			if (!issues) {
+			if (issues < 5) {
 				downloaded[year] = downloaded[year] || [];
 				if (!downloaded[year].includes(course))
 					downloaded[year].push(course);

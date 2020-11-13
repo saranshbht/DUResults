@@ -1,37 +1,37 @@
-RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Overall CGPA
-17009558002,PANKAJ RAWAT,Bhaskaracharya College of Applied Sciences,9.27,8.18,7.21,8.43,8.00,8.177
-17009558003,ADITYA RAJ,Bhaskaracharya College of Applied Sciences,8.27,7.73,7.71,8.36,7.50,7.919
-17009558004,ABHISHEK PANDEY,Bhaskaracharya College of Applied Sciences,5.45,5.36,4.71,4.57,4.75,4.935
-17009558005,NANCY TOMAR,Bhaskaracharya College of Applied Sciences,9.36,8.18,7.50,8.79,6.75,8.097
-17009558006,SANCHIT PAHWA,Bhaskaracharya College of Applied Sciences,8.55,8.45,8.71,8.79,8.00,8.516
-17009558007,MANJEET SINGH,Bhaskaracharya College of Applied Sciences,8.09,7.27,7.57,8.21,6.75,7.597
-17009558008,AMAN TRIPATHI,Bhaskaracharya College of Applied Sciences,4.82,5.55,3.57,5.36,5.75,4.968
-17009558009,ANKUR MATHUR,Bhaskaracharya College of Applied Sciences,7.73,7.73,6.93,7.36,5.25,6.984
-17009558010,ARJUN SHARMA,Bhaskaracharya College of Applied Sciences,5.82,4.00,4.57,4.71,3.25,4.468
-17009558011,SOURABH KUMAR,Bhaskaracharya College of Applied Sciences,5.09,4.55,5.71,5.57,5.00,5.226
-17009558013,KARTIK,Bhaskaracharya College of Applied Sciences,9.00,9.00,8.36,8.43,8.00,8.532
-17009558014,NIKHIL KUMAR,Bhaskaracharya College of Applied Sciences,7.55,4.00,5.86,5.36,3.75,5.306
-17009558015,MRITYUNJAY,Bhaskaracharya College of Applied Sciences,5.55,2.73,4.64,6.07,5.50,4.952
-17009558016,AKSHAY SANWAL,Bhaskaracharya College of Applied Sciences,8.91,8.09,8.43,8.43,7.25,8.226
-17009558017,ADITYA YADAV,Bhaskaracharya College of Applied Sciences,4.64,3.45,4.50,2.57,4.00,3.806
-17009558018,SANDEEP KUMAR YADAV,Bhaskaracharya College of Applied Sciences,5.55,6.09,5.36,5.50,4.50,5.387
-17009558020,MOHD TAUSEEF,Bhaskaracharya College of Applied Sciences,6.82,7.00,6.14,6.07,5.25,6.226
-17009558021,HARSHIT DUBEY,Bhaskaracharya College of Applied Sciences,7.09,5.55,5.07,6.50,5.75,5.968
-17009558022,CHANDAN KUMAR,Bhaskaracharya College of Applied Sciences,4.18,4.82,5.43,4.50,4.25,4.661
-17009558023,AMIT GHOSH,Bhaskaracharya College of Applied Sciences,7.45,7.36,6.71,7.57,6.50,7.113
-17009558024,ABHISHEK JAIN,Bhaskaracharya College of Applied Sciences,5.36,6.73,5.14,5.71,5.25,5.613
-17009558025,ANUBHAV TIWARI,Bhaskaracharya College of Applied Sciences,6.09,5.91,4.43,5.07,4.75,5.194
-17009558027,ABHINAV,Bhaskaracharya College of Applied Sciences,6.36,6.09,4.29,4.36,4.25,4.984
-17009558028,MUSKAN GUPTA,Bhaskaracharya College of Applied Sciences,6.36,5.73,5.93,5.36,6.00,5.855
-17009558031,PANKAJ KUMAR,Bhaskaracharya College of Applied Sciences,5.00,5.91,6.57,6.00,4.75,5.694
-17009558032,DEEPAK KUMAR,Bhaskaracharya College of Applied Sciences,6.09,6.45,5.50,5.71,3.00,5.339
-17009558033,SACHIN KUMAR,Bhaskaracharya College of Applied Sciences,5.45,5.18,4.79,5.14,4.75,5.048
-17009558034,UTKARSH YADAV,Bhaskaracharya College of Applied Sciences,5.73,5.18,5.29,4.79,4.75,5.129
-17009558035,MONU,Bhaskaracharya College of Applied Sciences,4.82,5.73,3.36,1.43,4.25,3.774
-17009558036,FAYYAZ AHMAD,Bhaskaracharya College of Applied Sciences,7.00,7.00,8.21,8.14,8.50,7.823
-17009558038,MAYANK SHARMA,Bhaskaracharya College of Applied Sciences,4.55,5.09,4.57,4.29,4.50,4.581
-17009558039,SACHIN SHARMA,Bhaskaracharya College of Applied Sciences,5.45,5.36,5.64,5.36,5.25,5.419
-17009558040,AMIT,Bhaskaracharya College of Applied Sciences,5.55,5.64,4.93,6.29,5.00,5.484
-17009558041,AKASH SHAKYA,Bhaskaracharya College of Applied Sciences,6.82,7.00,7.50,7.93,6.25,7.145
-17009558042,SOURABH,Bhaskaracharya College of Applied Sciences,6.45,6.36,5.93,5.50,5.25,5.871
-17009558044,HAR GOVIND,Bhaskaracharya College of Applied Sciences,4.82,5.00,4.71,4.36,4.50,4.661
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Sem-VI,Overall CGPA
+17009558002,PANKAJ RAWAT,Bhaskaracharya College of Applied Sciences,9.27,8.18,7.21,8.43,8.00,8.75,8.270
+17009558003,ADITYA RAJ,Bhaskaracharya College of Applied Sciences,8.27,7.73,7.71,8.36,7.50,8.50,8.014
+17009558004,ABHISHEK PANDEY,Bhaskaracharya College of Applied Sciences,5.45,5.36,4.71,4.57,4.75,8.00,5.432
+17009558005,NANCY TOMAR,Bhaskaracharya College of Applied Sciences,9.36,8.18,7.50,8.79,6.75,8.25,8.122
+17009558006,SANCHIT PAHWA,Bhaskaracharya College of Applied Sciences,8.55,8.45,8.71,8.79,8.00,9.50,8.676
+17009558007,MANJEET SINGH,Bhaskaracharya College of Applied Sciences,8.09,7.27,7.57,8.21,6.75,8.50,7.743
+17009558008,AMAN TRIPATHI,Bhaskaracharya College of Applied Sciences,4.82,5.55,3.57,5.36,5.75,8.25,5.500
+17009558009,ANKUR MATHUR,Bhaskaracharya College of Applied Sciences,7.73,7.73,6.93,7.36,5.25,7.50,7.068
+17009558010,ARJUN SHARMA,Bhaskaracharya College of Applied Sciences,5.82,5.91,4.57,4.71,3.25,8.25,5.365
+17009558011,SOURABH KUMAR,Bhaskaracharya College of Applied Sciences,5.09,4.55,5.71,5.57,5.00,8.25,5.716
+17009558013,KARTIK,Bhaskaracharya College of Applied Sciences,9.00,9.00,8.36,8.43,8.00,8.75,8.568
+17009558014,NIKHIL KUMAR,Bhaskaracharya College of Applied Sciences,7.55,5.91,5.86,5.36,3.75,7.75,5.986
+17009558015,MRITYUNJAY,Bhaskaracharya College of Applied Sciences,5.55,3.82,4.64,6.07,5.50,7.25,5.486
+17009558016,AKSHAY SANWAL,Bhaskaracharya College of Applied Sciences,8.91,8.09,8.43,8.43,7.25,8.50,8.270
+17009558017,ADITYA YADAV,Bhaskaracharya College of Applied Sciences,4.64,5.36,4.50,5.14,4.00,7.75,5.216
+17009558018,SANDEEP KUMAR YADAV,Bhaskaracharya College of Applied Sciences,5.55,6.09,5.36,5.50,4.50,7.50,5.730
+17009558020,MOHD TAUSEEF,Bhaskaracharya College of Applied Sciences,6.82,7.00,6.14,6.07,5.25,7.50,6.432
+17009558021,HARSHIT DUBEY,Bhaskaracharya College of Applied Sciences,7.09,5.55,5.07,6.50,5.75,8.25,6.338
+17009558022,CHANDAN KUMAR,Bhaskaracharya College of Applied Sciences,4.18,6.45,5.43,4.50,4.25,7.50,5.365
+17009558023,AMIT GHOSH,Bhaskaracharya College of Applied Sciences,7.45,7.36,6.71,7.57,6.50,8.25,7.297
+17009558024,ABHISHEK JAIN,Bhaskaracharya College of Applied Sciences,5.36,6.73,5.14,5.71,5.25,8.25,6.041
+17009558025,ANUBHAV TIWARI,Bhaskaracharya College of Applied Sciences,6.09,5.91,4.43,5.07,4.75,7.75,5.608
+17009558027,ABHINAV,Bhaskaracharya College of Applied Sciences,6.36,6.09,4.29,4.36,4.25,9.25,5.676
+17009558028,MUSKAN GUPTA,Bhaskaracharya College of Applied Sciences,6.36,5.73,5.93,5.36,6.00,9.00,6.365
+17009558031,PANKAJ KUMAR,Bhaskaracharya College of Applied Sciences,5.00,5.91,6.57,6.00,4.75,8.00,6.068
+17009558032,DEEPAK KUMAR,Bhaskaracharya College of Applied Sciences,6.09,6.45,5.50,5.71,3.00,6.50,5.527
+17009558033,SACHIN KUMAR,Bhaskaracharya College of Applied Sciences,5.45,5.18,4.79,5.14,4.75,7.75,5.486
+17009558034,UTKARSH YADAV,Bhaskaracharya College of Applied Sciences,5.73,5.18,5.29,4.79,4.75,7.75,5.554
+17009558035,MONU,Bhaskaracharya College of Applied Sciences,4.82,5.73,3.36,5.71,4.25,8.00,5.270
+17009558036,FAYYAZ AHMAD,Bhaskaracharya College of Applied Sciences,7.00,7.00,8.21,8.14,8.50,7.75,7.811
+17009558038,MAYANK SHARMA,Bhaskaracharya College of Applied Sciences,4.55,5.09,4.57,4.29,4.50,8.00,5.135
+17009558039,SACHIN SHARMA,Bhaskaracharya College of Applied Sciences,5.45,5.36,5.64,5.36,5.25,8.00,5.838
+17009558040,AMIT,Bhaskaracharya College of Applied Sciences,5.55,5.64,4.93,6.29,5.00,7.00,5.730
+17009558041,AKASH SHAKYA,Bhaskaracharya College of Applied Sciences,6.82,7.00,7.50,7.93,6.25,8.25,7.324
+17009558042,SOURABH,Bhaskaracharya College of Applied Sciences,6.45,6.36,5.93,5.50,5.25,8.50,6.297
+17009558044,HAR GOVIND,Bhaskaracharya College of Applied Sciences,4.82,5.00,4.71,4.36,4.50,7.75,5.162

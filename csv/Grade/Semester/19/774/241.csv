@@ -9,7 +9,7 @@ RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
 19241774008,AMARJEET GUPTA,Department of Commerce,7.60,8.40,8.000
 19241774009,ANJALI GARG,Department of Commerce,8.00,8.60,8.300
 19241774010,ANJALI GOSWAMI,Department of Commerce,8.00,8.80,8.400
-19241774011,ANKIT SWAMI,Department of Commerce,6.80,,6.800
+19241774011,ANKIT SWAMI,Department of Commerce,6.80,7.60,7.200
 19241774012,ANKITA JAIN,Department of Commerce,8.60,9.00,8.800
 19241774013,ANKITA KAMRA,Department of Commerce,6.60,8.20,7.400
 19241774014,ANNU,Department of Commerce,4.60,6.80,5.700
@@ -52,7 +52,7 @@ RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
 19241774051,MALATI MAJHI,Department of Commerce,6.20,7.20,6.700
 19241774052,MANMOHAN AGARWAL,Department of Commerce,4.80,7.00,5.900
 19241774053,MAYANK KUMAR,Department of Commerce,7.80,9.00,8.400
-19241774054,MEGHA JINDAL,Department of Commerce,7.60,,7.600
+19241774054,MEGHA JINDAL,Department of Commerce,7.60,8.20,7.900
 19241774055,MIR RASHID LATEEF,Department of Commerce,8.20,9.00,8.600
 19241774056,MOHIT KUMAR,Department of Commerce,8.40,9.00,8.700
 19241774057,MOHIT KUMAR,Department of Commerce,7.60,8.60,8.100
@@ -69,18 +69,18 @@ RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
 19241774068,NIKHIL KUMAR,Department of Commerce,6.60,7.80,7.200
 19241774069,NIKITA JAIN,Department of Commerce,7.00,8.40,7.700
 19241774070,PALLAVI SEJWAL,Department of Commerce,6.60,8.20,7.400
-19241774071,PAN LEI,Department of Commerce,4.80,,4.800
+19241774071,PAN LEI,Department of Commerce,4.80,7.20,6.000
 19241774072,POOJA BHARDWAJ,Department of Commerce,8.00,8.80,8.400
-19241774073,POOJA YADAV,Department of Commerce,6.20,,6.200
+19241774073,POOJA YADAV,Department of Commerce,6.20,7.60,6.900
 19241774074,PRANJAL SHARMA,Department of Commerce,5.00,,5.000
 19241774075,PRASHANT SONI,Department of Commerce,5.00,7.20,6.100
 19241774076,PRIYA,Department of Commerce,8.80,9.20,9.000
 19241774077,PRIYA GHOSH,Department of Commerce,6.40,7.80,7.100
 19241774078,PRIYANKA,Department of Commerce,7.00,8.40,7.700
 19241774079,PRIYANKA,Department of Commerce,5.80,7.40,6.600
-19241774080,RADHA KAUSHIK,Department of Commerce,6.80,,6.800
+19241774080,RADHA KAUSHIK,Department of Commerce,6.80,8.20,7.500
 19241774081,RAJUL,Department of Commerce,5.60,7.40,6.500
-19241774082,RAVI,Department of Commerce,3.00,,3.000
+19241774082,RAVI,Department of Commerce,3.00,4.80,3.900
 19241774083,RENU,Department of Commerce,7.60,8.40,8.000
 19241774084,RICHA,Department of Commerce,8.80,9.20,9.000
 19241774085,RICHA,Department of Commerce,6.20,7.40,6.800
@@ -99,7 +99,7 @@ RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
 19241774098,SHIVAM PARIK,Department of Commerce,6.40,7.60,7.000
 19241774099,SHIVANGI JAISWAL,Department of Commerce,0.00,0.00,0.000
 19241774100,SHOURYA SINGH,Department of Commerce,4.60,7.00,5.800
-19241774101,SHREYANSH NARAYAN,Department of Commerce,5.80,,5.800
+19241774101,SHREYANSH NARAYAN,Department of Commerce,5.80,7.40,6.600
 19241774102,SHUBHAM,Department of Commerce,8.80,9.20,9.000
 19241774103,SHIVAM GUPTA,Department of Commerce,8.40,9.00,8.700
 19241774104,SIMRAN,Department of Commerce,9.00,9.40,9.200
@@ -110,7 +110,7 @@ RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
 19241774109,SUMIT KUMAR,Department of Commerce,6.60,8.20,7.400
 19241774110,SUNITA YADAV,Department of Commerce,7.60,8.40,8.000
 19241774111,SUSMITA BORO,Department of Commerce,7.60,8.80,8.200
-19241774112,SUVAM DAS,Department of Commerce,6.80,,6.800
+19241774112,SUVAM DAS,Department of Commerce,6.80,8.00,7.400
 19241774113,TANYA,Department of Commerce,6.80,8.00,7.400
 19241774114,TANYA KHANEJA,Department of Commerce,6.80,8.40,7.600
 19241774115,TAYYABA,Department of Commerce,8.00,9.00,8.500
