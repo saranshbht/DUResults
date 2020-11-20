@@ -1,40 +1,40 @@
-RollNo,Name,College,Sem-I,Total,Percentage,Sem-II
-19009558001,KUSH SHARMA,Bhaskaracharya College of Applied Sciences,254/500,254/500,50.800,
-19009558003,AKASH TIWARI,Bhaskaracharya College of Applied Sciences,304/500,639/1000,63.900,335/500
-19009558004,AMIT LAMBA,Bhaskaracharya College of Applied Sciences,307/500,666/1000,66.600,359/500
-19009558005,RITIK NAYAK,Bhaskaracharya College of Applied Sciences,335/550,727/1100,66.091,392/550
-19009558006,CHIRAG BHARDWAJ,Bhaskaracharya College of Applied Sciences,363/550,751/1100,68.273,388/550
-19009558007,GYAN PRAKASH,Bhaskaracharya College of Applied Sciences,319/550,729/1100,66.273,410/550
-19009558008,AANSHU KUMAR,Bhaskaracharya College of Applied Sciences,346/550,730/1100,66.364,384/550
-19009558009,MOHIT KUMAR,Bhaskaracharya College of Applied Sciences,286/500,669/1050,63.714,383/550
-19009558010,CHAHAT KAPOOR,Bhaskaracharya College of Applied Sciences,297/500,634/1000,63.400,337/500
-19009558011,TARUN SHARMA,Bhaskaracharya College of Applied Sciences,348/500,728/1000,72.800,380/500
-19009558012,SIDDHARTH MENDIRATTA,Bhaskaracharya College of Applied Sciences,375/550,774/1100,70.364,399/550
-19009558013,VIPIN YADAV,Bhaskaracharya College of Applied Sciences,320/500,678/1000,67.800,358/500
-19009558014,MADHAV MAHESHWARI,Bhaskaracharya College of Applied Sciences,334/550,720/1100,65.455,386/550
-19009558015,SUSHANT SINGH,Bhaskaracharya College of Applied Sciences,350/550,719/1050,68.476,369/500
-19009558016,PRATEEK,Bhaskaracharya College of Applied Sciences,328/500,701/1000,70.100,373/500
-19009558017,MANJEET,Bhaskaracharya College of Applied Sciences,333/550,681/1050,64.857,348/500
-19009558018,YASHRAJ,Bhaskaracharya College of Applied Sciences,317/550,686/1100,62.364,369/550
-19009558019,AMAN BHOGAL,Bhaskaracharya College of Applied Sciences,210/500,507/1000,50.700,297/500
-19009558020,CHIRAG,Bhaskaracharya College of Applied Sciences,210/500,483/1000,48.300,273/500
-19009558021,ANURAG,Bhaskaracharya College of Applied Sciences,245/500,551/1000,55.100,306/500
-19009558022,SHRESTH PANDEY,Bhaskaracharya College of Applied Sciences,142/550,362/1050,34.476,220/500
-19009558023,ABHISHEK SINGH,Bhaskaracharya College of Applied Sciences,233/500,566/1000,56.600,333/500
-19009558024,DEEPAK KUMAR,Bhaskaracharya College of Applied Sciences,254/500,579/1050,55.143,325/550
-19009558025,PRASHANT,Bhaskaracharya College of Applied Sciences,363/550,783/1100,71.182,420/550
-19009558026,NEERAJ KUMAR,Bhaskaracharya College of Applied Sciences,408/550,855/1100,77.727,447/550
-19009558027,PRASHANT KUMAR,Bhaskaracharya College of Applied Sciences,190/550,464/1050,44.190,274/500
-19009558028,PRINCE KUMAR,Bhaskaracharya College of Applied Sciences,242/550,552/1050,52.571,310/500
-19009558029,ABDUL RAHMAN,Bhaskaracharya College of Applied Sciences,302/550,622/1050,59.238,320/500
-19009558030,RAHUL KUMAR,Bhaskaracharya College of Applied Sciences,358/550,743/1050,70.762,385/500
-19009558031,CHANDRA SHEKHAR,Bhaskaracharya College of Applied Sciences,247/550,551/1050,52.476,304/500
-19009558032,NEERAJ,Bhaskaracharya College of Applied Sciences,356/550,706/1050,67.238,350/500
-19009558033,PRANAV KUMAR,Bhaskaracharya College of Applied Sciences,352/550,736/1100,66.909,384/550
-19009558034,RAHUL GUPTA,Bhaskaracharya College of Applied Sciences,345/550,768/1100,69.818,423/550
-19009558036,ADARSH KUMAR,Bhaskaracharya College of Applied Sciences,314/550,715/1100,65.000,401/550
-19009558037,KRISHNA KUMAR,Bhaskaracharya College of Applied Sciences,312/550,705/1100,64.091,393/550
-19009558038,ROHIT KUMAR,Bhaskaracharya College of Applied Sciences,350/550,733/1050,69.810,383/500
-19009558039,MUSTAFA ANSARI,Bhaskaracharya College of Applied Sciences,266/550,653/1100,59.364,387/550
-19009558040,ANURAG GAROOD,Bhaskaracharya College of Applied Sciences,359/550,695/1050,66.190,336/500
-19009558041,AKSHAY MALIK,Bhaskaracharya College of Applied Sciences,313/550,623/1050,59.333,310/500
+RollNo,Name,College,Sem-I,Sem-II,Total,Percentage
+19009558001,KUSH SHARMA,Bhaskaracharya College of Applied Sciences,254/500,,254/500,50.800
+19009558003,AKASH TIWARI,Bhaskaracharya College of Applied Sciences,304/500,335/500,639/1000,63.900
+19009558004,AMIT LAMBA,Bhaskaracharya College of Applied Sciences,307/500,359/500,666/1000,66.600
+19009558005,RITIK NAYAK,Bhaskaracharya College of Applied Sciences,335/550,392/550,727/1100,66.091
+19009558006,CHIRAG BHARDWAJ,Bhaskaracharya College of Applied Sciences,363/550,388/550,751/1100,68.273
+19009558007,GYAN PRAKASH,Bhaskaracharya College of Applied Sciences,319/550,410/550,729/1100,66.273
+19009558008,AANSHU KUMAR,Bhaskaracharya College of Applied Sciences,346/550,384/550,730/1100,66.364
+19009558009,MOHIT KUMAR,Bhaskaracharya College of Applied Sciences,286/500,383/550,669/1050,63.714
+19009558010,CHAHAT KAPOOR,Bhaskaracharya College of Applied Sciences,297/500,337/500,634/1000,63.400
+19009558011,TARUN SHARMA,Bhaskaracharya College of Applied Sciences,348/500,380/500,728/1000,72.800
+19009558012,SIDDHARTH MENDIRATTA,Bhaskaracharya College of Applied Sciences,375/550,399/550,774/1100,70.364
+19009558013,VIPIN YADAV,Bhaskaracharya College of Applied Sciences,320/500,358/500,678/1000,67.800
+19009558014,MADHAV MAHESHWARI,Bhaskaracharya College of Applied Sciences,334/550,386/550,720/1100,65.455
+19009558015,SUSHANT SINGH,Bhaskaracharya College of Applied Sciences,350/550,369/500,719/1050,68.476
+19009558016,PRATEEK,Bhaskaracharya College of Applied Sciences,328/500,373/500,701/1000,70.100
+19009558017,MANJEET,Bhaskaracharya College of Applied Sciences,333/550,348/500,681/1050,64.857
+19009558018,YASHRAJ,Bhaskaracharya College of Applied Sciences,317/550,369/550,686/1100,62.364
+19009558019,AMAN BHOGAL,Bhaskaracharya College of Applied Sciences,210/500,297/500,507/1000,50.700
+19009558020,CHIRAG,Bhaskaracharya College of Applied Sciences,210/500,273/500,483/1000,48.300
+19009558021,ANURAG,Bhaskaracharya College of Applied Sciences,245/500,306/500,551/1000,55.100
+19009558022,SHRESTH PANDEY,Bhaskaracharya College of Applied Sciences,142/550,220/500,362/1050,34.476
+19009558023,ABHISHEK SINGH,Bhaskaracharya College of Applied Sciences,233/500,333/500,566/1000,56.600
+19009558024,DEEPAK KUMAR,Bhaskaracharya College of Applied Sciences,254/500,325/550,579/1050,55.143
+19009558025,PRASHANT,Bhaskaracharya College of Applied Sciences,363/550,420/550,783/1100,71.182
+19009558026,NEERAJ KUMAR,Bhaskaracharya College of Applied Sciences,408/550,447/550,855/1100,77.727
+19009558027,PRASHANT KUMAR,Bhaskaracharya College of Applied Sciences,190/550,274/500,464/1050,44.190
+19009558028,PRINCE KUMAR,Bhaskaracharya College of Applied Sciences,242/550,310/500,552/1050,52.571
+19009558029,ABDUL RAHMAN,Bhaskaracharya College of Applied Sciences,302/550,320/500,622/1050,59.238
+19009558030,RAHUL KUMAR,Bhaskaracharya College of Applied Sciences,358/550,385/500,743/1050,70.762
+19009558031,CHANDRA SHEKHAR,Bhaskaracharya College of Applied Sciences,247/550,304/500,551/1050,52.476
+19009558032,NEERAJ,Bhaskaracharya College of Applied Sciences,356/550,350/500,706/1050,67.238
+19009558033,PRANAV KUMAR,Bhaskaracharya College of Applied Sciences,352/550,384/550,736/1100,66.909
+19009558034,RAHUL GUPTA,Bhaskaracharya College of Applied Sciences,345/550,423/550,768/1100,69.818
+19009558036,ADARSH KUMAR,Bhaskaracharya College of Applied Sciences,314/550,401/550,715/1100,65.000
+19009558037,KRISHNA KUMAR,Bhaskaracharya College of Applied Sciences,312/550,393/550,705/1100,64.091
+19009558038,ROHIT KUMAR,Bhaskaracharya College of Applied Sciences,350/550,383/500,733/1050,69.810
+19009558039,MUSTAFA ANSARI,Bhaskaracharya College of Applied Sciences,266/550,387/550,653/1100,59.364
+19009558040,ANURAG GAROOD,Bhaskaracharya College of Applied Sciences,359/550,336/500,695/1050,66.190
+19009558041,AKSHAY MALIK,Bhaskaracharya College of Applied Sciences,313/550,310/500,623/1050,59.333

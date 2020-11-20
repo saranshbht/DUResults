@@ -20,7 +20,7 @@ Promise.all([req.getRemaining(declared_url, type), req.setCookie(cookie_url)])
 .then(async([remaining, ]) => {
 	console.log(remaining);
 	// console.log('downloading');
-	// await req.downloadHtmls(remaining, type, url, step, source);
+	await req.downloadHtmls(remaining, type, url, step, source);
 	let to_be_updated = req.toBeUpdated();
 	console.log(to_be_updated);
 	// console.log('making jsons');
