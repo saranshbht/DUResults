@@ -1,41 +1,41 @@
-RollNo,Name,College,Sem1,Sem2,Sem3,Sem4,Sem5,Average
-17064518031,TAVISHI,Shaheed Bhagat Singh College (Day),7.55,6.64,6.64,6.71,7.5,7.008
-17064518022,ROHAN KUMAR YEMEN,Shaheed Bhagat Singh College (Day),6.55,8,6.79,6.93,6.75,7.004
-17064518009,SOUMYA SIHGH,Shaheed Bhagat Singh College (Day),6.45,8.18,6.86,6.36,7,6.97
-17064518002,SWAPNIL BHATT,Shaheed Bhagat Singh College (Day),6.36,7.64,6.43,7.36,6.75,6.908
-17064518029,SIDDHARTH CHAUDHARY,Shaheed Bhagat Singh College (Day),5.73,6.64,6.64,7.57,7.75,6.866
-17064518034,NIKHIL SINGH,Shaheed Bhagat Singh College (Day),6.82,6.91,6.21,6.93,7.25,6.824
-17064518021,RASHI KARIR,Shaheed Bhagat Singh College (Day),6.55,7.45,6,6.93,6.75,6.736
-17064518010,MEHAK SIDHU,Shaheed Bhagat Singh College (Day),5.91,6.91,6.57,7.36,6.75,6.7
-17064518035,RAVINDRA KUMAR BHARTI,Shaheed Bhagat Singh College (Day),6.64,6.18,6.21,7.43,7,6.692
-17064518020,SUHEL KHAN,Shaheed Bhagat Singh College (Day),6,7.18,6.21,6.5,6.5,6.478
-17064518001,RAVI RANJAN KUMAR,Shaheed Bhagat Singh College (Day),5.55,7.18,6.57,6.5,6.5,6.46
-17064518027,RAKSHIKA CHHIKARA,Shaheed Bhagat Singh College (Day),6.45,6.91,6,6.14,6.75,6.45
-17064518015,KM. UMA,Shaheed Bhagat Singh College (Day),6,7.18,6.43,6.36,6,6.394
-17064518005,SURAJ KUMAR,Shaheed Bhagat Singh College (Day),5.55,6.36,6.43,5.93,6,6.054
-17064518037,PRIYA AGARWAL,Shaheed Bhagat Singh College (Day),5.36,5.82,5.36,6.57,7,6.022
-17064518008,SHIVANI,Shaheed Bhagat Singh College (Day),5.91,6.91,5.36,5.79,6,5.994
-17064518014,GOURAV MAHOUR,Shaheed Bhagat Singh College (Day),5.18,7,6.21,5.29,6,5.936
-17064518042,SHIVANI KASHYAP,Shaheed Bhagat Singh College (Day),6.27,6.18,5.14,5.71,6.25,5.91
-17064518016,ROHIT KUMAR,Shaheed Bhagat Singh College (Day),5.91,6.45,5.43,5.71,6,5.9
-17064518040,NITANT GUPTA,Shaheed Bhagat Singh College (Day),6,6.09,5.64,5.71,6,5.888
-17064518018,AKASH,Shaheed Bhagat Singh College (Day),5.64,6.18,5.57,5.93,5.75,5.814
-17064518007,SUHANI KANWAR,Shaheed Bhagat Singh College (Day),5.73,6.91,5.21,5.93,5.25,5.806
-17064518044,MD.IRFAN,Shaheed Bhagat Singh College (Day),5.73,5.55,5.79,6.14,5.75,5.792
-17064518041,CHAYANI BANDYOPADHYAY,Shaheed Bhagat Singh College (Day),6.45,6.36,5.43,4.71,5.5,5.69
-17064518004,PRANAV KHOIWAL,Shaheed Bhagat Singh College (Day),4.91,5.18,6.36,5.71,6.25,5.682
-17064518024,AKASH,Shaheed Bhagat Singh College (Day),5.27,4.82,6,5.93,6.25,5.654
-17064518032,ANANYA MOHAN,Shaheed Bhagat Singh College (Day),4.18,6.09,5.64,5.79,5.75,5.49
-17064518038,ABHISHEK PARMAR,Shaheed Bhagat Singh College (Day),5.73,6.09,4.93,4.57,5.5,5.364
-17064518036,RAHUL OJHA,Shaheed Bhagat Singh College (Day),4.64,4.55,5.43,5.5,6.25,5.274
-17064518011,KOMAL,Shaheed Bhagat Singh College (Day),4.45,5.91,5.79,4.93,4.5,5.116
-17064518019,GOURAV KUMAR,Shaheed Bhagat Singh College (Day),5.82,6.91,4.43,4.14,4.25,5.11
-17064518030,SAHEJ PANESAR,Shaheed Bhagat Singh College (Day),5.45,6.36,5.36,4.64,3.5,5.062
-17064518028,AAKASH KUMAR,Shaheed Bhagat Singh College (Day),4.18,5.09,5.57,4.29,5.75,4.976
-17064518026,KUNAL BHARDWAJ,Shaheed Bhagat Singh College (Day),4.73,5.64,4.79,4.29,5.25,4.94
-17064518006,BIVRAJ MANDAL,Shaheed Bhagat Singh College (Day),5.91,5.09,4.79,3.86,5,4.93
-17064518039,SHREYA PATI,Shaheed Bhagat Singh College (Day),4.73,5.82,4.36,4.07,5.5,4.896
-17064518033,GUNJAN SHUKLA,Shaheed Bhagat Singh College (Day),6.27,5.64,4.36,1.71,5.75,4.746
-17064518012,VEDANTH RATHOD,Shaheed Bhagat Singh College (Day),4.45,4.82,5.21,4.93,4,4.682
-17064518013,GOVINDA SINGH TOMAR,Shaheed Bhagat Singh College (Day),4.55,5.36,4,2.64,4.5,4.21
-17064518003,NICHOLS BASUMATARY,Shaheed Bhagat Singh College (Day),5.36,3.27,2.71,3.29,3.25,3.576
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Sem-VI,Overall CGPA
+17064518001,RAVI RANJAN KUMAR,Shaheed Bhagat Singh College (Day),5.55,7.18,6.57,6.50,6.50,7.00,6.554
+17064518002,SWAPNIL BHATT,Shaheed Bhagat Singh College (Day),6.36,7.64,6.43,7.36,6.75,7.75,7.041
+17064518003,NICHOLS BASUMATARY,Shaheed Bhagat Singh College (Day),5.36,4.36,2.71,4.36,3.25,6.75,4.405
+17064518004,PRANAV KHOIWAL,Shaheed Bhagat Singh College (Day),4.91,5.18,6.36,6.79,6.25,6.75,6.095
+17064518005,SURAJ KUMAR,Shaheed Bhagat Singh College (Day),5.55,6.36,6.43,6.36,6.00,6.75,6.257
+17064518006,BIVRAJ MONDAL,Shaheed Bhagat Singh College (Day),5.91,5.09,4.79,5.14,5.00,6.75,5.419
+17064518007,SUHANI KANWAR,Shaheed Bhagat Singh College (Day),5.73,6.91,5.21,5.93,5.25,7.00,5.973
+17064518008,SHIVANI,Shaheed Bhagat Singh College (Day),5.91,6.91,5.36,5.79,6.00,6.75,6.081
+17064518009,SOUMYA SINGH,Shaheed Bhagat Singh College (Day),6.45,8.18,6.86,6.79,7.00,7.25,7.068
+17064518010,MEHAK SIDHU,Shaheed Bhagat Singh College (Day),5.91,6.91,6.57,7.36,6.75,7.50,6.851
+17064518011,KOMAL,Shaheed Bhagat Singh College (Day),4.45,5.91,5.79,4.93,4.50,5.75,5.230
+17064518012,VEDANTH RATHOD,Shaheed Bhagat Singh College (Day),4.45,4.82,5.21,4.93,4.00,6.00,4.919
+17064518013,GOVINDA SINGH TOMAR,Shaheed Bhagat Singh College (Day),4.55,5.36,4.00,5.21,4.50,7.25,5.122
+17064518014,GOURAV MAHOUR,Shaheed Bhagat Singh College (Day),5.18,7.00,6.21,5.29,6.00,7.50,6.176
+17064518015,KM. UMA,Shaheed Bhagat Singh College (Day),6.00,7.18,6.43,6.36,6.00,6.50,6.405
+17064518016,ROHIT KUMAR,Shaheed Bhagat Singh College (Day),5.91,6.45,5.43,5.71,6.00,7.00,6.054
+17064518018,AKASH,Shaheed Bhagat Singh College (Day),5.64,6.18,5.57,5.93,5.75,7.00,6.000
+17064518019,GOURAV KUMAR,Shaheed Bhagat Singh College (Day),5.82,6.91,4.43,4.14,4.25,5.25,5.054
+17064518020,SUHEL KHAN,Shaheed Bhagat Singh College (Day),6.00,7.18,6.21,6.50,6.50,7.50,6.635
+17064518021,RASHI KARIR,Shaheed Bhagat Singh College (Day),6.55,7.45,6.00,6.93,6.75,7.50,6.838
+17064518022,ROHAN KUMAR YEMEN,Shaheed Bhagat Singh College (Day),6.55,8.00,6.79,6.93,6.75,7.75,7.108
+17064518024,AKASH,Shaheed Bhagat Singh College (Day),5.27,4.82,6.00,7.43,6.25,7.25,6.230
+17064518026,KUNAL BHARDWAJ,Shaheed Bhagat Singh College (Day),4.73,5.64,4.79,5.36,5.25,6.25,5.324
+17064518027,RAKSHIKA CHHIKARA,Shaheed Bhagat Singh College (Day),6.45,6.91,6.00,6.14,6.75,7.50,6.595
+17064518028,AAKASH KUMAR,Shaheed Bhagat Singh College (Day),4.18,5.09,5.57,6.07,5.75,6.75,5.608
+17064518029,SIDDHARTH CHAUDHARY,Shaheed Bhagat Singh College (Day),5.73,6.64,6.64,7.57,7.75,7.75,7.041
+17064518030,SAHEJ PANESAR,Shaheed Bhagat Singh College (Day),5.45,6.36,5.36,5.93,3.50,6.00,5.432
+17064518031,TAVISHI,Shaheed Bhagat Singh College (Day),7.55,6.64,6.64,7.14,7.50,7.50,7.149
+17064518032,ANANYA MOHAN,Shaheed Bhagat Singh College (Day),4.18,6.09,5.64,5.79,5.75,6.75,5.716
+17064518033,GUNJAN SHUKLA,Shaheed Bhagat Singh College (Day),6.27,5.64,4.36,3.86,5.75,6.50,5.311
+17064518034,NIKHIL SINGH,Shaheed Bhagat Singh College (Day),6.82,6.91,6.21,6.93,7.25,7.50,6.919
+17064518035,RAVINDRA KUMAR BHARTI,Shaheed Bhagat Singh College (Day),6.64,6.18,6.21,7.43,7.00,7.50,6.838
+17064518036,RAHUL OJHA,Shaheed Bhagat Singh College (Day),4.64,4.55,5.43,5.50,6.25,6.75,5.541
+17064518037,PRIYA AGARWAL,Shaheed Bhagat Singh College (Day),5.36,5.82,5.36,6.57,7.00,6.75,6.149
+17064518038,ABHISHEK PARMAR,Shaheed Bhagat Singh College (Day),5.73,6.09,4.93,5.36,5.50,6.50,5.649
+17064518039,SHREYA PATI,Shaheed Bhagat Singh College (Day),4.73,5.82,4.36,5.36,5.50,5.25,5.149
+17064518040,NITANT GUPTA,Shaheed Bhagat Singh College (Day),6.00,6.09,5.64,6.14,6.00,6.50,6.054
+17064518041,CHAYANI BANDYOPADHYAY,Shaheed Bhagat Singh College (Day),6.45,6.36,5.43,6.00,5.50,7.25,6.135
+17064518042,SHIVANI KASHYAP,Shaheed Bhagat Singh College (Day),6.27,6.18,5.14,5.71,6.25,7.00,6.054
+17064518044,MD.IRFAN,Shaheed Bhagat Singh College (Day),5.73,5.55,5.79,6.14,5.75,7.00,6.000
