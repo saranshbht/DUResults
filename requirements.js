@@ -369,6 +369,23 @@ let properConvert = array => {
 	    }, []);
 	});
 
+	let i;
+	for (i = keys.length - 1; i >= 0; i--) {
+		if (!keys[i].includes('Sem'))
+			break;
+	}
+	if (i != keys.length - 1) {
+		let removed;
+		if (keys[i] == 'Percentage') {
+			keys.push(...keys.splice(i - 1, 2));
+			data.map(e => e.push(...e.splice(i - 1, 2)));
+		}
+		else {
+			keys.push(...keys.splice(i, 1));
+			data.map(e => e.push(...e.splice(i, 1)));
+		}
+	}
+
 	let final_obj = {};
 	final_obj['keys'] = keys;
 	final_obj['data'] = data;

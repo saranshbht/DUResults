@@ -1,22 +1,22 @@
-RollNo,Name,College,Sem-I,Overall CGPA,Sem-II
-19218709001,PRASHANT SHEORAN,Department of Environmental Studies,0.00,0.000,
-19218709002,LAKHINENA ANJANA SUPRIYA,Department of Environmental Studies,7.25,7.250,7.25
-19218709003,DIPANSHU SAINI,Department of Environmental Studies,5.50,6.000,6.50
-19218709004,ARNOJYA,Department of Environmental Studies,6.25,6.875,7.50
-19218709005,AMRITA SINGH,Department of Environmental Studies,6.25,6.625,7.00
-19218709006,VIMLESH KUMAR SAKET,Department of Environmental Studies,6.25,6.625,7.00
-19218709007,PANKAJ KUMAR TANDAN,Department of Environmental Studies,6.50,7.000,7.50
-19218709008,SHIVAM KUMAR SINGH,Department of Environmental Studies,0.00,0.000,0.00
-19218709009,VEDANT MISHRA,Department of Environmental Studies,6.25,5.500,4.75
-19218709010,PRAMADA PRANJALI,Department of Environmental Studies,5.50,6.250,7.00
-19218709011,GARIMA GUPTA,Department of Environmental Studies,5.50,5.625,5.75
-19218709012,AJAY KUMAR,Department of Environmental Studies,7.25,7.750,8.25
-19218709013,ESHANIKA KHANNA,Department of Environmental Studies,7.25,7.375,7.50
-19218709014,SURBHI DHARORA,Department of Environmental Studies,6.75,7.125,7.50
-19218709015,CHAITANYA MOHAN DUGGAL,Department of Environmental Studies,5.00,4.750,4.50
-19218709016,STANZIN NAMDAK,Department of Environmental Studies,5.00,5.875,6.75
-19218709017,DEEPAK KUMAR,Department of Environmental Studies,0.00,0.000,
-19218709018,ABHISHEK KUMAR,Department of Environmental Studies,0.00,0.000,
-19218709019,TSERING NORBU SPONBO,Department of Environmental Studies,5.00,5.750,6.50
-19218709020,NARAVA UDAY KIRAN,Department of Environmental Studies,0.00,0.000,
-19218709021,TANISHQ SLATHIA,Department of Environmental Studies,0.00,0.000,
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19218709001,PRASHANT SHEORAN,Department of Environmental Studies,0.00,,0.000
+19218709002,LAKHINENA ANJANA SUPRIYA,Department of Environmental Studies,7.25,7.25,7.250
+19218709003,DIPANSHU SAINI,Department of Environmental Studies,5.50,6.50,6.000
+19218709004,ARNOJYA,Department of Environmental Studies,6.25,7.50,6.875
+19218709005,AMRITA SINGH,Department of Environmental Studies,6.25,7.00,6.625
+19218709006,VIMLESH KUMAR SAKET,Department of Environmental Studies,6.25,7.00,6.625
+19218709007,PANKAJ KUMAR TANDAN,Department of Environmental Studies,6.50,7.50,7.000
+19218709008,SHIVAM KUMAR SINGH,Department of Environmental Studies,0.00,0.00,0.000
+19218709009,VEDANT MISHRA,Department of Environmental Studies,6.25,4.75,5.500
+19218709010,PRAMADA PRANJALI,Department of Environmental Studies,5.50,7.00,6.250
+19218709011,GARIMA GUPTA,Department of Environmental Studies,5.50,5.75,5.625
+19218709012,AJAY KUMAR,Department of Environmental Studies,7.25,8.25,7.750
+19218709013,ESHANIKA KHANNA,Department of Environmental Studies,7.25,7.50,7.375
+19218709014,SURBHI DHARORA,Department of Environmental Studies,6.75,7.50,7.125
+19218709015,CHAITANYA MOHAN DUGGAL,Department of Environmental Studies,5.00,4.50,4.750
+19218709016,STANZIN NAMDAK,Department of Environmental Studies,5.00,6.75,5.875
+19218709017,DEEPAK KUMAR,Department of Environmental Studies,0.00,,0.000
+19218709018,ABHISHEK KUMAR,Department of Environmental Studies,0.00,,0.000
+19218709019,TSERING NORBU SPONBO,Department of Environmental Studies,5.00,6.50,5.750
+19218709020,NARAVA UDAY KIRAN,Department of Environmental Studies,0.00,,0.000
+19218709021,TANISHQ SLATHIA,Department of Environmental Studies,0.00,,0.000
