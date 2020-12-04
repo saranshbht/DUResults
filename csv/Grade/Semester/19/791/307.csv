@@ -1,15 +1,13 @@
-RollNo,Name,College,Sem1,Average
-19307791013,SRISHTI KATIYAR,Non Collegiate Women Education Board (NCWEB),6,6
-19307791008,SANGEETA,Non Collegiate Women Education Board (NCWEB),5.75,5.75
-19307791009,VANDANA,Non Collegiate Women Education Board (NCWEB),5.75,5.75
-19307791002,ANJALI,Non Collegiate Women Education Board (NCWEB),5,5
-19307791005,NISHA,Non Collegiate Women Education Board (NCWEB),5,5
-19307791006,POOJA,Non Collegiate Women Education Board (NCWEB),4.5,4.5
-19307791011,JAHANVI,Non Collegiate Women Education Board (NCWEB),4.5,4.5
-19307791004,JYOTI,Non Collegiate Women Education Board (NCWEB),4,4
-19307791014,NISHI MEHTO,Non Collegiate Women Education Board (NCWEB),4,4
-19307791001,AARTI YADAV,Non Collegiate Women Education Board (NCWEB),3.5,3.5
-19307791003,AYSHU BISHT,Non Collegiate Women Education Board (NCWEB),3.5,3.5
-19307791010,SHWETA,Non Collegiate Women Education Board (NCWEB),3.5,3.5
-19307791007,PRATIMA KUMARI,Non Collegiate Women Education Board (NCWEB),2.25,2.25
-19307791012,PAYAL PATHAK,Non Collegiate Women Education Board (NCWEB),0.0,0.0
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19307791001,AARTI YADAV,Non Collegiate Women Education Board (NCWEB),3.50,8.58,5.974
+19307791002,ANJALI,Non Collegiate Women Education Board (NCWEB),5.00,9.37,7.128
+19307791003,AYSHU BISHT,Non Collegiate Women Education Board (NCWEB),3.50,8.63,6.000
+19307791004,JYOTI,Non Collegiate Women Education Board (NCWEB),4.00,9.16,6.513
+19307791005,NISHA,Non Collegiate Women Education Board (NCWEB),5.00,8.63,6.769
+19307791006,POOJA,Non Collegiate Women Education Board (NCWEB),4.50,8.37,6.385
+19307791007,PRATIMA KUMARI,Non Collegiate Women Education Board (NCWEB),2.25,9.58,5.821
+19307791008,SANGEETA,Non Collegiate Women Education Board (NCWEB),5.75,8.89,7.282
+19307791009,VANDANA,Non Collegiate Women Education Board (NCWEB),5.75,8.79,7.231
+19307791010,SHWETA,Non Collegiate Women Education Board (NCWEB),3.50,8.58,5.974
+19307791012,PAYAL PATHAK,Non Collegiate Women Education Board (NCWEB),0.00,9.58,4.667
+19307791013,SRISHTI KATIYAR,Non Collegiate Women Education Board (NCWEB),6.00,9.37,7.641

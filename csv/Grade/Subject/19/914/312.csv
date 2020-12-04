@@ -1,44 +1,42 @@
-RollNo,Name,College,INTRODUCTION TO HUMANITIES & SOCIAL SCIENCES,ART OF COMMUNICATION,"IMPACT OF TECHNOLOGY, PHILOSOPHICAL IMPLICATIONS",RESEARCH METHODOLOGY
-19312914001,AADITYA DEWANSH,Cluster Innovation Centre (C.I.C.),6,7,6,5
-19312914002,AKSHITA SHARMA,Cluster Innovation Centre (C.I.C.),7,10,8,9
-19312914003,AMAN VIBHORE,Cluster Innovation Centre (C.I.C.),6,8,6,6
-19312914004,AMRITESH RAJ,Cluster Innovation Centre (C.I.C.),6,7,7,5
-19312914005,ANISHA PATNAIK,Cluster Innovation Centre (C.I.C.),6,8,7,5
-19312914006,ASHWIN MADHU,Cluster Innovation Centre (C.I.C.),5,6,5,4
-19312914007,DAKSH DAGAR,Cluster Innovation Centre (C.I.C.),5,6,6,4
-19312914008,DHRUV RAMAN LAHARIYA,Cluster Innovation Centre (C.I.C.),6,7,6,5
-19312914009,DWAIPAYAN MUKHERJEE,Cluster Innovation Centre (C.I.C.),5,5,6,5
-19312914010,GOORU GURJEET KAUR GILL,Cluster Innovation Centre (C.I.C.),6,7,7,5
-19312914011,HARSHA,Cluster Innovation Centre (C.I.C.),6,9,7,7
-19312914012,HARSHVARDHAN SINGH,Cluster Innovation Centre (C.I.C.),5,8,5,6
-19312914013,HUMRAAZ GREWAL,Cluster Innovation Centre (C.I.C.),5,5,7,4
-19312914014,KARAN SIDANA,Cluster Innovation Centre (C.I.C.),7,9,9,9
-19312914015,LALIT KUMAR,Cluster Innovation Centre (C.I.C.),5,7,7,4
-19312914016,MANISH RAGHUVANSHI,Cluster Innovation Centre (C.I.C.),6,8,7,8
-19312914017,MEHAK MALHOTRA,Cluster Innovation Centre (C.I.C.),8,10,9,10
-19312914018,MURARI,Cluster Innovation Centre (C.I.C.),6,6,6,0
-19312914019,NEHA,Cluster Innovation Centre (C.I.C.),5,6,5,4
-19312914020,NIHARIKA,Cluster Innovation Centre (C.I.C.),0,6,4,4
-19312914021,NIKHIL BHARDWAJ,Cluster Innovation Centre (C.I.C.),6,8,7,6
-19312914022,NIPUN YADAV,Cluster Innovation Centre (C.I.C.),7,8,8,6
-19312914023,NIVEDITA SOUN,Cluster Innovation Centre (C.I.C.),6,8,6,7
-19312914024,OJASVA SINGH,Cluster Innovation Centre (C.I.C.),4,5,5,4
-19312914025,PRITHVI SHARMA,Cluster Innovation Centre (C.I.C.),0,0,0,0
-19312914026,PRIYADARSHI YADAV,Cluster Innovation Centre (C.I.C.),0,5,4,4
-19312914027,RACHIT KUMAR,Cluster Innovation Centre (C.I.C.),7,9,7,7
-19312914028,ROHAN VERMA,Cluster Innovation Centre (C.I.C.),0,4,4,0
-19312914029,SANDEEP MISHRA,Cluster Innovation Centre (C.I.C.),0,7,7,5
-19312914030,SANSKAR MAHANT,Cluster Innovation Centre (C.I.C.),5,5,5,5
-19312914031,SASANA MARINMAI,Cluster Innovation Centre (C.I.C.),5,6,4,4
-19312914032,SAURABH,Cluster Innovation Centre (C.I.C.),0,0,0,0
-19312914033,SHAMBHAVI SINGH TOMAR,Cluster Innovation Centre (C.I.C.),8,10,9,9
-19312914034,SHASHANK SINGH,Cluster Innovation Centre (C.I.C.),6,7,6,7
-19312914035,SHIVA MAITRA,Cluster Innovation Centre (C.I.C.),6,7,6,8
-19312914036,SHREYA BORGOHAIN,Cluster Innovation Centre (C.I.C.),5,8,6,5
-19312914037,SIDHANT KUMAR,Cluster Innovation Centre (C.I.C.),6,8,7,5
-19312914038,SMRIDHI LAKRA,Cluster Innovation Centre (C.I.C.),5,7,6,4
-19312914039,SOURAV DIHINGIA,Cluster Innovation Centre (C.I.C.),6,8,8,5
-19312914040,SUNNY SHAURYA,Cluster Innovation Centre (C.I.C.),7,8,8,7
-19312914041,TENZIN LEKSHEY,Cluster Innovation Centre (C.I.C.),5,6,6,5
-19312914042,UTKARSH BHARAT,Cluster Innovation Centre (C.I.C.),7,8,8,5
-19312914043,UTKARSH SHARAN,Cluster Innovation Centre (C.I.C.),8,9,9,9
+RollNo,Name,College,INTRODUCTION TO HUMANITIES & SOCIAL SCIENCES,ART OF COMMUNICATION,"IMPACT OF TECHNOLOGY, PHILOSOPHICAL IMPLICATIONS",RESEARCH METHODOLOGY,INDIAN WRITING IN ENGLISH,ENVIRONMENTAL SCIENCE (AECC),PROJECT,BRITISH LITERATURE : 18TH CENTURY,BRITISH LITERATURE : 19TH CENTURY,BASIC ECONOMETRICS,MARKETING MANAGEMENT,MEDIA AND CULTURAL STUDIES,INTRODUCTION TO NEW MEDIA,POLITICAL PROCESS IN INDIA,GLOBAL POLITICS,INTRODUCTION TO SOCIOLOGY-II,SOCIOLOGY OF INDIA-II,INTRODUCTORY MACROECONOMICS,MATHEMATICAL METHODS OF ECONOMICS-II,REPORTING AND EDITING FOR PRINT,HISTORY OF INDIA-V (1500-1600),HISTORY OF INDIA (C.300-1200),POLITICAL THEORY : CONCEPT & DEBATE,ECONOMIC SOCIOLOGY,PUBLIC POLICY AND ADMINISTRATION IN INDIA,ECONOMIC GEOGRAPHY,PHOTOGRAPHY (GE),PSYCHOLOGY OF INDIVIDUAL DIFFERENCES,APPLIED SOCIAL PSYCHOLOGY,DEVELOPMENT COMMUNICATION,"MEDIA, ETHICS AND LAW",HUMAN GEOGRAPHY,INTRODUCTION TO ART AND ART HISTORY,SURVEY COURSE OF INDIAN ART HISTORY,PHILOSOPHY,BRITISH ROMANTIC LITERATURE,BIOPSYCHOLOGY,STATISTICAL METHODS FOR PSYCHOLOGICAL RESEARCH-II,HISTORY OF INDIA-II,SOCIAL STRATIFICATION,BRITISH POETRY & DRAMA : 14TH TO 17TH CENTURIES
+19312914001,AADITYA DEWANSH,Cluster Innovation Centre (C.I.C.),6,7,6,5,0,10,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19312914002,AKSHITA SHARMA,Cluster Innovation Centre (C.I.C.),7,10,8,9,,10,8,8,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19312914003,AMAN VIBHORE,Cluster Innovation Centre (C.I.C.),6,8,6,6,,10,7,,,8,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19312914004,Amritesh Raj,Cluster Innovation Centre (C.I.C.),6,7,7,5,,10,7,,,8,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19312914005,ANISHA PATNAIK,Cluster Innovation Centre (C.I.C.),6,8,7,5,,10,7,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19312914006,ASHWIN MADHU,Cluster Innovation Centre (C.I.C.),5,6,5,4,,10,6,,,,,,,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,
+19312914007,DAKSH DAGAR,Cluster Innovation Centre (C.I.C.),5,6,6,4,,10,7,,,,,,,,,5,6,,,,,,,,,,,,,,,,,,,,,,,,
+19312914008,DHRUV RAMAN LAHARIYA,Cluster Innovation Centre (C.I.C.),6,7,6,5,,10,7,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,
+19312914009,DWAIPAYAN MUKHERJEE,Cluster Innovation Centre (C.I.C.),5,5,6,5,,10,7,,,,,,0,,,,,,,0,,,,,,,,,,,,,,,,,,,,,
+19312914010,GOORU GURJEET KAUR GILL,Cluster Innovation Centre (C.I.C.),6,7,7,5,,10,7,,,,,,,,,,,,,,8,8,,,,,,,,,,,,,,,,,,,
+19312914011,HARSHA,Cluster Innovation Centre (C.I.C.),6,9,7,7,,10,7,,,,,,,8,,,,,,,,,8,,,,,,,,,,,,,,,,,,
+19312914012,Harshvardhan Singh,Cluster Innovation Centre (C.I.C.),5,8,5,6,,10,7,,,8,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19312914013,HUMRAAZ GREWAL,Cluster Innovation Centre (C.I.C.),5,5,7,4,,10,7,,,,,,,,,,,,,,,,,5,7,,,,,,,,,,,,,,,,
+19312914014,KARAN SIDANA,Cluster Innovation Centre (C.I.C.),7,9,9,9,,10,8,,,,,,,,8,,,,,,,,9,,,,,,,,,,,,,,,,,,
+19312914015,LALIT KUMAR,Cluster Innovation Centre (C.I.C.),5,7,7,4,7,10,7,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19312914016,MANISH RAGHUVANSHI,Cluster Innovation Centre (C.I.C.),6,8,7,8,,10,8,,,,,,,,,,,,,,,,,,8,8,,,,,,,,,,,,,,,
+19312914017,MEHAK MALHOTRA,Cluster Innovation Centre (C.I.C.),8,10,9,10,,10,9,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,
+19312914018,MURARI,Cluster Innovation Centre (C.I.C.),6,6,6,0,,10,6,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,,
+19312914020,Niharika,Cluster Innovation Centre (C.I.C.),0,6,4,4,,10,8,,,,,,,,,6,6,,,,,,,,,,,,,,,,,,,,,,,,
+19312914021,NIKHIL BHARDWAJ,Cluster Innovation Centre (C.I.C.),6,8,7,6,,10,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19312914022,NIPUN YADAV,Cluster Innovation Centre (C.I.C.),7,8,8,6,,10,7,,,,,,,,,6,6,,,,,,,,,,,,,,,,,,,,,,,,
+19312914023,NIVEDITA SOUN,Cluster Innovation Centre (C.I.C.),6,8,6,7,,10,7,,,,,4,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,
+19312914024,OJASVA SINGH,Cluster Innovation Centre (C.I.C.),4,5,5,4,,10,7,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,
+19312914025,PRITHVI SHARMA,Cluster Innovation Centre (C.I.C.),0,0,0,0,,8,5,,,,,,,5,,,,,,,,,5,,,,,,,,,,,,,,,,,,
+19312914026,PRIYADARSHI YADAV,Cluster Innovation Centre (C.I.C.),0,5,4,4,,8,4,,,,,,,,,,,,,,,,,,,4,,,,,,5,,,,,,,,,
+19312914027,RACHIT KUMAR,Cluster Innovation Centre (C.I.C.),7,9,7,7,,10,8,,,,,,,8,,,,,,,,,,,8,,,,,,,,,,,,,,,,
+19312914028,ROHAN VERMA,Cluster Innovation Centre (C.I.C.),0,4,4,0,,10,5,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,
+19312914029,SANDEEP MISHRA,Cluster Innovation Centre (C.I.C.),0,7,7,5,,10,8,,,,,,,,7,,,,,,,,,,,,,,,,,,,,6,,,,,,
+19312914030,SANSKAR MAHANT,Cluster Innovation Centre (C.I.C.),5,5,5,5,,10,5,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,
+19312914031,SASANA MARINMAI,Cluster Innovation Centre (C.I.C.),5,6,4,4,,10,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,
+19312914033,SHAMBHAVI SINGH TOMAR,Cluster Innovation Centre (C.I.C.),8,10,9,9,,10,8,,,,,,,,,9,8,,,,,,,,,,,,,,,,,,,,,,,,
+19312914034,SHASHANK SINGH,Cluster Innovation Centre (C.I.C.),6,7,6,7,,10,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,,,
+19312914035,SHIVA MAITRA,Cluster Innovation Centre (C.I.C.),6,7,6,8,,10,7,,,,,,,7,,,,,,,,,,,8,,,,,,,,,,,,,,,,
+19312914036,SHREYA BORGOHAIN,Cluster Innovation Centre (C.I.C.),5,8,6,5,,10,8,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,6,,
+19312914037,SIDHANT KUMAR,Cluster Innovation Centre (C.I.C.),6,8,7,5,,10,9,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,6,
+19312914038,SMRIDHI LAKRA,Cluster Innovation Centre (C.I.C.),5,7,6,4,,10,7,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19312914039,SOURAV DIHINGIA,Cluster Innovation Centre (C.I.C.),6,8,8,5,0,10,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+19312914040,SUNNY SHAURYA,Cluster Innovation Centre (C.I.C.),7,8,8,7,,10,7,,,,,,,,8,,,,,,,,,,8,,,,,,,,,,,,,,,,
+19312914041,TENZIN LEKSHEY,Cluster Innovation Centre (C.I.C.),5,6,6,5,,10,5,,,,,,,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,
+19312914042,UTKARSH BHARAT,Cluster Innovation Centre (C.I.C.),7,8,8,5,,10,8,,,,,,,,4,,,,,,,,4,,,,,,,,,,,,,,,,,,
+19312914043,UTKARSH SHARAN,Cluster Innovation Centre (C.I.C.),8,9,9,9,8,10,8,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
