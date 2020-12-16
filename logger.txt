@@ -5790,3 +5790,43 @@ Error at 19 728 034
 Error at 19 728 029
 Error at 19 728 033
 { '17': [], '18': [], '19': [ '797' ] }
+2020-12-16T00:24:46.459Z
+Grade
+ASP.NET_SessionId=wgbbsszu2jn1yhi5wh2bez55
+{ '17': [], '18': [], '19': [ '713', '724', '728' ] }
+Error at 19 713 039
+Error at 19 713 048
+Error at 19 713 084
+Error at 19 713 034
+Error at 19 713 029
+Error at 19 724 039
+Error at 19 724 048
+Error at 19 724 034
+Error at 19 724 029
+Error at 19 724 033
+Error at 19 728 039
+Error at 19 728 084
+Error at 19 728 034
+Error at 19 728 029
+Error at 19 728 033
+{ '17': [], '18': [], '19': [ '797' ] }
+2020-12-16T00:25:55.567Z
+Marks
+ASP.NET_SessionId=omi4lva3zplqwu45hlbzxh55
+{ '17': [], '18': [], '19': [ '713', '724', '728' ] }
+Error at 19 713 039
+Error at 19 713 048
+Error at 19 713 084
+Error at 19 713 034
+Error at 19 713 029
+Error at 19 724 039
+Error at 19 724 048
+Error at 19 724 034
+Error at 19 724 029
+Error at 19 724 033
+Error at 19 728 039
+Error at 19 728 084
+Error at 19 728 034
+Error at 19 728 029
+Error at 19 728 033
+{ '17': [], '18': [], '19': [ '797' ] }
