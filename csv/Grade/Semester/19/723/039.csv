@@ -1,17 +1,17 @@
-RollNo,Name,College,Sem1,Average
-19039723003,AMBICA SOOD,Lady Shri Ram College for Women,8,8
-19039723005,ANUJA CHOUDHARY,Lady Shri Ram College for Women,7.75,7.75
-19039723004,AMRITA MALLICK,Lady Shri Ram College for Women,7,7
-19039723006,FARIHA AHMED,Lady Shri Ram College for Women,7,7
-19039723013,RICHA SINGH,Lady Shri Ram College for Women,6.75,6.75
-19039723002,ALISHA MALHOTRA,Lady Shri Ram College for Women,6,6
-19039723008,NIKITA PAREWA,Lady Shri Ram College for Women,6,6
-19039723009,PRATISTHA KASHANA,Lady Shri Ram College for Women,6,6
-19039723011,PRIYA SHARMA,Lady Shri Ram College for Women,6,6
-19039723016,VAISHNAVI RASTOGI,Lady Shri Ram College for Women,6,6
-19039723001,AGNES LALVENHIMI,Lady Shri Ram College for Women,5.5,5.5
-19039723007,HAGE NAMPI,Lady Shri Ram College for Women,5,5
-19039723014,SAKSHI MANDAL,Lady Shri Ram College for Women,5,5
-19039723012,RICHA KATIYAR,Lady Shri Ram College for Women,3,3
-19039723010,PRIYA KUMARI,Lady Shri Ram College for Women,0.0,0.0
-19039723015,SAMEEKSHA,Lady Shri Ram College for Women,0.0,0.0
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19039723001,AGNES LALVENHIMI,Lady Shri Ram College for Women,5.50,5.79,5.659
+19039723002,ALISHA MALHOTRA,Lady Shri Ram College for Women,6.00,6.38,6.205
+19039723003,AMBICA SOOD,Lady Shri Ram College for Women,8.00,7.17,7.545
+19039723004,AMRITA MALLICK,Lady Shri Ram College for Women,7.00,7.33,7.182
+19039723005,ANUJA CHOUDHARY,Lady Shri Ram College for Women,7.75,7.38,7.545
+19039723006,FARIHA AHMED,Lady Shri Ram College for Women,7.00,6.58,6.773
+19039723007,HAGE NAMPI,Lady Shri Ram College for Women,5.00,5.42,5.227
+19039723008,NIKITA PAREWA,Lady Shri Ram College for Women,6.00,5.79,5.886
+19039723009,PRATISTHA KASHANA,Lady Shri Ram College for Women,6.00,7.00,6.545
+19039723010,PRIYA KUMARI,Lady Shri Ram College for Women,0.00,3.33,1.818
+19039723011,PRIYA SHARMA,Lady Shri Ram College for Women,6.00,6.21,6.114
+19039723012,RICHA KATIYAR,Lady Shri Ram College for Women,3.00,5.00,4.091
+19039723013,RICHA SINGH,Lady Shri Ram College for Women,6.75,6.79,6.773
+19039723014,SAKSHI MANDAL,Lady Shri Ram College for Women,5.00,5.00,5.000
+19039723015,SAMEEKSHA,Lady Shri Ram College for Women,7.50,7.38,7.432
+19039723016,VAISHNAVI RASTOGI,Lady Shri Ram College for Women,6.00,6.38,6.205

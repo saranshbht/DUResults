@@ -5830,3 +5830,489 @@ Error at 19 728 034
 Error at 19 728 029
 Error at 19 728 033
 { '17': [], '18': [], '19': [ '797' ] }
+2020-12-17T00:26:41.636Z
+Grade
+ASP.NET_SessionId=aiyynqzauggkgpmdw4em4dzt
+{ '17': [],
+  '18': [],
+  '19':
+   [ '702', '704', '708', '713', '719', '723', '724', '727', '728' ] }
+19 702 085
+19 704 202
+19 708 039
+19 708 034
+19 708 029
+19 708 021
+Error at 19 708 033
+19 708 026
+19 708 025
+19 708 003
+19 708 031
+19 708 047
+19 708 036
+19 708 079
+19 708 080
+19 708 019
+19 708 014
+19 708 056
+19 708 085
+19 708 032
+19 708 055
+19 708 024
+19 708 068
+19 713 039
+19 713 048
+19 713 084
+19 713 034
+19 713 029
+19 713 073
+19 713 033
+19 713 026
+19 713 008
+19 713 081
+19 713 025
+19 713 003
+19 713 044
+19 713 058
+19 713 076
+19 713 053
+19 713 031
+19 713 047
+19 713 036
+19 713 075
+19 713 071
+19 713 019
+19 713 014
+19 713 056
+19 713 085
+19 713 032
+19 713 055
+19 713 068
+19 719 225
+19 723 039
+19 723 040
+19 723 047
+19 723 056
+19 723 085
+19 723 034
+19 723 080
+19 723 029
+19 723 349
+19 723 026
+19 723 031
+19 724 039
+19 724 048
+19 724 034
+19 724 029
+19 724 033
+19 724 026
+19 724 003
+19 724 044
+19 724 053
+19 724 031
+19 724 036
+19 724 075
+19 724 062
+19 724 071
+19 724 019
+19 724 014
+19 724 040
+19 724 056
+19 724 085
+19 724 024
+19 724 068
+19 724 043
+19 727 242
+19 728 039
+19 728 084
+19 728 034
+19 728 029
+19 728 033
+19 728 026
+19 728 025
+19 728 044
+19 728 031
+19 728 047
+19 728 036
+19 728 075
+19 728 079
+19 728 080
+19 728 071
+19 728 019
+19 728 014
+19 728 040
+19 728 056
+19 728 085
+Error at 19 728 307
+{ '17': [],
+  '18': [],
+  '19':
+   [ '797', '702', '704', '708', '713', '719', '723', '724', '727', '728' ] }
+Grade 19 702 085
+Grade 19 704 202
+Grade 19 708 039
+Grade 19 708 034
+Grade 19 708 029
+Grade 19 708 021
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/19/708/033'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:422:22)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:27:6)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/19/708/033' }
+Grade 19 708 026
+Grade 19 708 025
+Grade 19 708 003
+Grade 19 708 031
+Grade 19 708 047
+Grade 19 708 036
+Grade 19 708 079
+Grade 19 708 080
+Grade 19 708 019
+Grade 19 708 014
+Grade 19 708 056
+Grade 19 708 085
+Grade 19 708 032
+Grade 19 708 055
+Grade 19 708 024
+Grade 19 708 068
+Grade 19 713 039
+Grade 19 713 048
+Grade 19 713 084
+Grade 19 713 034
+Grade 19 713 029
+Grade 19 713 073
+Grade 19 713 033
+Grade 19 713 026
+Grade 19 713 008
+Grade 19 713 081
+Grade 19 713 025
+Grade 19 713 003
+Grade 19 713 044
+Grade 19 713 058
+Grade 19 713 076
+Grade 19 713 053
+Grade 19 713 031
+Grade 19 713 047
+Grade 19 713 036
+Grade 19 713 075
+Grade 19 713 071
+Grade 19 713 019
+Grade 19 713 014
+Grade 19 713 056
+Grade 19 713 085
+Grade 19 713 032
+Grade 19 713 055
+Grade 19 713 068
+Grade 19 719 225
+Grade 19 723 039
+Grade 19 723 040
+Grade 19 723 047
+Grade 19 723 056
+Grade 19 723 085
+Grade 19 723 034
+Grade 19 723 080
+Grade 19 723 029
+Grade 19 723 349
+Grade 19 723 026
+Grade 19 723 031
+Grade 19 724 039
+Grade 19 724 048
+Grade 19 724 034
+Grade 19 724 029
+Grade 19 724 033
+Grade 19 724 026
+Grade 19 724 003
+Grade 19 724 044
+Grade 19 724 053
+Grade 19 724 031
+Grade 19 724 036
+Grade 19 724 075
+Grade 19 724 062
+Grade 19 724 071
+Grade 19 724 019
+Grade 19 724 014
+Grade 19 724 040
+Grade 19 724 056
+Grade 19 724 085
+Grade 19 724 024
+Grade 19 724 068
+Grade 19 724 043
+Grade 19 727 242
+Grade 19 728 039
+Grade 19 728 084
+Grade 19 728 034
+Grade 19 728 029
+Grade 19 728 033
+Grade 19 728 026
+Grade 19 728 025
+Grade 19 728 044
+Grade 19 728 031
+Grade 19 728 047
+Grade 19 728 036
+Grade 19 728 075
+Grade 19 728 079
+Grade 19 728 080
+Grade 19 728 071
+Grade 19 728 019
+Grade 19 728 014
+Grade 19 728 040
+Grade 19 728 056
+Grade 19 728 085
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/19/728/307'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:422:22)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:27:6)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/19/728/307' }
+2020-12-17T00:55:07.902Z
+Marks
+ASP.NET_SessionId=fl0cfrac0kp5ly551l1hntfx
+{ '17': [],
+  '18': [],
+  '19':
+   [ '702', '704', '708', '713', '719', '723', '724', '727', '728' ] }
+19 702 085
+19 704 202
+19 708 039
+19 708 034
+19 708 029
+19 708 021
+Error at 19 708 033
+19 708 026
+19 708 025
+19 708 003
+19 708 031
+19 708 047
+19 708 036
+19 708 079
+19 708 080
+19 708 019
+19 708 014
+19 708 056
+19 708 085
+19 708 032
+19 708 055
+19 708 024
+19 708 068
+19 713 039
+19 713 048
+19 713 084
+19 713 034
+19 713 029
+19 713 073
+19 713 033
+19 713 026
+19 713 008
+19 713 081
+19 713 025
+19 713 003
+19 713 044
+19 713 058
+19 713 076
+19 713 053
+19 713 031
+19 713 047
+19 713 036
+19 713 075
+19 713 071
+19 713 019
+19 713 014
+19 713 056
+19 713 085
+19 713 032
+19 713 055
+19 713 068
+19 719 225
+19 723 039
+19 723 040
+19 723 047
+19 723 056
+19 723 085
+19 723 034
+19 723 080
+19 723 029
+19 723 349
+19 723 026
+19 723 031
+19 724 039
+19 724 048
+19 724 034
+19 724 029
+19 724 033
+19 724 026
+19 724 003
+19 724 044
+19 724 053
+19 724 031
+19 724 036
+19 724 075
+19 724 062
+19 724 071
+19 724 019
+19 724 014
+19 724 040
+19 724 056
+19 724 085
+19 724 024
+19 724 068
+19 724 043
+19 727 242
+19 728 039
+19 728 084
+19 728 034
+19 728 029
+19 728 033
+19 728 026
+19 728 025
+19 728 044
+19 728 031
+19 728 047
+19 728 036
+19 728 075
+19 728 079
+19 728 080
+19 728 071
+19 728 019
+19 728 014
+19 728 040
+19 728 056
+19 728 085
+Error at 19 728 307
+{ '17': [],
+  '18': [],
+  '19':
+   [ '797', '702', '704', '708', '713', '719', '723', '724', '727', '728' ] }
+Marks 19 702 085
+Marks 19 704 202
+Marks 19 708 039
+Marks 19 708 034
+Marks 19 708 029
+Marks 19 708 021
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Marks/19/708/033'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:422:22)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:27:6)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Marks/19/708/033' }
+Marks 19 708 026
+Marks 19 708 025
+Marks 19 708 003
+Marks 19 708 031
+Marks 19 708 047
+Marks 19 708 036
+Marks 19 708 079
+Marks 19 708 080
+Marks 19 708 019
+Marks 19 708 014
+Marks 19 708 056
+Marks 19 708 085
+Marks 19 708 032
+Marks 19 708 055
+Marks 19 708 024
+Marks 19 708 068
+Marks 19 713 039
+Marks 19 713 048
+Marks 19 713 084
+Marks 19 713 034
+Marks 19 713 029
+Marks 19 713 073
+Marks 19 713 033
+Marks 19 713 026
+Marks 19 713 008
+Marks 19 713 081
+Marks 19 713 025
+Marks 19 713 003
+Marks 19 713 044
+Marks 19 713 058
+Marks 19 713 076
+Marks 19 713 053
+Marks 19 713 031
+Marks 19 713 047
+Marks 19 713 036
+Marks 19 713 075
+Marks 19 713 071
+Marks 19 713 019
+Marks 19 713 014
+Marks 19 713 056
+Marks 19 713 085
+Marks 19 713 032
+Marks 19 713 055
+Marks 19 713 068
+Marks 19 719 225
+Marks 19 723 039
+Marks 19 723 040
+Marks 19 723 047
+Marks 19 723 056
+Marks 19 723 085
+Marks 19 723 034
+Marks 19 723 080
+Marks 19 723 029
+Marks 19 723 349
+Marks 19 723 026
+Marks 19 723 031
+Marks 19 724 039
+Marks 19 724 048
+Marks 19 724 034
+Marks 19 724 029
+Marks 19 724 033
+Marks 19 724 026
+Marks 19 724 003
+Marks 19 724 044
+Marks 19 724 053
+Marks 19 724 031
+Marks 19 724 036
+Marks 19 724 075
+Marks 19 724 062
+Marks 19 724 071
+Marks 19 724 019
+Marks 19 724 014
+Marks 19 724 040
+Marks 19 724 056
+Marks 19 724 085
+Marks 19 724 024
+Marks 19 724 068
+Marks 19 724 043
+Marks 19 727 242
+Marks 19 728 039
+Marks 19 728 084
+Marks 19 728 034
+Marks 19 728 029
+Marks 19 728 033
+Marks 19 728 026
+Marks 19 728 025
+Marks 19 728 044
+Marks 19 728 031
+Marks 19 728 047
+Marks 19 728 036
+Marks 19 728 075
+Marks 19 728 079
+Marks 19 728 080
+Marks 19 728 071
+Marks 19 728 019
+Marks 19 728 014
+Marks 19 728 040
+Marks 19 728 056
+Marks 19 728 085
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Marks/19/728/307'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:422:22)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:27:6)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Marks/19/728/307' }

@@ -1,26 +1,26 @@
-RollNo,Name,College,Sem1,Average
-19044713015,SAHIN,Mata Sundri College For Women,6.6,6.6
-19044713020,SHREYA,Mata Sundri College For Women,6.4,6.4
-19044713019,SHILPA TYAGI,Mata Sundri College For Women,6.4,6.4
-19044713018,SHIKHA,Mata Sundri College For Women,6.4,6.4
-19044713014,RADHA,Mata Sundri College For Women,6.4,6.4
-19044713022,SIMRAN,Mata Sundri College For Women,6.4,6.4
-19044713023,SONIA KUMARI,Mata Sundri College For Women,6.4,6.4
-19044713002,ANURADHA,Mata Sundri College For Women,6.2,6.2
-19044713004,DIKSHA PATHAK,Mata Sundri College For Women,6.2,6.2
-19044713005,MANISHA,Mata Sundri College For Women,6.2,6.2
-19044713016,SHAILSUJATA,Mata Sundri College For Women,6.2,6.2
-19044713011,NIDHI SHARMA,Mata Sundri College For Women,6,6
-19044713021,SHUBHANGI SINHA,Mata Sundri College For Women,6,6
-19044713009,NANDANI GUPTA,Mata Sundri College For Women,6,6
-19044713008,MONIKA,Mata Sundri College For Women,6,6
-19044713006,MEENAKSHI,Mata Sundri College For Women,6,6
-19044713003,DEEPSHIKHA,Mata Sundri College For Women,6,6
-19044713010,NIDHI,Mata Sundri College For Women,5.8,5.8
-19044713017,SHAILJA,Mata Sundri College For Women,5.8,5.8
-19044713024,VAISHALI VERMA,Mata Sundri College For Women,5.8,5.8
-19044713025,VIJAY LAXMI,Mata Sundri College For Women,5.8,5.8
-19044713013,NITU RANI,Mata Sundri College For Women,5.6,5.6
-19044713012,NISHTHA TRIPATHI,Mata Sundri College For Women,5.6,5.6
-19044713007,MEENAKSHI,Mata Sundri College For Women,5.4,5.4
-19044713001,AARTI,Mata Sundri College For Women,5.4,5.4
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19044713001,AARTI,Mata Sundri College For Women,5.40,6.17,5.776
+19044713002,ANURADHA,Mata Sundri College For Women,6.20,7.00,6.592
+19044713003,DEEPSHIKHA,Mata Sundri College For Women,6.00,7.00,6.490
+19044713004,DIKSHA PATHAK,Mata Sundri College For Women,6.20,7.00,6.592
+19044713005,MANISHA,Mata Sundri College For Women,6.20,7.00,6.592
+19044713006,MEENAKSHI,Mata Sundri College For Women,6.00,7.00,6.490
+19044713007,MEENAKSHI,Mata Sundri College For Women,5.40,6.17,5.776
+19044713008,MONIKA,Mata Sundri College For Women,6.00,7.00,6.490
+19044713009,NANDANI GUPTA,Mata Sundri College For Women,6.00,6.79,6.388
+19044713010,NIDHI,Mata Sundri College For Women,5.80,7.00,6.388
+19044713011,NIDHI SHARMA,Mata Sundri College For Women,6.00,7.00,6.490
+19044713012,NISHTHA TRIPATHI,Mata Sundri College For Women,5.60,7.00,6.286
+19044713013,NITU RANI,Mata Sundri College For Women,5.60,7.00,6.286
+19044713014,RADHA,Mata Sundri College For Women,6.40,7.00,6.694
+19044713015,SAHIN,Mata Sundri College For Women,6.60,7.17,6.878
+19044713016,SHAILSUJATA,Mata Sundri College For Women,6.20,7.00,6.592
+19044713017,SHAILJA,Mata Sundri College For Women,5.80,6.67,6.224
+19044713018,SHIKHA,Mata Sundri College For Women,6.40,6.50,6.449
+19044713019,SHILPA TYAGI,Mata Sundri College For Women,6.40,7.00,6.694
+19044713020,SHREYA,Mata Sundri College For Women,6.40,7.00,6.694
+19044713021,SHUBHANGI SINHA,Mata Sundri College For Women,6.00,7.00,6.490
+19044713022,SIMRAN,Mata Sundri College For Women,6.40,7.00,6.694
+19044713023,SONIA KUMARI,Mata Sundri College For Women,6.40,7.00,6.694
+19044713024,VAISHALI VERMA,Mata Sundri College For Women,5.80,7.00,6.388
+19044713025,VIJAY LAXMI,Mata Sundri College For Women,5.80,7.00,6.388

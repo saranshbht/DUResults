@@ -1,9 +1,9 @@
-RollNo,Name,College,Sem1,Average
-19039713003,MONIKA RAJPUROHIT,Lady Shri Ram College for Women,7,7
-19039713008,UPASANA,Lady Shri Ram College for Women,6.8,6.8
-19039713007,SHIVANI RATHI,Lady Shri Ram College for Women,6.6,6.6
-19039713004,PRIYA BHARTI,Lady Shri Ram College for Women,6.4,6.4
-19039713006,SHAMIYA PARVIN,Lady Shri Ram College for Women,6.2,6.2
-19039713001,JYOTI YADAV,Lady Shri Ram College for Women,6,6
-19039713005,RASHMI KUMARI,Lady Shri Ram College for Women,6,6
-19039713002,LAXMI,Lady Shri Ram College for Women,4.6,4.6
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19039713001,JYOTI YADAV,Lady Shri Ram College for Women,6.00,6.38,6.184
+19039713002,LAXMI,Lady Shri Ram College for Women,4.60,6.17,5.367
+19039713003,MONIKA RAJPUROHIT,Lady Shri Ram College for Women,7.00,7.17,7.082
+19039713004,PRIYA BHARTI,Lady Shri Ram College for Women,6.40,7.00,6.694
+19039713005,RASHMI KUMARI,Lady Shri Ram College for Women,6.00,6.38,6.184
+19039713006,SHAMIYA PARVIN,Lady Shri Ram College for Women,6.20,7.00,6.592
+19039713007,SHIVANI RATHI,Lady Shri Ram College for Women,6.60,7.00,6.796
+19039713008,UPASANA,Lady Shri Ram College for Women,6.80,6.83,6.816
