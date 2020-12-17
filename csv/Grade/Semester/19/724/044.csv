@@ -1,12 +1,12 @@
-RollNo,Name,College,Sem1,Average
-19044724005,JYOTI KUMARI,Mata Sundri College For Women,6.5,6.5
-19044724007,NIKITA,Mata Sundri College For Women,6.5,6.5
-19044724010,SHWETA PRAKHAR,Mata Sundri College For Women,6.5,6.5
-19044724001,AMRITA SINGH,Mata Sundri College For Women,6.25,6.25
-19044724003,ANJALI,Mata Sundri College For Women,6,6
-19044724011,VENUS CHAUHAN,Mata Sundri College For Women,6,6
-19044724002,ANANYA SURESH VARMA,Mata Sundri College For Women,5.75,5.75
-19044724004,BHAGYA BABU,Mata Sundri College For Women,5.75,5.75
-19044724006,NAGMA,Mata Sundri College For Women,5.5,5.5
-19044724009,SAPTAPARNI BANERJEE,Mata Sundri College For Women,4,4
-19044724008,RUCHIKA,Mata Sundri College For Women,2,2
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19044724001,AMRITA SINGH,Mata Sundri College For Women,6.25,6.28,6.263
+19044724002,ANANYA SURESH VARMA,Mata Sundri College For Women,5.75,6.00,5.868
+19044724003,ANJALI,Mata Sundri College For Women,6.00,6.28,6.132
+19044724004,BHAGYA BABU,Mata Sundri College For Women,5.75,5.72,5.737
+19044724005,JYOTI KUMARI,Mata Sundri College For Women,6.50,6.28,6.395
+19044724006,NAGMA,Mata Sundri College For Women,5.50,5.44,5.474
+19044724007,NIKITA,Mata Sundri College For Women,6.50,6.28,6.395
+19044724008,RUCHIKA,Mata Sundri College For Women,2.00,0.00,1.053
+19044724009,SAPTAPARNI BANERJEE,Mata Sundri College For Women,4.00,5.22,4.579
+19044724010,SHWETA PRAKHAR,Mata Sundri College For Women,6.50,6.78,6.632
+19044724011,VENUS CHAUHAN,Mata Sundri College For Women,6.00,6.28,6.132

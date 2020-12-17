@@ -1,19 +1,18 @@
-RollNo,Name,College,Sem1,Average
-19085713004,ASHUTOSH NANDAN,Zakir Husain Delhi College (Day),7.2,7.2
-19085713012,NIDHI SINGH,Zakir Husain Delhi College (Day),7.2,7.2
-19085713001,ABHISHEK KUMAR TRIPATHI,Zakir Husain Delhi College (Day),7,7
-19085713002,ANISH KUMAR,Zakir Husain Delhi College (Day),7,7
-19085713003,ARVIND PRATAP SINGH,Zakir Husain Delhi College (Day),7,7
-19085713015,VIJITASHAV AGGARWAL,Zakir Husain Delhi College (Day),7,7
-19085713005,BHAWNA CHOUDHARY,Zakir Husain Delhi College (Day),6.8,6.8
-19085713014,UTTAM KUMAR,Zakir Husain Delhi College (Day),6.6,6.6
-19085713010,GOVIND JHA,Zakir Husain Delhi College (Day),6.6,6.6
-19085713009,GARIMA YADAV,Zakir Husain Delhi College (Day),6.6,6.6
-19085713006,BRIJESH KUMAR,Zakir Husain Delhi College (Day),6.6,6.6
-19085713008,DEEPAK,Zakir Husain Delhi College (Day),6.4,6.4
-19085713018,YASH JAISWAL,Zakir Husain Delhi College (Day),6.4,6.4
-19085713013,SANJEEV KUMAR PASWAN,Zakir Husain Delhi College (Day),6.2,6.2
-19085713007,CHANCHAL KUMARI,Zakir Husain Delhi College (Day),6,6
-19085713017,VISHWAJEET KUMAR,Zakir Husain Delhi College (Day),6,6
-19085713016,VIKAS KUMAR,Zakir Husain Delhi College (Day),5.6,5.6
-19085713011,MINTU KUMAR,Zakir Husain Delhi College (Day),4.2,4.2
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19085713001,ABHISHEK KUMAR TRIPATHI,Zakir Husain Delhi College (Day),7.00,4.67,5.857
+19085713002,ANISH KUMAR,Zakir Husain Delhi College (Day),7.00,7.63,7.306
+19085713003,ARVIND PRATAP SINGH,Zakir Husain Delhi College (Day),7.00,7.42,7.204
+19085713004,ASHUTOSH NANDAN,Zakir Husain Delhi College (Day),7.20,8.00,7.592
+19085713005,BHAWNA CHOUDHARY,Zakir Husain Delhi College (Day),6.80,7.00,6.898
+19085713006,BRIJESH KUMAR,Zakir Husain Delhi College (Day),6.60,7.17,6.878
+19085713007,CHANCHAL KUMARI,Zakir Husain Delhi College (Day),6.00,7.00,6.490
+19085713008,DEEPAK,Zakir Husain Delhi College (Day),6.40,7.00,6.694
+19085713009,GARIMA YADAV,Zakir Husain Delhi College (Day),6.60,7.83,7.204
+19085713010,GOVIND JHA,Zakir Husain Delhi College (Day),6.60,7.00,6.796
+19085713012,NIDHI SINGH,Zakir Husain Delhi College (Day),7.20,7.83,7.510
+19085713013,SANJEEV KUMAR PASWAN,Zakir Husain Delhi College (Day),6.20,0.00,3.163
+19085713014,UTTAM KUMAR,Zakir Husain Delhi College (Day),6.60,7.63,7.102
+19085713015,VIJITASHAV AGGARWAL,Zakir Husain Delhi College (Day),7.00,7.38,7.184
+19085713016,VIKAS KUMAR,Zakir Husain Delhi College (Day),5.60,7.00,6.286
+19085713017,VISHWAJEET KUMAR,Zakir Husain Delhi College (Day),6.00,7.00,6.490
+19085713018,YASH JAISWAL,Zakir Husain Delhi College (Day),6.40,7.00,6.694

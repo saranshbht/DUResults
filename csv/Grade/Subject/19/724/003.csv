@@ -1,35 +1,33 @@
-RollNo,Name,College,DEBATES IN POLITICAL THEORY,THEORIES OF INTERNATIONAL RELATIONS,POLITICS IN INDIA,THEMES IN INDIAN POLITICAL THOUGHT
-19003724001,ABHISHEK CHOUDHARY,Atma Ram Sanatan Dharam College,7,6,5,6
-19003724002,ABHISHEK DAS,Atma Ram Sanatan Dharam College,0,5,6,4
-19003724003,AGRIMA SAINI,Atma Ram Sanatan Dharam College,7,6,6,6
-19003724004,ALYA EKTA,Atma Ram Sanatan Dharam College,0,5,5,5
-19003724005,ANURAG SINGH,Atma Ram Sanatan Dharam College,7,6,7,7
-19003724006,ASHU ANAND,Atma Ram Sanatan Dharam College,0,0,0,4
-19003724007,BONIFACE,Atma Ram Sanatan Dharam College,6,5,4,6
-19003724008,CHANDRESH KUMAR SHUKLA,Atma Ram Sanatan Dharam College,0,6,5,7
-19003724009,DIVESH KUMAR,Atma Ram Sanatan Dharam College,6,6,8,6
-19003724010,FAZAL HAQ FAQIRY,Atma Ram Sanatan Dharam College,5,0,0,0
-19003724011,GARIMA YADAV,Atma Ram Sanatan Dharam College,6,6,5,6
-19003724012,GAURAV PANDEY,Atma Ram Sanatan Dharam College,6,6,6,6
-19003724013,GAUTAM TIWARI,Atma Ram Sanatan Dharam College,7,6,6,6
-19003724014,HARIVANSH,Atma Ram Sanatan Dharam College,7,6,5,6
-19003724015,ISHITA DOGRA,Atma Ram Sanatan Dharam College,7,6,6,6
-19003724016,KUMAR SATYARTH,Atma Ram Sanatan Dharam College,0,0,0,0
-19003724017,LAXMI,Atma Ram Sanatan Dharam College,7,6,7,7
-19003724018,MOHAMMAD HAROON TARZI,Atma Ram Sanatan Dharam College,6,5,4,4
-19003724019,MEGHA,Atma Ram Sanatan Dharam College,6,6,5,5
-19003724020,MOHD. ANAS,Atma Ram Sanatan Dharam College,6,5,5,6
-19003724021,NAZRA ANWAR,Atma Ram Sanatan Dharam College,6,6,6,6
-19003724022,RADHA,Atma Ram Sanatan Dharam College,7,6,6,6
-19003724023,ROSHNI RAI,Atma Ram Sanatan Dharam College,6,5,7,6
-19003724024,SAHIL KUMAR,Atma Ram Sanatan Dharam College,0,0,0,0
-19003724025,SAURABH VERMA,Atma Ram Sanatan Dharam College,6,6,5,6
-19003724026,SHUBHAM RAWAT,Atma Ram Sanatan Dharam College,6,6,6,6
-19003724027,SHIR ALI ASADI,Atma Ram Sanatan Dharam College,0,0,0,0
-19003724028,SUJIT KUMAR TIWARI,Atma Ram Sanatan Dharam College,6,6,6,6
-19003724029,SWADHA MEHRA,Atma Ram Sanatan Dharam College,6,6,6,0
-19003724030,TANIYA CHADHA,Atma Ram Sanatan Dharam College,6,6,7,6
-19003724031,TARUN SAIN,Atma Ram Sanatan Dharam College,6,5,5,5
-19003724032,VAIBHAV SINGH,Atma Ram Sanatan Dharam College,6,6,5,6
-19003724033,VIJAY SINGH,Atma Ram Sanatan Dharam College,0,5,4,4
-19003724034,AMAN KUMAR,Atma Ram Sanatan Dharam College,0,5,0,4
+RollNo,Name,College,DEBATES IN POLITICAL THEORY,THEORIES OF INTERNATIONAL RELATIONS,POLITICS IN INDIA,THEMES IN INDIAN POLITICAL THOUGHT,COMPARATIVE POLITICAL ANALYSIS,ADMINISTRATIVE THEORY,ETHICS AND GOVERNANCE,POLITICAL INSTITUTIONS AND PROCESSES IN INDIA,ENVIRONMENT,UNDERSTANDING THE INTERNATIONAL,HISTORY OF INDIAN BUDDHISM TILL THE MAURYAN PERIOD
+19003724001,ABHISHEK CHOUDHARY,Atma Ram Sanatan Dharam College,7,6,5,6,6,6,6,6,,,
+19003724002,ABHISHEK DAS,Atma Ram Sanatan Dharam College,0,5,6,4,5,4,5,4,,,
+19003724003,AGRIMA SAINI,Atma Ram Sanatan Dharam College,7,6,6,6,6,6,6,6,,,
+19003724004,ALYA EKTA,Atma Ram Sanatan Dharam College,0,5,5,5,6,5,5,,6,,
+19003724005,ANURAG SINGH,Atma Ram Sanatan Dharam College,7,6,7,7,7,7,7,6,,,
+19003724006,ASHU ANAND,Atma Ram Sanatan Dharam College,0,0,0,4,0,0,0,,,0,
+19003724007,BONIFACE,Atma Ram Sanatan Dharam College,6,5,4,6,5,5,6,6,,,
+19003724008,CHANDRESH KUMAR SHUKLA,Atma Ram Sanatan Dharam College,0,6,5,7,5,5,6,5,,,
+19003724009,DIVESH KUMAR,Atma Ram Sanatan Dharam College,6,6,8,6,8,7,,7,,7,
+19003724010,FAZAL HAQ FAQIRY,Atma Ram Sanatan Dharam College,0,0,0,0,0,0,0,0,,,
+19003724011,GARIMA YADAV,Atma Ram Sanatan Dharam College,6,6,5,6,6,6,6,6,,,
+19003724012,GAURAV PANDEY,Atma Ram Sanatan Dharam College,6,6,6,6,7,6,,6,,6,
+19003724013,GAUTAM TIWARI,Atma Ram Sanatan Dharam College,7,6,6,6,7,6,6,7,,,
+19003724014,HARIVANSH,Atma Ram Sanatan Dharam College,7,6,5,6,6,6,6,6,,,
+19003724015,ISHITA DOGRA,Atma Ram Sanatan Dharam College,7,6,6,6,6,6,7,6,,,
+19003724017,LAXMI,Atma Ram Sanatan Dharam College,7,6,7,7,6,7,7,7,,,
+19003724018,MOHAMMAD HAROON TARZI,Atma Ram Sanatan Dharam College,6,5,4,4,5,5,5,,5,,
+19003724019,MEGHA,Atma Ram Sanatan Dharam College,6,6,5,5,6,6,,,6,6,
+19003724020,MOHD. ANAS,Atma Ram Sanatan Dharam College,6,5,5,6,6,6,,5,,6,
+19003724021,NAZRA ANWAR,Atma Ram Sanatan Dharam College,6,6,6,6,5,6,,,6,6,
+19003724022,RADHA,Atma Ram Sanatan Dharam College,7,6,6,6,6,7,6,6,,,
+19003724023,ROSHNI RAI,Atma Ram Sanatan Dharam College,6,5,7,6,6,6,6,6,,,
+19003724024,SAHIL KUMAR,Atma Ram Sanatan Dharam College,0,0,0,0,5,4,5,0,,,
+19003724025,SAURABH VERMA,Atma Ram Sanatan Dharam College,6,6,5,6,6,4,,5,,6,
+19003724026,SHUBHAM RAWAT,Atma Ram Sanatan Dharam College,6,6,6,6,7,6,,6,,,0
+19003724028,SUJIT KUMAR TIWARI,Atma Ram Sanatan Dharam College,6,6,6,6,6,7,6,6,,,
+19003724029,SWADHA MEHRA,Atma Ram Sanatan Dharam College,6,6,6,0,5,4,6,5,,,
+19003724030,TANIYA CHADHA,Atma Ram Sanatan Dharam College,6,6,7,6,7,6,6,6,,,
+19003724031,TARUN SAIN,Atma Ram Sanatan Dharam College,6,5,5,5,5,5,6,6,,,
+19003724032,VAIBHAV SINGH,Atma Ram Sanatan Dharam College,6,6,5,6,6,5,6,,6,,
+19003724033,VIJAY SINGH,Atma Ram Sanatan Dharam College,0,5,4,4,4,4,,5,,0,
+19003724034,AMAN KUMAR,Atma Ram Sanatan Dharam College,0,5,0,4,5,4,5,4,,,
