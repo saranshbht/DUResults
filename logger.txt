@@ -6316,3 +6316,17 @@ Marks 19 728 085
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Marks/19/728/307' }
+2020-12-18T00:26:09.375Z
+Grade
+ASP.NET_SessionId=pz1e5p554ndbggegjlmbi255
+{ '17': [], '18': [ '914' ], '19': [] }
+18 914 312
+{ '17': [], '18': [ '914' ], '19': [ '797' ] }
+Grade 18 914 312
+2020-12-18T00:26:43.964Z
+Marks
+ASP.NET_SessionId=czdr2lucm0hmry55cmqpwf45
+{ '17': [], '18': [ '914' ], '19': [] }
+18 914 312
+{ '17': [], '18': [ '914' ], '19': [ '797' ] }
+Marks 18 914 312
