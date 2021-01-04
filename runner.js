@@ -1,9 +1,9 @@
 const req = require('./requirements');
 
-const cookie_url = "https://rslt.duresult.in/Students/Combine_GradeCard.aspx"
-const declared_url = "https://rslt.duresult.in/Students/List_Of_Declared_Results.aspx"
-const grade_url = "https://rslt.duresult.in/Students/Combine_GradeCardReport_CBCS.aspx"
-const marks_url = "http://rslt.duresult.in/Students/OLD_Sys1_GradeCardReport_Sem_New.aspx"
+const cookie_url = "http://durslt.du.ac.in/DURSLT_MJ2020/Students/Combine_GradeCard.aspx"
+const declared_url = "http://durslt.du.ac.in/DURSLT_MJ2020/Students/List_Of_Declared_Results.aspx"
+const grade_url = "http://durslt.du.ac.in/DURSLT_MJ2020/Students/Combine_GradeCardReport_CBCS.aspx"
+const marks_url = "http://durslt.du.ac.in/DURSLT_MJ2020/Students/OLD_Sys1_GradeCardReport_Sem_New.aspx"
 
 type = process.argv[2];
 let url = type == 'Marks' ? marks_url : grade_url;
