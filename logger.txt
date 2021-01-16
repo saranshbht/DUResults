@@ -7106,3 +7106,13 @@ Marks
   isAxiosError: true,
   toJSON: [Function: toJSON] }
 undefined
+2021-01-16T00:58:11.514Z
+Grade
+ASP.NET_SessionId=atxdep45ye2zdu550glo2q45
+{ '17': [], '18': [], '19': [] }
+{ '17': [], '18': [], '19': [ '797' ] }
+2021-01-16T00:58:13.886Z
+Marks
+ASP.NET_SessionId=4crvsp3saee1kaqmxkgid52p
+{ '17': [], '18': [], '19': [] }
+{ '17': [], '18': [], '19': [ '797' ] }
