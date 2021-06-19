@@ -24,14 +24,15 @@ Promise.all([
   req.setCookie(cookie_url),
 ]).then(async ([remaining]) => {
   console.log(remaining);
+  remaining = remaining["18"];
   // console.log("downloading");
   await req.downloadHtmls(remaining, type, url, step, source);
   let to_be_updated = req.toBeUpdated();
   console.log(to_be_updated);
-  // console.log('making jsons');
+  // // console.log('making jsons');
   req.makeJsons(to_be_updated, type, source, store);
-  // console.log('making json-gzips');
+  // // console.log('making json-gzips');
   req.jsonsToJsonGzips(to_be_updated, type, store);
-  // console.log('making csvs');
+  // // console.log('making csvs');
   req.jsonsToCsvs(to_be_updated, type, store);
 });
