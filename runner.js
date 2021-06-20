@@ -24,7 +24,8 @@ Promise.all([
   req.setCookie(cookie_url),
 ]).then(async ([remaining]) => {
   console.log(remaining);
-  remaining = remaining["18"];
+  remaining["18"] = remaining["18"].slice(0, 10);
+  remaining["19"] = [];
   // console.log("downloading");
   await req.downloadHtmls(remaining, type, url, step, source);
   let to_be_updated = req.toBeUpdated();
