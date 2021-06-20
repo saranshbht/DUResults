@@ -1,138 +1,130 @@
-RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Overall CGPA
-18067535001,AANCHAL BHATT,Shaheed Sukhdev College of Business Studies,6.91,7.18,6.07,5.36,6.300
-18067535002,AASHISH KUMAR,Shaheed Sukhdev College of Business Studies,7.36,4.73,6.86,8.14,6.860
-18067535003,ABHI BANSAL,Shaheed Sukhdev College of Business Studies,9.45,10.00,9.57,10.00,9.760
-18067535004,ADIT CHOPRA,Shaheed Sukhdev College of Business Studies,8.73,9.55,9.43,10.00,9.460
-18067535005,ANMOL BHOLA,Shaheed Sukhdev College of Business Studies,7.18,8.00,6.93,7.57,7.400
-18067535006,ARNAV SINGH MUSAFIR,Shaheed Sukhdev College of Business Studies,2.64,4.00,1.57,1.57,2.340
-18067535007,ARPIT JAIN,Shaheed Sukhdev College of Business Studies,9.27,9.82,9.14,9.57,9.440
-18067535008,ARYAMAN WADHWA,Shaheed Sukhdev College of Business Studies,6.82,8.27,8.14,9.14,8.160
-18067535009,ASHISH KUMAR,Shaheed Sukhdev College of Business Studies,5.55,5.18,4.43,6.93,5.540
-18067535010,ASHISH PALIWAL,Shaheed Sukhdev College of Business Studies,5.91,5.36,5.29,5.93,5.620
-18067535011,ASHWIN SAJAYAN,Shaheed Sukhdev College of Business Studies,4.00,6.82,2.07,4.71,4.280
-18067535012,AVIRAL SAXENA,Shaheed Sukhdev College of Business Studies,6.91,8.73,7.29,8.57,7.880
-18067535013,AYUSH KUMAR,Shaheed Sukhdev College of Business Studies,4.73,6.45,5.50,6.79,5.900
-18067535014,AYUSH JAISWAL,Shaheed Sukhdev College of Business Studies,7.09,8.00,7.71,8.57,7.880
-18067535015,AYUSHMAN JAIN,Shaheed Sukhdev College of Business Studies,6.91,7.91,6.21,6.50,6.820
-18067535016,BHAVYA KAPUR,Shaheed Sukhdev College of Business Studies,7.64,10.00,8.36,9.00,8.740
-18067535017,BHAWISHYA,Shaheed Sukhdev College of Business Studies,7.45,8.18,7.71,8.21,7.900
-18067535018,BHOOMI YADAV,Shaheed Sukhdev College of Business Studies,6.82,6.45,6.07,7.14,6.620
-18067535019,BHUMIKA MITTAL,Shaheed Sukhdev College of Business Studies,7.91,8.45,8.14,9.14,8.440
-18067535020,CHITRANGDA JAIN,Shaheed Sukhdev College of Business Studies,9.18,8.73,8.14,9.00,8.740
-18067535021,DEBASHISH RAY,Shaheed Sukhdev College of Business Studies,6.55,8.73,6.93,7.93,7.520
-18067535022,DHRUV KUMAR,Shaheed Sukhdev College of Business Studies,7.36,7.09,5.00,6.93,6.520
-18067535023,DORJEE TSETEN BODH,Shaheed Sukhdev College of Business Studies,5.36,5.45,5.29,4.86,5.220
-18067535024,EESHAN ARORA,Shaheed Sukhdev College of Business Studies,8.18,7.27,7.93,8.79,8.080
-18067535026,FERDOWS FEROZI,Shaheed Sukhdev College of Business Studies,5.18,5.55,4.36,5.93,5.240
-18067535027,GANDHARV KAINTH,Shaheed Sukhdev College of Business Studies,6.09,6.45,5.50,5.71,5.900
-18067535028,GAURVI RUSTAGI,Shaheed Sukhdev College of Business Studies,7.36,7.09,6.50,8.14,7.280
-18067535029,GURJAS SINGH BATRA,Shaheed Sukhdev College of Business Studies,7.09,8.36,6.29,8.00,7.400
-18067535030,HAMRAZUDDIN REZAHI,Shaheed Sukhdev College of Business Studies,6.09,6.27,5.93,6.93,6.320
-18067535031,HARLEEN KAUR,Shaheed Sukhdev College of Business Studies,8.45,8.73,8.14,8.36,8.400
-18067535032,HEENA VERMA,Shaheed Sukhdev College of Business Studies,9.36,10.00,8.79,9.79,9.460
-18067535033,HIMANSHU CHAWLA,Shaheed Sukhdev College of Business Studies,8.73,8.73,8.21,8.79,8.600
-18067535034,HRITHIK SAMMI,Shaheed Sukhdev College of Business Studies,7.36,7.73,6.93,8.14,7.540
-18067535035,JATIN KUMAR,Shaheed Sukhdev College of Business Studies,6.64,7.55,5.64,7.57,6.820
-18067535036,JAYANT KUMAR,Shaheed Sukhdev College of Business Studies,7.45,8.45,7.43,7.14,7.580
-18067535037,JUSTIN LUAITHANG,Shaheed Sukhdev College of Business Studies,6.27,7.18,6.71,6.79,6.740
-18067535038,KARTIKEYA SACHDEVA,Shaheed Sukhdev College of Business Studies,7.64,8.09,7.71,8.14,7.900
-18067535039,KASHISH DHINGRA,Shaheed Sukhdev College of Business Studies,9.00,9.00,7.50,8.79,8.520
-18067535040,KAVYA DUA,Shaheed Sukhdev College of Business Studies,7.64,7.55,6.50,7.14,7.160
-18067535041,KUMAR SAURAV,Shaheed Sukhdev College of Business Studies,6.09,8.55,7.14,7.93,7.440
-18067535042,KUSH BANSAL,Shaheed Sukhdev College of Business Studies,7.91,9.00,8.79,9.14,8.740
-18067535043,MALLIKA MEHROTRA,Shaheed Sukhdev College of Business Studies,10.00,9.82,9.36,10.00,9.780
-18067535044,MANSI RAI,Shaheed Sukhdev College of Business Studies,8.73,8.55,8.64,9.36,8.840
-18067535045,NAVEEN KUMAR,Shaheed Sukhdev College of Business Studies,5.91,6.18,5.64,6.29,6.000
-18067535046,NEERAJ YADAV,Shaheed Sukhdev College of Business Studies,5.82,6.55,6.14,0.57,4.600
-18067535047,NIDHI KAUSHIK,Shaheed Sukhdev College of Business Studies,9.18,9.73,9.00,9.79,9.420
-18067535048,NISHEETH NAGAR,Shaheed Sukhdev College of Business Studies,9.00,9.82,8.79,9.79,9.340
-18067535049,PARINEETA VERMA,Shaheed Sukhdev College of Business Studies,8.18,6.73,7.71,8.43,7.800
-18067535050,PARNIKA SRIVASTAVA,Shaheed Sukhdev College of Business Studies,9.45,9.09,8.57,8.79,8.940
-18067535051,PERIWINKLE SHERGILL,Shaheed Sukhdev College of Business Studies,6.91,7.45,6.21,7.79,7.080
-18067535052,PRAGYA PRAJAPATI,Shaheed Sukhdev College of Business Studies,8.73,9.27,7.57,7.93,8.300
-18067535053,PRAKRITI KHURANA,Shaheed Sukhdev College of Business Studies,8.73,9.55,8.71,9.57,9.140
-18067535054,PRATEEK PAL,Shaheed Sukhdev College of Business Studies,6.91,6.91,6.50,6.50,6.680
-18067535055,RAGHAV NATH,Shaheed Sukhdev College of Business Studies,8.18,9.55,9.36,9.79,9.260
-18067535056,RAGHAVV GARG,Shaheed Sukhdev College of Business Studies,8.73,8.45,8.93,9.00,8.800
-18067535057,RAHUL R,Shaheed Sukhdev College of Business Studies,6.64,6.27,6.29,6.07,6.300
-18067535058,RAJIT AHUJA,Shaheed Sukhdev College of Business Studies,6.82,6.73,6.93,6.79,6.820
-18067535059,RITIK RUSTAGI,Shaheed Sukhdev College of Business Studies,8.45,8.82,8.86,9.00,8.800
-18067535060,SAGNIK MONGA,Shaheed Sukhdev College of Business Studies,8.18,8.18,8.50,9.79,8.720
-18067535061,SAKSHAM JAIN,Shaheed Sukhdev College of Business Studies,8.73,8.45,8.36,8.21,8.420
-18067535062,SAMEER NAIDU BADE,Shaheed Sukhdev College of Business Studies,5.55,6.09,6.14,7.36,6.340
-18067535063,SANAL KUMAR,Shaheed Sukhdev College of Business Studies,9.27,8.45,7.14,6.86,7.820
-18067535064,SANDEEP KUMAR SORENG,Shaheed Sukhdev College of Business Studies,4.00,4.00,3.14,3.64,3.660
-18067535065,SARTHAK KAUSHIK,Shaheed Sukhdev College of Business Studies,8.82,8.82,9.00,9.00,8.920
-18067535066,SAVVY KHANNA,Shaheed Sukhdev College of Business Studies,9.00,9.64,8.36,9.57,9.120
-18067535067,SHAURYA SONI,Shaheed Sukhdev College of Business Studies,8.55,9.00,8.57,8.79,8.720
-18067535068,SHIV KUMAR,Shaheed Sukhdev College of Business Studies,5.09,5.64,5.29,6.36,5.620
-18067535069,SHREYAN PURI,Shaheed Sukhdev College of Business Studies,9.27,9.27,8.50,9.14,9.020
-18067535070,SHRUTI GUPTA,Shaheed Sukhdev College of Business Studies,9.27,9.55,9.00,9.57,9.340
-18067535071,SHUBH GOEL,Shaheed Sukhdev College of Business Studies,9.55,9.27,8.57,8.93,9.040
-18067535072,SHUBHAM ATAL,Shaheed Sukhdev College of Business Studies,7.18,6.45,6.50,7.93,7.040
-18067535073,SIDDHARTH NIMMAKAYALA,Shaheed Sukhdev College of Business Studies,6.27,8.55,6.93,8.14,7.480
-18067535075,SIMAR SINGH GULATI,Shaheed Sukhdev College of Business Studies,9.00,9.64,8.00,8.93,8.840
-18067535077,SNEHA GIDWANI,Shaheed Sukhdev College of Business Studies,7.64,8.27,7.50,8.14,7.880
-18067535078,SPARSH SEHGAL,Shaheed Sukhdev College of Business Studies,9.00,7.91,8.36,9.36,8.680
-18067535079,SUKHMAN ARORA,Shaheed Sukhdev College of Business Studies,9.55,10.00,9.43,10.00,9.740
-18067535080,SWASTIK MITTAL,Shaheed Sukhdev College of Business Studies,8.73,8.27,7.57,8.21,8.160
-18067535081,TANISHKA CHADHA,Shaheed Sukhdev College of Business Studies,8.00,6.91,8.21,9.14,8.140
-18067535082,TANISHQ KANSAL,Shaheed Sukhdev College of Business Studies,8.55,9.64,8.43,9.00,8.880
-18067535083,TANYA BATRA,Shaheed Sukhdev College of Business Studies,9.00,7.82,7.79,8.07,8.140
-18067535084,VAIBHAV ROHILLA,Shaheed Sukhdev College of Business Studies,8.18,8.27,7.79,8.36,8.140
-18067535085,VANSHIKA GUPTA,Shaheed Sukhdev College of Business Studies,8.27,8.55,8.14,8.71,8.420
-18067535086,VISHAL KUMAR,Shaheed Sukhdev College of Business Studies,7.45,6.18,6.50,7.14,6.820
-18067535087,VISHESH GAUTAM,Shaheed Sukhdev College of Business Studies,6.36,6.36,6.64,7.50,6.760
-18067535088,YASH VERMA,Shaheed Sukhdev College of Business Studies,8.82,8.82,8.14,8.57,8.560
-18067535089,YOGESH DHANKHAR,Shaheed Sukhdev College of Business Studies,6.64,7.00,6.93,7.93,7.160
-18067535090,AANAND NEGI,Shaheed Sukhdev College of Business Studies,7.36,7.00,6.43,7.36,7.020
-18067535091,ANUBHAV SINGH,Shaheed Sukhdev College of Business Studies,5.09,4.36,4.07,6.14,4.940
-18067535092,CHANCHAL,Shaheed Sukhdev College of Business Studies,6.91,7.45,6.79,7.79,7.240
-18067535093,SIMRAN VATS,Shaheed Sukhdev College of Business Studies,6.91,7.73,7.29,7.57,7.380
-18067535094,YASH CHANDRA,Shaheed Sukhdev College of Business Studies,5.27,6.00,5.29,6.93,5.900
-18067535095,JATIN,Shaheed Sukhdev College of Business Studies,6.64,7.00,7.36,8.57,7.460
-18067535096,SHAILENDER,Shaheed Sukhdev College of Business Studies,5.64,6.27,5.50,7.14,6.160
-18067535097,AMOGH SINHA,Shaheed Sukhdev College of Business Studies,7.91,9.36,8.57,9.00,8.720
-18067535098,AYUSH GUPTA,Shaheed Sukhdev College of Business Studies,9.00,9.09,8.43,9.00,8.860
-18066535001,AIMEN AZIZ,Shaheed Rajguru College of Applied Sciences for Women,6.64,7.64,7.07,8.14,7.400
-18066535002,ANISHA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,8.73,7.91,7.64,8.79,8.260
-18066535003,ANSHU MALHOTRA,Shaheed Rajguru College of Applied Sciences for Women,8.82,9.27,8.29,8.57,8.700
-18066535004,ANUBHUTI VERMA,Shaheed Rajguru College of Applied Sciences for Women,7.55,7.73,6.64,7.79,7.400
-18066535005,ARCHI JAIN,Shaheed Rajguru College of Applied Sciences for Women,8.55,8.73,8.36,9.00,8.660
-18066535006,DEEPIKA SHEOKAND,Shaheed Rajguru College of Applied Sciences for Women,9.09,9.00,7.64,8.79,8.580
-18066535007,DEEPSHIKHA,Shaheed Rajguru College of Applied Sciences for Women,5.73,5.27,5.00,6.93,5.760
-18066535008,DIVYANSHI JAISWAL,Shaheed Rajguru College of Applied Sciences for Women,4.91,3.91,4.57,5.93,4.880
-18066535009,GUNJAN GOEL,Shaheed Rajguru College of Applied Sciences for Women,9.55,10.00,8.93,9.14,9.360
-18066535010,HARLEEN KAUR,Shaheed Rajguru College of Applied Sciences for Women,6.73,7.45,6.21,7.29,6.900
-18066535011,HARSHITA  SINGHAL,Shaheed Rajguru College of Applied Sciences for Women,7.18,9.00,7.29,8.00,7.840
-18066535012,HRISHITA ANAND,Shaheed Rajguru College of Applied Sciences for Women,7.55,7.91,6.86,8.14,7.600
-18066535013,JAISVEEN KAUR KOHLI,Shaheed Rajguru College of Applied Sciences for Women,7.82,9.55,8.50,8.79,8.660
-18066535014,KHUSHBOO  YADAV,Shaheed Rajguru College of Applied Sciences for Women,7.64,7.91,6.86,7.57,7.460
-18066535015,MANSI MATHUR,Shaheed Rajguru College of Applied Sciences for Women,9.36,9.45,8.50,8.57,8.920
-18066535016,MUSKAN   JAIN,Shaheed Rajguru College of Applied Sciences for Women,8.27,9.27,8.36,9.00,8.720
-18066535017,NANCY YADAV,Shaheed Rajguru College of Applied Sciences for Women,5.64,6.91,5.64,6.79,6.240
-18066535018,NANDINI GAUTAM,Shaheed Rajguru College of Applied Sciences for Women,4.73,4.27,5.43,6.43,5.300
-18066535019,NANDINI VISHNOI,Shaheed Rajguru College of Applied Sciences for Women,9.09,9.18,8.50,9.36,9.020
-18066535020,NISHITA MANGLA,Shaheed Rajguru College of Applied Sciences for Women,7.18,6.36,6.64,8.36,7.180
-18066535021,PALAK GARG,Shaheed Rajguru College of Applied Sciences for Women,8.00,9.00,7.29,7.93,8.000
-18066535022,PALLUCK MANOCHA,Shaheed Rajguru College of Applied Sciences for Women,8.82,8.45,8.50,8.93,8.680
-18066535023,POOJA VERMA,Shaheed Rajguru College of Applied Sciences for Women,5.91,4.55,5.79,7.00,5.880
-18066535024,PRIYA THAKUR,Shaheed Rajguru College of Applied Sciences for Women,6.64,8.45,7.00,8.00,7.520
-18066535025,PRIYAL ARHATIA,Shaheed Rajguru College of Applied Sciences for Women,5.82,6.64,5.36,7.57,6.360
-18066535026,PRIYANKA,Shaheed Rajguru College of Applied Sciences for Women,3.82,5.91,6.07,7.36,5.900
-18066535027,RHYTHM TANEJA,Shaheed Rajguru College of Applied Sciences for Women,7.73,8.73,7.29,8.36,8.000
-18066535028,RHYTHM VERMA,Shaheed Rajguru College of Applied Sciences for Women,5.18,6.36,5.86,7.29,6.220
-18066535029,RIYA SINGH,Shaheed Rajguru College of Applied Sciences for Women,9.36,9.82,8.93,9.57,9.400
-18066535030,RUDRAKSHI,Shaheed Rajguru College of Applied Sciences for Women,6.18,6.18,6.64,7.57,6.700
-18066535031,SAKSHI BHASIN,Shaheed Rajguru College of Applied Sciences for Women,6.64,5.82,5.86,7.14,6.380
-18066535032,SAKSHI SAGAR,Shaheed Rajguru College of Applied Sciences for Women,6.64,6.36,5.36,7.71,6.520
-18066535033,SHIVIKA UPADHYAY,Shaheed Rajguru College of Applied Sciences for Women,9.27,7.82,8.07,8.71,8.460
-18066535034,SHREYA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,8.73,8.45,7.93,8.71,8.440
-18066535035,SHREYA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,6.64,6.64,6.64,7.57,6.900
-18066535036,SNIGDHA BHATNAGAR,Shaheed Rajguru College of Applied Sciences for Women,7.36,6.82,7.07,8.57,7.500
-18066535037,SONALI GOEL,Shaheed Rajguru College of Applied Sciences for Women,8.73,9.18,8.50,9.14,8.880
-18066535038,SRISHTI ARORA,Shaheed Rajguru College of Applied Sciences for Women,9.36,9.09,8.93,9.57,9.240
-18066535039,SRISHTI GURUNG,Shaheed Rajguru College of Applied Sciences for Women,4.27,5.82,4.21,6.93,5.340
-18066535040,TISHA TAYAL,Shaheed Rajguru College of Applied Sciences for Women,9.09,8.73,8.93,8.57,8.820
-18066535041,UPASONA DASGUPTA,Shaheed Rajguru College of Applied Sciences for Women,5.91,4.18,6.43,7.36,6.080
-18066535042,VERNIKA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,7.18,7.36,7.29,7.93,7.460
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Overall CGPA
+18067535001,AANCHAL BHATT,Shaheed Sukhdev College of Business Studies,6.91,7.18,6.07,5.36,9.50,6.919
+18067535002,AASHISH KUMAR,Shaheed Sukhdev College of Business Studies,7.36,4.73,7.07,8.14,9.25,7.371
+18067535003,ABHI BANSAL,Shaheed Sukhdev College of Business Studies,9.45,10.00,9.57,10.00,9.00,9.613
+18067535004,ADIT CHOPRA,Shaheed Sukhdev College of Business Studies,8.73,9.55,9.43,10.00,9.25,9.419
+18067535005,ANMOL BHOLA,Shaheed Sukhdev College of Business Studies,7.18,8.00,7.36,7.57,9.25,7.855
+18067535006,ARNAV SINGH MUSAFIR,Shaheed Sukhdev College of Business Studies,5.91,4.00,6.07,1.57,8.75,5.177
+18067535007,ARPIT JAIN,Shaheed Sukhdev College of Business Studies,9.27,9.82,9.14,9.57,10.00,9.548
+18067535008,ARYAMAN WADHWA,Shaheed Sukhdev College of Business Studies,6.82,8.27,8.14,9.14,9.00,8.323
+18067535009,ASHISH KUMAR,Shaheed Sukhdev College of Business Studies,5.55,5.18,7.21,6.93,8.75,6.790
+18067535010,ASHISH PALIWAL,Shaheed Sukhdev College of Business Studies,5.91,5.36,5.29,5.93,9.25,6.323
+18067535011,ASHWIN SAJAYAN,Shaheed Sukhdev College of Business Studies,5.64,6.82,6.79,4.71,8.50,6.452
+18067535012,AVIRAL SAXENA,Shaheed Sukhdev College of Business Studies,6.91,8.73,7.93,8.57,9.25,8.290
+18067535013,AYUSH KUMAR,Shaheed Sukhdev College of Business Studies,6.36,6.45,8.07,6.79,9.00,7.371
+18067535014,AYUSH JAISWAL,Shaheed Sukhdev College of Business Studies,7.09,8.00,8.14,8.57,9.75,8.339
+18067535015,AYUSHMAN JAIN,Shaheed Sukhdev College of Business Studies,6.91,7.91,8.36,6.50,9.50,7.823
+18067535016,BHAVYA KAPUR,Shaheed Sukhdev College of Business Studies,7.64,10.00,8.79,9.00,9.00,8.887
+18067535017,BHAWISHYA,Shaheed Sukhdev College of Business Studies,7.45,8.18,7.71,8.21,9.75,8.258
+18067535018,BHOOMI YADAV,Shaheed Sukhdev College of Business Studies,6.82,6.45,7.36,7.14,9.50,7.468
+18067535019,BHUMIKA MITTAL,Shaheed Sukhdev College of Business Studies,7.91,8.45,8.36,9.14,9.50,8.694
+18067535021,DEBASHISH RAY,Shaheed Sukhdev College of Business Studies,6.55,8.73,6.93,7.93,9.00,7.806
+18067535022,DHRUV KUMAR,Shaheed Sukhdev College of Business Studies,7.36,7.09,7.57,6.93,9.50,7.677
+18067535023,DORJEE TSETEN BODH,Shaheed Sukhdev College of Business Studies,5.36,5.45,5.29,4.86,8.75,5.903
+18067535024,EESHAN ARORA,Shaheed Sukhdev College of Business Studies,8.18,7.27,7.93,8.79,9.50,8.355
+18067535026,FERDOWS FEROZI,Shaheed Sukhdev College of Business Studies,5.18,5.55,6.07,5.93,9.50,6.452
+18067535027,GANDHARV KAINTH,Shaheed Sukhdev College of Business Studies,6.09,6.45,5.50,5.71,9.50,6.597
+18067535028,GAURVI RUSTAGI,Shaheed Sukhdev College of Business Studies,7.36,7.09,7.14,8.14,9.50,7.855
+18067535029,GURJAS SINGH BATRA,Shaheed Sukhdev College of Business Studies,7.09,8.36,7.14,8.00,9.50,8.000
+18067535031,HARLEEN KAUR,Shaheed Sukhdev College of Business Studies,8.45,8.73,8.14,8.36,9.00,8.516
+18067535032,HEENA VERMA,Shaheed Sukhdev College of Business Studies,9.36,10.00,8.79,9.79,9.25,9.419
+18067535033,HIMANSHU CHAWLA,Shaheed Sukhdev College of Business Studies,8.73,8.73,8.21,8.79,10.00,8.871
+18067535034,HRITHIK SAMMI,Shaheed Sukhdev College of Business Studies,7.36,7.73,7.57,8.14,9.25,8.016
+18067535035,JATIN KUMAR,Shaheed Sukhdev College of Business Studies,6.64,7.55,6.50,7.57,9.00,7.435
+18067535036,JAYANT KUMAR,Shaheed Sukhdev College of Business Studies,7.45,8.45,8.71,7.14,9.50,8.242
+18067535037,JUSTIN LUAITHANG,Shaheed Sukhdev College of Business Studies,6.27,7.18,8.21,6.79,9.75,7.661
+18067535038,KARTIKEYA SACHDEVA,Shaheed Sukhdev College of Business Studies,7.64,8.09,7.71,8.14,8.50,8.016
+18067535039,KASHISH DHINGRA,Shaheed Sukhdev College of Business Studies,9.00,9.00,8.14,8.79,9.75,8.903
+18067535041,KUMAR SAURAV,Shaheed Sukhdev College of Business Studies,6.09,8.55,7.14,7.93,9.25,7.790
+18067535042,KUSH BANSAL,Shaheed Sukhdev College of Business Studies,7.91,9.00,8.79,9.14,10.00,8.984
+18067535043,MALLIKA MEHROTRA,Shaheed Sukhdev College of Business Studies,10.00,9.82,9.36,10.00,9.50,9.726
+18067535044,MANSI RAI,Shaheed Sukhdev College of Business Studies,8.73,8.55,8.64,9.36,9.75,9.016
+18067535045,NAVEEN KUMAR,Shaheed Sukhdev College of Business Studies,5.91,6.18,5.64,6.29,8.75,6.532
+18067535047,NIDHI KAUSHIK,Shaheed Sukhdev College of Business Studies,9.18,9.73,9.00,9.79,9.25,9.387
+18067535048,NISHEETH NAGAR,Shaheed Sukhdev College of Business Studies,9.00,9.82,8.79,9.79,9.25,9.323
+18067535049,PARINEETA VERMA,Shaheed Sukhdev College of Business Studies,8.18,6.73,7.71,8.43,9.00,8.032
+18067535050,PARNIKA SRIVASTAVA,Shaheed Sukhdev College of Business Studies,9.45,9.09,8.57,8.79,9.50,9.048
+18067535051,PERIWINKLE SHERGILL,Shaheed Sukhdev College of Business Studies,6.91,7.45,7.50,7.79,9.00,7.742
+18067535052,PRAGYA PRAJAPATI,Shaheed Sukhdev College of Business Studies,8.73,9.27,8.00,7.93,9.25,8.581
+18067535053,PRAKRITI KHURANA,Shaheed Sukhdev College of Business Studies,8.73,9.55,8.71,9.57,9.50,9.210
+18067535054,PRATEEK PAL,Shaheed Sukhdev College of Business Studies,6.91,6.91,7.79,6.50,9.00,7.419
+18067535055,RAGHAV NATH,Shaheed Sukhdev College of Business Studies,8.18,9.55,9.36,9.79,9.50,9.306
+18067535056,RAGHAVV GARG,Shaheed Sukhdev College of Business Studies,8.73,8.45,8.93,9.00,10.00,9.032
+18067535057,RAHUL R,Shaheed Sukhdev College of Business Studies,6.64,6.27,6.29,6.07,9.50,6.919
+18067535058,RAJIT AHUJA,Shaheed Sukhdev College of Business Studies,6.82,6.73,6.93,6.79,9.50,7.339
+18067535059,RITIK RUSTAGI,Shaheed Sukhdev College of Business Studies,8.45,8.82,8.86,9.00,9.50,8.935
+18067535061,SAKSHAM JAIN,Shaheed Sukhdev College of Business Studies,8.73,8.45,8.36,8.21,9.50,8.629
+18067535062,SAMEER NAIDU BADE,Shaheed Sukhdev College of Business Studies,5.55,6.09,6.14,7.36,9.25,6.903
+18067535063,SANAL KUMAR,Shaheed Sukhdev College of Business Studies,9.27,8.45,7.79,6.86,8.75,8.145
+18067535064,SANDEEP KUMAR SORENG,Shaheed Sukhdev College of Business Studies,5.64,4.00,7.00,3.64,8.25,5.710
+18067535065,SARTHAK KAUSHIK,Shaheed Sukhdev College of Business Studies,8.82,8.82,9.00,9.00,9.25,8.984
+18067535066,SAVVY KHANNA,Shaheed Sukhdev College of Business Studies,9.00,9.64,8.36,9.57,9.25,9.145
+18067535067,SHAURYA SONI,Shaheed Sukhdev College of Business Studies,8.55,9.00,8.57,8.79,9.50,8.871
+18067535068,SHIV KUMAR,Shaheed Sukhdev College of Business Studies,5.09,5.64,5.29,6.36,8.75,6.226
+18067535069,SHREYAN PURI,Shaheed Sukhdev College of Business Studies,9.27,9.27,8.50,9.14,10.00,9.210
+18067535070,SHRUTI GUPTA,Shaheed Sukhdev College of Business Studies,9.27,9.55,9.00,9.57,9.75,9.419
+18067535071,SHUBH GOEL,Shaheed Sukhdev College of Business Studies,9.55,9.27,8.57,8.93,9.25,9.081
+18067535072,SHUBHAM ATAL,Shaheed Sukhdev College of Business Studies,7.18,6.45,7.36,7.93,9.00,7.613
+18067535073,SIDDHARTH NIMMAKAYALA,Shaheed Sukhdev College of Business Studies,6.27,8.55,6.93,8.14,9.25,7.823
+18067535075,SIMAR SINGH GULATI,Shaheed Sukhdev College of Business Studies,9.00,9.64,8.00,8.93,9.00,8.871
+18067535077,SNEHA GIDWANI,Shaheed Sukhdev College of Business Studies,7.64,8.27,8.36,8.14,9.25,8.339
+18067535078,SPARSH SEHGAL,Shaheed Sukhdev College of Business Studies,9.00,7.91,8.36,9.36,9.75,8.887
+18067535079,SUKHMAN ARORA,Shaheed Sukhdev College of Business Studies,9.55,10.00,9.43,10.00,9.25,9.645
+18067535080,SWASTIK MITTAL,Shaheed Sukhdev College of Business Studies,8.73,8.27,7.79,8.21,9.50,8.468
+18067535081,TANISHKA CHADHA,Shaheed Sukhdev College of Business Studies,8.00,6.91,8.21,9.14,9.50,8.403
+18067535082,TANISHQ KANSAL,Shaheed Sukhdev College of Business Studies,8.55,9.64,8.43,9.00,9.25,8.952
+18067535083,TANYA BATRA,Shaheed Sukhdev College of Business Studies,9.00,7.82,7.79,8.07,9.25,8.355
+18067535085,VANSHIKA GUPTA,Shaheed Sukhdev College of Business Studies,8.27,8.55,8.14,8.71,9.75,8.677
+18067535086,VISHAL KUMAR,Shaheed Sukhdev College of Business Studies,7.45,6.18,6.50,7.14,9.25,7.290
+18067535087,VISHESH GAUTAM,Shaheed Sukhdev College of Business Studies,6.36,6.36,6.64,7.50,9.25,7.242
+18067535088,YASH VERMA,Shaheed Sukhdev College of Business Studies,8.82,8.82,8.14,8.57,9.25,8.694
+18067535089,YOGESH DHANKHAR,Shaheed Sukhdev College of Business Studies,6.64,7.00,6.93,7.93,9.50,7.613
+18067535090,AANAND NEGI,Shaheed Sukhdev College of Business Studies,7.36,7.00,8.36,7.36,9.00,7.839
+18067535091,ANUBHAV SINGH,Shaheed Sukhdev College of Business Studies,5.09,4.36,5.57,6.14,8.75,6.016
+18067535092,CHANCHAL,Shaheed Sukhdev College of Business Studies,6.91,7.45,6.79,7.79,8.50,7.484
+18067535093,SIMRAN VATS,Shaheed Sukhdev College of Business Studies,6.91,7.73,7.29,7.57,9.25,7.742
+18067535094,YASH CHANDRA,Shaheed Sukhdev College of Business Studies,5.27,6.00,5.29,6.93,8.50,6.403
+18067535095,JATIN,Shaheed Sukhdev College of Business Studies,6.64,7.00,8.00,8.57,9.00,7.903
+18067535096,SHAILENDER,Shaheed Sukhdev College of Business Studies,5.64,6.27,6.36,7.14,9.00,6.903
+18067535097,AMOGH SINHA,Shaheed Sukhdev College of Business Studies,7.91,9.36,8.57,9.00,9.25,8.823
+18067535098,AYUSH GUPTA,Shaheed Sukhdev College of Business Studies,9.00,9.09,8.64,9.00,9.25,8.984
+18066535001,AIMEN AZIZ,Shaheed Rajguru College of Applied Sciences for Women,6.64,7.64,7.07,8.14,9.00,7.710
+18066535002,ANISHA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,8.73,7.91,7.64,8.79,9.00,8.403
+18066535003,ANSHU MALHOTRA,Shaheed Rajguru College of Applied Sciences for Women,8.82,9.27,8.29,8.57,8.75,8.710
+18066535004,ANUBHUTI VERMA,Shaheed Rajguru College of Applied Sciences for Women,7.55,7.73,6.64,7.79,8.75,7.661
+18066535005,ARCHI JAIN,Shaheed Rajguru College of Applied Sciences for Women,8.55,8.73,8.36,9.00,9.50,8.823
+18066535006,DEEPIKA SHEOKAND,Shaheed Rajguru College of Applied Sciences for Women,9.09,9.00,7.64,8.79,9.50,8.758
+18066535007,DEEPSHIKHA,Shaheed Rajguru College of Applied Sciences for Women,5.73,5.27,5.00,6.93,7.75,6.145
+18066535008,DIVYANSHI JAISWAL,Shaheed Rajguru College of Applied Sciences for Women,4.91,3.91,5.86,5.93,8.75,5.919
+18066535009,GUNJAN GOEL,Shaheed Rajguru College of Applied Sciences for Women,9.55,10.00,8.93,9.14,8.75,9.242
+18066535010,HARLEEN KAUR,Shaheed Rajguru College of Applied Sciences for Women,6.73,7.45,6.21,7.29,8.50,7.210
+18066535011,HARSHITA  SINGHAL,Shaheed Rajguru College of Applied Sciences for Women,7.18,9.00,7.93,8.00,8.75,8.161
+18066535012,HRISHITA ANAND,Shaheed Rajguru College of Applied Sciences for Women,7.55,7.91,6.86,8.14,9.25,7.919
+18066535013,JAISVEEN KAUR KOHLI,Shaheed Rajguru College of Applied Sciences for Women,7.82,9.55,8.50,8.79,9.25,8.774
+18066535014,KHUSHBOO  YADAV,Shaheed Rajguru College of Applied Sciences for Women,7.64,7.91,6.86,7.57,8.75,7.710
+18066535015,MANSI MATHUR,Shaheed Rajguru College of Applied Sciences for Women,9.36,9.45,8.50,8.57,9.00,8.935
+18066535016,MUSKAN   JAIN,Shaheed Rajguru College of Applied Sciences for Women,8.27,9.27,8.36,9.00,9.25,8.823
+18066535017,NANCY YADAV,Shaheed Rajguru College of Applied Sciences for Women,5.64,6.91,5.64,6.79,8.50,6.677
+18066535018,NANDINI GAUTAM,Shaheed Rajguru College of Applied Sciences for Women,4.73,4.27,5.43,6.43,8.00,5.823
+18066535019,NANDINI VISHNOI,Shaheed Rajguru College of Applied Sciences for Women,9.09,9.18,8.50,9.36,8.75,8.968
+18066535020,NISHITA MANGLA,Shaheed Rajguru College of Applied Sciences for Women,7.18,6.36,6.64,8.36,8.75,7.484
+18066535022,PALLUCK MANOCHA,Shaheed Rajguru College of Applied Sciences for Women,8.82,8.45,8.50,8.93,8.50,8.645
+18066535023,POOJA VERMA,Shaheed Rajguru College of Applied Sciences for Women,5.91,4.55,5.79,7.00,7.75,6.242
+18066535024,PRIYA THAKUR,Shaheed Rajguru College of Applied Sciences for Women,6.64,8.45,7.00,8.00,8.00,7.613
+18066535025,PRIYAL ARHATIA,Shaheed Rajguru College of Applied Sciences for Women,5.82,6.64,6.64,7.57,9.00,7.161
+18066535026,PRIYANKA,Shaheed Rajguru College of Applied Sciences for Women,5.73,5.91,6.07,7.36,7.75,6.597
+18066535027,RHYTHM TANEJA,Shaheed Rajguru College of Applied Sciences for Women,7.73,8.73,7.29,8.36,9.00,8.194
+18066535028,RHYTHM VERMA,Shaheed Rajguru College of Applied Sciences for Women,5.18,6.36,5.86,7.29,8.50,6.661
+18066535029,RIYA SINGH,Shaheed Rajguru College of Applied Sciences for Women,9.36,9.82,8.93,9.57,9.00,9.323
+18066535030,RUDRAKSHI,Shaheed Rajguru College of Applied Sciences for Women,6.18,6.18,6.64,7.57,7.50,6.855
+18066535031,SAKSHI BHASIN,Shaheed Rajguru College of Applied Sciences for Women,6.64,5.82,5.86,7.14,8.75,6.839
+18066535032,SAKSHI SAGAR,Shaheed Rajguru College of Applied Sciences for Women,6.64,6.36,7.07,7.71,9.25,7.435
+18066535033,SHIVIKA UPADHYAY,Shaheed Rajguru College of Applied Sciences for Women,9.27,7.82,8.07,8.71,9.00,8.565
+18066535034,SHREYA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,8.73,8.45,7.93,8.71,8.25,8.403
+18066535035,SHREYA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,6.64,6.64,7.29,7.57,8.75,7.403
+18066535036,SNIGDHA BHATNAGAR,Shaheed Rajguru College of Applied Sciences for Women,7.36,6.82,7.07,8.57,9.00,7.790
+18066535037,SONALI GOEL,Shaheed Rajguru College of Applied Sciences for Women,8.73,9.18,8.50,9.14,8.75,8.855
+18066535038,SRISHTI ARORA,Shaheed Rajguru College of Applied Sciences for Women,9.36,9.09,8.93,9.57,9.75,9.339
+18066535039,SRISHTI GURUNG,Shaheed Rajguru College of Applied Sciences for Women,6.18,5.82,5.93,6.93,9.00,6.774
+18066535041,UPASONA DASGUPTA,Shaheed Rajguru College of Applied Sciences for Women,5.91,4.18,6.43,7.36,8.00,6.452
+18066535042,VERNIKA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,7.18,7.36,7.29,7.93,9.75,7.903

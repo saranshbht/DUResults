@@ -1,66 +1,62 @@
-RollNo,Name,College,LANGUAGE LITERATURE AND CULTURE,"THEORY OF INDIAN MUSIC (GENERAL) & BIOGRAPHIES OF MUSICIANS, COMPOSERS & MUSICOLOGISTS.",STAGE PERFORMANCE AND VIVA VOCE,ENGLISH-A,PATKETHA TATHA SANVAD LEKHEN,THEORY OF INDIAN MUSIC,PRACTICAL (UNIT-II),ENVIRONMENTAL SCIENCE,BHASHA AUR SAMAJ,HISTORICAL STUDY OF THE MUSICAL TERMS,STAGE PERFORMANCE,VIVA-VOCE,THUMRI-DADRA COURSE IN HUNDUSTANI MUSIC,HINDI KA VESHVIK PARIDRISHYE,LIFE & CONTRIBUTION OF MUSICIANS AND MUSICOLOGISTS,VIVA VOCE,TABLA COURSE FOR SKILL ENHANCEMENT COURSE - I,TABLA COURSE FOR SKILL ENHANCEMENT COURSE - III,MEDIA AND COMMUNICATION SKILLS,CONTEMPORARY INDIA: WOMEN AND EMPOWERMENT,ACADEMIC WRITING AND COMPOSITION,HARMONIUM COURSE FOR SKILL ENHANCEMENT COU,HARMONIUM COURSE FOR SKILL ENHANCEMENT COURSE - III,VIOLIN (KARNATAK) COURSE FOR SKILL ENHANCEMENT COURSE - I,VIOLIN (KARNATAK) COURSE FOR SKILL ENHANCEMENT COURSE - III,INTRODUCTION TO PHYSICAL EDUCATION IN THE CONTEMPORARY CONTEXT,"FITNESS, WELLNESS AND NUTRITION","PHYSICAL EDUCATION-III: HEALTH EDUCATION, ANATOMY AND PHYSIOLOGY","PHYSICAL EDUCATION-IV: POSTURE, ATHLETIC CARE AND FIRST AID",LOKPRIYE SAHITYA,HINDI BHASHA AUR SANSPRESHAN,CALCULUS,INTRODUCTORY MICROECONOMICS-ECONOMICS-I,BASIC PRINCIPLES OF INDIAN MEDICINE SYSTEM (AYURVEDA),UNDERSTANDING AMBEDKAR,NITI LITERATURE,POLITICS OF GLOBALIZATION,NATIONALISM IN INDIA,PSYCHOLOGY AT WORK,"INDIVIDUAL, FAMILY AND COMMUNITY IN INDIAN SOCIAL THOUGHT",INDIAN EPIGRAPHY & PALEOGRAPHY,FUNDAMENTALS OF INDIAN PHILOSOPHY,GANDHI AND THE CONTEMPORARY WORLD,HINDI ME VEYAVVHARIK ANUVAD,HINDI CINEMA AUR USKA ADHYAYAN,TEXT AND PERFORMANCE,DELHI THROUGH THE AGES,ETHICS IN PUBLIC DOMAIN,INDIAN SOCIETY: IMAGES AND REALITIES,"FOOD, NUTRITION AND HEALTH",AQUATIC BIOLOGY,READINGS IN INDIAN DIVERSITIES AND LITERARY MOVEMENT
-18047523001,ANCHAL TRIPATHI,Miranda House,4,6,6,7,5,9,8,4,5,7,7,7,8,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18047523002,ARTI SINGH,Miranda House,5,7,7,8,6,10,10,6,5,9,7,7,,7,8,7,9,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18047523003,ARYA NANDINI,Miranda House,6,7,7,7,,9,10,8,,7,8,6,,,7,7,7,7,5,6,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18047523004,DIKSHA VISHVAKARMA,Miranda House,6,6,6,8,6,7,10,7,7,6,7,4,,7,6,7,,,,,,7,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18047523005,HURIYA ZAMIR,Miranda House,5,4,7,6,4,5,6,4,4,5,6,4,7,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18047523006,SHIKHA TRIPATHI,Miranda House,4,6,7,7,6,8,7,5,6,8,7,6,8,7,8,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18047523007,PALLAVI GUPTA,Miranda House,4,7,7,8,5,9,6,5,4,8,7,6,,7,8,6,8,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18047523008,POOJA BAJAJ,Miranda House,4,5,5,6,4,5,4,6,0,0,4,4,,5,0,4,,,,,,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18047523009,SIYAMBALAGASPITIYA MUDIYANSELAGE SATHSARANI SAJEEWA MOLAGODA,Miranda House,5,7,7,9,,8,8,6,,7,7,6,,,8,6,,,4,6,8,,,8,8,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18047523010,STANZIN GARSKIT,Miranda House,6,6,6,9,,5,4,7,,5,5,4,,,7,5,,,5,7,7,,,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18047523011,SWETALIN PATTANAIK,Miranda House,6,9,8,9,,10,10,8,,9,9,8,,,8,8,9,9,5,7,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18047523012,TANYA,Miranda House,5,6,6,8,,8,8,7,,6,7,4,7,,7,6,,,5,7,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18047523013,VYAKHYA,Miranda House,6,5,8,9,,6,10,7,,7,8,7,7,,7,8,,,5,6,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18056523001,ADNAN HUSSAIN,Ramjas College,,6,8,5,,9,10,6,,7,8,8,8,,8,7,,,,,,,,,,5,6,6,8,,,,,,,,,,,,,,,,,,,,,,,
-18056523002,SHUDHANSHU SINGH,Ramjas College,,6,6,6,,7,9,8,,8,8,7,,,8,7,,,,,,8,7,,,4,6,6,8,,,,,,,,,,,,,,,,,,,,,,,
-18056523003,DASHRATH PASWAN,Ramjas College,,7,6,,6,6,5,6,5,7,6,4,,7,6,6,,,,,,6,6,,,,,,,8,6,,,,,,,,,,,,,,,,,,,,,
-18056523004,SHUBHAM KUMAR MISHRA,Ramjas College,,5,8,5,,4,10,6,,5,8,7,,,6,8,,,,,,8,7,,,6,6,6,8,,,,,,,,,,,,,,,,,,,,,,,
-18056523006,AVNISH JHA,Ramjas College,,6,8,6,,10,10,6,,7,8,8,,,7,7,8,8,,,,,,,,5,7,6,9,,,,,,,,,,,,,,,,,,,,,,,
-18056523007,KAMAL,Ramjas College,,6,8,,7,8,10,7,6,8,8,7,,9,7,7,,,,,,9,7,,,,,,,8,6,,,,,,,,,,,,,,,,,,,,,
-18056523008,AKASH SHARMA,Ramjas College,,7,7,6,,7,10,7,,8,8,8,9,,8,8,,,,,,,,,,8,7,7,9,,,,,,,,,,,,,,,,,,,,,,,
-18056523009,SURAJ VERMA,Ramjas College,,0,7,,7,9,9,9,6,0,6,4,,7,5,6,,,,,,0,4,,,,,,,6,7,,,,,,,,,,,,,,,,,,,,,
-18056523010,SHATAKSHI PANCHAL,Ramjas College,,4,6,4,,6,7,5,,7,7,6,7,,7,7,,,,,,,,,,4,6,6,8,,,,,,,,,,,,,,,,,,,,,,,
-18056523011,SUSHANT SATHU,Ramjas College,,6,9,8,,9,10,9,,9,9,9,,,9,9,9,9,,,,,,,,,7,8,9,,,8,,,,,,,,,,,,,,,,,,,,
-18056523012,TARUN SINGH YADAV,Ramjas College,,6,6,7,6,10,6,7,6,7,6,4,,8,8,5,8,7,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,
-18056523013,SARVSHRESHTHA MISHRA,Ramjas College,,8,9,,8,10,10,9,7,9,9,9,9,10,8,9,,,,,,,,,,,,,,8,8,,,,,,,,,,,,,,,,,,,,,
-18056523014,MANAN PANT,Ramjas College,,5,8,,4,7,10,6,5,7,8,8,,8,7,8,,,,,,8,8,,,,,,,6,6,,,,,,,,,,,,,,,,,,,,,
-18056523015,KUMAR KAUSHAL,Ramjas College,,7,9,6,,10,10,7,,6,8,8,,,8,7,9,8,,,,,,,,4,6,5,8,,,,,,,,,,,,,,,,,,,,,,,
-18056523016,ARYAN ABHISHEK,Ramjas College,,4,7,5,,0,8,8,,6,7,6,,,7,7,5,7,,,,,,,,0,7,6,8,,,,,,,,,,,,,,,,,,,,,,,
-18056523017,BALBIR SINGH,Ramjas College,,5,6,,6,7,7,5,6,5,6,4,,7,6,6,6,6,,,,,,,,,,,,8,7,,,,,,,,,,,,,,,,,,,,,
-18056523018,KULDEEP SAGAR,Ramjas College,,5,5,5,6,7,6,7,6,8,6,4,,7,7,5,7,7,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,
-18056523019,KARTIKEYA NATH TIWARI,Ramjas College,,7,6,7,6,8,6,8,5,6,6,4,6,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,
-18056523020,RAKHI KUMARI,Ramjas College,,6,5,6,,8,6,5,,6,7,4,7,,7,6,,,,,,,,,,6,7,6,5,,,,,,,,,,,,,,,,,,,,,,,
-18056523021,SHIVAM KAPOOR,Ramjas College,,8,6,5,,9,8,7,,7,7,7,,,8,7,7,8,,,,,,,,7,6,7,8,,,,,,,,,,,,,,,,,,,,,,,
-18056523022,CHANDAN KUMAR,Ramjas College,,4,8,,6,6,10,6,6,5,8,7,,8,8,8,,,,,,,,7,7,,,,,5,5,,,,,,,,,,,,,,,,,,,,,
-18056523023,ASGAR ALI,Ramjas College,,5,4,6,,7,4,7,,5,4,0,,,6,4,,,,,,4,0,,,,8,6,7,,,,4,,,,,,,,,,,,,,,,,,,
-18056523024,SAIF ALI KHAN,Ramjas College,,5,5,4,,6,7,6,,5,6,6,,,6,6,6,6,,,,,,,,0,4,5,7,,,,,,,,,,,,,,,,,,,,,,,
-18056523025,SAWAN BOBLA,Ramjas College,,4,6,5,0,4,8,5,4,0,6,5,,7,7,6,,,,,,4,4,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,
-18029523001,ANKITA SAHA,I.P.College For Women,,4,7,,,7,7,4,,8,8,7,,,8,8,,,,,,6,8,,,,,,,,,,,5,5,0,5,7,,,,,,,,,,,,,,
-18029523002,DONA LAKNI RAMALKA EDIRISINGHE,I.P.College For Women,6,6,7,5,,7,10,6,,8,7,6,,,8,7,8,8,,0,4,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,
-18029523003,HUMA RAHIMI,I.P.College For Women,5,4,9,4,,4,10,5,,4,8,8,,,6,8,5,7,,0,4,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,
-18029523004,EESHA SEKHRI,I.P.College For Women,,5,5,,,7,6,7,,5,7,5,7,,6,7,,,,,,,,,,,,,,,,,,6,,5,,,,7,4,7,,,,,,,,,,
-18029523007,ROSHNI,I.P.College For Women,,4,4,,,0,5,5,,0,0,4,,,5,0,,,,,,0,4,,,,,,,,7,,,,4,,4,5,,,,,4,,,,,,,,,
-18029523010,SHRUTI MAUSAM,I.P.College For Women,,6,8,,7,10,10,6,,8,8,8,8,8,8,7,,,,,,,,,,,,,,,8,,,,,,,,,,,,6,5,,,,,,,,
-18026523002,PIYUSH KUMAR,Hindu College,,6,6,6,,9,7,7,,8,7,4,,,7,6,6,5,,,,,,,,7,8,7,7,,,,,,,,,,,,,,,,,,,,,,,
-18026523003,ARYAN SHARMA,Hindu College,,5,0,7,4,7,0,5,,5,6,5,,,7,5,,,,5,,6,5,,,,,,,,,,,,,,,,,,,,,,4,0,,,,,,
-18026523004,RIDHI,Hindu College,,4,5,6,5,6,5,5,,4,5,4,,,7,5,,,,6,,5,6,,,,,,,,,,,,,,,,,,,,,,5,6,,,,,,
-18026523005,ABHISHEK LODHI,Hindu College,,5,7,,,6,6,5,,6,7,5,,,7,7,8,7,,,,,,,,,,6,7,,5,,,,,,6,,,,,,5,,,,,,,,,
-18026523006,KUNAL SAINI,Hindu College,,6,8,6,6,8,9,6,5,7,7,4,,0,7,6,9,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,
-18026523008,MANJOT SINGH,Hindu College,,4,5,5,6,5,5,5,,4,5,4,,,6,5,6,4,,,,,,,,,,7,6,,,,,,,,,,,,,,,,,,,4,,,,
-18026523009,ARUN KUMAR,Hindu College,,6,5,5,,6,5,6,,4,5,4,,,6,5,,,,,,,,7,5,,6,,,,,,,,,,,,,,,,,,,,,,4,0,0,
-18014523001,ADITI SHARMA,Daulat Ram College,5,5,6,5,,8,7,7,,6,7,5,,,7,7,,,,,,8,7,,,,,8,8,,,,,,,,,,,,,,,,,,,,,,,4
-18014523002,AKHAM JULLEE DEVI,Daulat Ram College,6,6,7,6,,9,8,6,,7,7,7,,,7,7,7,7,,,,,,,,,,7,6,,,,,,,,,,,,,,,,,,,,,,,5
-18014523003,GEETIKA KASHYAP,Daulat Ram College,5,5,5,5,,5,5,6,,6,7,4,7,,7,6,,,,,,,,,,,,7,7,,,,,,,,,,,,,,,,,,,,,,,4
-18014523004,KAMINI JOSHI,Daulat Ram College,6,7,9,5,,9,9,6,,8,8,7,,,8,7,8,8,,,,,,,,,,7,8,,,,,,,,,,,,,,,,,,,,,,,4
-18014523005,GUNJAN THAKUR,Daulat Ram College,4,5,5,5,,6,5,6,,7,6,4,,,7,6,,,,,,5,7,,,,,7,8,,,,,,,,,,,,,,,,,,,,,,,5
-18014523006,MRINALI GULATI,Daulat Ram College,6,6,7,7,,9,8,8,,7,7,6,,,7,7,,,,,,7,7,,,,,0,8,,,,,,,,,,,,,,,,,,,,,,,5
-18014523007,PREETI,Daulat Ram College,4,4,6,6,,7,7,8,,7,7,5,,,7,6,,,,,,7,7,,,,,7,7,,,,,,,,,,,,,,,,,,,,,,,4
-18014523008,RADHIKA SHARMA,Daulat Ram College,6,5,6,7,,9,7,7,,7,7,5,,,8,7,,,,,,8,8,,,,,8,8,,,,,,,,,,,,,,,,,,,,,,,4
-18014523009,RANASINGHE BANDARALAGE BUDDHINI CHATHURIKA JAYARATHNE,Daulat Ram College,5,6,7,6,,10,9,6,,8,7,7,,,7,7,,,,,,,,9,9,,,8,9,,,,,,,,,,,,,,,,,,,,,,,4
-18014523010,SAKSHI MISHRA,Daulat Ram College,6,7,8,7,,7,8,7,,6,7,6,8,,7,6,,,,,,,,,,,,7,8,,,,,,,,,,,,,,,,,,,,,,,6
-18014523011,SHILPA,Daulat Ram College,6,6,6,6,,8,9,8,,8,7,6,,,8,7,,,,,,8,7,,,,,7,8,,,,,,,,,,,,,,,,,,,,,,,6
-18014523012,VIDUSHI SHAH,Daulat Ram College,7,8,7,8,,10,9,8,,9,7,7,,,9,7,9,9,,,,,,,,,,8,8,,,,,,,,,,,,,,,,,,,,,,,7
-18014523013,VANDANA ROHILLA,Daulat Ram College,5,6,8,6,,10,9,5,,6,7,7,,,7,7,9,8,,,,,,,,,,7,8,,,,,,,,,,,,,,,,,,,,,,,4
-18014523014,KM.ANCHAL TRIPATHI,Daulat Ram College,6,6,6,4,,8,7,7,,8,8,6,8,,8,8,,,,,,,,,,,,7,8,,,,,,,,,,,,,,,,,,,,,,,4
-18014523015,RANJANA,Daulat Ram College,6,0,4,6,,5,4,8,,0,4,4,,,5,4,,,5,6,,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5
+RollNo,Name,College,LANGUAGE LITERATURE AND CULTURE,"THEORY OF INDIAN MUSIC (GENERAL) & BIOGRAPHIES OF MUSICIANS, COMPOSERS & MUSICOLOGISTS.",STAGE PERFORMANCE AND VIVA VOCE,ENGLISH-A,PATKETHA TATHA SANVAD LEKHEN,THEORY OF INDIAN MUSIC,PRACTICAL (UNIT-II),ENVIRONMENTAL SCIENCE,BHASHA AUR SAMAJ,HISTORICAL STUDY OF THE MUSICAL TERMS,STAGE PERFORMANCE,VIVA-VOCE,THUMRI-DADRA COURSE IN HUNDUSTANI MUSIC,HINDI KA VESHVIK PARIDRISHYE,LIFE & CONTRIBUTION OF MUSICIANS AND MUSICOLOGISTS,VIVA VOCE,STUDY OF ANCIENT GRANTHAS & RAGAS,PRACTICAL (UNIT-2),PERCUSSION MUSIC (TABLA/PAKHAWAJ)-PRACTICAL (DSE-1),PERCUSSION MUSIC (TABLA/PAKHAWAJ)-PRACTICAL (DSE-2),TABLA COURSE FOR SKILL ENHANCEMENT COURSE - I,TABLA COURSE FOR SKILL ENHANCEMENT COURSE - III,MEDIA AND COMMUNICATION SKILLS,CONTEMPORARY INDIA: WOMEN AND EMPOWERMENT,ACADEMIC WRITING AND COMPOSITION,KARNATAK MUSIC (VOCAL) PRACTICAL (DSE-1),KARNATAK MUSIC (VOCAL) PRACTICAL (DSE-2),HARMONIUM COURSE FOR SKILL ENHANCEMENT COU,HARMONIUM COURSE FOR SKILL ENHANCEMENT COURSE - III,VIOLIN (KARNATAK) COURSE FOR SKILL ENHANCEMENT COURSE - I,VIOLIN (KARNATAK) COURSE FOR SKILL ENHANCEMENT COURSE - III,HINDUSTANI MUSIC (VOCAL)-PRACTICAL (DSE-1),HINDUSTANI MUSIC (VOCAL)-PRACTICAL (DSE-2),INTRODUCTION TO PHYSICAL EDUCATION IN THE CONTEMPORARY CONTEXT,"FITNESS, WELLNESS AND NUTRITION","PHYSICAL EDUCATION-III: HEALTH EDUCATION, ANATOMY AND PHYSIOLOGY","PHYSICAL EDUCATION-IV: POSTURE, ATHLETIC CARE AND FIRST AID",LOKPRIYE SAHITYA,HINDI BHASHA AUR SANSPRESHAN,CALCULUS,INTRODUCTORY MICROECONOMICS-ECONOMICS-I,BASIC PRINCIPLES OF INDIAN MEDICINE SYSTEM (AYURVEDA),UNDERSTANDING AMBEDKAR,NITI LITERATURE,POLITICS OF GLOBALIZATION,NATIONALISM IN INDIA,PSYCHOLOGY AT WORK,"INDIVIDUAL, FAMILY AND COMMUNITY IN INDIAN SOCIAL THOUGHT",INDIAN EPIGRAPHY & PALEOGRAPHY,FUNDAMENTALS OF INDIAN PHILOSOPHY,GANDHI AND THE CONTEMPORARY WORLD,HINDI ME VEYAVVHARIK ANUVAD,HINDI CINEMA AUR USKA ADHYAYAN,TEXT AND PERFORMANCE,DELHI THROUGH THE AGES,ETHICS IN PUBLIC DOMAIN,INDIAN SOCIETY: IMAGES AND REALITIES,"FOOD, NUTRITION AND HEALTH",AQUATIC BIOLOGY,READINGS IN INDIAN DIVERSITIES AND LITERARY MOVEMENT
+18047523001,ANCHAL TRIPATHI,Miranda House,4,6,6,7,5,9,8,4,5,7,7,7,8,7,7,7,8,8,9,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18047523002,ARTI SINGH,Miranda House,5,7,7,8,6,10,10,6,5,9,7,7,,7,8,7,8,8,9,9,9,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18047523003,ARYA NANDINI,Miranda House,6,7,7,7,,9,10,8,,7,8,6,,,7,7,8,9,,,7,7,5,6,8,8,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18047523004,DIKSHA VISHVAKARMA,Miranda House,6,6,6,8,6,7,10,7,7,6,7,4,,7,6,7,7,8,,,,,,,,8,9,7,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18047523005,HURIYA ZAMIR,Miranda House,5,4,7,6,4,5,6,4,4,5,6,4,7,5,5,5,5,7,9,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18047523006,SHIKHA TRIPATHI,Miranda House,4,6,7,7,6,8,7,5,6,8,7,6,8,7,8,7,8,7,,,,,,,,7,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18047523007,PALLAVI GUPTA,Miranda House,4,7,7,8,5,9,6,5,4,8,7,6,,7,8,6,7,5,10,9,8,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18047523008,POOJA BAJAJ,Miranda House,4,5,5,6,4,5,4,6,0,0,4,4,,5,0,4,7,4,7,7,,,,,,,,8,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18047523009,SIYAMBALAGASPITIYA MUDIYANSELAGE SATHSARANI SAJEEWA MOLAGODA,Miranda House,5,7,7,9,,8,8,6,,7,7,6,,,8,6,8,7,,,,,4,6,8,8,8,,,8,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18047523011,SWETALIN PATTANAIK,Miranda House,6,9,8,9,,10,10,8,,9,9,8,,,8,8,9,9,10,10,9,9,5,7,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18047523012,TANYA,Miranda House,5,6,6,8,,8,8,7,,6,7,4,7,,7,6,5,7,9,10,,,5,7,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18047523013,VYAKHYA,Miranda House,6,5,8,9,,6,10,7,,7,8,7,7,,7,8,7,9,,,,,5,6,8,,,,,,,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18056523001,ADNAN HUSSAIN,Ramjas College,,6,8,5,,9,10,6,,7,8,8,8,,8,7,7,8,,,,,,,,7,8,,,,,,,5,6,6,8,,,,,,,,,,,,,,,,,,,,,,,
+18056523002,SHUDHANSHU SINGH,Ramjas College,,6,6,6,,7,9,8,,8,8,7,,,8,7,7,8,9,9,,,,,,,,8,7,,,,,4,6,6,8,,,,,,,,,,,,,,,,,,,,,,,
+18056523003,DASHRATH PASWAN,Ramjas College,,7,6,,6,6,5,6,5,7,6,4,,7,6,6,4,4,,,,,,,,5,5,6,6,,,,,,,,,8,6,,,,,,,,,,,,,,,,,,,,,
+18056523004,SHUBHAM KUMAR MISHRA,Ramjas College,,5,8,5,,4,10,6,,5,8,7,,,6,8,7,8,,,,,,,,,,8,7,,,7,7,6,6,6,8,,,,,,,,,,,,,,,,,,,,,,,
+18056523006,AVNISH JHA,Ramjas College,,6,8,6,,10,10,6,,7,8,8,,,7,7,8,9,,,8,8,,,,9,9,,,,,,,5,7,6,9,,,,,,,,,,,,,,,,,,,,,,,
+18056523007,KAMAL,Ramjas College,,6,8,,7,8,10,7,6,8,8,7,,9,7,7,7,8,9,9,,,,,,,,9,7,,,,,,,,,8,6,,,,,,,,,,,,,,,,,,,,,
+18056523008,AKASH SHARMA,Ramjas College,,7,7,6,,7,10,7,,8,8,8,9,,8,8,8,9,,,,,,,,9,9,,,,,,,8,7,7,9,,,,,,,,,,,,,,,,,,,,,,,
+18056523009,SURAJ VERMA,Ramjas College,,6,7,,7,9,9,9,6,0,6,4,,7,5,6,5,6,10,10,,,,,,,,9,4,,,,,,,,,6,7,,,,,,,,,,,,,,,,,,,,,
+18056523010,SHATAKSHI PANCHAL,Ramjas College,,4,6,4,,6,7,5,,7,7,6,7,,7,7,8,7,,,,,,,,7,8,,,,,,,4,6,6,8,,,,,,,,,,,,,,,,,,,,,,,
+18056523011,SUSHANT SATHU,Ramjas College,,6,9,8,,9,10,9,,9,9,9,,,9,9,8,9,10,10,9,9,,,,,,,,,,,,,7,8,9,,,8,,,,,,,,,,,,,,,,,,,,
+18056523012,TARUN SINGH YADAV,Ramjas College,,6,6,7,6,10,6,7,6,7,6,4,,8,8,5,8,5,9,8,8,7,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,
+18056523013,SARVSHRESHTHA MISHRA,Ramjas College,,8,9,,8,10,10,9,7,9,9,9,9,10,8,9,9,9,10,10,,,,,,,,,,,,,,,,,,8,8,,,,,,,,,,,,,,,,,,,,,
+18056523014,MANAN PANT,Ramjas College,,5,8,,4,7,10,6,5,7,8,8,,8,7,8,8,9,10,10,,,,,,,,8,8,,,,,,,,,6,6,,,,,,,,,,,,,,,,,,,,,
+18056523016,ARYAN ABHISHEK,Ramjas College,,4,7,5,,0,8,8,,6,7,6,,,7,7,6,8,,,5,7,,,,,,,,,,6,6,7,7,6,8,,,,,,,,,,,,,,,,,,,,,,,
+18056523017,BALBIR SINGH,Ramjas College,,5,6,,6,7,7,5,6,5,6,4,,7,6,6,6,7,,,6,6,,,,6,6,,,,,,,,,,,8,7,,,,,,,,,,,,,,,,,,,,,
+18056523018,KULDEEP SAGAR,Ramjas College,,5,5,5,6,7,6,7,6,8,6,4,,7,7,5,8,5,8,8,7,7,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,
+18056523019,KARTIKEYA NATH TIWARI,Ramjas College,,7,6,7,6,8,6,8,5,6,5,4,4,7,7,5,7,5,9,9,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,
+18056523020,RAKHI KUMARI,Ramjas College,,6,5,6,,8,6,5,,6,7,4,7,,7,6,7,5,,,,,,,,7,7,,,,,,,6,7,6,5,,,,,,,,,,,,,,,,,,,,,,,
+18056523021,SHIVAM KAPOOR,Ramjas College,,8,6,5,,9,8,7,,7,7,7,,,8,7,6,7,9,9,7,8,,,,,,,,,,,,7,6,7,8,,,,,,,,,,,,,,,,,,,,,,,
+18056523022,CHANDAN KUMAR,Ramjas College,,4,8,,6,6,10,6,6,5,8,7,,8,8,8,7,8,,,,,,,,,,,,7,7,8,8,,,,,5,5,,,,,,,,,,,,,,,,,,,,,
+18056523024,SAIF ALI KHAN,Ramjas College,,5,5,4,,6,7,6,,5,6,6,,,6,6,6,8,9,9,6,6,,,,,,,,,,,,7,4,5,7,,,,,,,,,,,,,,,,,,,,,,,
+18056523025,SAWAN BOBLA,Ramjas College,,4,6,5,0,4,8,5,4,0,6,5,,7,7,6,0,0,0,0,,,,,,,,4,4,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+18029523001,ANKITA SAHA,I.P.College For Women,,4,7,,,7,7,4,,8,8,7,,,8,8,7,7,,,,,,,,,,6,8,,,6,5,,,,,,,,,5,5,0,5,7,,,,,,,,,,,,,,
+18029523002,DONA LAKNI RAMALKA EDIRISINGHE,I.P.College For Women,6,6,7,5,,7,10,6,,8,7,6,,,8,7,8,7,,,8,8,,0,4,8,9,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,
+18029523003,HUMA RAHIMI,I.P.College For Women,5,4,9,4,,4,10,5,,4,8,8,,,6,8,5,7,,,5,7,,0,4,,,,,,,6,6,,,,,,,,,,,,,,4,,,,,,,,,,,,,
+18029523004,EESHA SEKHRI,I.P.College For Women,,5,5,,,7,6,7,,5,7,5,7,,6,7,8,6,,,,,,,,,,,,,,7,7,,,,,,,,,6,,5,,,,7,4,7,,,,,,,,,,
+18029523007,ROSHNI,I.P.College For Women,,4,4,,,0,5,5,,5,0,4,,,5,0,6,0,,,,,,,,0,0,5,4,,,,,,,,,,7,,,,4,,4,5,,,,,4,,,,,,,,,
+18029523010,SHRUTI MAUSAM,I.P.College For Women,,6,8,,7,10,10,6,,8,8,8,8,8,8,7,8,9,9,9,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,,,6,5,,,,,,,,
+18026523002,PIYUSH KUMAR,Hindu College,,6,6,6,,9,7,7,,8,7,6,,,7,6,8,8,7,7,6,5,,,,,,,,,,,,7,8,7,7,,,,,,,,,,,,,,,,,,,,,,,
+18026523003,ARYAN SHARMA,Hindu College,,5,0,7,4,7,0,5,,5,6,5,,,7,5,7,4,7,7,,,,5,,,,6,5,,,,,,,,,,,,,,,,,,,,,,,,4,0,,,,,,
+18026523004,PIYUSH KUMAR,Hindu College,,4,5,6,5,6,5,5,,4,5,4,,,7,5,8,6,,,,,,6,,6,7,5,6,,,,,,,,,,,,,,,,,,,,,,,,5,6,,,,,,
+18026523005,ABHISHEK LODHI,Hindu College,,5,7,,,6,6,5,,6,7,5,,,7,7,8,8,8,8,8,7,,,,,,,,,,,,,,6,7,,5,,,,,,6,,,,,,5,,,,,,,,,
+18026523006,KUNAL SAINI,Hindu College,,6,8,6,6,8,9,6,5,7,7,4,,0,7,6,7,7,9,9,9,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,
+18026523008,MANJOT SINGH,Hindu College,,4,5,5,6,5,5,5,,4,5,4,,,6,5,8,7,9,9,6,4,,,,,,,,,,,,,,7,6,,,,,,,,,,,,,,,,,,,4,,,,
+18026523009,ARUN KUMAR,Hindu College,,6,5,5,,6,5,6,,4,5,6,,,6,5,7,0,,,,,,,,6,6,,,7,5,,,,6,,,,,,,,,,,,,,,,,,,,,,4,0,0,
+18014523001,ADITI SHARMA,Daulat Ram College,5,5,6,5,,8,7,7,,6,7,5,,,7,7,7,6,,,,,,,,,,8,7,,,6,6,,,8,8,,,,,,,,,,,,,,,,,,,,,,,4
+18014523002,AKHAM JULLEE DEVI,Daulat Ram College,6,6,7,6,,9,8,6,,7,7,7,,,7,7,8,8,,,7,7,,,,7,8,,,,,,,,,7,6,,,,,,,,,,,,,,,,,,,,,,,5
+18014523003,GEETIKA KASHYAP,Daulat Ram College,5,5,5,5,,5,5,6,,6,7,4,7,,7,6,7,6,,,,,,,,7,7,,,,,,,,,7,7,,,,,,,,,,,,,,,,,,,,,,,4
+18014523004,KAMINI JOSHI,Daulat Ram College,6,7,9,5,,9,9,6,,8,8,7,,,8,7,6,8,10,10,8,8,,,,,,,,,,,,,,7,8,,,,,,,,,,,,,,,,,,,,,,,4
+18014523005,GUNJAN THAKUR,Daulat Ram College,4,5,5,5,,6,5,6,,7,6,4,,,7,6,7,6,,,,,,,,7,7,5,7,,,,,,,7,8,,,,,,,,,,,,,,,,,,,,,,,5
+18014523006,MRINALI GULATI,Daulat Ram College,6,6,7,7,,9,8,8,,7,7,6,,,7,7,7,7,,,,,,,,9,9,7,7,,,,,,,0,8,,,,,,,,,,,,,,,,,,,,,,,5
+18014523007,PREETI,Daulat Ram College,4,4,6,6,,7,7,8,,7,7,5,,,7,6,7,6,,,,,,,,7,7,7,7,,,,,,,7,7,,,,,,,,,,,,,,,,,,,,,,,4
+18014523008,RADHIKA SHARMA,Daulat Ram College,6,5,6,7,,9,7,7,,7,7,5,,,8,7,7,6,,,,,,,,7,7,8,8,,,,,,,8,8,,,,,,,,,,,,,,,,,,,,,,,4
+18014523009,RANASINGHE BANDARALAGE BUDDHINI CHATHURIKA JAYARATHNE,Daulat Ram College,5,6,7,6,,10,9,6,,8,7,7,,,7,7,8,7,,,,,,,,8,8,,,9,9,,,,,8,9,,,,,,,,,,,,,,,,,,,,,,,4
+18014523010,SAKSHI MISHRA,Daulat Ram College,6,7,8,7,,7,8,7,,6,7,6,8,,7,6,8,7,,,,,,,,7,7,,,,,,,,,7,8,,,,,,,,,,,,,,,,,,,,,,,6
+18014523011,SHILPA,Daulat Ram College,6,6,6,6,,8,9,8,,8,7,6,,,8,7,8,6,,,,,,,,8,7,8,7,,,,,,,7,8,,,,,,,,,,,,,,,,,,,,,,,6
+18014523012,VIDUSHI SHAH,Daulat Ram College,7,8,7,8,,10,9,8,,9,7,7,,,9,7,8,7,9,9,9,9,,,,,,,,,,,,,,8,8,,,,,,,,,,,,,,,,,,,,,,,7
+18014523014,KM.ANCHAL TRIPATHI,Daulat Ram College,6,6,6,4,,8,7,7,,8,8,6,8,,8,8,6,6,,,,,,,,,,,,,,6,6,,,7,8,,,,,,,,,,,,,,,,,,,,,,,4
+18014523015,RANJANA,Daulat Ram College,6,6,4,6,,5,4,8,,4,4,4,,,5,4,6,4,,,,,5,6,,5,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5
