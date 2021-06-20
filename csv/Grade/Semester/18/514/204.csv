@@ -1,36 +1,35 @@
-RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Overall CGPA
-18204514001,AAKASH POONIA,Department of Germanic and Romance Studies,5.27,5.45,4.86,5.79,5.340
-18204514002,AJAY,Department of Germanic and Romance Studies,4.73,5.27,3.86,2.14,3.880
-18204514003,ANJALI RAWAT,Department of Germanic and Romance Studies,8.00,6.82,7.71,8.21,7.720
-18204514004,ANKUSH TIWARI,Department of Germanic and Romance Studies,4.91,6.64,6.57,7.00,6.340
-18204514005,ASHIK MURALEEDHARAN,Department of Germanic and Romance Studies,4.91,4.73,1.71,0.86,2.840
-18204514007,DEEPTI AGARWAL,Department of Germanic and Romance Studies,7.27,7.18,7.71,8.07,7.600
-18204514008,GOURANSH BHATIA,Department of Germanic and Romance Studies,5.64,5.27,4.64,5.57,5.260
-18204514009,ISHANI GAIROLA,Department of Germanic and Romance Studies,4.91,3.27,0.86,2.57,2.760
-18204514010,ISHITA BARTHWAL,Department of Germanic and Romance Studies,6.82,6.36,5.79,6.43,6.320
-18204514011,KAMNA,Department of Germanic and Romance Studies,5.82,5.91,5.43,6.36,5.880
-18204514013,MANNAT BATRA,Department of Germanic and Romance Studies,7.27,7.18,7.36,7.57,7.360
-18204514014,NIDHI,Department of Germanic and Romance Studies,6.00,6.00,6.00,6.21,6.060
-18204514015,NIKITA SINGH,Department of Germanic and Romance Studies,5.18,4.55,3.71,5.36,4.680
-18204514016,PUNEET,Department of Germanic and Romance Studies,5.45,6.55,5.43,4.86,5.520
-18204514017,RANGEELA,Department of Germanic and Romance Studies,7.27,6.55,6.50,7.43,6.940
-18204514018,RITU BISHT,Department of Germanic and Romance Studies,6.27,6.36,6.71,6.79,6.560
-18204514020,ROHIT GUSAIN,Department of Germanic and Romance Studies,7.27,8.18,7.36,8.21,7.760
-18204514021,RUCHIKA SHARMA,Department of Germanic and Romance Studies,8.18,8.73,7.93,8.21,8.240
-18204514022,SALMANUL FARIS K.V.,Department of Germanic and Romance Studies,6.09,4.36,1.71,0.86,3.020
-18204514023,SHAHINA MANSURI,Department of Germanic and Romance Studies,5.09,4.09,2.93,4.93,4.220
-18204514024,SHARON ANN TITUS,Department of Germanic and Romance Studies,6.82,7.09,6.79,8.00,7.200
-18204514025,SHRADDHA KISHORE,Department of Germanic and Romance Studies,8.00,8.18,7.29,7.21,7.620
-18204514026,SHUBHANGI AGARWAL,Department of Germanic and Romance Studies,7.73,7.09,7.57,7.57,7.500
-18204514027,SHWETA ANAND,Department of Germanic and Romance Studies,7.55,7.45,7.14,8.00,7.540
-18204514028,SIDHI,Department of Germanic and Romance Studies,6.82,6.64,6.14,7.00,6.640
-18204514029,TENZIN LODOE,Department of Germanic and Romance Studies,5.45,4.73,0.86,0.86,2.720
-18204514031,AJAY BOSE,Department of Germanic and Romance Studies,6.55,6.82,5.93,6.43,6.400
-18204514032,NEERAJ SINGH RAWAT,Department of Germanic and Romance Studies,6.00,6.36,5.43,6.64,6.100
-18204514033,SHIVAM,Department of Germanic and Romance Studies,5.64,6.64,6.36,6.14,6.200
-18204514034,RUPASHA SHARMA,Department of Germanic and Romance Studies,3.82,4.82,0.86,2.50,2.840
-18204514035,RITIK MAYANK,Department of Germanic and Romance Studies,6.09,5.82,6.50,7.00,6.400
-18204514036,PREETI KARI,Department of Germanic and Romance Studies,5.64,5.00,5.43,5.36,5.360
-18204514037,RISHUBHI GAUTAM,Department of Germanic and Romance Studies,7.36,6.91,6.43,6.93,6.880
-18204514038,LALIT,Department of Germanic and Romance Studies,5.45,4.36,2.14,2.14,3.360
-18204514039,MANISH KUMAR TOPPO,Department of Germanic and Romance Studies,5.27,4.18,0.86,0.86,2.560
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Overall CGPA
+18204514001,AAKASH POONIA,Department of Germanic and Romance Studies,5.27,5.45,4.86,5.79,6.50,5.565
+18204514003,ANJALI RAWAT,Department of Germanic and Romance Studies,8.00,6.82,7.71,8.21,7.75,7.726
+18204514004,ANKUSH TIWARI,Department of Germanic and Romance Studies,4.91,6.64,6.57,7.00,6.75,6.419
+18204514005,ASHIK MURALEEDHARAN,Department of Germanic and Romance Studies,4.91,4.73,3.71,0.86,5.50,3.806
+18204514007,DEEPTI AGARWAL,Department of Germanic and Romance Studies,7.27,7.18,7.71,8.07,6.25,7.339
+18204514008,GOURANSH BHATIA,Department of Germanic and Romance Studies,5.64,5.27,5.79,5.57,7.25,5.903
+18204514009,ISHANI GAIROLA,Department of Germanic and Romance Studies,4.91,3.27,0.86,2.57,1.25,2.468
+18204514010,ISHITA BARTHWAL,Department of Germanic and Romance Studies,6.82,6.36,5.79,6.43,7.50,6.548
+18204514011,KAMNA,Department of Germanic and Romance Studies,5.82,5.91,5.43,6.36,5.00,5.710
+18204514013,MANNAT BATRA,Department of Germanic and Romance Studies,7.27,7.18,7.36,7.57,8.50,7.581
+18204514014,NIDHI,Department of Germanic and Romance Studies,6.00,6.00,6.00,6.21,7.25,6.290
+18204514015,NIKITA SINGH,Department of Germanic and Romance Studies,5.18,4.55,3.71,5.36,4.25,4.597
+18204514016,PUNEET,Department of Germanic and Romance Studies,5.45,6.55,5.43,4.86,3.25,5.081
+18204514017,RANGEELA,Department of Germanic and Romance Studies,7.27,6.55,6.50,7.43,8.50,7.242
+18204514018,RITU BISHT,Department of Germanic and Romance Studies,6.27,6.36,6.71,6.79,7.25,6.694
+18204514020,ROHIT GUSAIN,Department of Germanic and Romance Studies,7.27,8.18,7.36,8.21,7.50,7.710
+18204514021,RUCHIKA SHARMA,Department of Germanic and Romance Studies,8.18,8.73,7.93,8.21,9.00,8.387
+18204514022,SALMANUL FARIS K.V.,Department of Germanic and Romance Studies,6.09,4.36,3.86,0.86,6.00,4.081
+18204514023,SHAHINA MANSURI,Department of Germanic and Romance Studies,5.09,4.09,4.00,4.93,5.50,4.710
+18204514024,SHARON ANN TITUS,Department of Germanic and Romance Studies,6.82,7.09,6.79,8.00,8.00,7.355
+18204514025,SHRADDHA KISHORE,Department of Germanic and Romance Studies,8.00,8.18,7.29,7.21,8.50,7.790
+18204514026,SHUBHANGI AGARWAL,Department of Germanic and Romance Studies,7.73,7.09,7.57,7.57,6.25,7.258
+18204514027,SHWETA ANAND,Department of Germanic and Romance Studies,7.55,7.45,7.14,8.00,8.50,7.726
+18204514028,SIDHI,Department of Germanic and Romance Studies,6.82,6.64,6.57,7.00,7.75,6.952
+18204514029,TENZIN LODOE,Department of Germanic and Romance Studies,5.45,4.73,4.14,0.86,4.75,3.855
+18204514031,AJAY BOSE,Department of Germanic and Romance Studies,6.55,6.82,5.93,6.43,6.50,6.419
+18204514032,NEERAJ SINGH RAWAT,Department of Germanic and Romance Studies,6.00,6.36,5.43,6.64,6.25,6.129
+18204514033,SHIVAM,Department of Germanic and Romance Studies,5.64,6.64,6.36,6.14,7.00,6.355
+18204514034,RUPASHA SHARMA,Department of Germanic and Romance Studies,3.82,4.82,3.79,2.50,6.75,4.258
+18204514035,RITIK MAYANK,Department of Germanic and Romance Studies,6.09,5.82,6.50,7.00,6.50,6.419
+18204514036,PREETI KARI,Department of Germanic and Romance Studies,5.64,5.00,5.43,5.36,4.50,5.194
+18204514037,RISHUBHI GAUTAM,Department of Germanic and Romance Studies,7.36,6.91,6.43,6.93,7.00,6.903
+18204514038,LALIT,Department of Germanic and Romance Studies,5.45,4.36,3.00,2.14,2.75,3.435
+18204514039,MANISH KUMAR TOPPO,Department of Germanic and Romance Studies,5.27,4.18,3.57,0.86,3.50,3.355
