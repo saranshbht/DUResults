@@ -10232,3 +10232,178 @@ Grade 19 508 078
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Grade/19/525/085' }
+2021-06-21T12:08:41.199Z
+Grade
+ASP.NET_SessionId=oevzkjzvraaiu2rvjao5x2y2
+{ '18': [],
+  '19':
+   [ '510',
+     '511',
+     '512',
+     '513',
+     '514',
+     '516',
+     '518',
+     '520',
+     '522',
+     '524',
+     '525',
+     '527',
+     '528' ],
+  '20': [ '714', '718', '721' ] }
+19 510 039
+19 510 063
+19 510 048
+19 510 034
+19 510 029
+19 510 021
+19 510 073
+Error at 19 510 033
+Error at 19 510 026
+Error at 19 510 077
+Error at 19 510 078
+Error at 19 510 074
+Error at 19 511 039
+Error at 19 511 063
+Error at 19 511 048
+Error at 19 511 086
+Error at 19 511 084
+Error at 19 512 204
+Error at 19 513 047
+Error at 19 513 036
+Error at 19 513 064
+Error at 19 513 034
+Error at 19 513 029
+Error at 19 514 204
+Error at 19 516 039
+Error at 19 516 063
+Error at 19 516 048
+Error at 19 516 086
+Error at 19 516 084
+Error at 19 518 039
+Error at 19 518 063
+Error at 19 518 048
+Error at 19 518 086
+Error at 19 518 084
+Error at 19 520 039
+Error at 19 520 034
+Error at 19 520 016
+Error at 19 520 030
+Error at 19 520 008
+Error at 19 522 029
+Error at 19 524 044
+Error at 19 524 068
+Error at 19 524 021
+Error at 19 524 069
+Error at 19 524 078
+Error at 19 525 086
+Error at 19 525 085
+Error at 19 527 039
+Error at 19 527 063
+Error at 19 527 048
+Error at 19 527 086
+Error at 19 527 084
+Error at 19 528 039
+Error at 19 528 035
+Error at 19 528 085
+Error at 19 528 032
+Error at 19 528 044
+Error at 20 714 029
+Error at 20 714 047
+Error at 20 714 056
+Error at 20 714 014
+Error at 20 718 029
+Error at 20 721 056
+{ '18': [],
+  '19': [ '512', '514', '522', '525' ],
+  '20': [ '744', '777', '714', '718', '721' ] }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/19/512/204'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:448:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/19/512/204' }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/19/514/204'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:448:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/19/514/204' }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/19/522/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:448:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/19/522/029' }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/19/525/086'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:448:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/19/525/086' }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/19/525/085'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:448:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/19/525/085' }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/714/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:448:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/714/029' }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/714/047'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:448:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/714/047' }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/714/056'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:448:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/714/056' }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/714/014'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:448:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/714/014' }
