@@ -1,6 +1,4 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-19204717001,AARTI,Department of Germanic and Romance Studies,0.00,,0.000
-19204717002,ASIM KHAN,Department of Germanic and Romance Studies,0.00,0.84,0.410
-19204717003,CHANDRODOY MONDAL,Department of Germanic and Romance Studies,3.00,0.00,1.538
-19204717004,CHAYAN RATHOR,Department of Germanic and Romance Studies,0.00,,0.000
-19204717005,POORNIMA CHAUHAN,Department of Germanic and Romance Studies,4.75,5.47,5.103
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19204717002,ASIM KHAN,Department of Germanic and Romance Studies,2.00,0.84,3.50,2.136
+19204717003,CHANDRODOY MONDAL,Department of Germanic and Romance Studies,3.00,0.00,3.75,2.288
+19204717005,POORNIMA CHAUHAN,Department of Germanic and Romance Studies,4.75,5.47,6.50,5.576

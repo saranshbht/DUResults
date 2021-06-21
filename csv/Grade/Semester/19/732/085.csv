@@ -1,28 +1,26 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-19085732001,ADEEBA BEGUM,Zakir Husain Delhi College (Day),5.80,5.21,5.510
-19085732002,ASHBEENA,Zakir Husain Delhi College (Day),5.40,6.38,5.878
-19085732003,ASRAF BEG,Zakir Husain Delhi College (Day),8.00,8.17,8.082
-19085732004,BILAL AHMAD,Zakir Husain Delhi College (Day),5.80,6.96,6.367
-19085732005,GULISTAN ARZOO,Zakir Husain Delhi College (Day),6.80,6.96,6.878
-19085732006,HEENA PRAVEEN,Zakir Husain Delhi College (Day),5.20,6.54,5.857
-19085732007,IRAM JAHAN,Zakir Husain Delhi College (Day),5.40,6.58,5.980
-19085732008,KM NOSHEEN,Zakir Husain Delhi College (Day),6.60,6.96,6.776
-19085732009,MADIHA,Zakir Husain Delhi College (Day),7.80,8.17,7.980
-19085732010,MD AZAD ALAM,Zakir Husain Delhi College (Day),6.80,7.96,7.367
-19085732011,MD IRSHAD,Zakir Husain Delhi College (Day),7.40,8.17,7.776
-19085732012,MD NOBHAR,Zakir Husain Delhi College (Day),7.20,7.58,7.388
-19085732013,MOHD DULARE,Zakir Husain Delhi College (Day),2.40,,2.400
-19085732014,MOHD FESAL,Zakir Husain Delhi College (Day),7.20,7.79,7.490
-19085732015,MOHD IMAD KHAN,Zakir Husain Delhi College (Day),1.80,,1.800
-19085732016,MOHD TEHSIN,Zakir Husain Delhi College (Day),7.00,7.17,7.082
-19085732017,MOHUMMED SARFARAZ,Zakir Husain Delhi College (Day),8.40,8.58,8.490
-19085732018,NAWED SOHAIL,Zakir Husain Delhi College (Day),7.20,7.96,7.571
-19085732019,NIHA ASLAM,Zakir Husain Delhi College (Day),7.00,7.38,7.184
-19085732020,PARVEZ ALAM,Zakir Husain Delhi College (Day),5.80,6.46,6.122
-19085732021,SAHANA BANO,Zakir Husain Delhi College (Day),6.00,7.17,6.571
-19085732022,SANOBAR NISHA,Zakir Husain Delhi College (Day),7.00,8.00,7.490
-19085732023,SARA SAMEEN,Zakir Husain Delhi College (Day),4.40,4.38,4.388
-19085732024,SHADAB ALAM,Zakir Husain Delhi College (Day),5.80,6.75,6.265
-19085732025,WASIM AKRAM,Zakir Husain Delhi College (Day),7.00,6.71,6.857
-19085732026,ZAFAR IQBAL,Zakir Husain Delhi College (Day),6.00,7.17,6.571
-19085732027,ZIYA UR REHMAN,Zakir Husain Delhi College (Day),3.80,5.00,4.388
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19085732001,ADEEBA BEGUM,Zakir Husain Delhi College (Day),5.80,5.21,7.40,6.149
+19085732002,ASHBEENA,Zakir Husain Delhi College (Day),5.40,6.38,7.40,6.392
+19085732003,ASRAF BEG,Zakir Husain Delhi College (Day),8.00,8.17,7.80,7.986
+19085732004,BILAL AHMAD,Zakir Husain Delhi College (Day),5.80,6.96,7.40,6.716
+19085732005,GULISTAN ARZOO,Zakir Husain Delhi College (Day),6.80,6.96,7.60,7.122
+19085732006,HEENA PRAVEEN,Zakir Husain Delhi College (Day),5.20,6.54,7.60,6.446
+19085732007,IRAM JAHAN,Zakir Husain Delhi College (Day),5.40,6.58,7.60,6.527
+19085732008,KM NOSHEEN,Zakir Husain Delhi College (Day),6.60,6.96,7.80,7.122
+19085732009,MADIHA,Zakir Husain Delhi College (Day),7.80,8.17,7.80,7.919
+19085732010,MD AZAD ALAM,Zakir Husain Delhi College (Day),6.80,7.96,7.00,7.243
+19085732011,MD IRSHAD,Zakir Husain Delhi College (Day),7.40,8.17,8.00,7.851
+19085732012,MD NOBHAR,Zakir Husain Delhi College (Day),7.20,7.58,7.80,7.527
+19085732014,MOHD FESAL,Zakir Husain Delhi College (Day),7.20,7.79,7.60,7.527
+19085732016,MOHD TEHSIN,Zakir Husain Delhi College (Day),7.00,7.17,7.40,7.189
+19085732017,MOHUMMED SARFARAZ,Zakir Husain Delhi College (Day),8.40,8.58,8.20,8.392
+19085732018,NAWED SOHAIL,Zakir Husain Delhi College (Day),7.20,7.96,8.60,7.919
+19085732019,NIHA ASLAM,Zakir Husain Delhi College (Day),7.00,7.38,7.40,7.257
+19085732020,PARVEZ ALAM,Zakir Husain Delhi College (Day),5.80,6.46,7.00,6.419
+19085732021,SAHANA BANO,Zakir Husain Delhi College (Day),6.00,7.17,7.20,6.784
+19085732022,SANOBAR NISHA,Zakir Husain Delhi College (Day),7.00,8.00,7.60,7.527
+19085732023,SARA SAMEEN,Zakir Husain Delhi College (Day),4.40,4.38,7.00,5.270
+19085732024,SHADAB ALAM,Zakir Husain Delhi College (Day),5.80,6.75,7.00,6.514
+19085732025,WASIM AKRAM,Zakir Husain Delhi College (Day),7.00,6.71,7.60,7.108
+19085732026,ZAFAR IQBAL,Zakir Husain Delhi College (Day),6.00,7.17,7.20,6.784
+19085732027,ZIYA UR REHMAN,Zakir Husain Delhi College (Day),7.60,5.00,7.40,6.689

@@ -1,199 +1,187 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-19024564001,AAVYA SINGH,Gargi College,8.82,9.27,9.045
-19024564002,AKANKSHAYA PRIYADARSHINI RATHA,Gargi College,7.91,8.73,8.318
-19024564003,ANKITA SINGH,Gargi College,9.82,9.27,9.545
-19024564004,BHAVYA S,Gargi College,7.73,8.27,8.000
-19024564005,CHHAVI SHARMA,Gargi College,7.00,8.27,7.636
-19024564006,DIPA DEBBARMA,Gargi College,7.27,8.27,7.773
-19024564007,GAURI KHANDELWAL,Gargi College,7.73,8.73,8.227
-19024564008,JAHNVI HORA,Gargi College,8.45,9.00,8.727
-19024564009,JYOTI,Gargi College,7.73,8.55,8.136
-19024564010,JYOTI VERMA,Gargi College,7.00,8.55,7.773
-19024564011,KHUSHI JINDAL,Gargi College,8.00,8.55,8.273
-19024564012,KIARA SINHA,Gargi College,6.18,7.55,6.864
-19024564013,NAVROOP KAUR,Gargi College,8.73,9.27,9.000
-19024564014,NIKITA,Gargi College,7.36,8.55,7.955
-19024564015,PARUL KRITI,Gargi College,4.00,6.00,5.000
-19024564016,PRANSHI AGRWAL,Gargi College,8.55,9.27,8.909
-19024564017,PRIYANKA UPADHYAY,Gargi College,8.45,9.27,8.864
-19024564018,RAGINI,Gargi College,8.45,9.27,8.864
-19024564019,REENA,Gargi College,7.18,8.27,7.727
-19024564020,RICHA,Gargi College,6.45,8.09,7.273
-19024564021,RIYA DHAMI,Gargi College,9.09,9.00,9.045
-19024564022,SAKSHI,Gargi College,7.82,8.73,8.273
-19024564023,SALONI GEHLOT,Gargi College,8.82,9.27,9.045
-19024564024,SAPNA,Gargi College,6.64,8.00,7.318
-19024564025,SHEFALI PATHANIA,Gargi College,6.73,8.27,7.500
-19024564026,SHREYA THAPLIYAL,Gargi College,8.36,9.00,8.682
-19024564027,SHRUTI KAUSHIK,Gargi College,9.00,9.27,9.136
-19024564028,TANYA,Gargi College,7.82,8.55,8.182
-19024564029,TRIPTI,Gargi College,8.09,9.00,8.545
-19024564030,VANSHIKA PANWAR,Gargi College,7.36,8.27,7.818
-19024564031,WANG TAMUT,Gargi College,4.73,7.00,5.864
-19058564001,D. ANVITHA,Ram Lal Anand College (Day),9.45,10.00,9.727
-19058564002,PRITIKA BARANWAL,Ram Lal Anand College (Day),8.18,9.27,8.727
-19058564003,ABHILASH JEAS GEORGE,Ram Lal Anand College (Day),10.00,10.00,10.000
-19058564004,ISHITA GUPTA,Ram Lal Anand College (Day),8.18,9.09,8.636
-19058564005,SOMA BANERJEE,Ram Lal Anand College (Day),9.18,9.82,9.500
-19058564006,VASU SHARMA,Ram Lal Anand College (Day),10.00,10.00,10.000
-19058564007,SAHRISH MAJEED,Ram Lal Anand College (Day),8.27,9.00,8.636
-19058564008,SEJAL DOGRA,Ram Lal Anand College (Day),5.18,6.45,5.818
-19058564009,PARTH KAPIL,Ram Lal Anand College (Day),8.45,8.82,8.636
-19058564010,PRANAY AGARWAL,Ram Lal Anand College (Day),5.82,5.09,5.455
-19058564011,KIRTI KHANDELWAL,Ram Lal Anand College (Day),7.36,8.55,7.955
-19058564012,SANDHYA,Ram Lal Anand College (Day),7.36,7.18,7.273
-19058564013,HARMEET SINGH WADHWA,Ram Lal Anand College (Day),6.82,7.18,7.000
-19058564014,NAINA JANGID,Ram Lal Anand College (Day),8.18,9.09,8.636
-19058564015,AMAN DIXIT,Ram Lal Anand College (Day),7.36,8.27,7.818
-19058564016,KANIKA,Ram Lal Anand College (Day),7.91,8.82,8.364
-19058564017,RAAJVI KHURANA,Ram Lal Anand College (Day),8.73,9.27,9.000
-19058564018,SAKSHI,Ram Lal Anand College (Day),0.00,,0.000
-19058564019,MUSKAN,Ram Lal Anand College (Day),7.73,8.00,7.864
-19058564020,KUNAL VYAS,Ram Lal Anand College (Day),7.36,,7.364
-19058564021,ARYA KIRONE PATRA,Ram Lal Anand College (Day),7.91,8.82,8.364
-19058564022,YUGANSH GUPTA,Ram Lal Anand College (Day),7.64,8.82,8.227
-19058564023,REHAN AHMED,Ram Lal Anand College (Day),0.00,,0.000
-19058564024,SACHIN PAL,Ram Lal Anand College (Day),8.36,9.27,8.818
-19058564025,TAMIM,Ram Lal Anand College (Day),6.00,6.45,6.227
-19058564026,TIYASA BISWAS,Ram Lal Anand College (Day),7.09,7.27,7.182
-19058564027,NIKHIL GUPTA,Ram Lal Anand College (Day),7.55,7.45,7.500
-19058564028,VANAPALLI PRERANA,Ram Lal Anand College (Day),6.36,7.00,6.682
-19058564029,CHANUKA NISALANKA WIJEWARDANA,Ram Lal Anand College (Day),8.18,8.73,8.455
-19058564030,MOHD TARIF KHAN,Ram Lal Anand College (Day),6.27,5.09,5.682
-19058564031,NISHU RANI,Ram Lal Anand College (Day),6.45,7.73,7.091
-19058564032,AMAN KUNDU,Ram Lal Anand College (Day),5.82,5.91,5.864
-19058564033,ANISH HOJAI,Ram Lal Anand College (Day),2.82,0.00,1.409
-19058564034,NATHANIEL LALDINPUIA,Ram Lal Anand College (Day),5.18,4.91,5.045
-19058564035,MIR FAISAL FAROOQ,Ram Lal Anand College (Day),7.09,8.00,7.545
-19058564036,HARSHIT KUMAR YADAV,Ram Lal Anand College (Day),6.27,6.73,6.500
-19058564037,SUBHAG SINGH,Ram Lal Anand College (Day),7.91,8.73,8.318
-19009564001,ANJALI SAGAR,Bhaskaracharya College of Applied Sciences,9.27,9.55,9.409
-19009564002,AISHWARYA R NAIR,Bhaskaracharya College of Applied Sciences,9.09,9.09,9.091
-19009564003,NANCY,Bhaskaracharya College of Applied Sciences,8.91,9.82,9.364
-19009564004,CHETANA MEENA,Bhaskaracharya College of Applied Sciences,9.09,9.00,9.045
-19009564005,SIMRAN YADAV,Bhaskaracharya College of Applied Sciences,9.27,9.27,9.273
-19009564006,PRIYANKA DAFAUTI,Bhaskaracharya College of Applied Sciences,8.27,8.82,8.545
-19009564007,HEENA,Bhaskaracharya College of Applied Sciences,8.00,8.27,8.136
-19009564008,MUSKAN MADAAN,Bhaskaracharya College of Applied Sciences,9.09,9.27,9.182
-19009564009,HITIKK  CHAWLA,Bhaskaracharya College of Applied Sciences,9.00,8.82,8.909
-19009564010,ARIF KHAN,Bhaskaracharya College of Applied Sciences,4.36,7.00,5.682
-19009564011,ARNAB BASAK,Bhaskaracharya College of Applied Sciences,8.27,9.09,8.682
-19009564012,DHRUV SAKKARWAL,Bhaskaracharya College of Applied Sciences,7.55,8.82,8.182
-19009564013,TRISHNA  RAI,Bhaskaracharya College of Applied Sciences,8.09,8.55,8.318
-19009564014,SIDHARTH U.C,Bhaskaracharya College of Applied Sciences,7.18,7.82,7.500
-19009564016,RITIKA VERMA,Bhaskaracharya College of Applied Sciences,7.82,8.55,8.182
-19009564017,ANURAG,Bhaskaracharya College of Applied Sciences,6.45,1.82,4.136
-19009564018,ISHIKA,Bhaskaracharya College of Applied Sciences,7.82,8.27,8.045
-19009564019,ANUSHKA SHARMA,Bhaskaracharya College of Applied Sciences,8.27,8.82,8.545
-19009564020,VARSHA  KUTHAR,Bhaskaracharya College of Applied Sciences,8.36,8.82,8.591
-19009564021,VATSALA KAUL,Bhaskaracharya College of Applied Sciences,8.82,9.00,8.909
-19009564022,SHIVAM JAWLA,Bhaskaracharya College of Applied Sciences,6.00,7.09,6.545
-19009564023,AMISHA MISHRA,Bhaskaracharya College of Applied Sciences,2.64,6.82,4.727
-19009564024,RIMMI,Bhaskaracharya College of Applied Sciences,7.73,8.82,8.273
-19009564026,VARUN RAWAT,Bhaskaracharya College of Applied Sciences,8.00,8.27,8.136
-19009564027,DEEPANSHI KARWALL,Bhaskaracharya College of Applied Sciences,8.55,8.73,8.636
-19009564028,KRITIKA  GARG,Bhaskaracharya College of Applied Sciences,9.36,9.36,9.364
-19009564029,ESHA PILLEWAR,Bhaskaracharya College of Applied Sciences,0.00,,0.000
-19009564031,ANJALI ROY,Bhaskaracharya College of Applied Sciences,8.82,9.55,9.182
-19009564032,DEVENDER SINGH,Bhaskaracharya College of Applied Sciences,6.73,8.00,7.364
-19009564033,PRANAV CHAWLA,Bhaskaracharya College of Applied Sciences,8.55,9.27,8.909
-19009564034,SHIVAM GUPTA,Bhaskaracharya College of Applied Sciences,6.45,7.55,7.000
-19066564001,AASTHA SONI,Shaheed Rajguru College of Applied Sciences for Women,9.00,9.00,9.000
-19066564002,AKSHITA  YADAV,Shaheed Rajguru College of Applied Sciences for Women,7.64,9.00,8.318
-19066564003,ANJU YADAV,Shaheed Rajguru College of Applied Sciences for Women,8.73,9.09,8.909
-19066564004,ARUNIMA,Shaheed Rajguru College of Applied Sciences for Women,9.27,9.82,9.545
-19066564005,ASWATHY AJAYAN,Shaheed Rajguru College of Applied Sciences for Women,8.18,9.00,8.591
-19066564006,AYESHA,Shaheed Rajguru College of Applied Sciences for Women,0.00,0.00,0.000
-19066564007,AYUSHI BHATI,Shaheed Rajguru College of Applied Sciences for Women,9.27,9.55,9.409
-19066564008,BHAVNA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,8.91,9.82,9.364
-19066564009,BHAWNA CHAUDHARY,Shaheed Rajguru College of Applied Sciences for Women,7.18,8.82,8.000
-19066564010,CHANCHAL,Shaheed Rajguru College of Applied Sciences for Women,7.55,8.27,7.909
-19066564011,CHANCHAL,Shaheed Rajguru College of Applied Sciences for Women,7.45,8.82,8.136
-19066564012,DEVSHREE PARGANIHA,Shaheed Rajguru College of Applied Sciences for Women,9.00,9.27,9.136
-19066564013,GUNJAN LUNTHI,Shaheed Rajguru College of Applied Sciences for Women,9.45,9.18,9.318
-19066564014,GUNOTTAMA,Shaheed Rajguru College of Applied Sciences for Women,9.27,9.27,9.273
-19066564015,IBTESAAM HAFEEZ,Shaheed Rajguru College of Applied Sciences for Women,9.27,9.55,9.409
-19066564016,JYOTI,Shaheed Rajguru College of Applied Sciences for Women,8.45,9.00,8.727
-19066564017,JYOTI JAISWAL,Shaheed Rajguru College of Applied Sciences for Women,5.27,7.64,6.455
-19066564018,KAJAL SINGH,Shaheed Rajguru College of Applied Sciences for Women,8.45,9.00,8.727
-19066564019,KHUSHI KHERA,Shaheed Rajguru College of Applied Sciences for Women,9.73,10.00,9.864
-19066564020,LATA LODHI,Shaheed Rajguru College of Applied Sciences for Women,7.64,9.00,8.318
-19066564021,MANSI JOSHI,Shaheed Rajguru College of Applied Sciences for Women,9.18,9.55,9.364
-19066564022,MEENU GARG,Shaheed Rajguru College of Applied Sciences for Women,8.18,9.00,8.591
-19066564023,NARGIS,Shaheed Rajguru College of Applied Sciences for Women,7.82,8.82,8.318
-19066564024,NIKITA SINGH,Shaheed Rajguru College of Applied Sciences for Women,8.18,9.00,8.591
-19066564025,PRACHI VIRAT,Shaheed Rajguru College of Applied Sciences for Women,6.64,7.82,7.227
-19066564026,PRAGYANSHREE  NAYAK,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.73,8.455
-19066564027,PREMLATA,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.82,8.500
-19066564028,PRERNA YADAV,Shaheed Rajguru College of Applied Sciences for Women,7.91,8.82,8.364
-19066564029,PUSHTI,Shaheed Rajguru College of Applied Sciences for Women,8.09,9.00,8.545
-19066564030,RAJ BALA,Shaheed Rajguru College of Applied Sciences for Women,6.27,8.27,7.273
-19066564031,RICHA KUMARI,Shaheed Rajguru College of Applied Sciences for Women,7.55,8.82,8.182
-19066564032,RINA,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.82,8.409
-19066564033,SAYANTIKA  CHOWDHURY,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.55,8.364
-19066564034,SHIKHA  SHARMA,Shaheed Rajguru College of Applied Sciences for Women,5.27,7.45,6.364
-19066564035,SHUBHI TIWARI,Shaheed Rajguru College of Applied Sciences for Women,7.73,7.27,7.500
-19066564036,SHWETA BHATI,Shaheed Rajguru College of Applied Sciences for Women,8.45,8.45,8.455
-19066564037,SONALIKA KUMARI,Shaheed Rajguru College of Applied Sciences for Women,4.82,7.64,6.227
-19066564038,SUNAINA VICHITRA,Shaheed Rajguru College of Applied Sciences for Women,7.91,8.55,8.227
-19066564039,TANYA SHARMA,Shaheed Rajguru College of Applied Sciences for Women,8.09,9.00,8.545
-19066564040,IMTSHAN NAWAZ,Shaheed Rajguru College of Applied Sciences for Women,8.91,10.00,9.455
-19066564041,KUMARI JYOTI,Shaheed Rajguru College of Applied Sciences for Women,7.36,8.82,8.091
-19066564042,KAJAL,Shaheed Rajguru College of Applied Sciences for Women,7.09,7.82,7.455
-19030564001,AAYUSHI,Institute Of Home Economics,7.18,7.82,7.500
-19030564002,AAFREEN,Institute Of Home Economics,9.82,10.00,9.909
-19030564003,ANCHAL,Institute Of Home Economics,0.00,,0.000
-19030564004,ANUSHKA JOSHI,Institute Of Home Economics,7.73,7.82,7.773
-19030564005,AISHANI CHAKRABORTY,Institute Of Home Economics,9.00,9.00,9.000
-19030564006,GAGANDEEP KAUR,Institute Of Home Economics,6.45,8.09,7.273
-19030564007,GURSIMRAN KAUR,Institute Of Home Economics,7.64,8.82,8.227
-19030564008,GUNNPREET KAUR,Institute Of Home Economics,7.64,8.64,8.136
-19030564009,HIMANSHI KUMARI,Institute Of Home Economics,6.91,7.82,7.364
-19030564010,KIRTI PAL,Institute Of Home Economics,6.00,0.91,3.455
-19030564011,KANISHKA GARJOLA,Institute Of Home Economics,7.09,7.00,7.045
-19030564012,NIKHITA KHERA,Institute Of Home Economics,7.73,8.27,8.000
-19030564013,PRATIKSHA PANDITA,Institute Of Home Economics,7.64,8.82,8.227
-19030564014,PRANJAL SAINI,Institute Of Home Economics,7.73,8.36,8.045
-19030564015,PRATIBHA,Institute Of Home Economics,6.18,7.27,6.727
-19030564016,PRIYANKA BHAT,Institute Of Home Economics,8.18,8.73,8.455
-19030564017,PRAKRITI SHARMA,Institute Of Home Economics,8.82,9.27,9.045
-19030564018,RACHNA,Institute Of Home Economics,6.64,8.00,7.318
-19030564019,RADHIKA CHAWLA,Institute Of Home Economics,7.27,8.18,7.727
-19030564020,RENU YADAV,Institute Of Home Economics,6.82,7.82,7.318
-19030564021,RHEA BHALLA,Institute Of Home Economics,9.73,10.00,9.864
-19030564022,SHAHIN BANO,Institute Of Home Economics,8.27,8.82,8.545
-19030564023,SONAL FLYWER,Institute Of Home Economics,8.82,9.27,9.045
-19030564024,SANCHITA MANDAL,Institute Of Home Economics,5.64,7.55,6.591
-19030564025,SAKSHI KUMARI,Institute Of Home Economics,8.27,8.82,8.545
-19030564026,SHREEJITI ADHIKARI,Institute Of Home Economics,6.18,7.55,6.864
-19030564027,SALEHA ATIQ,Institute Of Home Economics,8.00,8.27,8.136
-19030564028,URVASHI UPADHYAY,Institute Of Home Economics,6.45,7.09,6.773
-19030564029,YASHASWI RAWAT,Institute Of Home Economics,9.00,9.00,9.000
-19030564030,YAMBEM BIDYALAXMI DEVI,Institute Of Home Economics,1.82,5.27,3.545
-19030564031,MRINALINI VENUGOPAL,Institute Of Home Economics,7.27,7.73,7.500
-19030564032,PRAGYA KAUSHIK,Institute Of Home Economics,7.00,7.55,7.273
-19081564001,ANSHITA MEHRA,Swami Shraddhanand College,8.82,9.82,9.318
-19081564002,AMISHA,Swami Shraddhanand College,8.55,9.27,8.909
-19081564003,JYOTSNA GUPTA,Swami Shraddhanand College,9.73,10.00,9.864
-19081564004,VIDHI JAIN,Swami Shraddhanand College,8.55,9.00,8.773
-19081564005,ABHIKARSH GUPTA,Swami Shraddhanand College,9.64,10.00,9.818
-19081564006,VISHAL PANCHAL,Swami Shraddhanand College,8.91,9.55,9.227
-19081564007,RUCHI CHAUDHARY,Swami Shraddhanand College,8.82,9.55,9.182
-19081564008,RICHA CHANDRA,Swami Shraddhanand College,9.36,9.82,9.591
-19081564009,SAMA VIKAS,Swami Shraddhanand College,6.27,8.27,7.273
-19081564010,SHIVANI SINGH,Swami Shraddhanand College,9.00,9.27,9.136
-19081564011,SHIVANGI MISHRA,Swami Shraddhanand College,8.55,9.27,8.909
-19081564012,ANKISH KUMAR,Swami Shraddhanand College,9.36,9.55,9.455
-19081564013,PULKIT,Swami Shraddhanand College,8.36,9.27,8.818
-19081564014,ANKIT,Swami Shraddhanand College,9.55,9.82,9.682
-19081564015,BEDADYUTI DASH,Swami Shraddhanand College,6.36,8.09,7.227
-19081564016,SNEH LATA,Swami Shraddhanand College,7.00,8.00,7.500
-19081564017,YASHUDEV,Swami Shraddhanand College,7.45,8.55,8.000
-19081564018,HIMANSHU KUMAR SINGH,Swami Shraddhanand College,3.73,0.00,1.864
-19081564019,SITAL DAS,Swami Shraddhanand College,7.45,8.82,8.136
-19081564020,VAIBHAV,Swami Shraddhanand College,8.73,9.55,9.136
-19081564021,RIA DEBBARMA,Swami Shraddhanand College,4.64,0.00,2.318
-19081564022,FAREHA KHATOON,Swami Shraddhanand College,3.27,6.82,5.045
-19081564023,PUSHP MADAAN,Swami Shraddhanand College,6.45,8.00,7.227
-19081564024,MUSKAN SHARMA,Swami Shraddhanand College,8.18,9.00,8.591
-19081564025,JATIN KUMAR,Swami Shraddhanand College,7.00,8.27,7.636
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19024564001,AAVYA SINGH,Gargi College,8.82,9.27,9.00,9.028
+19024564003,ANKITA SINGH,Gargi College,9.82,9.27,9.21,9.417
+19024564004,BHAVYA S,Gargi College,7.73,8.27,7.71,7.889
+19024564005,CHHAVI SHARMA,Gargi College,7.00,8.27,8.57,8.000
+19024564006,DIPA DEBBARMA,Gargi College,7.27,8.27,9.00,8.250
+19024564007,GAURI KHANDELWAL,Gargi College,7.73,8.73,8.79,8.444
+19024564008,JAHNVI HORA,Gargi College,8.45,9.00,9.00,8.833
+19024564009,JYOTI,Gargi College,7.73,8.55,8.79,8.389
+19024564010,JYOTI VERMA,Gargi College,7.00,8.55,8.36,8.000
+19024564011,KHUSHI JINDAL,Gargi College,8.00,8.55,8.79,8.472
+19024564012,KIARA SINHA,Gargi College,6.18,7.55,8.64,7.556
+19024564013,NAVROOP KAUR,Gargi College,8.73,9.27,9.43,9.167
+19024564014,NIKITA,Gargi College,7.36,8.55,8.14,8.028
+19024564015,PARUL KRITI,Gargi College,5.64,6.00,4.71,5.389
+19024564016,PRANSHI AGRAWAL,Gargi College,8.55,9.27,8.93,8.917
+19024564017,PRIYANKA UPADHYAY,Gargi College,8.45,9.27,8.93,8.889
+19024564018,RAGINI,Gargi College,8.45,9.27,9.36,9.056
+19024564019,REENA,Gargi College,7.18,8.27,9.00,8.222
+19024564020,RICHA,Gargi College,6.45,8.09,8.57,7.778
+19024564021,RIYA DHAMI,Gargi College,9.09,9.00,9.00,9.028
+19024564022,SAKSHI,Gargi College,7.82,8.73,8.79,8.472
+19024564023,SALONI GEHLOT,Gargi College,8.82,9.27,8.93,9.000
+19024564024,SAPNA BAI,Gargi College,6.64,8.00,8.21,7.667
+19024564025,SHEFALI PATHANIA,Gargi College,6.73,8.27,8.36,7.833
+19024564026,SHREYA THAPLIYAL,Gargi College,8.36,9.00,8.79,8.722
+19024564027,SHRUTI KAUSHIK,Gargi College,9.00,9.27,9.21,9.167
+19024564028,TANYA,Gargi College,7.82,8.55,8.36,8.250
+19024564029,TRIPTI,Gargi College,8.09,9.00,8.36,8.472
+19024564030,VANSHIKA PANWAR,Gargi College,7.36,8.27,8.57,8.111
+19024564031,WANG TAMUT,Gargi College,5.55,7.00,7.36,6.694
+19058564001,D. ANVITHA,Ram Lal Anand College (Day),9.45,10.00,9.43,9.611
+19058564002,PRITIKA BARANWAL,Ram Lal Anand College (Day),8.18,9.27,7.93,8.417
+19058564003,ABHILASH JEAS GEORGE,Ram Lal Anand College (Day),10.00,10.00,10.00,10.000
+19058564004,ISHITA GUPTA,Ram Lal Anand College (Day),8.18,9.09,9.21,8.861
+19058564005,SOMA BANERJEE,Ram Lal Anand College (Day),9.18,9.82,9.57,9.528
+19058564006,VASU SHARMA,Ram Lal Anand College (Day),10.00,10.00,9.43,9.778
+19058564007,SAHRISH MAJEED,Ram Lal Anand College (Day),8.27,9.00,8.50,8.583
+19058564008,SEJAL DOGRA,Ram Lal Anand College (Day),5.18,6.45,7.43,6.444
+19058564009,PARTH KAPIL,Ram Lal Anand College (Day),8.45,8.82,9.21,8.861
+19058564010,PRANAY AGARWAL,Ram Lal Anand College (Day),5.82,5.09,7.21,6.139
+19058564011,KIRTI KHANDELWAL,Ram Lal Anand College (Day),7.36,8.55,9.00,8.361
+19058564012,SANDHYA,Ram Lal Anand College (Day),7.36,7.18,7.64,7.417
+19058564013,HARMEET SINGH WADHWA,Ram Lal Anand College (Day),6.82,7.18,8.36,7.528
+19058564014,NAINA JANGID,Ram Lal Anand College (Day),8.18,9.09,8.57,8.611
+19058564015,AMAN DIXIT,Ram Lal Anand College (Day),7.36,8.27,8.21,7.972
+19058564016,KANIKA,Ram Lal Anand College (Day),7.91,8.82,8.79,8.528
+19058564017,RAAJVI KHURANA,Ram Lal Anand College (Day),8.73,9.27,8.79,8.917
+19058564019,MUSKAN,Ram Lal Anand College (Day),7.73,8.00,8.00,7.917
+19058564021,ARYA KIRONE PATRA,Ram Lal Anand College (Day),7.91,8.82,8.86,8.556
+19058564022,YUGANSH GUPTA,Ram Lal Anand College (Day),7.64,8.82,8.43,8.306
+19058564024,SACHIN PAL,Ram Lal Anand College (Day),8.36,9.27,8.36,8.639
+19058564025,TAMIM,Ram Lal Anand College (Day),6.00,6.45,6.93,6.500
+19058564026,TIYASA BISWAS,Ram Lal Anand College (Day),7.09,7.27,7.14,7.167
+19058564027,NIKHIL GUPTA,Ram Lal Anand College (Day),7.55,7.45,8.14,7.750
+19058564028,VANAPALLI PRERANA,Ram Lal Anand College (Day),6.36,7.00,7.29,6.917
+19058564029,CHANUKA NISALANKA WIJEWARDANA,Ram Lal Anand College (Day),8.18,8.73,8.00,8.278
+19058564030,MOHD TARIF KHAN,Ram Lal Anand College (Day),6.27,5.09,6.64,6.056
+19058564031,NISHU RANI,Ram Lal Anand College (Day),6.45,7.73,8.43,7.611
+19058564032,AMAN KUNDU,Ram Lal Anand College (Day),5.82,5.91,7.00,6.306
+19058564034,NATHANIEL LALDINPUIA,Ram Lal Anand College (Day),5.18,4.91,4.21,4.722
+19058564035,MIR FAISAL FAROOQ,Ram Lal Anand College (Day),7.09,8.00,8.00,7.722
+19058564036,HARSHIT KUMAR YADAV,Ram Lal Anand College (Day),6.27,6.73,7.07,6.722
+19058564037,SUBHAG SINGH,Ram Lal Anand College (Day),7.91,8.73,8.21,8.278
+19009564001,ANJALI SAGAR,Bhaskaracharya College of Applied Sciences,9.27,9.55,9.57,9.472
+19009564002,AISHWARYA R NAIR,Bhaskaracharya College of Applied Sciences,9.09,9.09,9.43,9.222
+19009564003,NANCY,Bhaskaracharya College of Applied Sciences,8.91,9.82,9.00,9.222
+19009564004,CHETANA MEENA,Bhaskaracharya College of Applied Sciences,9.09,9.00,9.21,9.111
+19009564005,SIMRAN YADAV,Bhaskaracharya College of Applied Sciences,9.27,9.27,9.57,9.389
+19009564006,PRIYANKA DAFAUTI,Bhaskaracharya College of Applied Sciences,8.27,8.82,0.00,5.222
+19009564007,HEENA,Bhaskaracharya College of Applied Sciences,8.00,8.27,9.00,8.472
+19009564008,MUSKAN MADAAN,Bhaskaracharya College of Applied Sciences,9.09,9.27,9.21,9.194
+19009564009,HITIKK  CHAWLA,Bhaskaracharya College of Applied Sciences,9.00,8.82,9.21,9.028
+19009564010,ARIF KHAN,Bhaskaracharya College of Applied Sciences,6.00,7.00,8.43,7.250
+19009564011,ARNAB BASAK,Bhaskaracharya College of Applied Sciences,8.27,9.09,9.07,8.833
+19009564012,DHRUV SAKKARWAL,Bhaskaracharya College of Applied Sciences,7.55,8.82,8.21,8.194
+19009564013,TRISHNA  RAI,Bhaskaracharya College of Applied Sciences,8.09,8.55,9.00,8.583
+19009564014,SIDHARTH U.C,Bhaskaracharya College of Applied Sciences,7.73,7.82,8.43,8.028
+19009564016,RITIKA VERMA,Bhaskaracharya College of Applied Sciences,7.82,8.55,8.57,8.333
+19009564018,ISHIKA,Bhaskaracharya College of Applied Sciences,7.82,8.27,8.57,8.250
+19009564019,ANUSHKA SHARMA,Bhaskaracharya College of Applied Sciences,8.27,8.82,9.21,8.806
+19009564020,VARSHA  KUTHAR,Bhaskaracharya College of Applied Sciences,8.36,8.82,9.07,8.778
+19009564021,VATSALA KAUL,Bhaskaracharya College of Applied Sciences,8.82,9.00,8.79,8.861
+19009564022,SHIVAM JAWLA,Bhaskaracharya College of Applied Sciences,6.00,7.09,6.50,6.528
+19009564023,AMISHA MISHRA,Bhaskaracharya College of Applied Sciences,2.64,6.82,0.00,2.889
+19009564024,RIMMI,Bhaskaracharya College of Applied Sciences,7.73,8.82,9.21,8.639
+19009564026,VARUN RAWAT,Bhaskaracharya College of Applied Sciences,8.00,8.27,8.86,8.417
+19009564027,DEEPANSHI KARWALL,Bhaskaracharya College of Applied Sciences,8.55,8.73,9.29,8.889
+19009564028,KRITIKA  GARG,Bhaskaracharya College of Applied Sciences,9.36,9.36,9.36,9.361
+19009564031,ANJALI ROY,Bhaskaracharya College of Applied Sciences,8.82,9.55,9.00,9.111
+19009564032,DEVENDER SINGH,Bhaskaracharya College of Applied Sciences,6.73,8.00,7.64,7.472
+19009564033,PRANAV CHAWLA,Bhaskaracharya College of Applied Sciences,8.55,9.27,9.07,8.972
+19009564034,SHIVAM GUPTA,Bhaskaracharya College of Applied Sciences,6.45,7.55,7.00,7.000
+19066564001,AASTHA SONI,Shaheed Rajguru College of Applied Sciences for Women,9.00,9.00,9.00,9.000
+19066564002,AKSHITA  YADAV,Shaheed Rajguru College of Applied Sciences for Women,7.64,9.00,7.00,7.806
+19066564003,ANJU YADAV,Shaheed Rajguru College of Applied Sciences for Women,8.73,9.09,7.00,8.167
+19066564004,ARUNIMA,Shaheed Rajguru College of Applied Sciences for Women,9.27,9.82,9.36,9.472
+19066564005,ASWATHY AJAYAN,Shaheed Rajguru College of Applied Sciences for Women,8.18,9.00,7.00,7.972
+19066564007,AYUSHI BHATI,Shaheed Rajguru College of Applied Sciences for Women,9.27,9.55,7.64,8.722
+19066564008,BHAVNA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,8.91,9.82,7.21,8.528
+19066564009,BHAWNA CHAUDHARY,Shaheed Rajguru College of Applied Sciences for Women,7.18,8.82,7.36,7.750
+19066564010,CHANCHAL,Shaheed Rajguru College of Applied Sciences for Women,7.55,8.27,7.79,7.861
+19066564011,CHANCHAL,Shaheed Rajguru College of Applied Sciences for Women,7.45,8.82,8.79,8.389
+19066564012,DEVSHREE PARGANIHA,Shaheed Rajguru College of Applied Sciences for Women,9.00,9.27,7.29,8.417
+19066564013,GUNJAN LUNTHI,Shaheed Rajguru College of Applied Sciences for Women,9.45,9.18,8.93,9.167
+19066564014,GUNOTTAMA,Shaheed Rajguru College of Applied Sciences for Women,9.27,9.27,7.43,8.556
+19066564015,IBTESAAM HAFEEZ,Shaheed Rajguru College of Applied Sciences for Women,9.27,9.55,8.93,9.222
+19066564016,JYOTI,Shaheed Rajguru College of Applied Sciences for Women,8.45,9.00,8.71,8.722
+19066564017,JYOTI JAISWAL,Shaheed Rajguru College of Applied Sciences for Women,5.27,7.64,6.93,6.639
+19066564018,KAJAL SINGH,Shaheed Rajguru College of Applied Sciences for Women,8.45,9.00,9.00,8.833
+19066564019,KHUSHI KHERA,Shaheed Rajguru College of Applied Sciences for Women,9.73,10.00,7.64,9.000
+19066564020,LATA LODHI,Shaheed Rajguru College of Applied Sciences for Women,7.64,9.00,9.14,8.639
+19066564021,MANSI JOSHI,Shaheed Rajguru College of Applied Sciences for Women,9.18,9.55,7.86,8.778
+19066564022,MEENU GARG,Shaheed Rajguru College of Applied Sciences for Women,8.18,9.00,9.43,8.917
+19066564023,NARGIS,Shaheed Rajguru College of Applied Sciences for Women,7.82,8.82,7.64,8.056
+19066564024,NIKITA SINGH,Shaheed Rajguru College of Applied Sciences for Women,8.18,9.00,9.21,8.833
+19066564025,PRACHI VIRAT,Shaheed Rajguru College of Applied Sciences for Women,6.64,7.82,8.57,7.750
+19066564026,PRAGYANSHREE  NAYAK,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.73,6.86,7.833
+19066564027,PREMLATA,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.82,7.93,8.278
+19066564028,PRERNA YADAV,Shaheed Rajguru College of Applied Sciences for Women,7.91,8.82,6.64,7.694
+19066564029,PUSHTI,Shaheed Rajguru College of Applied Sciences for Women,8.09,9.00,7.64,8.194
+19066564030,RAJ BALA,Shaheed Rajguru College of Applied Sciences for Women,7.64,8.27,8.29,8.083
+19066564031,RICHA KUMARI,Shaheed Rajguru College of Applied Sciences for Women,7.55,8.82,8.71,8.389
+19066564032,RINA,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.82,6.86,7.806
+19066564033,SAYANTIKA  CHOWDHURY,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.55,9.21,8.694
+19066564034,SHIKHA  SHARMA,Shaheed Rajguru College of Applied Sciences for Women,5.27,7.45,6.79,6.528
+19066564035,SHUBHI TIWARI,Shaheed Rajguru College of Applied Sciences for Women,7.73,7.27,8.93,8.056
+19066564036,SHWETA BHATI,Shaheed Rajguru College of Applied Sciences for Women,8.45,8.45,8.79,8.583
+19066564037,SONALIKA KUMARI,Shaheed Rajguru College of Applied Sciences for Women,4.82,7.64,7.00,6.528
+19066564038,SUNAINA VICHITRA,Shaheed Rajguru College of Applied Sciences for Women,7.91,8.55,8.57,8.361
+19066564039,TANYA SHARMA,Shaheed Rajguru College of Applied Sciences for Women,8.09,9.00,7.07,7.972
+19066564040,IMTSHAN NAWAZ,Shaheed Rajguru College of Applied Sciences for Women,8.91,10.00,9.36,9.417
+19066564041,KUMARI JYOTI,Shaheed Rajguru College of Applied Sciences for Women,7.36,8.82,6.43,7.444
+19066564042,KAJAL,Shaheed Rajguru College of Applied Sciences for Women,7.09,7.82,7.71,7.556
+19030564001,AAYUSHI,Institute Of Home Economics,7.18,7.82,9.21,8.167
+19030564002,AAFREEN,Institute Of Home Economics,9.82,10.00,9.57,9.778
+19030564004,ANUSHKA JOSHI,Institute Of Home Economics,7.73,7.82,8.79,8.167
+19030564005,AISHANI CHAKRABORTY,Institute Of Home Economics,9.00,9.00,9.00,9.000
+19030564006,GAGANDEEP KAUR,Institute Of Home Economics,6.45,8.09,8.21,7.639
+19030564007,GURSIMRAN KAUR,Institute Of Home Economics,7.64,8.82,9.57,8.750
+19030564008,GUNNPREET KAUR,Institute Of Home Economics,7.64,8.64,8.93,8.444
+19030564009,HIMANSHI KUMARI,Institute Of Home Economics,6.91,7.82,8.00,7.611
+19030564011,KANISHKA GARJOLA,Institute Of Home Economics,7.09,7.00,7.79,7.333
+19030564012,NIKHITA KHERA,Institute Of Home Economics,7.73,8.27,8.64,8.250
+19030564013,PRATIKSHA PANDITA,Institute Of Home Economics,7.64,8.82,9.00,8.528
+19030564014,PRANJAL SAINI,Institute Of Home Economics,7.73,8.36,8.79,8.333
+19030564015,PRATIBHA,Institute Of Home Economics,6.18,7.27,8.00,7.222
+19030564016,PRIYANKA BHAT,Institute Of Home Economics,8.18,8.73,8.36,8.417
+19030564017,PRAKRITI SHARMA,Institute Of Home Economics,8.82,9.27,9.14,9.083
+19030564018,RACHNA,Institute Of Home Economics,6.64,8.00,8.79,7.889
+19030564019,RADHIKA CHAWLA,Institute Of Home Economics,7.82,8.18,9.43,8.556
+19030564020,RENU YADAV,Institute Of Home Economics,6.82,7.82,9.00,7.972
+19030564021,RHEA BHALLA,Institute Of Home Economics,9.73,10.00,9.36,9.667
+19030564022,SHAHIN BANO,Institute Of Home Economics,8.27,8.82,9.00,8.722
+19030564023,SONAL FLYWER,Institute Of Home Economics,8.82,9.27,9.57,9.250
+19030564024,SANCHITA MANDAL,Institute Of Home Economics,5.64,7.55,9.00,7.528
+19030564025,SAKSHI KUMARI,Institute Of Home Economics,8.27,8.82,8.79,8.639
+19030564026,SHREEJITI ADHIKARI,Institute Of Home Economics,6.18,7.55,8.86,7.639
+19030564027,SALEHA ATIQ,Institute Of Home Economics,8.00,8.27,9.00,8.472
+19030564028,URVASHI UPADHYAY,Institute Of Home Economics,6.45,7.09,8.21,7.333
+19030564029,YASHASWI RAWAT,Institute Of Home Economics,9.00,9.00,9.21,9.083
+19030564030,YAMBEM BIDYALAXMI DEVI,Institute Of Home Economics,4.55,5.27,7.50,5.917
+19030564031,MRINALINI VENUGOPAL,Institute Of Home Economics,7.27,7.73,8.57,7.917
+19030564032,PRAGYA KAUSHIK,Institute Of Home Economics,7.00,7.55,8.64,7.806
+19081564001,ANSHITA MEHRA,Swami Shraddhanand College,8.82,9.82,9.57,9.417
+19081564002,AMISHA,Swami Shraddhanand College,8.55,9.27,8.64,8.806
+19081564003,JYOTSNA GUPTA,Swami Shraddhanand College,9.73,10.00,9.64,9.778
+19081564004,VIDHI JAIN,Swami Shraddhanand College,8.55,9.00,8.43,8.639
+19081564005,ABHIKARSH GUPTA,Swami Shraddhanand College,9.64,10.00,9.57,9.722
+19081564006,VISHAL PANCHAL,Swami Shraddhanand College,8.91,9.55,9.43,9.306
+19081564007,RUCHI CHAUDHARY,Swami Shraddhanand College,8.82,9.55,8.64,8.972
+19081564008,RICHA CHANDRA,Swami Shraddhanand College,9.36,9.82,9.21,9.444
+19081564009,SAMA VIKAS,Swami Shraddhanand College,6.27,8.27,6.86,7.111
+19081564010,SHIVANI SINGH,Swami Shraddhanand College,9.00,9.27,8.00,8.694
+19081564011,SHIVANGI MISHRA,Swami Shraddhanand College,8.55,9.27,9.21,9.028
+19081564012,ANKISH KUMAR,Swami Shraddhanand College,9.36,9.55,9.21,9.361
+19081564013,PULKIT,Swami Shraddhanand College,8.36,9.27,8.57,8.722
+19081564014,ANKIT,Swami Shraddhanand College,9.55,9.82,10.00,9.806
+19081564015,BEDADYUTI DASH,Swami Shraddhanand College,6.36,8.09,6.64,7.000
+19081564016,SNEH LATA,Swami Shraddhanand College,7.00,8.00,5.14,6.583
+19081564017,YASHUDEV,Swami Shraddhanand College,7.45,8.55,8.79,8.306
+19081564019,SITAL DAS,Swami Shraddhanand College,7.45,8.82,8.86,8.417
+19081564020,VAIBHAV,Swami Shraddhanand College,8.73,9.55,9.21,9.167
+19081564022,FAREHA KHATOON,Swami Shraddhanand College,4.18,6.82,5.43,5.472
+19081564023,PUSHP MADAAN,Swami Shraddhanand College,6.45,8.00,7.79,7.444
+19081564024,MUSKAN SHARMA,Swami Shraddhanand College,8.18,9.00,8.43,8.528
+19081564025,JATIN KUMAR,Swami Shraddhanand College,7.00,8.27,8.00,7.778

@@ -1,10 +1,9 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-19075728001,JUHI,Shyama Prasad Mukherji College for Women,7.00,6.89,6.949
-19075728002,ARCHITA SHARMA,Shyama Prasad Mukherji College for Women,7.75,8.00,7.872
-19075728003,SHEETAL,Shyama Prasad Mukherji College for Women,5.75,5.26,5.513
-19075728004,KALASH,Shyama Prasad Mukherji College for Women,7.00,7.26,7.128
-19075728005,ANJALI,Shyama Prasad Mukherji College for Women,7.50,7.79,7.641
-19075728006,RUCHI TIWARI,Shyama Prasad Mukherji College for Women,6.50,7.26,6.872
-19075728007,DIMPLE,Shyama Prasad Mukherji College for Women,4.75,0.00,2.436
-19075728008,SUNITA,Shyama Prasad Mukherji College for Women,6.00,7.26,6.615
-19075728009,MEENU MISHRA,Shyama Prasad Mukherji College for Women,5.50,6.79,6.128
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19075728001,JUHI,Shyama Prasad Mukherji College for Women,7.00,7.53,7.77,7.443
+19075728002,ARCHITA SHARMA,Shyama Prasad Mukherji College for Women,7.75,8.00,8.55,8.115
+19075728003,SHEETAL,Shyama Prasad Mukherji College for Women,5.75,6.53,5.77,6.000
+19075728004,KALASH,Shyama Prasad Mukherji College for Women,7.00,7.26,7.77,7.361
+19075728005,ANJALI,Shyama Prasad Mukherji College for Women,7.50,7.79,9.00,8.131
+19075728006,RUCHI TIWARI,Shyama Prasad Mukherji College for Women,6.50,7.26,6.73,6.820
+19075728008,SUNITA,Shyama Prasad Mukherji College for Women,6.00,7.26,7.50,6.934
+19075728009,MEENU MISHRA,Shyama Prasad Mukherji College for Women,5.50,6.79,7.32,6.557

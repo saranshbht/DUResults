@@ -1,14 +1,13 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-19076713001,ABHINAV SINGH,Sri Aurobindo College (Day),7.20,7.79,7.490
-19076713002,ROSHNI,Sri Aurobindo College (Day),7.20,7.79,7.490
-19076713003,SANJAY MEENA,Sri Aurobindo College (Day),2.60,4.17,3.367
-19076713004,SATENDRA,Sri Aurobindo College (Day),6.20,7.00,6.592
-19076713005,SHAHIN,Sri Aurobindo College (Day),6.80,6.50,6.653
-19076713006,SHIVANI,Sri Aurobindo College (Day),7.40,7.58,7.490
-19076713007,SONALI,Sri Aurobindo College (Day),6.80,6.96,6.878
-19076713008,SONAM SINGH,Sri Aurobindo College (Day),7.00,7.00,7.000
-19076713009,SUMIT KUMAR GUPTA,Sri Aurobindo College (Day),6.80,7.00,6.898
-19076713010,VIJAY,Sri Aurobindo College (Day),5.40,6.17,5.776
-19076713011,VIKAS KUMAR,Sri Aurobindo College (Day),6.00,7.00,6.490
-19076713012,VISHAL SONI,Sri Aurobindo College (Day),6.20,7.17,6.673
-19076713013,YASHWANT KUMAR VISHWAKARMA,Sri Aurobindo College (Day),7.80,7.17,7.490
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19076713001,ABHINAV SINGH,Sri Aurobindo College (Day),7.40,7.79,7.00,7.392
+19076713002,ROSHNI,Sri Aurobindo College (Day),7.20,7.79,7.00,7.324
+19076713004,SATENDRA,Sri Aurobindo College (Day),6.20,7.00,7.00,6.730
+19076713005,SHAHIN,Sri Aurobindo College (Day),6.80,7.17,0.00,4.622
+19076713006,SHIVANI,Sri Aurobindo College (Day),7.40,7.58,7.00,7.324
+19076713007,SONALI,Sri Aurobindo College (Day),6.80,6.96,7.00,6.919
+19076713008,SONAM SINGH,Sri Aurobindo College (Day),7.00,7.00,7.00,7.000
+19076713009,SUMIT KUMAR GUPTA,Sri Aurobindo College (Day),6.80,7.00,7.00,6.932
+19076713010,VIJAY,Sri Aurobindo College (Day),5.40,6.17,7.00,6.189
+19076713011,VIKAS KUMAR,Sri Aurobindo College (Day),6.00,7.00,7.00,6.662
+19076713012,VISHAL SONI,Sri Aurobindo College (Day),6.20,7.17,7.00,6.784
+19076713013,YASHWANT KUMAR VISHWAKARMA,Sri Aurobindo College (Day),7.80,7.17,7.00,7.324

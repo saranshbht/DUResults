@@ -1,8 +1,6 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-19242727001,ANJALI,Department of Slavonic And Finno-Ugrian Studies,6.33,7.00,6.667
-19242727003,CHANDAN KUMAR SINGH,Department of Slavonic And Finno-Ugrian Studies,4.33,6.33,5.333
-19242727004,KRISHNA KUMAR BAGHEL,Department of Slavonic And Finno-Ugrian Studies,1.50,0.67,1.083
-19242727005,MD. AMIR ABBAS,Department of Slavonic And Finno-Ugrian Studies,8.17,8.83,8.500
-19242727006,NASIR HAYAT,Department of Slavonic And Finno-Ugrian Studies,3.00,3.67,3.333
-19242727008,ROSHAN KUMAR,Department of Slavonic And Finno-Ugrian Studies,5.17,6.83,6.000
-19242727009,SNEHA PAWAR,Department of Slavonic And Finno-Ugrian Studies,0.00,1.33,0.667
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19242727001,ANJALI,Department of Slavonic And Finno-Ugrian Studies,6.33,7.00,5.83,6.389
+19242727003,CHANDAN KUMAR SINGH,Department of Slavonic And Finno-Ugrian Studies,5.33,6.33,5.33,5.667
+19242727005,MD. AMIR ABBAS,Department of Slavonic And Finno-Ugrian Studies,8.17,8.83,6.83,7.944
+19242727008,ROSHAN KUMAR,Department of Slavonic And Finno-Ugrian Studies,5.17,6.83,5.67,5.889
+19242727009,SNEHA PAWAR,Department of Slavonic And Finno-Ugrian Studies,4.83,1.33,3.67,3.278

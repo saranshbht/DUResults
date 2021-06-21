@@ -1,23 +1,19 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-19085702001,ABDUL AHAD CV,Zakir Husain Delhi College (Day),4.75,3.54,4.091
-19085702002,ABDUR RAHEEM,Zakir Husain Delhi College (Day),7.75,7.17,7.432
-19085702003,ABDUR RAHMAN,Zakir Husain Delhi College (Day),7.00,6.29,6.614
-19085702004,ABDUR RAHIM,Zakir Husain Delhi College (Day),3.50,0.00,1.591
-19085702005,FAYIZ MUHAMMED THODENGAL,Zakir Husain Delhi College (Day),4.25,3.54,3.864
-19085702006,HUMAUN KABIR SK,Zakir Husain Delhi College (Day),6.50,6.08,6.273
-19085702007,JAMIL ZAKI,Zakir Husain Delhi College (Day),7.25,6.75,6.977
-19085702008,MOHAMMED JABEEN P S,Zakir Husain Delhi College (Day),5.25,3.75,4.432
-19085702009,MOHD AJAZ ALAM,Zakir Husain Delhi College (Day),6.50,5.04,5.705
-19085702010,MOHD FAIZAN,Zakir Husain Delhi College (Day),5.50,4.75,5.091
-19085702012,MOHD NOMAN KHAN,Zakir Husain Delhi College (Day),7.00,6.21,6.568
-19085702013,MOHD SHADAB,Zakir Husain Delhi College (Day),3.75,3.75,3.750
-19085702014,MOHD SHARIQUE,Zakir Husain Delhi College (Day),5.00,4.13,4.523
-19085702015,NAJMUL HAQUE,Zakir Husain Delhi College (Day),6.00,1.25,3.409
-19085702016,OLID MOLLA,Zakir Husain Delhi College (Day),7.00,6.58,6.773
-19085702017,SHIRAZ AHMAD,Zakir Husain Delhi College (Day),4.75,5.33,5.068
-19085702018,WASIQUR RAHMAN,Zakir Husain Delhi College (Day),4.50,3.96,4.205
-19085702019,NAUSHIYA FATMA,Zakir Husain Delhi College (Day),3.50,4.33,3.955
-19085702020,AISHA FATMA,Zakir Husain Delhi College (Day),2.50,4.13,3.386
-19085702021,MOHD AAMIR,Zakir Husain Delhi College (Day),5.25,5.13,5.182
-19085702022,MOHD USAMA,Zakir Husain Delhi College (Day),6.00,3.75,4.773
-19085702023,HAMAD HUSSAIN,Zakir Husain Delhi College (Day),0.00,0.83,0.455
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19085702001,ABDUL AHAD CV,Zakir Husain Delhi College (Day),4.75,3.54,7.00,5.000
+19085702002,ABDUR RAHEEM,Zakir Husain Delhi College (Day),7.75,7.17,8.75,7.844
+19085702003,ABDUR RAHMAN,Zakir Husain Delhi College (Day),7.00,6.29,8.00,7.047
+19085702005,FAYIZ MUHAMMED THODENGAL,Zakir Husain Delhi College (Day),5.75,3.54,7.00,5.313
+19085702006,HUMAUN KABIR SK,Zakir Husain Delhi College (Day),6.50,6.08,7.75,6.734
+19085702007,JAMIL ZAKI,Zakir Husain Delhi College (Day),7.25,6.75,8.00,7.297
+19085702008,MOHAMMED JABEEN P S,Zakir Husain Delhi College (Day),5.25,3.75,7.00,5.234
+19085702010,MOHD FAIZAN,Zakir Husain Delhi College (Day),6.75,4.75,7.50,6.234
+19085702012,MOHD NOMAN KHAN,Zakir Husain Delhi College (Day),7.00,6.21,8.00,7.016
+19085702013,MOHD SHADAB,Zakir Husain Delhi College (Day),6.25,3.75,6.75,5.469
+19085702014,MOHD SHARIQUE,Zakir Husain Delhi College (Day),5.00,4.13,7.00,5.297
+19085702016,OLID MOLLA,Zakir Husain Delhi College (Day),7.00,6.58,7.75,7.078
+19085702017,SHIRAZ AHMAD,Zakir Husain Delhi College (Day),6.25,5.33,7.00,6.141
+19085702018,WASIQUR RAHMAN,Zakir Husain Delhi College (Day),6.25,3.96,7.25,5.703
+19085702019,NAUSHIYA FATMA,Zakir Husain Delhi College (Day),4.75,4.33,6.50,5.141
+19085702020,AISHA FATMA,Zakir Husain Delhi College (Day),5.75,4.13,7.00,5.531
+19085702021,MOHD AAMIR,Zakir Husain Delhi College (Day),5.25,5.13,6.75,5.672
+19085702022,MOHD USAMA,Zakir Husain Delhi College (Day),6.00,3.75,7.00,5.469

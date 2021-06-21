@@ -1,42 +1,36 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-19228706001,ABHYODAY,Department of East Asian Studies,7.25,7.75,7.500
-19228706002,ADITYA ARYA,Department of East Asian Studies,2.50,,2.500
-19228706003,AIJING CHELSEA JERANG,Department of East Asian Studies,6.25,6.50,6.375
-19228706004,ASHISH DANGWAL,Department of East Asian Studies,6.00,6.50,6.250
-19228706005,ASHISH PRKASH,Department of East Asian Studies,6.75,6.75,6.750
-19228706006,AYUSHI YADAV,Department of East Asian Studies,5.50,4.75,5.125
-19228706007,BHAWANA SEPAIA,Department of East Asian Studies,8.00,7.75,7.875
-19228706008,BIDYARANI KONJENGBAM,Department of East Asian Studies,6.50,6.75,6.625
-19228706009,CHUBATOLA CHANKIRI,Department of East Asian Studies,7.25,7.00,7.125
-19228706010,DHNYANADA R DHOTE,Department of East Asian Studies,8.00,8.25,8.125
-19228706011,GEESHAN HANNAN,Department of East Asian Studies,5.50,7.50,6.500
-19228706012,GEETAM,Department of East Asian Studies,7.75,8.00,7.875
-19228706013,MONA RANI,Department of East Asian Studies,8.50,8.50,8.500
-19228706014,NAVIN KUMAR SINGH,Department of East Asian Studies,0.00,,0.000
-19228706015,OWAIS ALAM NIYAZI,Department of East Asian Studies,0.00,,0.000
-19228706016,PRASHANT SHUBHAM,Department of East Asian Studies,6.25,6.75,6.500
-19228706017,PRIYANSHI DHONDIYAL,Department of East Asian Studies,6.25,7.25,6.750
-19228706018,RAJA BABU,Department of East Asian Studies,6.50,6.75,6.625
-19228706019,RAJEEV KUMAR,Department of East Asian Studies,4.50,5.75,5.125
-19228706020,RAJNANDHNI RATHORE,Department of East Asian Studies,6.00,6.75,6.375
-19228706021,ROODA EBRAHIM,Department of East Asian Studies,7.25,7.00,7.125
-19228706022,SAGAR KHANDELWAL,Department of East Asian Studies,6.00,6.25,6.125
-19228706023,SAILEMDOM MASONAO,Department of East Asian Studies,6.00,7.00,6.500
-19228706024,SAKSHAM ROHILLA,Department of East Asian Studies,5.50,7.00,6.250
-19228706025,SAMEEKSHA,Department of East Asian Studies,5.25,6.25,5.750
-19228706026,SATYAMAYEE PATTNAIK,Department of East Asian Studies,8.00,8.25,8.125
-19228706027,SHANKAR DAYAL,Department of East Asian Studies,2.25,2.00,2.125
-19228706028,SHELLY,Department of East Asian Studies,7.75,8.25,8.000
-19228706029,SHIVANI SINGH SENGAR,Department of East Asian Studies,5.75,6.00,5.875
-19228706030,SHUBHANKAR KABASI,Department of East Asian Studies,5.50,6.50,6.000
-19228706031,SIDDHARTHA SHARMA,Department of East Asian Studies,5.50,,5.500
-19228706032,SIMRAN DHIR,Department of East Asian Studies,7.00,7.50,7.250
-19228706033,SONIA TIRKEY,Department of East Asian Studies,7.50,7.25,7.375
-19228706034,SUMIT KUMAR,Department of East Asian Studies,5.25,6.00,5.625
-19228706035,SYBELL JOHN SAJAN,Department of East Asian Studies,4.00,2.00,3.000
-19228706036,URVASHI,Department of East Asian Studies,8.25,8.50,8.375
-19228706037,UTKARSH VERMA,Department of East Asian Studies,5.75,7.00,6.375
-19228706038,VAISHNAVI DANGWAL,Department of East Asian Studies,7.00,7.50,7.250
-19228706039,VISHAKHA VIKRAM JHA,Department of East Asian Studies,0.00,,0.000
-19228706040,VISHWAJEET KUMAR,Department of East Asian Studies,5.25,6.75,6.000
-19228706041,WUNGCHIPUI HUNGYO,Department of East Asian Studies,4.50,5.50,5.000
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19228706001,ABHYODAY,Department of East Asian Studies,7.25,7.75,8.00,7.667
+19228706003,AIJING CHELSEA JERANG,Department of East Asian Studies,6.25,6.50,7.25,6.667
+19228706004,ASHISH DANGWAL,Department of East Asian Studies,7.00,6.50,7.50,7.000
+19228706005,ASHISH PRAKASH,Department of East Asian Studies,6.75,6.75,7.00,6.833
+19228706006,AYUSHI YADAV,Department of East Asian Studies,5.50,4.75,7.00,5.750
+19228706007,BHAWANA SEPAIA,Department of East Asian Studies,8.00,7.75,8.75,8.167
+19228706008,BIDYARANI KONJENGBAM,Department of East Asian Studies,6.50,6.75,7.75,7.000
+19228706009,CHUBATOLA CHANKIRI,Department of East Asian Studies,7.25,7.00,7.50,7.250
+19228706010,DHNYANADA R DHOTE,Department of East Asian Studies,8.00,8.25,8.00,8.083
+19228706011,GEESHAN HANNAN,Department of East Asian Studies,5.50,7.50,6.50,6.500
+19228706012,GEETAM,Department of East Asian Studies,7.75,8.00,7.50,7.750
+19228706013,MONA RANI,Department of East Asian Studies,8.50,8.50,8.00,8.333
+19228706016,PRASHANT SHUBHAM,Department of East Asian Studies,6.25,6.75,6.25,6.417
+19228706017,PRIYANSHI DHONDIYAL,Department of East Asian Studies,6.75,7.25,7.00,7.000
+19228706018,RAJA BABU,Department of East Asian Studies,6.50,6.75,7.75,7.000
+19228706019,RAJEEV KUMAR,Department of East Asian Studies,6.00,5.75,6.75,6.167
+19228706020,RAJNANDINI RATHORE,Department of East Asian Studies,6.50,6.75,7.75,7.000
+19228706021,ROODA EBRAHIM,Department of East Asian Studies,7.25,7.00,8.00,7.417
+19228706022,SAGAR KHANDELWAL,Department of East Asian Studies,6.25,6.25,5.75,6.083
+19228706023,SAILEMDOM MASONAO,Department of East Asian Studies,6.00,7.00,6.75,6.583
+19228706024,SAKSHAM ROHILLA,Department of East Asian Studies,5.50,7.00,7.25,6.583
+19228706025,SAMEEKSHA,Department of East Asian Studies,5.25,6.25,8.00,6.500
+19228706026,SATYAMAYEE PATTNAIK,Department of East Asian Studies,8.00,8.25,8.25,8.167
+19228706027,Shankar Dayal,Department of East Asian Studies,3.50,2.00,2.25,2.583
+19228706029,SHIVANI SINGH SENGAR,Department of East Asian Studies,5.75,6.00,6.00,5.917
+19228706030,SHUBHANKAR KABASI,Department of East Asian Studies,5.50,6.50,7.50,6.500
+19228706032,SIMRAN DHIR,Department of East Asian Studies,7.00,7.50,7.50,7.333
+19228706033,SONIA TIRKEY,Department of East Asian Studies,7.50,7.25,7.25,7.333
+19228706034,SUMIT KUMAR,Department of East Asian Studies,5.25,6.00,5.75,5.667
+19228706035,SYBELL JOHN SAJAN,Department of East Asian Studies,5.25,2.00,6.75,4.667
+19228706036,URVASHI,Department of East Asian Studies,8.25,8.50,8.50,8.417
+19228706037,UTKARSH VERMA,Department of East Asian Studies,6.00,7.00,7.25,6.750
+19228706038,VAISHNAVI DANGWAL,Department of East Asian Studies,7.00,7.50,7.75,7.417
+19228706040,VISHWAJEET KUMAR,Department of East Asian Studies,5.25,6.75,6.25,6.083
+19228706041,WUNGCHIPUI HUNGYO,Department of East Asian Studies,5.75,5.50,6.25,5.833
