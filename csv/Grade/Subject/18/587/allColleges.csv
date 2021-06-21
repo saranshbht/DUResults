@@ -1,172 +1,163 @@
-RollNo,Name,College,PROBLEM SOLVING USING COMPUTER,CALCULUS AND MATRICES,DESCRIPTIVE STATISTICS AND PROBABILITY THEORY,ENGLISH-A,DATABASE MANAGEMENT SYSTEM,CALCULUS AND GEMETRY,STATISTICAL METHODS,ENVIRONMENTAL SCIENCE,OFFICE AUTOMATION TOOLS,OPERATING SYSTEM,ALGEBRA,STATISTICAL INFERENCE,PHP PROGRAMMING,COMPUTER SYSTEM ARCHITECTURE,REAL ANALYSIS,SAMPLE SURVEYS AND DESIGN OF EXPERIMENTS,DATA ANALYSIS USING SOFTWARE,STATISTICAL COMPUTING USING C,MATHEMATICAL TYPE SETTING SYSTEM LATEX (ONLY FOR B.SC. PROG.),COMPUTER ALGEBRA SYSTEMS (FOR B.SC.),HINDI BHASHA AUR SANSPRESHAN,UPANISAD AND GEETA,INTRODUCTION TO OPERATIONAL RESEARCH AND LINEAR PROGRAMMING,INVENTORY AND MARKETING MANAGEMENT,OPTIMIZATION TECHNIQUES,NETWORK MODELS AND SCHEDULING TECHNIQUES
-18053587001,ABHISHEK KUMAR MISHRA,P.G.D.A.V. College (Day),7,5,6,7,7,4,0,7,5,5,6,5,6,5,6,6,,,,,,,,,,
-18053587002,AINDRILA ACHARYYA CHAUDHURI,P.G.D.A.V. College (Day),10,9,10,8,9,8,10,10,,10,10,9,,9,9,9,7,10,,,,,,,,
-18053587004,AMIT RAJPUT,P.G.D.A.V. College (Day),6,6,5,6,5,5,4,5,,5,5,6,,6,8,7,,,7,8,,,,,,
-18053587005,ANKIT,P.G.D.A.V. College (Day),6,6,4,5,4,4,4,6,,4,4,6,,4,6,5,,,8,7,,,,,,
-18053587006,ANSHIKA,P.G.D.A.V. College (Day),9,9,6,6,8,7,7,7,,6,6,7,,7,8,7,6,8,,,,,,,,
-18053587007,ANUBHAV SHARMA,P.G.D.A.V. College (Day),8,7,7,6,8,6,8,9,,6,5,6,,7,8,6,,,9,9,,,,,,
-18053587008,ANURAG CHAURASIYA,P.G.D.A.V. College (Day),7,9,8,7,7,5,5,6,,6,7,7,,8,8,7,,,8,8,,,,,,
-18053587009,ARUN KUMAR,P.G.D.A.V. College (Day),7,4,4,6,5,4,0,7,,4,4,7,,6,7,6,,,8,8,,,,,,
-18053587010,AVINASH,P.G.D.A.V. College (Day),6,5,5,5,5,7,5,7,,4,6,6,,6,8,6,,,7,8,,,,,,
-18053587011,AYUSH KHATANA,P.G.D.A.V. College (Day),5,6,6,5,6,8,7,7,,6,7,8,,8,8,8,,,9,9,,,,,,
-18053587012,BHVISY KUMAR YADAV,P.G.D.A.V. College (Day),8,8,8,,7,7,9,8,,8,8,8,,9,8,8,,,9,9,8,,,,,
-18053587013,GAURAV,P.G.D.A.V. College (Day),9,9,9,6,8,8,10,7,9,9,6,8,7,7,8,7,,,,,,,,,,
-18053587015,KM JIGYASA RAWAT,P.G.D.A.V. College (Day),7,6,6,6,7,6,5,8,10,8,7,6,9,8,8,8,,,,,,,,,,
-18053587016,JYOTI SINGH,P.G.D.A.V. College (Day),6,8,7,7,6,4,4,6,,4,4,4,,4,6,6,,,6,7,,,,,,
-18053587017,KASHIKA TUTEJA,P.G.D.A.V. College (Day),9,10,10,7,9,8,10,10,10,9,8,9,9,9,9,8,,,,,,,,,,
-18053587019,MANU SHREE,P.G.D.A.V. College (Day),7,8,9,7,8,8,9,8,,8,9,9,,8,9,8,,,9,9,,,,,,
-18053587020,MEHUL SHUKLA,P.G.D.A.V. College (Day),8,7,9,7,8,6,9,7,9,9,5,9,9,9,9,8,,,,,,,,,,
-18053587021,MOHAMMAD ZIA,P.G.D.A.V. College (Day),5,9,6,6,7,8,8,7,7,6,7,7,8,8,8,8,,,,,,,,,,
-18053587022,MUKESH KUMAR DHAKA,P.G.D.A.V. College (Day),6,10,8,,8,8,8,9,,6,8,8,,8,8,8,,,9,9,8,,,,,
-18053587023,MUSKAN,P.G.D.A.V. College (Day),4,5,4,6,4,4,4,5,4,0,4,5,5,5,6,6,,,,,,,,,,
-18053587024,MUSKAN AGGARWAL,P.G.D.A.V. College (Day),5,5,7,,7,7,6,7,,5,5,4,,5,7,6,6,7,,,,5,,,,
-18053587025,NEHA,P.G.D.A.V. College (Day),5,9,8,6,7,9,10,6,,7,7,9,,9,8,8,6,9,,,,,,,,
-18053587026,KM NEHA SAINI,P.G.D.A.V. College (Day),5,7,5,5,5,6,6,6,,7,6,8,,8,9,8,,,9,9,,,,,,
-18053587027,PARTH VERMA,P.G.D.A.V. College (Day),7,7,9,6,7,7,8,8,,8,6,8,,8,8,7,,,9,8,,,,,,
-18053587028,PEARL MITTAL,P.G.D.A.V. College (Day),6,7,9,6,8,7,8,10,,7,6,6,,7,7,7,7,8,,,,,,,,
-18053587029,PRANAV SHARMA,P.G.D.A.V. College (Day),0,6,5,5,0,5,5,5,5,4,5,5,5,5,6,6,,,,,,,,,,
-18053587030,PRANJAL VERMA,P.G.D.A.V. College (Day),7,8,8,,8,8,7,7,,7,6,8,,8,8,8,,,10,9,8,,,,,
-18053587031,PRIYA,P.G.D.A.V. College (Day),7,9,9,7,7,8,8,8,,5,8,9,,8,8,8,,,9,9,,,,,,
-18053587032,PRIYANSH BINDAL,P.G.D.A.V. College (Day),6,9,8,6,7,8,9,7,,6,4,8,,8,8,8,,,9,9,,,,,,
-18053587033,PUNIT KUMAR SHARMA,P.G.D.A.V. College (Day),4,8,6,6,5,7,8,8,,4,0,6,,6,7,6,,,8,8,,,,,,
-18053587034,RAJESH OINAM,P.G.D.A.V. College (Day),4,5,6,6,4,4,0,4,,4,0,4,,0,6,0,,,5,0,,,,,,
-18053587035,RISHABH VERMA,P.G.D.A.V. College (Day),7,7,8,6,6,5,5,7,,6,4,7,,8,8,8,,,10,8,,,,,,
-18053587036,RITIK KUMAR,P.G.D.A.V. College (Day),8,10,9,5,9,9,9,7,9,7,4,7,8,8,8,8,,,,,,,,,,
-18053587037,ROHIT KUMAR,P.G.D.A.V. College (Day),4,5,5,6,4,7,4,6,,5,0,6,,6,6,6,,,6,7,,,,,,
-18053587038,SAHIL TIWARI,P.G.D.A.V. College (Day),5,7,6,6,6,7,9,7,8,7,4,7,7,7,8,6,,,,,,,,,,
-18053587039,SAURABH SHANDILYA,P.G.D.A.V. College (Day),8,8,9,7,9,8,9,9,,8,4,9,,8,7,8,5,8,,,,,,,,
-18053587040,SHAMIR ALI GANIE,P.G.D.A.V. College (Day),7,7,6,6,7,6,7,7,,6,4,8,,6,8,7,,,9,8,,,,,,
-18053587041,SHATABDI BISWAS,P.G.D.A.V. College (Day),5,4,5,6,5,4,0,7,10,7,0,6,9,8,8,8,,,,,,,,,,
-18053587042,SHUBHAM MAURYA,P.G.D.A.V. College (Day),7,6,8,6,8,6,7,9,9,6,0,6,8,8,7,7,,,,,,,,,,
-18053587043,SHWETA YADAV,P.G.D.A.V. College (Day),9,9,10,7,9,10,10,8,,9,9,10,,9,10,9,,,9,9,,,,,,
-18053587044,SRIJAN DIXIT,P.G.D.A.V. College (Day),10,9,9,7,9,9,9,9,10,8,7,8,10,9,8,8,,,,,,,,,,
-18053587045,UJJWAL SHUKLA,P.G.D.A.V. College (Day),8,8,9,6,9,10,9,9,,9,7,9,,9,9,9,7,9,,,,,,,,
-18053587046,VANSHIKA GARG,P.G.D.A.V. College (Day),6,8,5,6,5,6,0,4,,7,6,9,,8,8,7,7,8,,,,,,,,
-18053587047,VIRAT,P.G.D.A.V. College (Day),5,6,6,5,5,5,4,6,,4,0,5,,4,6,5,,,7,6,,,,,,
-18053587048,YASH MEHRA,P.G.D.A.V. College (Day),5,6,6,6,5,6,4,7,,0,0,4,,4,6,5,,,5,7,,,,,,
-18053587049,YASHIKA,P.G.D.A.V. College (Day),7,9,8,7,8,9,8,9,,8,6,9,,8,9,9,,,9,9,,,,,,
-18035587001,ABHIRAJ,Keshav Mahavidyalaya,8,10,,9,9,9,,9,,10,10,,,10,10,,,,10,10,,,9,10,10,10
-18035587002,ABHISHEK,Keshav Mahavidyalaya,8,10,,9,7,9,,9,,9,9,,,8,10,,,,10,10,,,9,8,9,9
-18035587003,ANURAG PANDEY,Keshav Mahavidyalaya,8,10,,8,8,10,,8,,8,9,,,9,10,,,,10,10,,,8,10,10,10
-18035587004,ABHISHEK KAIN,Keshav Mahavidyalaya,5,5,,7,0,0,,0,,4,4,,,6,7,,,,6,7,,,5,0,5,7
-18035587005,ABHISHEK KUMAR,Keshav Mahavidyalaya,8,9,,8,7,7,,7,,5,5,,,7,8,,,,7,8,,,7,9,6,7
-18035587006,AKASH BATHAM,Keshav Mahavidyalaya,5,7,,7,5,5,,6,,5,4,,,6,8,,,,8,8,,,7,5,7,8
-18035587007,ANJALI,Keshav Mahavidyalaya,6,10,,8,8,6,,8,,9,8,,,10,10,,,,9,10,,,6,9,10,10
-18035587008,ASHOK KUMAR,Keshav Mahavidyalaya,4,8,,6,5,4,,0,,4,4,,,7,8,,,,7,8,,,5,5,9,8
-18035587009,CHINKI,Keshav Mahavidyalaya,5,6,,8,6,4,,7,,5,4,,,7,8,,,,8,9,,,7,7,8,9
-18035587010,DANYA BANSIWAL,Keshav Mahavidyalaya,7,8,,8,9,8,,7,,7,5,,,9,9,,,,10,9,,,8,10,9,10
-18035587011,DEV TOMAR,Keshav Mahavidyalaya,10,10,,8,10,9,,9,,9,9,,,10,10,,,,10,10,,,8,9,10,10
-18035587012,DIPESH,Keshav Mahavidyalaya,6,9,,8,6,7,,8,,6,6,,,8,8,,,,8,8,,,8,7,8,8
-18035587013,HAPPY BAIRWA,Keshav Mahavidyalaya,7,10,,8,7,9,,8,,8,9,,,9,9,,,,10,9,,,8,8,10,9
-18035587015,JAYANT KUMAR,Keshav Mahavidyalaya,5,5,,7,4,0,,5,,5,0,,,7,7,,,,7,8,,,4,4,6,8
-18035587016,KATTEKOLA RAJESWARI,Keshav Mahavidyalaya,7,9,,8,8,7,,8,,8,8,,,10,10,,,,9,10,,,7,9,10,10
-18035587017,LAVISH CHAUDHARY,Keshav Mahavidyalaya,6,9,,8,8,9,,9,,8,7,,,9,9,,,,9,9,,,7,10,10,10
-18035587018,MANISH KHOKHAR,Keshav Mahavidyalaya,6,7,,7,5,4,,7,,5,6,,,7,8,,,,7,8,,,5,5,8,8
-18035587019,MD. WASIF IQBAL,Keshav Mahavidyalaya,6,9,,9,5,8,,7,,6,6,,,7,8,,,,8,8,,,6,7,7,7
-18035587020,MOHIT RANA,Keshav Mahavidyalaya,8,9,,9,8,7,,9,,9,10,,,8,9,,,,10,9,,,7,9,10,9
-18035587021,MRITYUNJAY RATHORE,Keshav Mahavidyalaya,7,6,,7,8,6,,8,,6,5,,,7,8,,,,8,8,,,6,7,6,7
-18035587022,MUKUL,Keshav Mahavidyalaya,9,9,,9,7,8,,8,,6,6,,,7,8,,,,7,8,,,8,7,7,8
-18035587023,NAVENDU PAL,Keshav Mahavidyalaya,4,6,,5,5,0,,6,,4,0,,,6,7,,,,5,7,,,5,0,7,8
-18035587024,NAMAN MAKKAR,Keshav Mahavidyalaya,7,7,,9,6,7,,7,,5,5,,,6,7,,,,6,7,,,6,4,7,7
-18035587025,NIYATI HIRANI,Keshav Mahavidyalaya,7,10,,9,8,8,,10,,7,8,,,9,9,,,,10,10,,,9,9,10,10
-18035587027,RAVI,Keshav Mahavidyalaya,7,9,,9,7,7,,7,,6,7,,,7,8,,,,9,8,,,8,6,8,9
-18035587028,RISHAV KUMAR MISHRA,Keshav Mahavidyalaya,8,9,,9,7,8,,8,,6,7,,,9,9,,,,8,9,,,7,8,9,9
-18035587029,ROHIT MITTAL,Keshav Mahavidyalaya,6,6,,8,4,4,,8,,5,5,,,7,8,,,,8,8,,,6,6,8,8
-18035587030,RITIK SONI,Keshav Mahavidyalaya,6,5,,6,5,5,,6,,6,4,,,7,8,,,,7,8,,,5,5,9,8
-18035587032,SHUBHAM AGGARWAL,Keshav Mahavidyalaya,7,7,,9,6,7,,8,,5,4,,,7,8,,,,8,8,,,8,5,8,8
-18035587033,SUNIL KUMAR,Keshav Mahavidyalaya,7,9,,8,5,8,,5,,7,7,,,9,9,,,,10,9,,,7,6,8,9
-18035587034,SURAJ KUMAR SHARMA,Keshav Mahavidyalaya,8,7,,9,6,5,,8,,7,6,,,8,9,,,,9,9,,,7,6,9,9
-18035587035,SHUBHAM MAKHIJA,Keshav Mahavidyalaya,5,6,,9,5,7,,7,,6,8,,,7,8,,,,7,7,,,6,5,7,7
-18035587036,SURAJ KUMAR,Keshav Mahavidyalaya,7,9,,9,6,9,,8,,6,7,,,9,9,,,,10,9,,,8,6,9,9
-18035587037,TUSHAR BHOLA,Keshav Mahavidyalaya,9,9,,10,9,9,,9,,9,7,,,10,10,,,,10,10,,,10,10,10,10
-18035587038,VIPIN,Keshav Mahavidyalaya,8,9,,8,5,8,,7,,5,6,,,7,8,,,,8,8,,,7,4,8,8
-18035587039,YASH MALIK,Keshav Mahavidyalaya,5,7,,7,5,4,,8,,4,6,,,6,7,,,,9,9,,,6,4,4,7
-18035587040,YESHI WANGMO,Keshav Mahavidyalaya,7,6,,9,7,5,,7,,6,4,,,8,9,,,,9,9,,,7,6,9,9
-18035587041,YOGITA,Keshav Mahavidyalaya,8,7,,9,8,5,,8,,8,6,,,9,9,,,,8,9,,,7,7,10,10
-18035587042,BHAWIK JAIN,Keshav Mahavidyalaya,9,6,,9,7,6,,7,,6,4,,,6,8,,,,8,8,,,7,7,6,7
-18041587001,AASTHA JAIN,Maharaja Agrasen College,8,9,9,6,9,10,9,8,,7,7,9,,9,9,10,,,10,10,,,,,,
-18041587002,ABHISHEK KUMAR,Maharaja Agrasen College,7,10,,6,6,7,,7,,7,7,,,9,8,,,,9,9,,,6,6,7,8
-18041587003,ABHISHEK PANDEY,Maharaja Agrasen College,,10,7,6,,9,7,7,,,5,8,,,8,9,,,9,9,,,7,6,8,8
-18041587004,AKANKSHA,Maharaja Agrasen College,4,8,4,7,6,9,6,9,,0,5,0,,7,6,6,,,0,7,,,,,,
-18041587005,AKASH,Maharaja Agrasen College,5,10,,7,6,7,,7,,5,4,,,8,7,,,,8,8,,,8,6,6,7
-18041587006,AMAN BAISLA,Maharaja Agrasen College,5,7,,7,5,6,,9,,6,7,,,8,8,,,,9,9,,,7,6,7,9
-18041587007,AMAN GUPTA,Maharaja Agrasen College,7,9,,7,8,9,,7,,8,8,,,9,9,,,,10,10,,,8,8,8,9
-18041587008,ANISH YADAV,Maharaja Agrasen College,6,7,5,4,5,6,4,4,,4,7,5,,7,7,7,,,9,8,,,,,,
-18041587009,ANKIT GOYAL,Maharaja Agrasen College,,10,9,7,,9,8,10,,,9,10,,,10,8,,,10,10,,,9,9,10,10
-18041587010,ANKIT SHEKHAWAT,Maharaja Agrasen College,,8,5,8,,8,4,8,,,8,7,,,9,9,,,9,9,,,7,6,8,8
-18041587011,ANSH GUPTA,Maharaja Agrasen College,9,9,8,7,8,9,7,7,,8,6,8,,9,9,7,,,10,9,,,,,,
-18041587012,ANSH HANDA,Maharaja Agrasen College,8,9,7,7,6,7,5,8,,6,7,9,,8,8,8,,,10,9,,,,,,
-18041587013,ANSHIKA GOEL,Maharaja Agrasen College,,9,9,8,,9,7,10,,,8,8,,,9,9,,,10,9,,,8,8,8,9
-18041587014,ANSHIKA PAL,Maharaja Agrasen College,5,7,,7,6,5,,8,,5,6,,,8,8,,,,10,9,,,7,5,6,8
-18041587015,ANUSHA KHALID,Maharaja Agrasen College,8,9,7,7,9,8,6,8,,7,6,7,,9,8,9,,,9,9,,,,,,
-18041587016,ARCHANA,Maharaja Agrasen College,,6,6,6,,5,5,6,,,6,6,,,8,9,,,10,9,,,7,5,7,8
-18041587018,ASHISH SHARMA,Maharaja Agrasen College,,7,6,7,,7,5,8,,,5,7,,,8,9,,,9,9,,,6,6,7,8
-18041587019,ASHISH SINGH,Maharaja Agrasen College,,10,7,6,,10,10,8,,,10,10,,,10,10,,,10,10,,,9,9,10,10
-18041587020,AYUSH GUPTA,Maharaja Agrasen College,7,10,,7,9,10,,9,,8,10,,,9,10,,,,10,10,,,7,8,9,9
-18041587021,CHHAYA SIWAS,Maharaja Agrasen College,7,8,7,8,6,5,6,9,,7,8,8,,8,9,10,,,9,9,,,,,,
-18041587022,DARVESH BANSAL,Maharaja Agrasen College,6,5,,6,6,6,,7,,5,6,,,8,7,,,,10,8,,,6,6,5,7
-18041587023,DEEPIKA RUHIL,Deen Dayal Upadhyaya College,,6,6,9,,8,4,9,6,5,0,,,7,6,,,,,8,,,5,6,5,5
-18041587024,HIMANSHU KUMAR SHARMA,Maharaja Agrasen College,,9,7,7,,9,8,9,,,8,9,,,9,9,,,9,8,,,8,8,9,9
-18041587025,ISHAN VERMA,Maharaja Agrasen College,10,9,7,7,7,8,5,6,,8,6,8,,9,8,9,,,10,9,,,,,,
-18041587026,JAKIR KHAN,Maharaja Agrasen College,6,6,,6,4,8,,6,,4,7,,,7,8,,,,8,8,,,4,4,6,7
-18041587027,JYOTI SINGH,Maharaja Agrasen College,7,9,,7,7,9,,9,,7,8,,,10,9,,,,9,10,,,6,9,9,9
-18041587028,KAPIL PAL,Maharaja Agrasen College,5,9,,7,5,5,,6,,6,6,,,8,7,,,,9,9,,,5,5,7,8
-18041587029,KARAN MANRAL,Maharaja Agrasen College,,5,4,6,,5,4,7,,,4,4,,,7,8,,,9,9,,,4,4,6,7
-18041587030,KUSH KUMAR,Maharaja Agrasen College,5,7,5,7,6,8,6,7,,6,6,7,,8,8,8,,,9,8,,,,,,
-18041587031,MANSI BINJOLA,Maharaja Agrasen College,9,10,10,8,8,10,9,8,,10,8,9,,10,10,10,,,10,10,,,,,,
-18041587032,MAYANK GUPTA,P.G.D.A.V. College (Day),9,8,9,6,7,7,7,6,9,6,4,8,7,6,8,6,,,,,,,,,,
-18041587033,NEHA MITTAL,Maharaja Agrasen College,,9,8,8,,8,7,8,,,8,7,,,8,7,,,10,8,,,7,9,9,8
-18041587034,NISHANT SINGH,Maharaja Agrasen College,7,9,8,7,7,7,6,6,,8,7,7,,8,8,9,,,9,9,,,,,,
-18041587035,NITIN KUMAR,Maharaja Agrasen College,7,9,7,7,8,6,6,7,,7,0,6,,9,8,8,,,10,9,,,,,,
-18041587036,NITISH ADHANA,Maharaja Agrasen College,,8,7,5,,8,6,7,,,4,6,,,8,8,,,9,9,,,7,7,6,8
-18041587037,PALAK AGRAWAL,Maharaja Agrasen College,9,10,,7,8,9,,7,,9,8,,,10,10,,,,10,10,,,8,8,10,10
-18041587038,PRADEEP,Maharaja Agrasen College,5,7,,7,5,6,,7,,4,5,,,7,7,,,,8,8,,,4,5,5,7
-18041587039,PRASHANT TYAGI,Maharaja Agrasen College,8,9,7,7,7,6,7,8,,5,6,6,,8,8,8,,,9,9,,,,,,
-18041587040,PRATEEK SINGH,Maharaja Agrasen College,,10,7,7,,9,6,6,,,8,6,,,9,9,,,10,9,,,7,6,8,9
-18041587041,PRATHAM MATHUR,Maharaja Agrasen College,,9,9,7,,9,9,7,,,9,9,,,10,10,,,10,10,,,8,9,9,10
-18041587042,PUNYA VERMA,Maharaja Agrasen College,,10,10,8,,10,10,8,,,9,10,,,10,10,,,10,10,,,9,8,10,10
-18041587043,RITIKA RATURI,Maharaja Agrasen College,,10,9,7,,9,8,8,,,7,8,,,9,9,,,9,9,,,9,8,8,8
-18041587044,RITU KASANA,Maharaja Agrasen College,,10,8,7,,6,5,6,,,8,6,,,9,9,,,9,9,,,7,8,8,8
-18041587045,SAHIL,Maharaja Agrasen College,5,6,,7,6,6,,6,,5,8,,,8,8,,,,9,9,,,4,6,7,8
-18041587047,SHALINI RAI,Maharaja Agrasen College,8,8,,7,8,9,,7,,7,7,,,10,9,,,,10,10,,,8,7,9,10
-18041587048,SHASHANK,Maharaja Agrasen College,5,8,,6,5,5,,6,,4,8,,,9,8,,,,8,8,,,4,5,6,8
-18041587049,SHEKHAR KANOJIA,Maharaja Agrasen College,7,7,,8,7,7,,7,,5,4,,,9,8,,,,9,9,,,5,5,7,8
-18041587050,SHIVAM RAI,Maharaja Agrasen College,,10,8,8,,9,10,8,,,9,9,,,9,10,,,10,10,,,8,8,9,10
-18041587051,SOURABH YADAV,Maharaja Agrasen College,,9,8,6,,10,8,8,,,9,9,,,9,9,,,10,10,,,9,9,9,10
-18041587052,VIKASH PAL,Maharaja Agrasen College,5,9,,5,4,5,,5,,4,6,,,8,7,,,,9,9,,,6,5,6,7
-18041587053,VIKRAM SINGH,Maharaja Agrasen College,0,7,,7,5,4,,7,,5,9,,,8,8,,,,10,8,,,6,7,6,7
-18041587054,VIPUL PANDIT,Maharaja Agrasen College,,9,8,7,,9,6,7,,,7,8,,,9,10,,,10,9,,,6,9,9,9
-18041587055,VISHAL KULARIYA,Maharaja Agrasen College,,6,5,6,,4,4,6,,,6,6,,,8,8,,,8,8,,,5,5,6,8
-18041587056,VISHISHT BHALLA,Maharaja Agrasen College,9,9,,6,7,8,,5,,8,8,,,8,8,,,,10,9,,,6,8,9,8
-18015587001,ANKITA KAPOOR,Deen Dayal Upadhyaya College,7,5,,5,6,6,,9,0,0,0,,,,,,,,,,,,6,5,0,
-18015587002,ARYAN SHARMA,Deen Dayal Upadhyaya College,4,8,,5,5,7,,8,0,5,6,,,4,7,,,,,8,,,6,4,5,6
-18015587003,ABHISHEK CHOUDHARI,Deen Dayal Upadhyaya College,5,9,,7,6,9,,10,7,8,6,,,8,8,,,,,9,,,6,5,6,7
-18015587004,ADITI PIPLIA,Deen Dayal Upadhyaya College,5,9,,7,7,9,,8,8,9,7,,,9,9,,,,,9,,,6,7,7,7
-18015587005,ANJALI,Deen Dayal Upadhyaya College,7,9,,8,7,9,,9,9,9,6,,,10,8,,,,,10,,,7,7,9,8
-18015587006,ANSHUL GUPTA,Deen Dayal Upadhyaya College,4,5,,8,6,8,,9,8,7,6,,,8,8,,,,,9,,,6,4,6,7
-18015587007,ASHOK,Deen Dayal Upadhyaya College,5,9,,7,7,9,,10,8,8,8,,,8,8,,,,,9,,,7,6,8,7
-18015587008,AYUSH CHAUDHARY,Deen Dayal Upadhyaya College,7,10,,8,7,9,,10,8,9,7,,,8,9,,,,,9,,,7,7,7,8
-18015587009,BHAWANA,Deen Dayal Upadhyaya College,7,7,,7,0,0,,9,7,6,6,,,0,8,,,,,6,,,6,6,7,6
-18015587010,EKTA VISHWAKARMA,Deen Dayal Upadhyaya College,8,6,,7,7,9,,10,9,6,5,,,8,7,,,,,9,,,6,6,5,6
-18015587011,HEMANT SAHU,Deen Dayal Upadhyaya College,8,8,,6,7,8,,9,8,8,7,,,9,9,,,,,9,,,7,7,7,7
-18015587012,HEMANT VERMA,Deen Dayal Upadhyaya College,6,7,,7,7,7,,9,8,8,6,,,8,8,,,,,9,,,7,6,7,7
-18015587013,HIMANSHU RAWAT,Deen Dayal Upadhyaya College,7,8,,7,7,7,,9,9,9,7,,,9,8,,,,,10,,,6,7,8,7
-18015587014,KARAN TOMAR,Deen Dayal Upadhyaya College,6,8,,6,5,7,,9,7,5,7,,,7,7,,,,,8,,,6,4,5,6
-18015587015,KUNAL TOMAR,Deen Dayal Upadhyaya College,6,8,,6,6,7,,10,7,7,7,,,7,8,,,,,8,,,6,4,6,7
-18015587016,MAYANK GUPTA,Deen Dayal Upadhyaya College,9,7,,7,9,9,,9,10,10,9,,,10,9,,,,,10,,,7,8,9,9
-18015587017,MEGHA,Deen Dayal Upadhyaya College,4,4,,5,6,6,,9,7,5,4,,,8,7,,,,,8,,,4,4,6,6
-18015587018,NEETESH SINGH,Deen Dayal Upadhyaya College,6,9,,6,6,6,,10,7,7,4,,,7,8,,,,,9,,,7,7,6,7
-18015587019,NIMESH JAIN,Deen Dayal Upadhyaya College,10,10,,8,8,9,,10,8,8,7,,,7,8,,,,,9,,,8,9,7,8
-18015587020,NISHANT SHARMA,Deen Dayal Upadhyaya College,8,5,,8,7,4,,10,10,9,4,,,9,8,,,,,10,,,6,6,6,8
-18015587021,NITESH DAYMA,Deen Dayal Upadhyaya College,7,8,,6,6,5,,9,8,8,6,,,8,9,,,,,9,,,6,6,7,8
-18015587023,PALASH PAL,Deen Dayal Upadhyaya College,7,8,,8,7,9,,10,8,9,7,,,9,8,,,,,9,,,8,6,8,8
-18015587024,PARVEJ KHAN,Deen Dayal Upadhyaya College,4,6,,7,6,4,,9,7,7,5,,,7,7,,,,,8,,,6,4,6,5
-18015587026,PORASH KUMAR,Deen Dayal Upadhyaya College,9,9,,7,8,6,,10,10,10,6,,,9,9,,,,,10,,,7,6,8,8
-18015587027,ROHIT JOSHI,Deen Dayal Upadhyaya College,8,8,,8,8,4,,10,9,10,6,,,9,8,,,,,9,,,7,7,6,9
-18015587028,RINKU POONIA,Deen Dayal Upadhyaya College,9,8,,8,8,8,,10,9,9,7,,,9,9,,,,,9,,,7,8,8,8
-18015587029,RISHANT,Deen Dayal Upadhyaya College,5,4,,8,8,7,,8,9,9,6,,,8,8,,,,,9,,,4,8,7,9
-18015587030,SWASTIKA BORA,Deen Dayal Upadhyaya College,7,9,,7,8,7,,9,8,9,9,,,9,9,,,,,9,,,7,7,7,8
-18015587031,SNEHA KUMARI,Deen Dayal Upadhyaya College,9,9,,8,9,8,,10,9,10,9,,,10,9,,,,,9,,,8,10,8,9
-18015587033,YOGESH KUMAR,Deen Dayal Upadhyaya College,7,9,,7,7,7,,9,8,7,7,,,8,8,,,,,9,,,7,6,6,7
-18015587034,MOHIT PRASAD,Deen Dayal Upadhyaya College,6,7,,8,7,7,,9,7,8,0,,,8,7,,,,,8,,,6,6,6,7
-18015587035,MONU KUMAR MEENA,Deen Dayal Upadhyaya College,0,6,,5,4,0,,9,4,4,0,,,6,6,,,,,8,,,5,0,0,6
+RollNo,Name,College,PROBLEM SOLVING USING COMPUTER,CALCULUS AND MATRICES,DESCRIPTIVE STATISTICS AND PROBABILITY THEORY,ENGLISH-A,DATABASE MANAGEMENT SYSTEM,CALCULUS AND GEMETRY,STATISTICAL METHODS,ENVIRONMENTAL SCIENCE,OFFICE AUTOMATION TOOLS,OPERATING SYSTEM,ALGEBRA,STATISTICAL INFERENCE,PHP PROGRAMMING,COMPUTER SYSTEM ARCHITECTURE,REAL ANALYSIS,SAMPLE SURVEYS AND DESIGN OF EXPERIMENTS,SYSTEM ADMINISTRATION AND MAINTENANCE,PROGRAMMING IN JAVA,DIFFERENTIAL EQUATIONS (B.SC. (PROG.),STATISTICAL TECHNIQUES FOR QUALITY CONTROL,DATA ANALYSIS USING SOFTWARE,STATISTICAL COMPUTING USING C,STATISTICAL SIMULATION,MATHEMATICAL TYPE SETTING SYSTEM LATEX (ONLY FOR B.SC. PROG.),COMPUTER ALGEBRA SYSTEMS (FOR B.SC.),STATISTICAL SOFTWARE: R,HINDI BHASHA AUR SANSPRESHAN,UPANISAD AND GEETA,INTRODUCTION TO OPERATIONAL RESEARCH AND LINEAR PROGRAMMING,INVENTORY AND MARKETING MANAGEMENT,OPTIMIZATION TECHNIQUES,NETWORK MODELS AND SCHEDULING TECHNIQUES,QUEUEING AND RELIABILITY THEORY,PORTFOLIO OPTIMIZATION  (B.SC. PROGL PHYSICAL SCIENCE
+18053587001,ABHISHEK KUMAR MISHRA,P.G.D.A.V. College (Day),7,5,6,7,7,4,0,7,5,5,6,5,6,5,6,6,10,9,10,10,,,,,,,,,,,,,,
+18053587002,AINDRILA ACHARYYA CHAUDHURI,P.G.D.A.V. College (Day),10,9,10,8,9,8,10,10,,10,10,9,,9,9,9,,9,9,9,7,10,10,,,,,,,,,,,
+18053587004,AMIT RAJPUT,P.G.D.A.V. College (Day),6,6,5,6,5,5,4,5,,5,5,6,,6,8,7,,9,10,9,,,,7,8,10,,,,,,,,
+18053587005,ANKIT,P.G.D.A.V. College (Day),6,6,4,5,4,4,4,6,,4,4,6,,4,6,5,,8,9,9,,,,8,7,10,,,,,,,,
+18053587006,ANSHIKA,P.G.D.A.V. College (Day),9,9,6,6,8,7,7,7,,6,6,7,,7,8,7,,8,10,9,6,8,9,,,,,,,,,,,
+18053587007,ANUBHAV SHARMA,P.G.D.A.V. College (Day),8,7,7,6,8,6,8,9,,6,5,6,,7,8,6,,8,8,9,,,,9,9,10,,,,,,,,
+18053587008,ANURAG CHAURASIYA,P.G.D.A.V. College (Day),7,9,8,7,7,5,5,6,,6,7,7,,8,8,7,,9,10,10,,,,8,8,10,,,,,,,,
+18053587009,ARUN KUMAR,P.G.D.A.V. College (Day),7,4,4,6,5,4,0,7,,4,4,7,,6,7,6,,9,9,9,,,,8,8,10,,,,,,,,
+18053587011,AYUSH KHATANA,P.G.D.A.V. College (Day),5,6,6,5,6,8,7,7,,6,7,8,,8,8,8,,9,10,9,,,,9,9,9,,,,,,,,
+18053587012,BHVISY KUMAR YADAV,P.G.D.A.V. College (Day),8,8,8,,7,7,9,8,,8,8,8,,9,8,8,,8,10,9,,,,9,9,10,8,,,,,,,
+18053587013,GAURAV,P.G.D.A.V. College (Day),9,9,9,6,8,8,10,7,9,9,6,8,7,7,8,7,9,7,10,9,,,,,,,,,,,,,,
+18053587015,KM JIGYASA RAWAT,P.G.D.A.V. College (Day),7,6,6,6,7,6,5,8,10,8,7,6,9,8,8,8,10,9,10,9,,,,,,,,,,,,,,
+18053587016,JYOTI SINGH,P.G.D.A.V. College (Day),6,8,7,7,6,4,4,6,,4,4,4,,4,6,6,,6,9,9,,,,6,7,9,,,,,,,,
+18053587017,KASHIKA TUTEJA,P.G.D.A.V. College (Day),9,10,10,7,9,8,10,10,10,9,8,9,9,9,9,8,10,8,10,10,,,,,,,,,,,,,,
+18053587019,MANU SHREE,P.G.D.A.V. College (Day),7,8,9,7,8,8,9,8,,8,9,9,,8,9,8,,9,10,9,,,,9,9,10,,,,,,,,
+18053587020,MEHUL SHUKLA,P.G.D.A.V. College (Day),8,7,9,7,8,6,9,7,9,9,5,9,9,9,9,8,10,9,10,9,,,,,,,,,,,,,,
+18053587021,MOHAMMAD ZIA,P.G.D.A.V. College (Day),5,9,6,6,7,8,8,7,7,6,7,7,8,8,8,8,10,9,10,9,,,,,,,,,,,,,,
+18053587022,MUKESH KUMAR DHAKA,P.G.D.A.V. College (Day),6,10,8,,8,8,8,9,,6,8,8,,8,8,8,,9,10,9,,,,9,9,9,8,,,,,,,
+18053587023,MUSKAN,P.G.D.A.V. College (Day),4,5,4,6,4,4,4,5,4,7,4,5,5,5,6,6,9,9,9,10,,,,,,,,,,,,,,
+18053587024,MUSKAN AGGARWAL,P.G.D.A.V. College (Day),5,5,7,,7,7,6,7,,5,8,8,,5,7,6,,8,9,9,6,7,10,,,,,5,,,,,,
+18053587025,NEHA,P.G.D.A.V. College (Day),5,9,8,6,7,9,10,6,,7,7,9,,9,8,8,,9,10,9,6,9,8,,,,,,,,,,,
+18053587026,KM NEHA SAINI,P.G.D.A.V. College (Day),5,7,5,5,5,6,6,6,,7,6,8,,8,9,8,,9,9,9,,,,9,9,10,,,,,,,,
+18053587027,PARTH VERMA,P.G.D.A.V. College (Day),7,7,9,6,7,7,8,8,,8,6,8,,8,8,7,,9,10,9,,,,9,8,10,,,,,,,,
+18053587028,PEARL MITTAL,P.G.D.A.V. College (Day),6,7,9,6,8,7,8,10,,7,6,6,,7,7,7,,8,10,9,7,8,9,,,,,,,,,,,
+18053587029,PRANAV SHARMA,P.G.D.A.V. College (Day),0,6,5,5,0,5,5,5,5,4,5,5,5,5,6,6,6,7,9,9,,,,,,,,,,,,,,
+18053587030,PRANJAL VERMA,P.G.D.A.V. College (Day),7,8,8,,8,8,7,7,,7,6,8,,8,8,8,,9,9,9,,,,10,9,10,8,,,,,,,
+18053587031,PRIYA,P.G.D.A.V. College (Day),7,9,9,7,7,8,8,8,,5,8,9,,8,8,8,,9,10,9,,,,9,9,10,,,,,,,,
+18053587032,PRIYANSH BINDAL,P.G.D.A.V. College (Day),6,9,8,6,7,8,9,7,,6,9,8,,8,8,8,,9,9,9,,,,9,9,10,,,,,,,,
+18053587033,PUNIT KUMAR SHARMA,P.G.D.A.V. College (Day),4,8,6,6,5,7,8,8,,4,9,6,,6,7,6,,6,10,8,,,,8,8,9,,,,,,,,
+18053587034,RAJESH OINAM,P.G.D.A.V. College (Day),4,5,6,6,4,4,0,4,,4,7,4,,0,6,0,,6,9,7,,,,5,0,7,,,,,,,,
+18053587035,RISHABH VERMA,P.G.D.A.V. College (Day),7,7,8,6,6,5,5,7,,9,9,7,,8,8,8,,9,10,9,,,,10,8,10,,,,,,,,
+18053587036,RITIK KUMAR,P.G.D.A.V. College (Day),8,10,9,5,9,9,9,7,9,7,4,7,8,8,8,8,8,9,10,9,,,,,,,,,,,,,,
+18053587037,ROHIT KUMAR,P.G.D.A.V. College (Day),4,5,5,6,4,7,4,6,,5,6,6,,6,6,6,,8,10,9,,,,6,7,10,,,,,,,,
+18053587038,SAHIL TIWARI,P.G.D.A.V. College (Day),5,7,6,6,6,7,9,7,8,7,4,7,7,7,8,6,10,6,9,9,,,,,,,,,,,,,,
+18053587039,SAURABH SHANDILYA,P.G.D.A.V. College (Day),8,8,9,7,9,8,9,9,,8,4,9,,8,7,8,,9,9,9,5,8,9,,,,,,,,,,,
+18053587040,SHAMIR ALI GANIE,P.G.D.A.V. College (Day),7,7,6,6,7,6,7,7,,6,6,8,,6,8,7,,8,10,9,,,,9,8,10,,,,,,,,
+18053587041,SHATABDI BISWAS,P.G.D.A.V. College (Day),5,4,5,6,5,4,0,7,10,7,10,6,9,8,8,8,8,9,10,9,,,,,,,,,,,,,,
+18053587042,SHUBHAM MAURYA,P.G.D.A.V. College (Day),7,6,8,6,8,6,7,9,9,6,8,6,8,8,7,7,10,9,9,9,,,,,,,,,,,,,,
+18053587043,SHWETA YADAV,P.G.D.A.V. College (Day),9,9,10,7,9,10,10,8,,9,9,10,,9,10,9,,9,10,9,,,,9,9,10,,,,,,,,
+18053587044,SRIJAN DIXIT,P.G.D.A.V. College (Day),10,9,9,7,9,9,9,9,10,8,7,8,10,9,8,8,10,9,10,9,,,,,,,,,,,,,,
+18053587045,UJJWAL SHUKLA,P.G.D.A.V. College (Day),8,8,9,6,9,10,9,9,,9,7,9,,9,9,9,,9,8,9,7,9,10,,,,,,,,,,,
+18053587046,VANSHIKA GARG,P.G.D.A.V. College (Day),6,8,5,6,5,6,0,4,,7,6,9,,8,8,7,,8,9,9,7,8,10,,,,,,,,,,,
+18053587048,YASH MEHRA,P.G.D.A.V. College (Day),5,6,6,6,5,6,4,7,,6,6,4,,4,6,5,,8,10,9,,,,5,7,9,,,,,,,,
+18053587049,YASHIKA,P.G.D.A.V. College (Day),7,9,8,7,8,9,8,9,,8,6,9,,8,9,9,,9,9,10,,,,9,9,10,,,,,,,,
+18035587001,ABHIRAJ,Keshav Mahavidyalaya,8,10,,9,9,9,,9,,10,10,,,10,10,,,10,10,,,,,10,10,10,,,9,10,10,10,10,
+18035587002,ABHISHEK,Keshav Mahavidyalaya,8,10,,9,7,9,,9,,9,9,,,8,10,,,9,10,,,,,10,10,10,,,9,8,9,9,9,
+18035587003,ANURAG PANDEY,Keshav Mahavidyalaya,8,10,,8,8,10,,8,,8,9,,,9,10,,,9,10,,,,,10,10,10,,,8,10,10,10,9,
+18035587004,ABHISHEK KAIN,Keshav Mahavidyalaya,5,5,,7,0,0,,0,,4,4,,,6,7,,,0,10,,,,,6,7,10,,,5,0,5,7,9,
+18035587005,ABHISHEK KUMAR,Keshav Mahavidyalaya,8,9,,8,7,7,,7,,5,5,,,7,8,,,8,10,,,,,7,8,10,,,7,9,6,7,9,
+18035587006,AKASH BATHAM,Keshav Mahavidyalaya,5,7,,7,5,5,,6,,5,4,,,6,8,,,9,10,,,,,8,8,10,,,7,5,7,8,8,
+18035587007,ANJALI,Keshav Mahavidyalaya,6,10,,8,8,6,,8,,9,8,,,10,10,,,9,10,,,,,9,10,10,,,6,9,10,10,9,
+18035587008,ASHOK KUMAR,Keshav Mahavidyalaya,4,8,,6,5,4,,0,,5,4,,,7,8,,,9,10,,,,,7,8,10,,,5,5,9,8,8,
+18035587009,CHINKI,Keshav Mahavidyalaya,5,6,,8,6,4,,7,,5,4,,,7,8,,,9,10,,,,,8,9,10,,,7,7,8,9,9,
+18035587010,DANYA BANSIWAL,Keshav Mahavidyalaya,7,8,,8,9,8,,7,,7,5,,,9,9,,,8,10,,,,,10,9,10,,,8,10,9,10,9,
+18035587011,DEV TOMAR,Keshav Mahavidyalaya,10,10,,8,10,9,,9,,9,9,,,10,10,,,10,10,,,,,10,10,10,,,8,9,10,10,9,
+18035587012,DIPESH,Keshav Mahavidyalaya,6,9,,8,6,7,,8,,6,6,,,8,8,,,9,10,,,,,8,8,10,,,8,7,8,8,9,
+18035587013,HAPPY BAIRWA,Keshav Mahavidyalaya,7,10,,8,7,9,,8,,8,9,,,9,9,,,9,10,,,,,10,9,10,,,8,8,10,9,9,
+18035587015,JAYANT KUMAR,Keshav Mahavidyalaya,5,5,,7,4,0,,5,,5,8,,,7,7,,,9,10,,,,,7,8,10,,,4,4,6,8,8,
+18035587016,KATTEKOLA RAJESWARI,Keshav Mahavidyalaya,7,9,,8,8,7,,8,,8,8,,,10,10,,,10,10,,,,,9,10,10,,,7,9,10,10,9,
+18035587017,LAVISH CHAUDHARY,Keshav Mahavidyalaya,6,9,,8,8,9,,9,,8,7,,,9,9,,,10,10,,,,,9,9,10,,,7,10,10,10,10,
+18035587018,MANISH KHOKHAR,Keshav Mahavidyalaya,6,7,,7,5,4,,7,,5,6,,,7,8,,,9,10,,,,,7,8,10,,,5,5,8,8,9,
+18035587019,MD. WASIF IQBAL,Keshav Mahavidyalaya,6,9,,9,5,8,,7,,6,6,,,7,8,,,9,9,,,,,8,8,10,,,6,7,7,7,9,
+18035587020,MOHIT RANA,Keshav Mahavidyalaya,8,9,,9,8,7,,9,,9,10,,,8,9,,,10,10,,,,,10,9,10,,,7,9,10,9,9,
+18035587021,MRITYUNJAY RATHORE,Keshav Mahavidyalaya,7,6,,7,8,6,,8,,6,5,,,7,8,,,9,10,,,,,8,8,10,,,6,7,6,7,8,
+18035587022,MUKUL,Keshav Mahavidyalaya,9,9,,9,7,8,,8,,6,6,,,7,8,,,9,10,,,,,7,8,10,,,8,7,7,8,9,
+18035587023,NAVENDU PAL,Keshav Mahavidyalaya,4,6,,5,5,0,,6,,4,9,,,6,7,,,8,10,,,,,5,7,10,,,5,0,7,8,8,
+18035587024,NAMAN MAKKAR,Keshav Mahavidyalaya,7,7,,9,6,7,,7,,5,5,,,6,7,,,9,9,,,,,6,7,10,,,6,4,7,7,8,
+18035587025,NIYATI HIRANI,Keshav Mahavidyalaya,7,10,,9,8,8,,10,,7,8,,,9,9,,,10,10,,,,,10,10,10,,,9,9,10,10,10,
+18035587027,RAVI,Keshav Mahavidyalaya,7,9,,9,7,7,,7,,6,7,,,7,8,,,9,10,,,,,9,8,10,,,8,6,8,9,9,
+18035587029,ROHIT MITTAL,Keshav Mahavidyalaya,6,6,,8,4,4,,8,,5,5,,,7,8,,,10,10,,,,,8,8,10,,,6,6,8,8,9,
+18035587030,RITIK SONI,Keshav Mahavidyalaya,6,5,,6,5,5,,6,,6,4,,,7,8,,,8,10,,,,,7,8,10,,,5,5,9,8,9,
+18035587032,SHUBHAM AGGARWAL,Keshav Mahavidyalaya,7,7,,9,6,7,,8,,5,4,,,7,8,,,10,10,,,,,8,8,10,,,8,5,8,8,9,
+18035587033,SUNIL KUMAR,Keshav Mahavidyalaya,7,9,,8,5,8,,5,,7,7,,,9,9,,,9,10,,,,,10,9,10,,,7,6,8,9,9,
+18035587034,SURAJ KUMAR SHARMA,Keshav Mahavidyalaya,8,7,,9,6,5,,8,,7,6,,,8,9,,,9,10,,,,,9,9,10,,,7,6,9,9,9,
+18035587035,SHUBHAM MAKHIJA,Keshav Mahavidyalaya,5,6,,9,5,7,,7,,6,8,,,7,8,,,8,10,,,,,7,7,10,,,6,5,7,7,9,
+18035587036,SURAJ KUMAR,Keshav Mahavidyalaya,7,9,,9,6,9,,8,,6,7,,,9,9,,,9,10,,,,,10,9,10,,,8,6,9,9,9,
+18035587037,TUSHAR BHOLA,Keshav Mahavidyalaya,9,9,,10,9,9,,9,,9,7,,,10,10,,,10,10,,,,,10,10,10,,,10,10,10,10,10,
+18035587038,VIPIN,Keshav Mahavidyalaya,8,9,,8,5,8,,7,,5,6,,,7,8,,,9,10,,,,,8,8,10,,,7,4,8,8,8,
+18035587039,YASH MALIK,Keshav Mahavidyalaya,5,7,,7,5,4,,8,,4,6,,,6,7,,,9,10,,,,,9,9,10,,,6,4,4,7,9,
+18035587041,YOGITA,Keshav Mahavidyalaya,8,7,,9,8,5,,8,,8,6,,,9,9,,,10,10,,,,,8,9,10,,,7,7,10,10,9,
+18035587042,BHAWIK JAIN,Keshav Mahavidyalaya,9,6,,9,7,6,,7,,6,4,,,6,8,,,10,10,,,,,8,8,10,,,7,7,6,7,8,
+18041587001,AASTHA JAIN,Maharaja Agrasen College,8,9,9,6,9,10,9,8,,7,7,9,,9,9,10,,10,10,10,,,,10,10,10,,,,,,,,
+18041587002,ABHISHEK KUMAR,Maharaja Agrasen College,7,10,,6,6,7,,7,,7,7,,,9,8,,,8,10,,,,,9,9,10,,,6,6,7,8,8,
+18041587003,ABHISHEK PANDEY,Maharaja Agrasen College,,10,7,6,,9,7,7,,,5,8,,,8,9,,,9,9,,,,9,9,10,,,7,6,8,8,8,
+18041587004,AKANKSHA,Maharaja Agrasen College,4,8,4,7,6,9,6,9,,9,9,6,,7,6,6,,9,10,10,,,,9,7,10,,,,,,,,
+18041587005,AKASH,Maharaja Agrasen College,5,10,,7,6,7,,7,,5,4,,,8,7,,,8,10,,,,,8,8,9,,,8,6,6,7,8,
+18041587006,AMAN BAISLA,Maharaja Agrasen College,5,7,,7,5,6,,9,,6,7,,,8,8,,,8,10,,,,,9,9,10,,,7,6,7,9,7,
+18041587007,AMAN GUPTA,Maharaja Agrasen College,7,9,,7,8,9,,7,,8,8,,,9,9,,,10,10,,,,,10,10,10,,,8,8,8,9,9,
+18041587008,ANISH YADAV,Maharaja Agrasen College,6,7,5,4,5,6,4,4,,4,7,5,,7,7,7,,8,10,10,,,,9,8,10,,,,,,,,
+18041587010,ANKIT SHEKHAWAT,Maharaja Agrasen College,,8,5,8,,8,4,8,,,8,7,,,9,9,,,10,9,,,,9,9,10,,,7,6,8,8,9,
+18041587011,ANSH GUPTA,Maharaja Agrasen College,9,9,8,7,8,9,7,7,,8,6,8,,9,9,7,,0,10,10,,,,10,9,10,,,,,,,,
+18041587012,ANSH HANDA,Maharaja Agrasen College,8,9,7,7,6,7,5,8,,6,7,9,,8,8,8,,8,10,9,,,,10,9,10,,,,,,,,
+18041587013,ANSHIKA GOEL,Maharaja Agrasen College,,9,9,8,,9,7,10,,,8,8,,,9,9,,,9,10,,,,10,9,10,,,8,8,8,9,10,
+18041587014,ANSHIKA PAL,Maharaja Agrasen College,5,7,,7,6,5,,8,,5,6,,,8,8,,,9,10,,,,,10,9,10,,,7,5,6,8,7,
+18041587015,ANUSHA KHALID,Maharaja Agrasen College,8,9,7,7,9,8,6,8,,7,6,7,,9,8,9,,9,10,10,,,,9,9,10,,,,,,,,
+18041587016,ARCHANA,Maharaja Agrasen College,,6,6,6,,5,5,6,,,6,6,,,8,9,,,9,10,,,,10,9,9,,,7,5,7,8,9,
+18041587018,ASHISH SHARMA,Maharaja Agrasen College,,7,6,7,,7,5,8,,,5,7,,,8,9,,,9,10,,,,9,9,10,,,6,6,7,8,9,
+18041587019,ASHISH SINGH,Maharaja Agrasen College,,10,7,6,,10,10,8,,,10,10,,,10,10,,,10,10,,,,10,10,10,,,9,9,10,10,10,
+18041587020,AYUSH GUPTA,Maharaja Agrasen College,7,10,,7,9,10,,9,,8,10,,,9,10,,,9,10,,,,,10,10,10,,,7,8,9,9,8,
+18041587021,CHHAYA SIWAS,Maharaja Agrasen College,7,8,7,8,6,5,6,9,,7,8,8,,8,9,10,,9,10,10,,,,9,9,10,,,,,,,,
+18041587022,DARVESH BANSAL,Maharaja Agrasen College,6,5,,6,6,6,,7,,5,6,,,8,7,,,8,10,,,,,10,8,9,,,6,6,5,7,7,
+18041587023,DEEPIKA RUHIL,Deen Dayal Upadhyaya College,,6,6,9,,8,4,9,6,5,9,,,7,6,,,10,10,,,,,,8,,,,5,6,5,5,9,7
+18041587024,HIMANSHU KUMAR SHARMA,Maharaja Agrasen College,,9,7,7,,9,8,9,,,8,9,,,9,9,,,10,10,,,,9,8,10,,,8,8,9,9,8,
+18041587025,ISHAN VERMA,Maharaja Agrasen College,10,9,7,7,7,8,5,6,,8,6,8,,9,8,9,,9,10,10,,,,10,9,10,,,,,,,,
+18041587026,JAKIR KHAN,Maharaja Agrasen College,6,6,,6,4,8,,6,,7,7,,,7,8,,,8,10,,,,,8,8,9,,,4,4,6,7,7,
+18041587027,JYOTI SINGH,Maharaja Agrasen College,7,9,,7,7,9,,9,,7,8,,,10,9,,,9,10,,,,,9,10,10,,,6,9,9,9,9,
+18041587028,KAPIL PAL,Maharaja Agrasen College,5,9,,7,5,5,,6,,6,6,,,8,7,,,9,10,,,,,9,9,10,,,5,5,7,8,7,
+18041587029,KARAN MANRAL,Maharaja Agrasen College,,5,4,6,,5,4,7,,,9,8,,,7,8,,,9,10,,,,9,9,10,,,4,4,6,7,10,
+18041587030,KUSH KUMAR,Maharaja Agrasen College,5,7,5,7,6,8,6,7,,6,6,7,,8,8,8,,8,10,10,,,,9,8,10,,,,,,,,
+18041587031,MANSI BINJOLA,Maharaja Agrasen College,9,10,10,8,8,10,9,8,,10,8,9,,10,10,10,,10,10,10,,,,10,10,10,,,,,,,,
+18041587032,MAYANK GUPTA,P.G.D.A.V. College (Day),9,8,9,6,7,7,7,6,9,6,4,8,7,6,8,6,9,7,8,8,,,,,,,,,,,,,,
+18041587033,NEHA MITTAL,Maharaja Agrasen College,,9,8,8,,8,7,8,,,8,7,,,8,7,,,9,9,,,,10,8,10,,,7,9,9,8,8,
+18041587034,NISHANT SINGH,Maharaja Agrasen College,7,9,8,7,7,7,6,6,,8,7,7,,8,8,9,,9,10,10,,,,9,9,10,,,,,,,,
+18041587035,NITIN KUMAR,Maharaja Agrasen College,7,9,7,7,8,6,6,7,,7,9,6,,9,8,8,,10,10,10,,,,10,9,10,,,,,,,,
+18041587037,PALAK AGRAWAL,Maharaja Agrasen College,9,10,,7,8,9,,7,,9,8,,,10,10,,,10,10,,,,,10,10,10,,,8,8,10,10,9,
+18041587038,PRADEEP,Maharaja Agrasen College,5,7,,7,5,6,,7,,4,5,,,7,7,,,9,10,,,,,8,8,10,,,4,5,5,7,8,
+18041587039,PRASHANT TYAGI,Maharaja Agrasen College,8,9,7,7,7,6,7,8,,5,6,6,,8,8,8,,8,10,10,,,,9,9,10,,,,,,,,
+18041587040,PRATEEK SINGH,Maharaja Agrasen College,,10,7,7,,9,6,6,,,8,6,,,9,9,,,9,10,,,,10,9,10,,,7,6,8,9,9,
+18041587041,PRATHAM MATHUR,Maharaja Agrasen College,,9,9,7,,9,9,7,,,9,9,,,10,10,,,10,10,,,,10,10,10,,,8,9,9,10,10,
+18041587042,PUNYA VERMA,Maharaja Agrasen College,,10,10,8,,10,10,8,,,9,10,,,10,10,,,9,10,,,,10,10,10,,,9,8,10,10,10,
+18041587043,RITIKA RATURI,Maharaja Agrasen College,,10,9,7,,9,8,8,,,7,8,,,9,9,,,10,10,,,,9,9,10,,,9,8,8,8,10,
+18041587044,RITU KASANA,Maharaja Agrasen College,,10,8,7,,6,5,6,,,8,6,,,9,9,,,10,10,,,,9,9,10,,,7,8,8,8,9,
+18041587045,SAHIL,Maharaja Agrasen College,5,6,,7,6,6,,6,,5,8,,,8,8,,,9,10,,,,,9,9,9,,,4,6,7,8,8,
+18041587047,SHALINI RAI,Maharaja Agrasen College,8,8,,7,8,9,,7,,7,7,,,10,9,,,10,10,,,,,10,10,10,,,8,7,9,10,9,
+18041587048,SHASHANK,Maharaja Agrasen College,5,8,,6,5,5,,6,,4,8,,,9,8,,,9,10,,,,,8,8,10,,,4,5,6,8,7,
+18041587050,SHIVAM RAI,Maharaja Agrasen College,,10,8,8,,9,10,8,,,9,9,,,9,10,,,10,10,,,,10,10,10,,,8,8,9,10,9,
+18041587051,SOURABH YADAV,Maharaja Agrasen College,,9,8,6,,10,8,8,,,9,9,,,9,9,,,10,10,,,,10,10,10,,,9,9,9,10,9,
+18041587052,VIKASH PAL,Maharaja Agrasen College,5,9,,5,4,5,,5,,4,6,,,8,7,,,9,10,,,,,9,9,9,,,6,5,6,7,7,
+18041587053,VIKRAM SINGH,Maharaja Agrasen College,7,7,,7,5,4,,7,,5,9,,,8,8,,,8,10,,,,,10,8,10,,,6,7,6,7,7,
+18041587054,VIPUL PANDIT,Maharaja Agrasen College,,9,8,7,,9,6,7,,,7,8,,,9,10,,,10,10,,,,10,9,10,,,6,9,9,9,10,
+18041587055,VISHAL KULARIYA,Maharaja Agrasen College,,6,5,6,,4,4,6,,,6,6,,,8,8,,,9,10,,,,8,8,10,,,5,5,6,8,8,
+18041587056,VISHISHT BHALLA,Maharaja Agrasen College,9,9,,6,7,8,,5,,8,8,,,8,8,,,8,10,,,,,10,9,10,,,6,8,9,8,8,
+18015587002,ARYAN SHARMA,Deen Dayal Upadhyaya College,4,8,,5,5,7,,8,0,5,6,,,4,7,,,4,7,,,,,,8,,,,6,4,5,6,5,0
+18015587003,ABHISHEK CHOUDHARI,Deen Dayal Upadhyaya College,5,9,,7,6,9,,10,7,8,6,,,8,8,,,8,10,,,,,,9,,,,6,5,6,7,9,7
+18015587004,ADITI PIPLIA,Deen Dayal Upadhyaya College,5,9,,7,7,9,,8,8,9,7,,,9,9,,,9,10,,,,,,9,,,,6,7,7,7,9,7
+18015587005,ANJALI,Deen Dayal Upadhyaya College,7,9,,8,7,9,,9,9,9,6,,,10,8,,,10,10,,,,,,10,,,,7,7,9,8,9,7
+18015587006,ANSHUL GUPTA,Deen Dayal Upadhyaya College,4,5,,8,6,8,,9,8,7,6,,,8,8,,,9,10,,,,,,9,,,,6,4,6,7,9,7
+18015587008,AYUSH CHAUDHARY,Deen Dayal Upadhyaya College,7,10,,8,7,9,,10,8,9,7,,,8,9,,,9,10,,,,,,9,,,,7,7,7,8,9,8
+18015587009,BHAWANA,Deen Dayal Upadhyaya College,7,7,,7,0,0,,9,7,6,6,,,0,8,,,9,7,,,,,,6,,,,6,6,7,6,8,7
+18015587010,EKTA VISHWAKARMA,Deen Dayal Upadhyaya College,8,6,,7,7,9,,10,9,6,5,,,8,7,,,9,10,,,,,,9,,,,6,6,5,6,9,7
+18015587011,HEMANT SAHU,Deen Dayal Upadhyaya College,8,8,,6,7,8,,9,8,8,7,,,9,9,,,8,10,,,,,,9,,,,7,7,7,7,9,8
+18015587012,HEMANT VERMA,Deen Dayal Upadhyaya College,6,7,,7,7,7,,9,8,8,6,,,8,8,,,9,10,,,,,,9,,,,7,6,7,7,9,7
+18015587013,HIMANSHU RAWAT,Deen Dayal Upadhyaya College,7,8,,7,7,7,,9,9,9,7,,,9,8,,,9,10,,,,,,10,,,,6,7,8,7,9,6
+18015587014,KARAN TOMAR,Deen Dayal Upadhyaya College,6,8,,6,5,7,,9,7,5,7,,,7,7,,,9,10,,,,,,8,,,,6,4,5,6,9,8
+18015587015,KUNAL TOMAR,Deen Dayal Upadhyaya College,6,8,,6,6,7,,10,7,7,7,,,7,8,,,9,10,,,,,,8,,,,6,4,6,7,9,8
+18015587016,MAYANK GUPTA,Deen Dayal Upadhyaya College,9,7,,7,9,9,,9,10,10,9,,,10,9,,,10,10,,,,,,10,,,,7,8,9,9,9,8
+18015587017,MEGHA,Deen Dayal Upadhyaya College,4,4,,5,6,6,,9,7,5,4,,,8,7,,,10,10,,,,,,8,,,,4,4,6,6,9,8
+18015587018,NEETESH SINGH,Deen Dayal Upadhyaya College,6,9,,6,6,6,,10,7,7,4,,,7,8,,,9,9,,,,,,9,,,,7,7,6,7,9,7
+18015587019,NIMESH JAIN,Deen Dayal Upadhyaya College,10,10,,8,8,9,,10,8,8,7,,,7,8,,,10,10,,,,,,9,,,,8,9,7,8,9,7
+18015587020,NISHANT SHARMA,Deen Dayal Upadhyaya College,8,5,,8,7,4,,10,10,9,4,,,9,8,,,10,10,,,,,,10,,,,6,6,6,8,9,8
+18015587021,NITESH DAYMA,Deen Dayal Upadhyaya College,7,8,,6,6,5,,9,8,8,6,,,8,9,,,9,10,,,,,,9,,,,6,6,7,8,9,8
+18015587023,PALASH PAL,Deen Dayal Upadhyaya College,7,8,,8,7,9,,10,8,9,7,,,9,8,,,9,10,,,,,,9,,,,8,6,8,8,9,8
+18015587024,PARVEJ KHAN,Deen Dayal Upadhyaya College,4,6,,7,6,4,,9,7,7,5,,,7,7,,,8,9,,,,,,8,,,,6,4,6,5,9,7
+18015587026,PORASH KUMAR,Deen Dayal Upadhyaya College,9,9,,7,8,6,,10,10,10,6,,,9,9,,,9,10,,,,,,10,,,,7,6,8,8,9,8
+18015587027,ROHIT JOSHI,Deen Dayal Upadhyaya College,8,8,,8,8,4,,10,9,10,6,,,9,8,,,9,10,,,,,,9,,,,7,7,6,9,9,8
+18015587028,RINKU POONIA,Deen Dayal Upadhyaya College,9,8,,8,8,8,,10,9,9,7,,,9,9,,,10,10,,,,,,9,,,,7,8,8,8,10,8
+18015587029,RISHANT,Deen Dayal Upadhyaya College,5,4,,8,8,7,,8,9,9,6,,,8,8,,,10,10,,,,,,9,,,,4,8,7,9,9,7
+18015587030,SWASTIKA BORA,Deen Dayal Upadhyaya College,7,9,,7,8,7,,9,8,9,9,,,9,9,,,9,10,,,,,,9,,,,7,7,7,8,9,8
+18015587031,SNEHA KUMARI,Deen Dayal Upadhyaya College,9,9,,8,9,8,,10,9,10,9,,,10,9,,,9,10,,,,,,9,,,,8,10,8,9,9,7
+18015587033,YOGESH KUMAR,Deen Dayal Upadhyaya College,7,9,,7,7,7,,9,8,7,7,,,8,8,,,6,10,,,,,,9,,,,7,6,6,7,9,8
+18015587034,MOHIT PRASAD,Deen Dayal Upadhyaya College,6,7,,8,7,7,,9,7,8,7,,,8,7,,,9,10,,,,,,8,,,,6,6,6,7,9,8
+18015587035,MONU KUMAR MEENA,Deen Dayal Upadhyaya College,4,6,,5,4,0,,9,4,4,4,,,6,6,,,8,9,,,,,,8,,,,5,0,0,6,8,6
