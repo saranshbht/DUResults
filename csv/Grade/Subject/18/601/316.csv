@@ -1,113 +1,110 @@
-RollNo,Name,College,INTRODUCTION TO MEDIA AND COMMUNICATION,BASICS OF REPORTING AND EDITING,ENGLISH (AECC),HISTORY OF MEDIA,SPANISH (COMPULSORY FOREIGN LANGUAGE),TAMIL(COMPULSORY REGIONAL LANGUAGE),MEDIA & SOCIETY,ICT & NEW MEDIA,ENVIRONMENTAL SCIENCE,"MEDIA, POLITY AND LEGAL SYSTEMS IN INDIA",SPANISH,TAMIL,INTRODUCTION TO BROADCAST MEDIA,PRINT JOURNALISM AND PRODUCTION,MEDIA LAWS AND ETHICS,DESIGN AND LAYOUT SOFTWARE,MEDIA AND ECONOMICS,PHOTOGRAPHY,INTEGRATED MARKETING COMMUNICATION,MEDIA AND CULTURAL STUDIES,MULTIMEDIA  ANIMATION,INTERNATIONAL RELEATIONS,HINDI (AECC),SANSKRIT (COMPULSORY REGIONAL LANGUAGE),SANSKRIT,DISASTER MANAGEMENT AND COMMUNICATION,FRENCH (COMPULSORY FOREIGN LANGUAGE),BENGALI (COMPULSORY REGIONAL LANGUAGE),FRENCH,BENGALI,MEDIA AND CONSUMER EDUCATION,MEDIA AND HUMAN RIGHTS,CHINESE,URDU
-18316601001,RAJA BABU,Delhi School of Journalism,9,10,10,9,8,5,7,7,6,5,6,7,6,7,7,7,5,7,6,7,6,7,,,,,,,,,,,,
-18316601002,ANUJ YADAV,Delhi School of Journalism,6,5,,6,4,,6,0,4,4,5,,5,7,5,0,,,,,,,6,0,4,4,,,,,,,,
-18316601003,ABHISHEK YADAV,Delhi School of Journalism,7,6,,6,6,,7,4,5,5,5,,7,6,5,8,,6,5,6,5,7,8,6,6,4,,,,,,,,
-18316601004,AATISH ALOK,Delhi School of Journalism,7,6,,8,9,4,7,5,5,5,5,8,7,8,7,7,8,7,5,7,4,8,9,,,,,,,,,,,
-18316601005,AASTHA,Delhi School of Journalism,9,5,,6,,,8,0,5,5,,,6,8,6,5,,7,7,7,6,8,7,,,5,7,6,7,7,,,,
-18316601006,SAPNA,Delhi School of Journalism,8,6,,6,6,,8,5,5,6,7,,7,8,5,5,,8,8,7,7,,10,,,,,7,,8,6,8,,
-18316601007,RAJAN KUMAR,Delhi School of Journalism,9,8,,8,6,,8,6,7,6,7,,8,8,6,8,8,8,7,8,8,9,10,,,,,7,,8,,,,
-18316601009,MADHU KUMARI,Delhi School of Journalism,8,9,,7,7,,8,5,7,5,7,,9,8,7,7,8,8,7,7,7,8,9,,,,,10,,8,,,,
-18316601010,NEERAJ AHIRWAR,Delhi School of Journalism,10,10,,10,,8,9,9,8,8,,9,8,8,9,9,,9,9,9,9,9,10,,,9,9,,9,,,,,
-18316601011,NEHA KUMARI,Delhi School of Journalism,10,10,,10,8,,8,9,8,5,7,,8,0,9,7,9,7,7,8,8,9,10,,,,,8,,8,,,,
-18316601012,VAIBHAV KUMAR SINGH,Delhi School of Journalism,5,5,,6,7,,6,5,4,5,5,,5,6,4,0,,6,4,6,4,6,7,,,4,,4,,6,,,,
-18316601013,DIPANSHU KUMAR YADAV,Delhi School of Journalism,8,8,,10,,8,8,7,6,6,,9,9,0,0,8,,8,9,8,9,9,10,,,9,,,,,,,8,
-18316601014,VINAY,Delhi School of Journalism,8,9,,8,,,9,5,7,6,,,7,7,8,8,8,8,8,8,7,9,10,6,8,,,,,,,,9,
-18316601015,MD AQUIB JAVED,Delhi School of Journalism,7,5,,7,,,7,4,5,5,,,0,6,5,0,8,5,4,5,4,6,7,,,,,,,,,,5,7
-18316601016,ROBIN KUMAR,Delhi School of Journalism,5,6,,6,,,6,4,4,5,,,6,6,4,5,,,,,,,8,,,5,7,9,0,8,,,,
-18316601017,MOHIT PRAKASH,Delhi School of Journalism,5,6,,6,,,7,4,4,5,,,5,6,4,5,,6,6,6,6,6,6,,,0,5,6,6,7,,,,
-18316601018,SHIVENDRA BAHADUR SINGH,Delhi School of Journalism,9,6,,6,9,,8,6,6,6,8,,7,6,6,7,,7,8,7,7,7,9,,,4,,10,,8,,,,
-18316601019,AMAN CHAUHAN,Delhi School of Journalism,6,6,7,7,4,,7,7,7,6,0,,6,4,6,4,,6,5,5,0,,,,,6,,,,,,4,,5
-18316601020,ARYA GUPTA,Delhi School of Journalism,5,10,8,7,,,5,7,7,4,,,6,6,4,4,4,6,4,6,4,6,,,,,,9,,7,,,6,
-18316601021,ASHISH SHUKLA,Delhi School of Journalism,5,7,6,4,,9,4,5,7,5,,7,4,7,8,5,6,5,6,7,6,7,,,,,6,,7,,,,,
-18316601022,AYANTIKA PAL,Delhi School of Journalism,10,10,10,10,,,8,7,10,7,,,8,8,9,7,7,9,7,8,7,7,,,,,8,,7,,,,,8
-18316601023,AYUSHMAN OJHA,Delhi School of Journalism,6,10,10,8,,,5,6,7,6,,,6,8,6,5,6,7,5,7,7,7,,6,7,,,,,,,,6,
-18316601024,AZMI KHAN,Delhi School of Journalism,7,7,7,6,6,,5,6,5,5,5,,6,5,5,4,4,7,6,7,6,6,,,,,,,,,,,,7
-18316601025,CHAMAN,Delhi School of Journalism,10,10,10,10,,,7,8,9,8,,,6,9,8,8,7,9,8,8,8,8,,6,7,,10,,8,,,,,
-18316601026,PULKIT CHAUDHARY,Delhi School of Journalism,10,9,10,8,10,,7,7,10,5,7,,7,9,8,9,6,9,8,8,9,8,,,,,,10,,9,,,,
-18316601027,DEVIKA SINGH,Delhi School of Journalism,4,7,8,6,8,,6,6,8,4,7,,6,7,5,6,5,7,7,8,5,7,,,,,,7,,8,,,,
-18316601028,HARSH YADAV,Delhi School of Journalism,6,10,10,7,4,6,6,6,6,6,7,7,6,6,5,5,5,8,6,7,7,7,,,,,,,,,,,,
-18316601029,HARSHITA SAINI,Delhi School of Journalism,5,8,7,6,10,,5,7,6,6,6,,6,7,4,4,5,7,6,7,5,6,,,,,,,,,,,,7
-18316601031,JAYATI MAYUKH,Delhi School of Journalism,6,6,8,7,,7,6,6,7,6,,7,6,9,7,8,6,8,8,7,7,8,,,,,,,,,,,7,
-18316601032,MOHD QUASIM,Delhi School of Journalism,9,9,9,8,7,,6,7,8,6,7,,8,8,8,7,7,,,,,,,,,,,,,,,,,5
-18316601033,MAHARAJA MUKHERJEE,Delhi School of Journalism,10,10,10,10,10,,6,8,10,9,9,,6,10,7,8,9,9,9,9,9,9,,10,9,,,,,,,,,
-18316601034,MRAGANK PURWAR,Delhi School of Journalism,8,10,7,10,,,6,6,7,6,,,8,8,5,6,6,7,6,7,5,,,,,,8,,6,,,5,,7
-18316601035,NEERAV,Delhi School of Journalism,5,8,7,7,,,5,5,5,4,,,5,6,4,6,4,8,6,7,7,7,,,,,,,,,,,6,7
-18316601036,PRINCE PAL,Delhi School of Journalism,6,8,7,7,,,6,6,7,5,,,4,7,5,6,6,6,7,7,7,8,,6,6,,6,,7,,,,,
-18316601037,PRIYANSHU,Delhi School of Journalism,10,9,10,10,7,,8,8,9,7,7,,8,9,9,8,7,9,8,9,9,8,,,,,,,,,,,,8
-18316601038,RANA KUMBHA CHAUHAN,Delhi School of Journalism,8,10,10,8,,,7,7,9,6,,,5,6,4,8,5,8,7,8,8,,,,,,,,,,,8,7,8
-18316601039,SALONI SHARMA,Delhi School of Journalism,10,10,10,10,10,,8,9,10,6,9,,9,8,6,8,7,8,9,8,8,9,,,,,,,,,,,,9
-18316601041,SHANTANU SHEKHAR,Delhi School of Journalism,7,10,10,9,10,,6,5,7,6,7,,5,6,4,5,,6,6,8,7,7,,8,7,8,,,,,,,,
-18316601042,SHIVANSHI SHUKLA,Delhi School of Journalism,7,10,10,8,8,,7,8,8,9,9,,7,8,6,8,6,8,8,8,8,8,,,,,,8,,8,,,,
-18316601043,SONY,Delhi School of Journalism,9,10,10,9,9,,6,7,8,6,8,,8,7,5,5,6,5,6,7,7,7,,8,8,,,,,,,,,
-18316601044,SHWETA KUMARI,Delhi School of Journalism,6,10,10,7,7,,6,7,8,6,7,,8,7,8,8,6,8,7,8,6,8,,,,,,9,,8,,,,
-18316601045,TUBA AFREEN,Delhi School of Journalism,9,10,10,10,,9,7,5,8,8,,8,7,10,7,8,7,8,7,7,8,8,,,,,10,,7,,,,,
-18316601046,UJJWAL KUMAR,Delhi School of Journalism,8,10,10,10,,,7,8,8,7,,,5,5,6,6,5,7,6,7,7,6,,9,6,,7,,7,,,,,
-18316601047,VAISHALI TYAGI,Delhi School of Journalism,10,10,10,9,8,,7,7,7,8,6,,8,8,7,7,6,7,6,7,6,7,,,,,,8,,8,,,,
-18316601048,VINITA MEENA,Delhi School of Journalism,6,8,8,5,,,6,6,6,6,,,5,0,5,0,,5,6,6,5,,,5,7,7,5,,6,,,7,,
-18316601049,SACHINI PAVTHRAGIMHANI WIYANNALEGEDARA,Delhi School of Journalism,8,10,7,6,,9,7,7,6,5,,7,5,5,5,4,,5,6,6,6,6,,,,8,,,,,,,6,
-18316601050,RITURAJ KAUSHAL,Delhi School of Journalism,5,8,9,6,8,,6,6,8,6,8,,5,7,5,6,,7,7,7,7,7,,4,7,6,,,,,,,,
-18316601051,ARCHIT SAXENA,Delhi School of Journalism,5,5,6,5,6,4,4,4,0,4,5,6,4,4,0,4,,5,5,5,0,,,,,0,,,,,,4,,
-18316601052,SAMYAK JAIN,Delhi School of Journalism,10,10,9,10,8,,7,7,7,7,6,,6,9,8,7,6,8,7,7,8,7,,,,,,,,,,,,8
-18316601053,DIKSHA SINGH,Delhi School of Journalism,8,10,10,10,,,6,5,5,5,,,0,0,0,0,0,0,0,0,0,0,,4,0,,8,,0,,,,,
-18316601054,NIRBHAY KAPUR,Delhi School of Journalism,9,10,10,9,,,7,7,8,6,,,7,8,8,9,7,9,8,8,9,9,,7,8,,9,,9,,,,,
-18316601055,AARUSHI BHARGAVA,Delhi School of Journalism,8,8,8,7,8,,7,6,7,6,6,,7,7,5,5,6,7,6,6,7,,,6,6,,,,,,,7,,
-18316601056,AAKRITI TAPRANIYA,Delhi School of Journalism,9,7,9,7,7,,7,6,7,6,6,,4,6,5,5,,7,6,6,6,7,,,,8,,6,,8,,,,
-18316601057,PALLAVI KUMARI,Delhi School of Journalism,8,9,9,8,7,7,7,6,7,6,6,6,5,4,5,5,5,6,6,6,6,7,,,,,,,,,,,,
-18316601058,AMAN SHARMA,Delhi School of Journalism,7,8,9,9,10,,6,6,7,6,7,,0,5,6,6,5,6,6,6,5,7,,,,,,8,,7,,,,
-18316601059,AAKASH,Delhi School of Journalism,5,6,,7,4,,5,4,5,0,4,,5,5,4,5,,6,5,6,5,,6,,,4,,7,,6,,6,,
-18316601060,ANJALI SHARMA,Delhi School of Journalism,6,5,,5,7,,7,4,5,5,7,,5,6,4,6,,7,7,7,7,8,6,,,,,9,,8,6,,,
-18316601061,ABHISHEK SHARMA,Delhi School of Journalism,7,9,,9,7,,9,7,7,6,5,,8,7,6,8,8,7,7,7,7,7,10,,,,,,,,,,,8
-18316601062,ABHINAV JAIN,Delhi School of Journalism,10,7,,10,10,,8,8,7,6,8,,8,6,7,8,,8,8,8,8,,10,,,8,,10,,8,,9,,
-18316601063,AJAY KUMAR,Delhi School of Journalism,8,9,,6,6,,8,0,0,5,6,,7,6,6,5,8,,,,,,8,6,5,,,,,,,,,
-18316601064,ANSHU,Delhi School of Journalism,10,7,,9,10,,9,8,8,10,8,,6,7,8,9,8,8,8,8,8,9,10,,,,,10,,8,,,,
-18316601065,BRIJESH,Delhi School of Journalism,7,7,,6,6,,8,6,5,6,6,,7,6,7,6,,7,7,6,6,8,8,,,7,,,,,,,,8
-18316601066,CHHAYA GIRI,Delhi School of Journalism,7,7,,7,,,8,5,6,6,,,7,6,5,5,8,,,,,,8,6,7,,,,,,,,6,
-18316601067,DEEPAK KUMAR,Delhi School of Journalism,10,8,,7,,,8,7,7,6,,,8,7,8,8,,8,8,8,9,,9,,,8,0,8,8,8,,8,,
-18316601068,GURPREET,Delhi School of Journalism,7,9,,7,6,,7,4,6,6,7,,7,6,6,6,,8,7,7,8,8,8,6,7,,,,,,6,,,
-18316601069,KRITI BHAISORA,Delhi School of Journalism,8,7,,6,4,,7,5,6,6,5,,6,7,0,7,,6,5,6,5,7,7,6,0,,,,,,5,,,
-18316601070,MANISHA DEVI,Delhi School of Journalism,8,10,,8,7,8,8,7,6,6,7,9,8,8,8,7,8,7,8,8,8,9,10,,,,,,,,,,,
-18316601071,MARUT NANDAN SHARAN,Delhi School of Journalism,10,10,,9,10,,9,8,8,9,10,,9,8,9,9,,9,10,9,8,10,10,10,9,9,,,,,,,,
-18316601072,MD SAMSUZZOHA,Delhi School of Journalism,8,7,,6,,,7,4,6,5,,,6,6,4,6,,6,5,6,5,,8,,,7,,,,,,7,7,7
-18316601073,MOHIT MAURYA,Delhi School of Journalism,8,6,,6,,7,7,6,6,5,,7,8,7,6,5,,,,,,,8,,,9,6,,0,,,,,
-18316601074,MOHIT KUMAR,Delhi School of Journalism,9,9,,10,,7,8,6,6,6,,7,6,6,6,7,8,7,7,7,7,8,10,,,,7,,7,,,,,
-18316601075,NIKITA GUPTA,Delhi School of Journalism,8,9,,10,,,8,6,6,6,,,6,7,5,8,8,7,6,7,7,,9,,,,,10,,8,,7,7,
-18316601076,PRADEEP KASHYAP,Delhi School of Journalism,10,10,,10,9,,8,7,6,6,7,,8,7,6,8,,9,9,8,9,,9,,,,,10,,9,7,9,,
-18316601077,PRAKHAR GUPTA,Delhi School of Journalism,6,5,,4,,,5,0,0,4,,,5,5,4,5,,5,0,5,0,6,5,,,5,4,4,5,6,,,,
-18316601078,PRANSHU SINGH,Delhi School of Journalism,10,8,,8,,8,8,5,6,5,,7,7,6,5,6,,6,7,7,7,8,6,,,7,7,,6,,,,,
-18316601079,PRINCE KUMAR,Delhi School of Journalism,7,6,,6,8,,8,5,6,6,9,,6,6,5,5,7,,,,,,6,,,,,,,,,,,5
-18316601080,PUNEET GOMA,Delhi School of Journalism,7,6,,6,7,,6,5,5,6,6,,6,6,5,4,,,,,,,8,,,,,7,,7,5,,,
-18316601081,RAHUL SINGH RATHORE,Delhi School of Journalism,6,6,,6,5,,7,5,5,6,7,,7,6,5,5,,,,,,,6,,,,,9,,8,6,,,
-18316601082,RAJESH KUMAR,Delhi School of Journalism,10,10,,9,8,,8,7,7,6,8,,7,6,7,8,9,8,7,8,8,9,10,,,,,,,,,,,8
-18316601083,RISHABH AWASTHI,Delhi School of Journalism,9,9,,9,8,,8,7,7,6,7,,6,7,6,7,,8,8,8,6,8,9,,,8,,,,,,,,8
-18316601084,ROSHANI,Delhi School of Journalism,8,7,,10,6,,8,5,5,6,8,,7,7,6,8,,8,8,8,8,8,7,,,,,8,,8,7,,,
-18316601085,SABIR ALI,Delhi School of Journalism,7,5,,6,5,,7,4,5,5,6,,5,6,5,6,,4,5,6,4,7,5,,,6,,,,,,,,7
-18316601086,SAURABH,Delhi School of Journalism,10,10,,10,,10,9,8,7,7,,9,9,8,7,7,,9,9,8,8,9,10,,,9,10,,8,,,,,
-18316601087,SAURAV KUMAR,Delhi School of Journalism,7,7,,7,6,,8,5,7,6,7,,6,7,5,7,,6,6,6,6,7,8,6,7,,,,,,7,,,
-18316601088,SHASHI KANT PRASAD,Delhi School of Journalism,8,6,,9,,6,8,5,5,5,,7,6,7,5,5,8,6,5,6,6,6,7,,,,8,,6,,,,,
-18316601089,SIKANDRA KUMAR,Delhi School of Journalism,10,10,,10,10,,9,7,8,6,9,,8,8,9,8,,9,9,9,9,9,10,10,9,10,,,,,,,,
-18316601090,SONIRIYA,Delhi School of Journalism,7,10,9,9,10,,9,6,7,6,7,,8,8,7,7,5,6,7,7,6,7,,,,,,7,,8,,,,
-18316601091,SHWETA KUMARI,Delhi School of Journalism,8,7,,7,,,7,5,6,5,,,6,6,6,5,8,,,,,,8,8,6,,5,,6,,,,,
-18316601092,TARUN DEV MISHRA,Delhi School of Journalism,7,6,,8,9,8,7,4,7,5,6,7,6,6,5,7,7,7,7,6,6,7,6,,,,,,,,,,,
-18316601093,TUSHAR PANDEY,Delhi School of Journalism,9,8,,7,,,0,0,0,0,,,6,7,7,6,9,8,8,7,7,8,8,8,8,,6,,8,,,,,
-18316601094,VIKAS KUMAR,Delhi School of Journalism,7,6,,6,6,,7,4,6,5,7,,7,6,6,5,8,7,7,7,6,,9,5,7,,,,,,,7,,
-18316601095,WASEEM KHAN,Delhi School of Journalism,7,5,,6,,,7,4,5,5,,,5,6,4,4,7,5,5,5,4,6,6,,,,4,,5,,,,,7
-18316601096,AKSHITA,Delhi School of Journalism,6,6,5,4,0,,4,5,4,4,0,,5,0,0,0,0,5,4,4,4,5,,,,,,,,,,,,4
-18316601097,MANSI ANAND,Delhi School of Journalism,5,6,8,6,,,7,5,6,6,,,4,5,5,7,,7,7,7,7,7,,,,7,,7,,7,,,6,
-18316601098,SURYANSH RAGAHV,Delhi School of Journalism,7,5,7,6,6,9,7,6,9,0,5,7,6,5,4,5,4,6,6,7,6,,,,,,,,,,,5,,
-18316601099,ATRI SANFUI,Delhi School of Journalism,6,10,10,6,9,,6,7,7,5,6,,5,8,5,7,4,7,6,7,6,7,,4,7,,,,,,,,,
-18316601100,MEDHA MALHOTRA,Delhi School of Journalism,7,9,7,6,6,,5,4,6,5,0,,0,0,0,4,0,0,0,0,0,0,,,,,,8,,0,,,,
-18316601101,MOHD ROMAAN ARORA,Delhi School of Journalism,8,10,10,9,,,5,5,7,5,,,6,8,6,7,6,8,7,8,6,8,,,,,10,,7,,,,,8
-18316601102,HIMANSHU BEDGUJAR,Delhi School of Journalism,5,6,5,4,,,4,0,5,0,,,0,4,4,0,,5,0,5,4,,,6,0,5,,,,,,4,5,
-18316601103,ARUNIKA SWAROOP,Delhi School of Journalism,6,9,9,6,,,5,6,6,4,,,4,6,0,5,4,5,5,5,0,4,,,,,9,5,5,5,,,,
-18316601104,PRATISHTHA SINGH,Delhi School of Journalism,7,8,10,8,,,8,8,8,6,,,8,8,8,8,6,9,9,8,8,9,,10,8,,10,,9,,,,,
-18316601105,SUDHANSHU P S CHAUHAN,Delhi School of Journalism,10,10,10,9,,,8,7,9,6,,,8,9,8,9,7,8,8,8,9,9,,,,,10,9,8,9,,,,
-18316601106,AYAAN KARTIK,Delhi School of Journalism,10,10,10,9,,10,7,6,8,6,,9,8,9,8,9,6,9,9,9,9,9,,,,,10,,9,,,,,
-18316601108,VAIBHAV  DAGAR,Delhi School of Journalism,6,9,9,8,,,5,5,0,6,,,6,8,7,7,6,8,8,8,8,8,,,,,8,,8,,,,,8
-18316601109,ASHAD REHMAN,Delhi School of Journalism,6,7,6,6,4,,7,5,8,6,6,,6,7,7,8,4,6,7,6,7,7,,,,,,,,,,,,7
-18316601110,ARUN SINGH,Delhi School of Journalism,6,8,7,6,,,7,7,6,5,,,5,7,5,7,4,7,6,7,6,6,,,,,6,,7,,,,,5
-18316601112,ANJALI LAVANIA,Delhi School of Journalism,7,10,10,9,,8,7,6,8,5,,7,9,7,7,8,5,8,6,7,5,7,,,,,6,,6,,,,,
-18316601114,SWARAJ SHANKAR,Delhi School of Journalism,6,6,7,5,,,6,5,0,4,,,6,4,0,4,0,0,5,4,0,5,,,,,6,,4,,,,,4
-18316601115,ANJALI  SINGH,Delhi School of Journalism,5,6,7,5,,,5,6,6,0,,,6,7,5,6,4,7,6,7,6,,,,,,7,,5,,,5,,6
-18316601116,ARPIT MISHRA,Delhi School of Journalism,4,7,9,5,,,6,4,6,4,,,5,5,4,4,4,,,,,,,,,,6,,0,,,,,0
-18316601117,MISHA SINGH,Delhi School of Journalism,6,5,7,6,,,7,5,5,6,,,6,5,5,5,5,6,6,7,6,7,,,,,,6,,7,,,6,
-18316601118,KUNAL SINGH SOLANKI,Delhi School of Journalism,4,6,6,5,5,,5,0,4,4,4,,0,0,0,0,0,0,0,0,0,4,,,,,,,,,,,,0
+RollNo,Name,College,INTRODUCTION TO MEDIA AND COMMUNICATION,BASICS OF REPORTING AND EDITING,ENGLISH (AECC),HISTORY OF MEDIA,SPANISH (COMPULSORY FOREIGN LANGUAGE),TAMIL(COMPULSORY REGIONAL LANGUAGE),MEDIA & SOCIETY,ICT & NEW MEDIA,ENVIRONMENTAL SCIENCE,"MEDIA, POLITY AND LEGAL SYSTEMS IN INDIA",SPANISH,TAMIL,INTRODUCTION TO BROADCAST MEDIA,PRINT JOURNALISM AND PRODUCTION,MEDIA LAWS AND ETHICS,DESIGN AND LAYOUT SOFTWARE,MEDIA AND ECONOMICS,PHOTOGRAPHY,INTEGRATED MARKETING COMMUNICATION,MEDIA AND CULTURAL STUDIES,MULTIMEDIA  ANIMATION,INTERNATIONAL RELEATIONS,RADIO JOURNALISM AND PR0DUCTION,BASIC MATHEMATICS FOR JOURNALISTS,MEDIA AND GEOGRAPHY,MEDIA INDUSTRY AND GOVERNANCE,HINDI (AECC),SANSKRIT (COMPULSORY REGIONAL LANGUAGE),SANSKRIT,DISASTER MANAGEMENT AND COMMUNICATION,REPRESENTATION OF GENDER IN MEDIA,FRENCH (COMPULSORY FOREIGN LANGUAGE),BENGALI (COMPULSORY REGIONAL LANGUAGE),FRENCH,BENGALI,MEDIA AND CONSUMER EDUCATION,MEDIA AND HUMAN RIGHTS,CHINESE,URDU,
+18316601001,RAJA BABU,Delhi School of Journalism,9,10,10,9,8,5,7,7,6,5,7,9,6,7,7,7,5,7,6,7,6,7,7,8,8,8,,,,,,,,,,,,,,
+18316601002,ANUJ YADAV,Delhi School of Journalism,6,5,,6,4,,6,0,4,4,8,,5,7,5,5,,6,5,6,5,7,6,9,,8,6,7,7,4,8,,,,,,,,,
+18316601003,ABHISHEK YADAV,Delhi School of Journalism,7,6,,6,6,,7,4,5,5,9,,7,6,5,8,,6,5,6,5,7,8,8,,8,8,6,8,4,8,,,,,,,,,
+18316601004,AATISH ALOK,Delhi School of Journalism,7,6,,8,9,4,7,5,5,5,5,9,7,8,7,7,8,7,5,7,4,8,8,7,5,7,9,,,,,,,,,,,,,
+18316601005,AASTHA,Delhi School of Journalism,9,5,,6,,,8,0,5,5,,,6,8,6,5,,7,7,7,6,8,8,9,8,8,7,,,5,,7,6,8,8,,,,,
+18316601006,SAPNA,Delhi School of Journalism,8,6,,6,6,,8,5,5,6,7,,7,8,5,5,,8,8,7,7,,6,9,,7,10,,,,8,,7,,8,6,8,,,
+18316601007,RAJAN KUMAR,Delhi School of Journalism,9,8,,8,6,,8,6,7,6,9,,8,8,6,8,8,8,7,8,8,9,7,8,8,8,10,,,,,,7,,8,,,,,
+18316601009,MADHU KUMARI,Delhi School of Journalism,8,9,,7,7,,8,5,7,5,9,,9,8,7,7,8,8,7,7,7,8,8,10,,9,9,,,,8,,10,,9,,,,,
+18316601010,NEERAJ AHIRWAR,Delhi School of Journalism,10,10,,10,,8,9,9,8,8,,10,8,8,9,9,,9,9,9,9,9,7,10,8,8,10,,,9,,9,,9,,,,,,
+18316601011,NEHA KUMARI,Delhi School of Journalism,10,10,,10,8,,8,9,8,5,9,,8,7,9,7,9,7,7,8,8,9,8,9,8,8,10,,,,,,8,,8,,,,,
+18316601012,VAIBHAV KUMAR SINGH,Delhi School of Journalism,5,5,,6,7,,6,5,4,5,7,,5,6,4,7,,6,4,6,4,6,7,7,,5,7,,,4,6,,4,,7,,,,,
+18316601013,DIPANSHU KUMAR YADAV,Delhi School of Journalism,8,8,,10,,8,8,7,6,6,,10,9,8,7,8,,9,9,8,9,9,8,8,8,8,10,,,9,,,,,,,,10,,
+18316601014,VINAY,Delhi School of Journalism,8,9,,8,,,9,5,7,6,,,7,7,8,8,8,8,8,8,7,9,8,9,7,8,10,6,9,,,,,,,,,10,,
+18316601015,MD AQUIB JAVED,Delhi School of Journalism,7,5,,7,,,7,4,5,5,,,7,6,5,6,8,5,4,5,4,6,8,8,,8,7,,,,7,,,,,,,10,8,6
+18316601016,ROBIN KUMAR,Delhi School of Journalism,5,6,,6,,,6,4,4,5,,,6,6,4,5,,6,5,6,6,6,7,8,8,,8,,,5,6,7,9,9,8,,,,,
+18316601017,MOHIT PRAKASH,Delhi School of Journalism,5,6,,6,,,7,4,4,5,,,8,7,4,8,,6,6,6,6,6,7,9,,8,6,,,,6,5,6,8,8,,,,,7
+18316601018,SHIVENDRA BAHADUR SINGH,Delhi School of Journalism,9,6,,6,9,,8,6,6,6,10,,7,6,6,7,,7,8,7,7,7,4,8,7,,9,,,,7,,10,,9,,,,,7
+18316601019,AMAN CHAUHAN,Delhi School of Journalism,6,6,7,7,4,,7,7,7,6,7,,6,4,6,4,,6,5,5,0,,7,8,6,5,,,,6,,,,,,,4,,6,6
+18316601020,ARYA GUPTA,Delhi School of Journalism,5,10,8,7,,,5,7,7,4,,,6,6,4,4,4,6,4,6,4,6,5,8,,5,,,,,5,,9,,8,,,10,,
+18316601021,ASHISH SHUKLA,Delhi School of Journalism,5,7,6,4,,9,4,5,7,5,,6,4,7,8,5,6,5,6,7,6,7,7,9,7,,,,,,6,6,,8,,,,,,
+18316601022,AYANTIKA PAL,Delhi School of Journalism,10,10,10,10,,,8,7,10,7,,,8,8,9,7,7,9,7,8,7,7,9,10,,8,,,,,9,8,,10,,,,,8,
+18316601023,AYUSHMAN OJHA,Delhi School of Journalism,6,10,10,8,,,5,6,7,6,,,6,8,6,5,6,7,5,7,7,7,6,8,7,5,,6,7,,,,,,,,,10,,
+18316601024,AZMI KHAN,Delhi School of Journalism,7,7,7,6,6,,5,6,5,5,7,,6,8,5,8,7,7,6,7,6,6,7,10,8,8,,,,,,,,,,,,,7,6
+18316601025,CHAMAN,Delhi School of Journalism,10,10,10,10,,,7,8,9,8,,,6,9,8,8,9,9,8,8,8,8,8,10,8,8,,6,9,,,10,,10,,,,,,
+18316601026,PULKIT CHAUDHARY,Delhi School of Journalism,10,9,10,8,10,,7,7,10,5,9,,7,9,8,9,6,9,8,8,9,8,8,10,,8,,,,,8,,10,,9,,,,,
+18316601027,DEVIKA SINGH,Delhi School of Journalism,4,7,8,6,8,,6,6,8,4,9,,6,7,5,6,5,7,7,8,5,7,6,9,7,6,,,,,,,7,,8,,,,,
+18316601028,HARSH YADAV,Delhi School of Journalism,6,10,10,7,4,6,6,6,6,6,9,7,6,6,6,7,6,8,6,7,7,7,7,7,7,7,,,,,,,,,,,,,,
+18316601029,HARSHITA SAINI,Delhi School of Journalism,5,8,7,6,10,,5,7,6,6,9,,6,7,7,7,8,7,6,7,5,6,8,9,,8,,,,,8,,,,,,,,9,
+18316601031,JAYATI MAYUKH,Delhi School of Journalism,6,6,8,7,,7,6,6,7,6,,9,6,9,7,8,6,8,8,7,7,8,7,8,7,7,,,,,,,,,,,,10,,
+18316601032,MOHD QUASIM,Delhi School of Journalism,9,9,9,8,7,,6,7,8,6,9,,8,8,8,7,7,8,8,8,8,8,8,9,7,7,,,,,,,,,,,,,7,
+18316601033,MAHARAJA MUKHERJEE,Delhi School of Journalism,10,10,10,10,10,,6,8,10,9,10,,6,10,7,8,9,9,9,9,9,9,9,10,,9,,10,9,,9,,,,,,,,,
+18316601034,MRAGANK PURWAR,Delhi School of Journalism,8,10,7,10,,,6,6,7,6,,,8,8,5,6,6,7,6,7,5,,6,9,,5,,,,,6,8,,7,,,5,,4,4
+18316601035,NEERAV,Delhi School of Journalism,5,8,7,7,,,5,5,5,4,,,7,6,6,6,7,8,6,7,7,7,7,9,7,,,,,,6,,,,,,,10,8,
+18316601036,PRINCE PAL,Delhi School of Journalism,6,8,7,7,,,6,6,7,5,,,6,7,6,6,6,6,7,7,7,8,8,9,7,6,,6,7,,,6,,9,,,,,,
+18316601037,PRIYANSHU,Delhi School of Journalism,10,9,10,10,7,,8,8,9,7,9,,8,9,9,8,7,9,8,9,9,8,9,10,8,8,,,,,,,,,,,,,9,
+18316601038,RANA KUMBHA CHAUHAN,Delhi School of Journalism,8,10,10,8,,,7,7,9,6,,,7,6,5,8,5,8,7,8,8,,7,9,8,7,,,,,,,,,,,8,10,6,7
+18316601039,SALONI SHARMA,Delhi School of Journalism,10,10,10,10,10,,8,9,10,6,10,,9,8,6,8,7,8,9,8,8,9,8,10,,8,,,,,9,,,,,,,,8,
+18316601041,SHANTANU SHEKHAR,Delhi School of Journalism,7,10,10,9,10,,6,5,7,6,8,,5,6,5,7,,6,6,8,7,7,7,8,8,,,8,8,8,8,,,,,,,,,
+18316601042,SHIVANSHI SHUKLA,Delhi School of Journalism,7,10,10,8,8,,7,8,8,9,10,,7,8,6,8,6,8,8,8,8,8,8,9,,8,,,,,8,,8,,9,,,,,
+18316601043,SONY,Delhi School of Journalism,9,10,10,9,9,,6,7,8,6,9,,8,7,0,7,8,5,6,7,7,7,7,8,8,8,,8,9,,,,,,,,,,,
+18316601044,SHWETA KUMARI,Delhi School of Journalism,6,10,10,7,7,,6,7,8,6,10,,8,7,8,8,6,8,7,8,6,8,7,9,,8,,,,,8,,9,,8,,,,,
+18316601045,TUBA AFREEN,Delhi School of Journalism,9,10,10,10,,9,7,5,8,8,,8,7,10,7,8,7,8,7,7,8,8,7,9,,8,,,,,9,10,,9,,,,,,
+18316601046,UJJWAL KUMAR,Delhi School of Journalism,8,10,10,10,,,7,8,8,7,,,6,5,6,6,8,7,6,7,7,6,8,9,8,8,,9,8,,,7,,9,,,,,,
+18316601047,VAISHALI TYAGI,Delhi School of Journalism,10,10,10,9,8,,7,7,7,8,9,,8,8,7,7,8,7,6,7,6,7,8,9,8,7,,,,,,,8,,8,,,,,
+18316601048,VINITA MEENA,Delhi School of Journalism,6,8,8,5,,,6,6,6,6,,,5,5,5,5,,5,6,6,5,,8,8,8,,,5,8,7,8,5,,7,,,7,,,
+18316601049,SACHINI PAVTHRAGIMHANI WIYANNALEGEDARA,Delhi School of Journalism,8,10,7,6,,9,7,7,6,5,,9,5,5,5,4,,6,6,6,6,7,7,7,7,,,,,8,7,,,,,,,10,,
+18316601050,RITURAJ KAUSHAL,Delhi School of Journalism,5,8,9,6,8,,6,6,8,6,8,,5,7,5,6,,7,7,7,7,7,8,8,,7,,4,7,6,8,,,,,,,,,
+18316601051,ARCHIT SAXENA,Delhi School of Journalism,5,5,6,5,6,4,4,4,0,4,6,8,4,4,4,4,,5,5,5,0,,6,8,6,,,,,,4,,,,,,4,,,6
+18316601052,SAMYAK JAIN,Delhi School of Journalism,10,10,9,10,8,,7,7,7,7,9,,6,9,8,7,6,8,7,7,8,7,8,10,,7,,,,,8,,,,,,,,6,0
+18316601053,DIKSHA SINGH,Delhi School of Journalism,8,10,10,10,,,6,5,5,5,,,7,6,5,6,6,0,0,0,0,0,6,7,7,5,,4,6,,,8,,7,,,,,,
+18316601054,NIRBHAY KAPUR,Delhi School of Journalism,9,10,10,9,,,7,7,8,6,,,7,8,8,9,7,9,8,8,9,9,8,10,8,8,,7,9,,,9,,10,,,,,,
+18316601055,AARUSHI BHARGAVA,Delhi School of Journalism,8,8,8,7,8,,7,6,7,6,9,,7,7,6,7,6,7,6,6,7,,6,10,8,,,6,9,,8,,,,,,7,,,
+18316601056,AAKRITI TAPRANIYA,Delhi School of Journalism,9,7,9,7,7,,7,6,7,6,5,,4,6,5,5,,7,6,6,6,7,7,8,8,,,,,8,7,,6,,8,,,,,
+18316601057,PALLAVI KUMARI,Delhi School of Journalism,8,9,9,8,7,7,7,6,7,6,6,7,5,4,5,5,5,6,6,6,6,7,8,8,8,7,,,,,,,,,,,,,,
+18316601058,AMAN SHARMA,Delhi School of Journalism,7,8,9,9,10,,6,6,7,6,6,,6,5,6,6,5,6,6,6,5,7,6,8,7,5,,,,,,,8,,8,,,,,
+18316601059,AAKASH,Delhi School of Journalism,5,6,,7,4,,5,4,5,0,7,,5,5,4,5,,6,5,6,5,,7,8,8,8,6,,,4,,,7,,8,,6,,,
+18316601060,ANJALI SHARMA,Delhi School of Journalism,6,5,,5,7,,7,4,5,5,7,,5,6,4,6,,7,7,7,7,8,6,7,,6,6,,,,4,,9,,8,6,,,,
+18316601062,ABHINAV JAIN,Delhi School of Journalism,10,7,,10,10,,8,8,7,6,8,,8,6,7,8,,8,8,8,8,,7,9,8,8,10,,,8,,,10,,9,,9,,,
+18316601063,AJAY KUMAR,Delhi School of Journalism,8,9,,6,6,,8,0,0,5,8,,7,6,6,5,8,6,5,6,5,7,7,9,8,8,8,6,7,,,,,,,,,,,
+18316601064,ANSHU,Delhi School of Journalism,10,7,,9,10,,9,8,8,10,9,,6,7,8,9,8,8,8,8,8,9,8,9,8,8,10,,,,,,10,,9,,,,,
+18316601065,BRIJESH,Delhi School of Journalism,7,7,,6,6,,8,6,5,6,7,,7,6,7,6,,7,7,6,6,8,7,9,,7,8,,,7,7,,,,,,,,6,
+18316601066,CHHAYA GIRI,Delhi School of Journalism,7,7,,7,,,8,5,6,6,,,7,6,5,5,8,5,5,5,4,7,7,6,5,7,8,6,6,,,,,,,,,9,,
+18316601067,DEEPAK KUMAR,Delhi School of Journalism,10,8,,7,,,8,7,7,6,,,8,7,8,8,,8,8,8,9,,8,9,8,,9,,,8,8,8,8,9,9,,8,,,
+18316601068,GURPREET,Delhi School of Journalism,7,9,,7,6,,7,4,6,6,8,,7,6,6,6,,8,7,7,8,8,8,9,5,,8,6,6,,6,,,,,6,,,,
+18316601069,KRITI BHAISORA,Delhi School of Journalism,8,7,,6,4,,7,5,6,6,8,,6,7,7,7,,6,5,6,5,7,8,8,,8,7,6,9,,8,,,,,5,,,,
+18316601070,MANISHA DEVI,Delhi School of Journalism,8,10,,8,7,8,8,7,6,6,8,10,8,8,8,7,8,7,8,8,8,9,8,10,8,8,10,,,,,,,,,,,,,
+18316601071,MARUT NANDAN SHARAN,Delhi School of Journalism,10,10,,9,10,,9,8,8,9,10,,9,8,9,9,,9,10,9,8,10,8,10,8,9,10,10,10,9,,,,,,,,,,
+18316601072,MD SAMSUZZOHA,Delhi School of Journalism,8,7,,6,,,7,4,6,5,,,6,6,4,6,,6,5,6,5,,7,8,,8,8,,,7,6,,,,,,7,10,6,
+18316601074,MOHIT KUMAR,Delhi School of Journalism,9,9,,10,,7,8,6,6,6,,9,6,6,6,7,8,7,7,7,7,8,6,9,,8,10,,,,7,7,,9,,,,,,
+18316601075,NIKITA GUPTA,Delhi School of Journalism,8,9,,10,,,8,6,6,6,,,6,7,5,8,8,7,6,7,7,,6,9,,8,9,,,,6,,10,,8,,7,10,,
+18316601076,PRADEEP KASHYAP,Delhi School of Journalism,10,10,,10,9,,8,7,6,6,8,,8,7,6,8,,9,9,8,9,,8,10,,8,9,,,,8,,10,,9,7,9,,,
+18316601077,PRAKHAR GUPTA,Delhi School of Journalism,6,5,,4,,,5,0,0,4,,,5,5,4,5,,5,0,5,0,6,7,9,7,8,5,,,5,,4,4,6,8,,,,,
+18316601078,PRANSHU SINGH,Delhi School of Journalism,10,8,,8,,8,8,5,6,5,,9,7,6,7,6,,6,7,7,7,8,8,9,7,8,6,,,7,,7,,9,,,,,,
+18316601079,PRINCE KUMAR,Delhi School of Journalism,7,6,,6,8,,8,5,6,6,9,,6,6,5,5,7,7,8,7,7,8,6,7,6,6,6,,,,,,,,,,,,5,
+18316601080,PUNEET GOMA,Delhi School of Journalism,7,6,,6,7,,6,5,5,6,8,,6,6,5,4,,7,5,6,5,,5,8,,7,8,,,,7,,7,,7,5,7,,,
+18316601081,RAHUL SINGH RATHORE,Delhi School of Journalism,6,6,,6,5,,7,5,5,6,8,,7,6,5,5,,8,8,8,8,8,7,8,8,8,6,,,,,,9,,8,6,,,,
+18316601082,RAJESH KUMAR,Delhi School of Journalism,10,10,,9,8,,8,7,7,6,9,,7,6,7,8,9,8,7,8,8,9,8,10,8,8,10,,,,,,,,,,,,7,
+18316601083,RISHABH AWASTHI,Delhi School of Journalism,9,9,,9,8,,8,7,7,6,9,,6,7,6,7,,8,8,8,6,8,7,9,7,7,9,,,8,,,,,,,,,7,
+18316601084,ROSHANI,Delhi School of Journalism,8,7,,10,6,,8,5,5,6,8,,7,7,6,8,,8,8,8,8,8,7,9,7,8,7,,,,,,8,,8,7,,,,
+18316601085,SABIR ALI,Delhi School of Journalism,7,5,,6,5,,7,4,5,5,8,,5,6,5,6,,4,5,6,4,7,7,8,8,8,5,,,6,,,,,,,,,8,
+18316601086,SAURABH,Delhi School of Journalism,10,10,,10,,10,9,8,7,7,,9,9,8,7,7,,9,9,8,8,9,7,9,8,8,10,,,9,,10,,9,,,,,,
+18316601087,SAURAV KUMAR,Delhi School of Journalism,7,7,,7,6,,8,5,7,6,7,,6,7,5,7,,6,6,6,6,7,6,8,,7,8,6,7,,7,,,,,7,,,,
+18316601088,SHASHI KANT PRASAD,Delhi School of Journalism,8,6,,9,,6,8,5,5,5,,8,6,7,5,5,8,6,5,6,6,6,4,6,,4,7,,,,5,8,,6,,,,,,
+18316601089,SIKANDRA KUMAR,Delhi School of Journalism,10,10,,10,10,,9,7,8,6,10,,8,8,9,8,,9,9,9,9,9,8,8,8,8,10,10,9,10,,,,,,,,,,
+18316601090,SONIRIYA,Delhi School of Journalism,7,10,9,9,10,,9,6,7,6,7,,8,8,7,7,5,6,7,7,6,7,7,9,,7,,,,,6,,7,,8,,,,,
+18316601092,TARUN DEV MISHRA,Delhi School of Journalism,7,6,,8,9,8,7,4,7,5,8,9,6,6,7,7,7,7,7,6,6,7,7,10,,8,6,,,,8,,,,,,,,,
+18316601093,TUSHAR PANDEY,Delhi School of Journalism,9,8,,7,,,0,0,0,0,,,6,7,7,6,9,8,8,7,7,8,8,10,8,8,8,8,9,,,6,,9,,,,,,
+18316601094,VIKAS KUMAR,Delhi School of Journalism,7,6,,6,6,,7,4,6,5,7,,7,6,6,5,8,7,7,7,6,,6,9,,8,9,5,8,,8,,,,,,7,,,
+18316601095,WASEEM KHAN,Delhi School of Journalism,7,5,,6,,,7,4,5,5,,,5,6,4,4,7,5,5,5,4,6,6,8,,8,6,,,,6,4,,6,,,,,6,
+18316601096,AKSHITA,Delhi School of Journalism,6,6,5,4,7,,4,5,4,4,9,,5,5,4,6,5,5,4,4,4,5,5,7,7,,,,,,5,,,,,,,,4,6
+18316601097,MANSI ANAND,Delhi School of Journalism,5,6,8,6,,,7,5,6,6,,,4,5,5,7,,7,7,7,7,7,8,9,8,,,,,7,8,,7,,8,,,9,,
+18316601098,SURYANSH,Delhi School of Journalism,7,5,7,6,6,9,7,6,9,0,9,8,6,5,6,7,7,6,6,7,6,,8,10,7,,,,,,7,,,,,,5,,,
+18316601099,ATRI SANFUI,Delhi School of Journalism,6,10,10,6,9,,6,7,7,5,9,,5,8,5,7,4,7,6,7,6,7,7,9,,7,,4,7,,8,,,,,,,,,
+18316601100,MEDHA MALHOTRA,Delhi School of Journalism,7,9,7,6,6,,5,4,6,5,7,,5,0,0,5,0,0,0,0,0,0,5,7,7,,,,,,4,,8,,7,,,,,
+18316601101,MOHD ROMAAN ARORA,Delhi School of Journalism,8,10,10,9,,,5,5,7,5,,,6,8,6,7,6,8,7,8,6,8,6,9,7,7,,,,,,10,,9,,,,,6,
+18316601102,HIMANSHU BEDGUJAR,Delhi School of Journalism,5,6,5,4,,,4,0,5,0,,,7,4,4,5,,5,0,5,4,,6,8,5,4,,6,6,5,,,,,,,4,10,,
+18316601103,ARUNIKA SWAROOP,Delhi School of Journalism,6,9,9,6,,,5,6,6,4,,,4,6,4,5,4,5,5,5,0,4,7,9,,7,,,,,7,9,5,8,8,,,,,
+18316601104,PRATISHTHA SINGH,Delhi School of Journalism,7,8,10,8,,,8,8,8,6,,,8,8,8,8,6,9,9,8,8,9,8,9,8,8,,10,9,,,10,,9,,,,,,
+18316601105,SUDHANSHU P S CHAUHAN,Delhi School of Journalism,10,10,10,9,,,8,7,9,6,,,8,9,8,9,7,8,8,8,9,9,7,10,9,8,,,,,,10,9,9,8,,,,,
+18316601106,AYAAN KARTIK,Delhi School of Journalism,10,10,10,9,,10,7,6,8,6,,10,8,9,8,9,6,9,9,9,9,9,9,10,8,,,,,,8,10,,9,,,,,,
+18316601108,VAIBHAV  DAGAR,Delhi School of Journalism,6,9,9,8,,,5,5,0,6,,,7,8,7,7,9,8,8,8,8,8,7,9,8,7,,,,,,8,,10,,,,,6,6
+18316601109,ASHAD REHMAN,Delhi School of Journalism,6,7,6,6,4,,7,5,8,6,8,,6,7,7,8,7,6,7,6,7,7,7,9,7,,,,,,7,,,,,,,,7,8
+18316601110,ARUN SINGH,Delhi School of Journalism,6,8,7,6,,,7,7,6,5,,,5,7,5,7,4,7,6,7,6,6,8,9,8,,,,,,7,6,,0,,,,,7,4
+18316601112,ANJALI LAVANIA,Delhi School of Journalism,7,10,10,9,,8,7,6,8,5,,9,9,7,7,8,5,8,6,7,5,7,6,8,8,7,,,,,,6,,8,,,,,,
+18316601114,SWARAJ SHANKAR,Delhi School of Journalism,6,6,7,5,,,6,5,0,4,,,6,4,4,4,5,0,5,4,0,5,6,8,,6,,,,,5,6,,7,,,,,4,5
+18316601115,ANJALI  SINGH,Delhi School of Journalism,5,6,7,5,,,5,6,6,0,,,6,7,5,6,7,7,6,7,6,,7,9,,7,,,,,8,7,,8,,,5,,6,6
+18316601116,ARPIT MISHRA,Delhi School of Journalism,4,7,9,5,,,6,4,6,4,,,5,5,5,4,4,4,5,4,4,4,6,7,,5,,,,,4,6,,6,,,,,0,5
+18316601117,MISHA SINGH,Delhi School of Journalism,6,5,7,6,,,7,5,5,6,,,6,5,5,5,5,6,6,7,6,7,8,9,7,,,,,,7,,6,,8,,,10,,7
+18316601118,KUNAL SINGH SOLANKI,Delhi School of Journalism,4,6,6,5,5,,5,0,4,4,5,,6,5,4,6,0,0,0,0,0,4,5,7,5,,,,,,4,,,,,,,,4,5
