@@ -10407,3 +10407,528 @@ Error at 20 721 056
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Grade/20/714/014' }
+2021-06-21T12:57:49.776Z
+Grade
+ASP.NET_SessionId=eo1yz4450dry1045pahtgy45
+{ '18': [],
+  '19':
+   [ '511',
+     '512',
+     '513',
+     '514',
+     '516',
+     '518',
+     '520',
+     '522',
+     '524',
+     '525',
+     '527',
+     '528' ],
+  '20': [ '714', '718', '721', '744', '777' ] }
+19 511 039
+19 511 063
+19 511 048
+19 511 086
+19 511 084
+19 511 034
+19 511 029
+19 511 021
+19 511 073
+19 511 033
+19 511 026
+19 511 008
+19 511 041
+19 511 077
+19 511 081
+19 511 025
+19 511 003
+19 511 044
+19 511 058
+19 511 076
+19 511 053
+19 511 031
+19 511 049
+19 511 047
+19 511 036
+19 511 075
+19 511 064
+19 511 079
+19 511 080
+19 511 015
+19 511 062
+19 511 020
+19 511 071
+19 511 019
+19 511 014
+19 511 040
+19 511 056
+19 511 085
+19 511 032
+19 511 055
+19 511 024
+19 511 068
+19 511 043
+19 511 016
+19 511 013
+19 511 069
+19 511 022
+19 511 059
+19 512 204
+19 513 047
+19 513 036
+19 513 064
+19 513 034
+19 513 029
+19 513 065
+19 513 021
+19 513 010
+19 513 002
+19 513 033
+19 513 071
+19 513 081
+19 514 204
+19 516 039
+19 516 063
+19 516 048
+19 516 086
+19 516 084
+19 516 034
+19 516 007
+19 516 029
+19 516 021
+19 516 073
+19 516 033
+19 516 026
+19 516 008
+19 516 041
+19 516 077
+19 516 081
+19 516 074
+19 516 025
+19 516 003
+19 516 044
+19 516 058
+19 516 076
+19 516 053
+19 516 031
+19 516 049
+19 516 047
+19 516 054
+19 516 036
+19 516 075
+19 516 064
+19 516 079
+19 516 062
+19 516 020
+19 516 071
+19 516 019
+19 516 014
+19 516 040
+19 516 056
+19 516 085
+19 516 032
+19 516 055
+19 516 024
+19 516 068
+19 516 043
+19 516 010
+19 516 013
+19 516 069
+19 516 059
+19 518 039
+Error at 19 518 063
+19 518 048
+19 518 086
+19 518 084
+19 518 034
+19 518 007
+19 518 029
+19 518 021
+19 518 073
+19 518 033
+19 518 026
+19 518 008
+19 518 081
+19 518 025
+19 518 003
+19 518 044
+19 518 058
+19 518 053
+19 518 031
+19 518 049
+19 518 047
+19 518 036
+19 518 075
+19 518 064
+19 518 079
+19 518 080
+19 518 062
+19 518 071
+19 518 019
+19 518 014
+19 518 040
+19 518 056
+19 518 085
+19 518 032
+19 518 055
+19 518 024
+19 518 068
+19 518 043
+19 518 016
+19 518 010
+19 518 013
+19 518 069
+19 518 059
+19 520 039
+19 520 034
+19 520 016
+19 520 030
+19 520 008
+19 520 033
+19 520 041
+19 522 029
+19 524 044
+19 524 068
+19 524 021
+19 524 069
+19 524 078
+19 525 086
+19 525 085
+19 527 039
+19 527 063
+19 527 048
+19 527 086
+19 527 084
+19 527 034
+19 527 007
+19 527 029
+19 527 065
+19 527 021
+19 527 073
+19 527 033
+19 527 026
+19 527 008
+19 527 041
+19 527 074
+19 527 003
+19 527 044
+19 527 058
+19 527 076
+19 527 053
+19 527 031
+19 527 049
+19 527 047
+19 527 054
+19 527 036
+19 527 075
+19 527 064
+19 527 079
+19 527 062
+19 527 020
+19 527 071
+19 527 019
+19 527 014
+19 527 040
+19 527 056
+19 527 085
+19 527 032
+19 527 055
+19 527 024
+19 527 068
+19 527 043
+19 527 016
+19 527 069
+19 527 022
+19 527 059
+19 528 039
+19 528 035
+19 528 085
+19 528 032
+19 528 044
+19 528 034
+19 528 029
+19 528 066
+19 528 008
+19 528 059
+19 528 014
+Error at 20 714 029
+20 714 047
+20 714 056
+20 714 014
+Error at 20 718 029
+20 721 056
+New course but no college
+New course but no college
+{ '18': [],
+  '19':
+   [ '511',
+     '512',
+     '513',
+     '514',
+     '516',
+     '518',
+     '520',
+     '522',
+     '524',
+     '525',
+     '527',
+     '528' ],
+  '20': [ '714', '718', '721', '744', '777' ] }
+Grade 19 511 039
+Grade 19 511 063
+Grade 19 511 048
+Grade 19 511 086
+Grade 19 511 084
+Grade 19 511 034
+Grade 19 511 029
+Grade 19 511 021
+Grade 19 511 073
+Grade 19 511 033
+Grade 19 511 026
+Grade 19 511 008
+Grade 19 511 041
+Grade 19 511 077
+Grade 19 511 081
+Grade 19 511 025
+Grade 19 511 003
+Grade 19 511 044
+Grade 19 511 058
+Grade 19 511 076
+Grade 19 511 053
+Grade 19 511 031
+Grade 19 511 049
+Grade 19 511 047
+Grade 19 511 036
+Grade 19 511 075
+Grade 19 511 064
+Grade 19 511 079
+Grade 19 511 080
+Grade 19 511 015
+Grade 19 511 062
+Grade 19 511 020
+Grade 19 511 071
+Grade 19 511 019
+Grade 19 511 014
+Grade 19 511 040
+Grade 19 511 056
+Grade 19 511 085
+Grade 19 511 032
+Grade 19 511 055
+Grade 19 511 024
+Grade 19 511 068
+Grade 19 511 043
+Grade 19 511 016
+Grade 19 511 013
+Grade 19 511 069
+Grade 19 511 022
+Grade 19 511 059
+Grade 19 512 204
+Grade 19 513 047
+Grade 19 513 036
+Grade 19 513 064
+Grade 19 513 034
+Grade 19 513 029
+Grade 19 513 065
+Grade 19 513 021
+Grade 19 513 010
+Grade 19 513 002
+Grade 19 513 033
+Grade 19 513 071
+Grade 19 513 081
+Grade 19 514 204
+Grade 19 516 039
+Grade 19 516 063
+Grade 19 516 048
+Grade 19 516 086
+Grade 19 516 084
+Grade 19 516 034
+Grade 19 516 007
+Grade 19 516 029
+Grade 19 516 021
+Grade 19 516 073
+Grade 19 516 033
+Grade 19 516 026
+Grade 19 516 008
+Grade 19 516 041
+Grade 19 516 077
+Grade 19 516 081
+Grade 19 516 074
+Grade 19 516 025
+Grade 19 516 003
+Grade 19 516 044
+Grade 19 516 058
+Grade 19 516 076
+Grade 19 516 053
+Grade 19 516 031
+Grade 19 516 049
+Grade 19 516 047
+Grade 19 516 054
+Grade 19 516 036
+Grade 19 516 075
+Grade 19 516 064
+Grade 19 516 079
+Grade 19 516 062
+Grade 19 516 020
+Grade 19 516 071
+Grade 19 516 019
+Grade 19 516 014
+Grade 19 516 040
+Grade 19 516 056
+Grade 19 516 085
+Grade 19 516 032
+Grade 19 516 055
+Grade 19 516 024
+Grade 19 516 068
+Grade 19 516 043
+Grade 19 516 010
+Grade 19 516 013
+Grade 19 516 069
+Grade 19 516 059
+Grade 19 518 039
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/19/518/063'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:448:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/19/518/063' }
+Grade 19 518 048
+Grade 19 518 086
+Grade 19 518 084
+Grade 19 518 034
+Grade 19 518 007
+Grade 19 518 029
+Grade 19 518 021
+Grade 19 518 073
+Grade 19 518 033
+Grade 19 518 026
+Grade 19 518 008
+Grade 19 518 081
+Grade 19 518 025
+Grade 19 518 003
+Grade 19 518 044
+Grade 19 518 058
+Grade 19 518 053
+Grade 19 518 031
+Grade 19 518 049
+Grade 19 518 047
+Grade 19 518 036
+Grade 19 518 075
+Grade 19 518 064
+Grade 19 518 079
+Grade 19 518 080
+Grade 19 518 062
+Grade 19 518 071
+Grade 19 518 019
+Grade 19 518 014
+Grade 19 518 040
+Grade 19 518 056
+Grade 19 518 085
+Grade 19 518 032
+Grade 19 518 055
+Grade 19 518 024
+Grade 19 518 068
+Grade 19 518 043
+Grade 19 518 016
+Grade 19 518 010
+Grade 19 518 013
+Grade 19 518 069
+Grade 19 518 059
+Grade 19 520 039
+Grade 19 520 034
+Grade 19 520 016
+Grade 19 520 030
+Grade 19 520 008
+Grade 19 520 033
+Grade 19 520 041
+Grade 19 522 029
+Grade 19 524 044
+Grade 19 524 068
+Grade 19 524 021
+Grade 19 524 069
+Grade 19 524 078
+Grade 19 525 086
+Grade 19 525 085
+Grade 19 527 039
+Grade 19 527 063
+Grade 19 527 048
+Grade 19 527 086
+Grade 19 527 084
+Grade 19 527 034
+Grade 19 527 007
+Grade 19 527 029
+Grade 19 527 065
+Grade 19 527 021
+Grade 19 527 073
+Grade 19 527 033
+Grade 19 527 026
+Grade 19 527 008
+Grade 19 527 041
+Grade 19 527 074
+Grade 19 527 003
+Grade 19 527 044
+Grade 19 527 058
+Grade 19 527 076
+Grade 19 527 053
+Grade 19 527 031
+Grade 19 527 049
+Grade 19 527 047
+Grade 19 527 054
+Grade 19 527 036
+Grade 19 527 075
+Grade 19 527 064
+Grade 19 527 079
+Grade 19 527 062
+Grade 19 527 020
+Grade 19 527 071
+Grade 19 527 019
+Grade 19 527 014
+Grade 19 527 040
+Grade 19 527 056
+Grade 19 527 085
+Grade 19 527 032
+Grade 19 527 055
+Grade 19 527 024
+Grade 19 527 068
+Grade 19 527 043
+Grade 19 527 016
+Grade 19 527 069
+Grade 19 527 022
+Grade 19 527 059
+Grade 19 528 039
+Grade 19 528 035
+Grade 19 528 085
+Grade 19 528 032
+Grade 19 528 044
+Grade 19 528 034
+Grade 19 528 029
+Grade 19 528 066
+Grade 19 528 008
+Grade 19 528 059
+Grade 19 528 014
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/714/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:448:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/714/029' }
+Grade 20 714 047
+Grade 20 714 056
+Grade 20 714 014
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:448:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
