@@ -10947,3 +10947,18 @@ ASP.NET_SessionId=bcc3ac45njgl2y45zmtzk4eo
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
+2021-06-23T00:51:05.518Z
+Grade
+ASP.NET_SessionId=wul13aul3pjknp3wfni5wo3o
+{ '18': [], '19': [], '20': [] }
+{ '18': [], '19': [], '20': [ '718', '721', '744', '777' ] }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:448:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
