@@ -225,14 +225,6 @@ let downloadHtmls = async (remaining, type, url, step, store_path) => {
         }
         if (issues >= 5) break;
       }
-      if (issues < 5) {
-        downloaded[year] = downloaded[year] || [];
-        if (!downloaded[year].includes(course)) downloaded[year].push(course);
-        fs.writeFile(
-          `./downloaded${type}.json`,
-          JSON.stringify(downloaded)
-        ).catch(console.log);
-      }
       if (new_course) {
         courses_colleges[course] = courses_colleges[course].filter(
           (e) => !to_be_removed.includes(e)
@@ -246,6 +238,15 @@ let downloadHtmls = async (remaining, type, url, step, store_path) => {
           console.log("New course but no college");
           delete courses_colleges[course];
         }
+      }
+      if (issues < 5) {
+        downloaded[year] = downloaded[year] || [];
+        if (!downloaded[year].includes(course) && courses_colleges[course])
+          downloaded[year].push(course);
+        fs.writeFile(
+          `./downloaded${type}.json`,
+          JSON.stringify(downloaded)
+        ).catch(console.log);
       }
     }
   }
