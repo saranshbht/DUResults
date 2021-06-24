@@ -10962,3 +10962,234 @@ ASP.NET_SessionId=wul13aul3pjknp3wfni5wo3o
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
+2021-06-24T00:45:45.565Z
+Grade
+ASP.NET_SessionId=vmn42eimyumzhxam1dleweix
+{ '18': [],
+  '19': [],
+  '20':
+   [ '504',
+     '522',
+     '526',
+     '553',
+     '554',
+     '555',
+     '562',
+     '564',
+     '566',
+     '915',
+     '718',
+     '721',
+     '744',
+     '777' ] }
+20 504 001
+20 504 039
+20 504 063
+20 504 048
+20 504 086
+20 504 084
+20 504 034
+20 504 029
+20 504 065
+20 504 021
+20 504 073
+20 504 033
+20 504 026
+20 504 008
+20 504 041
+20 504 077
+20 504 078
+20 504 081
+20 504 074
+20 504 025
+20 504 003
+20 504 044
+20 504 058
+20 504 076
+20 504 053
+20 504 002
+20 504 031
+20 504 049
+20 504 035
+20 504 054
+20 504 036
+20 504 075
+20 504 064
+20 504 079
+20 504 015
+20 504 062
+20 504 020
+20 504 071
+20 504 019
+20 504 014
+20 504 040
+20 504 056
+20 504 085
+20 504 032
+20 504 055
+20 504 024
+20 504 068
+20 504 043
+20 504 016
+20 504 010
+20 504 013
+20 504 072
+20 504 069
+20 504 022
+20 504 059
+20 522 029
+20 526 039
+20 526 040
+20 526 047
+20 526 085
+20 526 024
+20 526 044
+20 526 075
+20 526 026
+20 526 034
+20 526 080
+20 526 029
+20 526 021
+20 526 020
+20 526 031
+20 526 014
+20 553 079
+20 553 066
+20 553 030
+20 553 071
+20 553 019
+20 553 014
+20 554 001
+20 554 009
+20 554 066
+20 555 079
+20 562 009
+20 562 066
+20 564 024
+20 564 058
+20 564 009
+20 564 066
+20 564 030
+20 564 081
+20 566 009
+20 915 312
+Error at 20 718 029
+20 721 056
+New course but no college
+New course but no college
+{ '18': [],
+  '19': [],
+  '20':
+   [ '504',
+     '522',
+     '526',
+     '553',
+     '554',
+     '555',
+     '562',
+     '564',
+     '566',
+     '915',
+     '718',
+     '721' ] }
+Grade 20 504 001
+Grade 20 504 039
+Grade 20 504 063
+Grade 20 504 048
+Grade 20 504 086
+Grade 20 504 084
+Grade 20 504 034
+Grade 20 504 029
+Grade 20 504 065
+Grade 20 504 021
+Grade 20 504 073
+Grade 20 504 033
+Grade 20 504 026
+Grade 20 504 008
+Grade 20 504 041
+Grade 20 504 077
+Grade 20 504 078
+Grade 20 504 081
+Grade 20 504 074
+Grade 20 504 025
+Grade 20 504 003
+Grade 20 504 044
+Grade 20 504 058
+Grade 20 504 076
+Grade 20 504 053
+Grade 20 504 002
+Grade 20 504 031
+Grade 20 504 049
+Grade 20 504 035
+Grade 20 504 054
+Grade 20 504 036
+Grade 20 504 075
+Grade 20 504 064
+Grade 20 504 079
+Grade 20 504 015
+Grade 20 504 062
+Grade 20 504 020
+Grade 20 504 071
+Grade 20 504 019
+Grade 20 504 014
+Grade 20 504 040
+Grade 20 504 056
+Grade 20 504 085
+Grade 20 504 032
+Grade 20 504 055
+Grade 20 504 024
+Grade 20 504 068
+Grade 20 504 043
+Grade 20 504 016
+Grade 20 504 010
+Grade 20 504 013
+Grade 20 504 072
+Grade 20 504 069
+Grade 20 504 022
+Grade 20 504 059
+Grade 20 522 029
+Grade 20 526 039
+Grade 20 526 040
+Grade 20 526 047
+Grade 20 526 085
+Grade 20 526 024
+Grade 20 526 044
+Grade 20 526 075
+Grade 20 526 026
+Grade 20 526 034
+Grade 20 526 080
+Grade 20 526 029
+Grade 20 526 021
+Grade 20 526 020
+Grade 20 526 031
+Grade 20 526 014
+Grade 20 553 079
+Grade 20 553 066
+Grade 20 553 030
+Grade 20 553 071
+Grade 20 553 019
+Grade 20 553 014
+Grade 20 554 001
+Grade 20 554 009
+Grade 20 554 066
+Grade 20 555 079
+Grade 20 562 009
+Grade 20 562 066
+Grade 20 564 024
+Grade 20 564 058
+Grade 20 564 009
+Grade 20 564 066
+Grade 20 564 030
+Grade 20 564 081
+Grade 20 566 009
+Grade 20 915 312
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:449:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
