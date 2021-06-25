@@ -11193,3 +11193,132 @@ Grade 20 915 312
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
+2021-06-25T01:02:58.288Z
+Grade
+ASP.NET_SessionId=mjllgyzqah4hecrvkjjfapeq
+{ '18': [],
+  '19': [ '526', '561', '571', '575', '577', '582', '591' ],
+  '20':
+   [ '707', '715', '717', '744', '748', '751', '755', '764', '767', '777' ] }
+19 526 039
+19 526 040
+19 526 047
+19 526 085
+19 526 024
+19 526 044
+19 526 075
+19 526 026
+19 526 034
+19 526 080
+19 526 029
+19 526 021
+19 526 020
+19 526 031
+19 526 014
+19 561 030
+19 561 007
+19 561 038
+19 571 013
+19 575 013
+19 577 013
+19 582 001
+19 582 048
+19 582 007
+19 582 021
+19 582 073
+19 582 033
+19 582 026
+19 582 041
+19 582 081
+19 582 025
+19 582 003
+19 582 076
+19 582 047
+19 582 035
+19 582 036
+19 582 080
+19 582 015
+19 582 071
+19 582 019
+19 582 056
+19 582 085
+19 582 055
+19 582 024
+19 582 068
+19 582 043
+19 591 030
+19 591 038
+20 707 227
+20 715 204
+20 717 204
+New course but no college
+20 748 038
+20 751 030
+20 751 038
+20 755 038
+20 764 038
+20 767 030
+20 767 038
+New course but no college
+{ '18': [],
+  '19': [ '526', '561', '571', '575', '577', '582', '591' ],
+  '20':
+   [ '718', '721', '707', '715', '717', '748', '751', '755', '764', '767' ] }
+Grade 19 526 039
+Grade 19 526 040
+Grade 19 526 047
+Grade 19 526 085
+Grade 19 526 024
+Grade 19 526 044
+Grade 19 526 075
+Grade 19 526 026
+Grade 19 526 034
+Grade 19 526 080
+Grade 19 526 029
+Grade 19 526 021
+Grade 19 526 020
+Grade 19 526 031
+Grade 19 526 014
+Grade 19 561 030
+Grade 19 561 007
+Grade 19 561 038
+Grade 19 571 013
+Grade 19 575 013
+Grade 19 577 013
+Grade 19 582 001
+Grade 19 582 048
+Grade 19 582 007
+Grade 19 582 021
+Grade 19 582 073
+Grade 19 582 033
+Grade 19 582 026
+Grade 19 582 041
+Grade 19 582 081
+Grade 19 582 025
+Grade 19 582 003
+Grade 19 582 076
+Grade 19 582 047
+Grade 19 582 035
+Grade 19 582 036
+Grade 19 582 080
+Grade 19 582 015
+Grade 19 582 071
+Grade 19 582 019
+Grade 19 582 056
+Grade 19 582 085
+Grade 19 582 055
+Grade 19 582 024
+Grade 19 582 068
+Grade 19 582 043
+Grade 19 591 030
+Grade 19 591 038
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:449:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
