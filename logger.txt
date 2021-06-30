@@ -11443,3 +11443,66 @@ New course but no college
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
+2021-06-30T01:00:45.265Z
+Grade
+{ ConnectionTimeoutError: Connect timeout for 5000ms, GET http://durslt.du.ac.in/DURSLT_ND2020/Students/Combine_GradeCard.aspx -2 (connected: false, keepalive socket: false, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+    at Timeout._onTimeout (/home/runner/work/DUResults/DUResults/node_modules/urllib/lib/urllib.js:984:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+  name: 'ConnectionTimeoutError',
+  requestId: 2,
+  data: undefined,
+  path: '/DURSLT_ND2020/Students/Combine_GradeCard.aspx',
+  status: -2,
+  headers: {},
+  res:
+   { status: -2,
+     statusCode: -2,
+     statusMessage: null,
+     headers: {},
+     size: 0,
+     aborted: false,
+     rt: 5005,
+     keepAliveSocket: false,
+     data: undefined,
+     requestUrls:
+      [ 'http://durslt.du.ac.in/DURSLT_ND2020/Students/Combine_GradeCard.aspx' ],
+     timing: null,
+     remoteAddress: '',
+     remotePort: '',
+     socketHandledRequests: 1,
+     socketHandledResponses: 0 } }
+{ ConnectionTimeoutError: Connect timeout for 5000ms, GET http://durslt.du.ac.in/DURSLT_ND2020/Students/List_Of_Declared_Results.aspx -2 (connected: false, keepalive socket: false, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+    at Timeout._onTimeout (/home/runner/work/DUResults/DUResults/node_modules/urllib/lib/urllib.js:984:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+  name: 'ConnectionTimeoutError',
+  requestId: 1,
+  data: undefined,
+  path: '/DURSLT_ND2020/Students/List_Of_Declared_Results.aspx',
+  status: -2,
+  headers: {},
+  res:
+   { status: -2,
+     statusCode: -2,
+     statusMessage: null,
+     headers: {},
+     size: 0,
+     aborted: false,
+     rt: 5016,
+     keepAliveSocket: false,
+     data: undefined,
+     requestUrls:
+      [ 'http://durslt.du.ac.in/DURSLT_ND2020/Students/List_Of_Declared_Results.aspx' ],
+     timing: null,
+     remoteAddress: '',
+     remotePort: '',
+     socketHandledRequests: 1,
+     socketHandledResponses: 0 } }
+undefined
