@@ -11506,3 +11506,103 @@ headers: {}
      socketHandledRequests: 1,
      socketHandledResponses: 0 } }
 undefined
+2021-07-01T01:00:56.036Z
+Grade
+ASP.NET_SessionId=rmxrtkntmyk5hpetv4oge445
+{ '18': [],
+  '19': [],
+  '20':
+   [ '102',
+     '103',
+     '105',
+     '106',
+     '107',
+     '508',
+     '513',
+     '535',
+     '558',
+     '559',
+     '744',
+     '777' ] }
+20 102 032
+20 103 032
+20 105 033
+20 106 020
+Error at 20 107 020
+20 508 040
+20 508 024
+20 508 068
+20 508 071
+20 508 010
+20 508 013
+20 508 069
+20 508 041
+20 508 059
+20 508 078
+20 513 047
+20 513 036
+20 513 064
+20 513 034
+20 513 029
+20 513 065
+20 513 021
+20 513 010
+20 513 002
+20 513 033
+20 513 071
+20 513 081
+20 535 067
+20 535 066
+20 558 001
+20 558 035
+20 558 085
+20 558 025
+20 558 003
+20 558 055
+20 558 068
+20 558 079
+20 558 009
+20 558 076
+20 558 015
+20 558 066
+20 558 041
+20 559 030
+20 559 066
+20 559 009
+20 559 038
+New course but no college
+New course but no college
+{ '18': [],
+  '19': [],
+  '20':
+   [ '718',
+     '721',
+     '707',
+     '715',
+     '717',
+     '748',
+     '751',
+     '755',
+     '764',
+     '767',
+     '756',
+     '102',
+     '103',
+     '105',
+     '106',
+     '107',
+     '508',
+     '513',
+     '535',
+     '558',
+     '559' ] }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:449:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
