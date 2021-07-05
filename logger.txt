@@ -11968,3 +11968,80 @@ New course but no college
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
+2021-07-05T00:57:00.687Z
+Grade
+ASP.NET_SessionId=0jqpryqaoqpdwrvhpliqm42q
+{ '18': [], '19': [], '20': [ '570', '724', '744', '777' ] }
+20 570 001
+20 570 029
+20 570 021
+20 570 033
+20 570 078
+20 570 025
+20 570 003
+20 570 044
+20 570 058
+20 570 053
+20 570 035
+20 570 075
+20 570 009
+20 570 015
+20 570 020
+20 570 068
+20 570 013
+20 570 066
+20 570 067
+20 570 059
+Error at 20 724 039
+Error at 20 724 048
+Error at 20 724 034
+Error at 20 724 029
+Error at 20 724 033
+New course but no college
+New course but no college
+{ '18': [],
+  '19': [],
+  '20':
+   [ '718',
+     '721',
+     '707',
+     '715',
+     '717',
+     '748',
+     '751',
+     '755',
+     '764',
+     '767',
+     '756',
+     '102',
+     '103',
+     '105',
+     '106',
+     '107',
+     '508',
+     '513',
+     '535',
+     '558',
+     '559',
+     '516',
+     '518',
+     '528',
+     '563',
+     '527',
+     '561',
+     '591',
+     '701',
+     '710',
+     '712',
+     '729',
+     '570' ] }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:449:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
