@@ -12128,3 +12128,76 @@ New course but no college
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
+2021-07-07T01:00:28.353Z
+Grade
+TypeError: Cannot read property '0' of undefined
+    at urllib.request.then (/home/runner/work/DUResults/DUResults/requirements.js:114:53)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+{ '18': [],
+  '19': [],
+  '20': [ '724', '744', '745', '762', '777' ] }
+Error at 20 724 039
+Error at 20 724 048
+Error at 20 724 034
+Error at 20 724 029
+Error at 20 724 033
+New course but no college
+Error at 20 745 047
+Error at 20 745 056
+Error at 20 745 025
+Error at 20 745 068
+Error at 20 745 036
+Error at 20 762 025
+Error at 20 762 026
+Error at 20 762 306
+Error at 20 762 036
+Error at 20 762 047
+New course but no college
+{ '18': [],
+  '19': [],
+  '20':
+   [ '718',
+     '721',
+     '707',
+     '715',
+     '717',
+     '748',
+     '751',
+     '755',
+     '764',
+     '767',
+     '756',
+     '102',
+     '103',
+     '105',
+     '106',
+     '107',
+     '508',
+     '513',
+     '535',
+     '558',
+     '559',
+     '516',
+     '518',
+     '528',
+     '563',
+     '527',
+     '561',
+     '591',
+     '701',
+     '710',
+     '712',
+     '729',
+     '570',
+     '728',
+     '791' ] }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:449:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
