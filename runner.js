@@ -23,15 +23,20 @@ Promise.all([
   req.getRemaining(declared_url, type),
   req.setCookie(cookie_url),
 ]).then(async ([remaining]) => {
-  console.log(remaining);
-  // console.log("downloading");
+  console.log("Courses to be downloaded");
+  console.log(JSON.stringify(remaining));
+
+  // downloading the new/remaining courses
   await req.downloadHtmls(remaining, type, url, step, source);
+
   let to_be_updated = req.toBeUpdated();
-  console.log(to_be_updated);
-  // // console.log('making jsons');
+  console.log("Courses to be updated");
+  console.log(JSON.stringify(to_be_updated));
+
+  // making jsons
   req.makeJsons(to_be_updated, type, source, store);
-  // // console.log('making json-gzips');
+  // making json-gzips
   req.jsonsToJsonGzips(to_be_updated, type, store);
-  // // console.log('making csvs');
+  // making csvs
   req.jsonsToCsvs(to_be_updated, type, store);
 });

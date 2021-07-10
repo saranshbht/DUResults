@@ -93,30 +93,39 @@ let setCookie = (url) => {
         parameters[$(this).attr("name")] = $(this).attr("value") || "";
       });
 
-      parameters["ddlcollege"] = "234";
-      parameters["ddl_exam_session"] = "Nov-Dec 2020";
-      parameters["txtrollno"] = "20234747050";
-      parameters["ddlDD"] = "14";
-      parameters["ddlMM"] = "3";
-      parameters["ddlYYYY"] = "1999";
-      parameters["txtcaptcha"] = $("#imgCaptcha")
-        .attr("src")
-        .split("CaptchaCode=")[1]
-        .slice(0, 6);
-      parameters["btnsearch"] = "Print Score Card";
+      parameters = {
+        ...parameters,
+        ddlcollege: "234",
+        ddl_exam_session: "Nov-Dec 2020",
+        txtrollno: "20234747050",
+        ddlDD: "14",
+        ddlMM: "3",
+        ddlYYYY: "1999",
+        captcha: "rb_captcha_image",
+        btnsearch: "Print Score Card",
+        txtcaptcha: $("#imgCaptcha")
+          .attr("src")
+          .split("CaptchaCode=")[1]
+          .slice(0, 6),
+      };
+      delete parameters["btnfocus"];
       return urllib
         .request(url, {
           method: "POST",
           data: parameters,
         })
         .then((res) => {
-          // const $ = cheerio.load(res.data);
-          let cookie = res.res.headers["set-cookie"][0].split(";")[0];
+          let cookie;
+          if (res.res.headers["set-cookie"]) {
+            cookie = res.res.headers["set-cookie"][0].split(";")[0];
+          }
+          if (!cookie) process.exit(1);
           console.log(cookie);
           req_headers["Cookie"] = cookie;
-        });
+        })
+        .catch(() => process.exit(1));
     })
-    .catch(console.log);
+    .catch(() => process.exit(1));
 };
 
 let fetch = (roll, url) => {
@@ -147,13 +156,13 @@ let fetch = (roll, url) => {
 let downloadHtmls = async (remaining, type, url, step, store_path) => {
   store_path = path.resolve(store_path, type);
 
-  for (let year of Object.keys(remaining)) {
+  for (let year in remaining) {
     // console.log('\nYear', year);
     for (let course of remaining[year]) {
       // console.log('\nCourse', course);
       let new_course = false;
       let to_be_removed = [];
-      if (!Object.keys(courses_colleges).includes(course)) {
+      if (!(course in courses_colleges)) {
         new_course = true;
         let all_colleges = JSON.parse(
           fss.readFileSync("codes/collegeCodes.json").toString()
@@ -239,10 +248,13 @@ let downloadHtmls = async (remaining, type, url, step, store_path) => {
           delete courses_colleges[course];
         }
       }
-      if (issues < 5) {
+      if (
+        issues < 5 &&
+        courses_colleges[course] &&
+        issues != courses_colleges[course].length
+      ) {
         downloaded[year] = downloaded[year] || [];
-        if (!downloaded[year].includes(course) && courses_colleges[course])
-          downloaded[year].push(course);
+        if (!downloaded[year].includes(course)) downloaded[year].push(course);
         fs.writeFile(
           `./downloaded${type}.json`,
           JSON.stringify(downloaded)
@@ -433,7 +445,7 @@ let makeJsons = (remaining, type, source_path, store_path, zip = false) => {
   source_path = path.resolve(source_path, type);
   store_path = path.resolve(store_path, type);
 
-  for (let year of Object.keys(remaining)) {
+  for (let year in remaining) {
     // console.log('\nYear', year);
     for (let course of remaining[year]) {
       // console.log('\nCourse', course);
