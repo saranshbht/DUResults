@@ -12389,3 +12389,117 @@ Error at 20 794 307
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
+2021-07-10T00:57:26.733Z
+Grade
+TypeError: Cannot read property '0' of undefined
+    at urllib.request.then (/home/runner/work/DUResults/DUResults/requirements.js:114:53)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+{ '18': [],
+  '19': [],
+  '20':
+   [ '530',
+     '567',
+     '569',
+     '582',
+     '711',
+     '724',
+     '727',
+     '744',
+     '745',
+     '753',
+     '762',
+     '777' ] }
+Error at 20 530 039
+Error at 20 530 047
+Error at 20 530 032
+Error at 20 530 026
+Error at 20 530 034
+Error at 20 567 001
+Error at 20 567 048
+Error at 20 567 007
+Error at 20 567 021
+Error at 20 567 033
+Error at 20 569 001
+Error at 20 569 021
+Error at 20 569 033
+Error at 20 569 026
+Error at 20 569 081
+Error at 20 582 001
+Error at 20 582 048
+Error at 20 582 007
+Error at 20 582 021
+Error at 20 582 073
+Error at 20 711 229
+Error at 20 724 039
+Error at 20 724 048
+Error at 20 724 034
+Error at 20 724 029
+Error at 20 724 033
+Error at 20 727 242
+New course but no college
+Error at 20 745 047
+Error at 20 745 056
+Error at 20 745 025
+Error at 20 745 068
+Error at 20 745 036
+Error at 20 753 252
+Error at 20 762 025
+Error at 20 762 026
+Error at 20 762 306
+Error at 20 762 036
+Error at 20 762 047
+New course but no college
+{ '18': [],
+  '19': [],
+  '20':
+   [ '718',
+     '721',
+     '707',
+     '715',
+     '717',
+     '748',
+     '751',
+     '755',
+     '764',
+     '767',
+     '756',
+     '102',
+     '103',
+     '105',
+     '106',
+     '107',
+     '508',
+     '513',
+     '535',
+     '558',
+     '559',
+     '516',
+     '518',
+     '528',
+     '563',
+     '527',
+     '561',
+     '591',
+     '701',
+     '710',
+     '712',
+     '729',
+     '570',
+     '728',
+     '791',
+     '726',
+     '740',
+     '794',
+     '711',
+     '727',
+     '753' ] }
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:449:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:32:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
