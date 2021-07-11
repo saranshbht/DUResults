@@ -1,20 +1,20 @@
-RollNo,Name,College,Sem1,Average
-19044726018,SWARAN KAUR,Mata Sundri College For Women,8.4,8.4
-19044726004,ANJALI GUPTA,Mata Sundri College For Women,7.6,7.6
-19044726015,SHIVANI,Mata Sundri College For Women,7.4,7.4
-19044726001,AISHWARYA KAPOOR,Mata Sundri College For Women,6.6,6.6
-19044726008,KHUSHBOO KAUR CHHABRA,Mata Sundri College For Women,6.6,6.6
-19044726003,ANAMIKA,Mata Sundri College For Women,6.4,6.4
-19044726007,JASMINE KAUR,Mata Sundri College For Women,6.4,6.4
-19044726005,GURPREET KAUR,Mata Sundri College For Women,6.2,6.2
-19044726009,MEETA SHARMA,Mata Sundri College For Women,6.2,6.2
-19044726019,TARANPREET KAUR,Mata Sundri College For Women,6,6
-19044726012,RAMA ANAND,Mata Sundri College For Women,5.6,5.6
-19044726017,SUKHMEET KAUR,Mata Sundri College For Women,5.6,5.6
-19044726011,RAJINDER KAUR,Mata Sundri College For Women,5.4,5.4
-19044726016,SIMRAN SETHI,Mata Sundri College For Women,5.4,5.4
-19044726010,RAJBEER KAUR,Mata Sundri College For Women,5.4,5.4
-19044726014,SAHIB KAUR,Mata Sundri College For Women,5,5
-19044726006,HARKAMAL KAUR,Mata Sundri College For Women,4.4,4.4
-19044726013,RATTAN KAUR BHATTI,Mata Sundri College For Women,3.8,3.8
-19044726002,AMANDEEP KAUR,Mata Sundri College For Women,3.8,3.8
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19044726001,AISHWARYA KAPOOR,Mata Sundri College For Women,6.60,7.79,7.60,7.324
+19044726002,AMANDEEP KAUR,Mata Sundri College For Women,4.80,6.00,6.40,5.730
+19044726003,ANAMIKA,Mata Sundri College For Women,6.40,7.00,7.00,6.797
+19044726004,ANJALI GUPTA,Mata Sundri College For Women,8.40,8.00,8.80,8.405
+19044726005,GURPREET KAUR,Mata Sundri College For Women,6.20,7.00,7.00,6.730
+19044726006,HARKAMAL KAUR,Mata Sundri College For Women,4.40,6.00,6.80,5.730
+19044726007,JASMINE KAUR,Mata Sundri College For Women,6.40,7.17,7.60,7.054
+19044726008,KHUSHBOO KAUR CHHABRA,Mata Sundri College For Women,6.60,7.21,7.40,7.068
+19044726009,MEETA SHARMA,Mata Sundri College For Women,6.20,7.21,7.40,6.932
+19044726010,RAJBEER KAUR,Mata Sundri College For Women,6.80,7.00,7.00,6.932
+19044726011,RAJINDER KAUR,Mata Sundri College For Women,5.40,7.00,7.00,6.459
+19044726012,RAMA ANAND,Mata Sundri College For Women,5.60,7.00,7.40,6.662
+19044726013,RATTAN KAUR BHATTI,Mata Sundri College For Women,5.00,6.00,7.00,6.000
+19044726014,SAHIB KAUR,Mata Sundri College For Women,5.00,6.21,7.40,6.203
+19044726015,SHIVANI,Mata Sundri College For Women,7.40,8.00,7.20,7.527
+19044726016,SIMRAN SETHI,Mata Sundri College For Women,5.40,6.17,7.00,6.189
+19044726017,SUKHMEET KAUR,Mata Sundri College For Women,5.60,6.79,6.60,6.324
+19044726018,SWARAN KAUR,Mata Sundri College For Women,8.40,8.17,8.20,8.257
+19044726019,TARANPREET KAUR,Mata Sundri College For Women,6.00,7.00,6.40,6.459

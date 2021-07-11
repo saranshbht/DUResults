@@ -1,52 +1,51 @@
-RollNo,Name,College,SemI,SemII,Average
-19078570001,AGAMPREET SINGH,Sri Guru Gobind Singh College Of Commerce,6.18,7.55,6.865
-19078570002,AMAN SEHGAL,Sri Guru Gobind Singh College Of Commerce,8.64,8.55,8.595
-19078570003,ANGAD SINGH ARORA,Sri Guru Gobind Singh College Of Commerce,5.91,8,6.955
-19078570004,ANJALI GARG,Sri Guru Gobind Singh College Of Commerce,8.55,9.55,9.05
-19078570005,ANJALI RAI,Sri Guru Gobind Singh College Of Commerce,8.82,9,8.91
-19078570006,ANSHIKA MAINI,Sri Guru Gobind Singh College Of Commerce,9.36,9.55,9.455
-19078570007,ANU KUMARI,Sri Guru Gobind Singh College Of Commerce,8.55,9.27,8.91
-19078570008,ARSHDEEP SINGH,Sri Guru Gobind Singh College Of Commerce,9.55,9.73,9.64
-19078570009,ARSHIYA SIKRI,Sri Guru Gobind Singh College Of Commerce,7.73,8.55,8.14
-19078570010,ARYAN BANSAL,Sri Guru Gobind Singh College Of Commerce,5.55,7.09,6.32
-19078570011,ASHAMPREET KAUR PAHWA,Sri Guru Gobind Singh College Of Commerce,7.73,9,8.365
-19078570012,AVNEET KAUR,Sri Guru Gobind Singh College Of Commerce,5.55,7.45,6.5
-19078570013,BHAVYA KAUDINYA,Sri Guru Gobind Singh College Of Commerce,5.91,7.82,6.865
-19078570014,DHRUV DUA,Sri Guru Gobind Singh College Of Commerce,6.09,5.36,5.725
-19078570015,GARVIT BANSAL,Sri Guru Gobind Singh College Of Commerce,9.09,9.27,9.18
-19078570016,GORSEET PAUL SINGH,Sri Guru Gobind Singh College Of Commerce,9.36,9.27,9.315
-19078570017,GURMOHIT SINGH DHILLON,Sri Guru Gobind Singh College Of Commerce,6.18,7.73,6.955
-19078570018,HANAAYA VARYANI,Sri Guru Gobind Singh College Of Commerce,9.18,9.73,9.455
-19078570019,HARDIK VATS,Sri Guru Gobind Singh College Of Commerce,8.73,9,8.865
-19078570020,HARMANPREET SINGH,Sri Guru Gobind Singh College Of Commerce,8.27,9,8.635
-19078570021,HARSH JAIN,Sri Guru Gobind Singh College Of Commerce,8.36,8.55,8.455
-19078570022,HIMANSHU SINGH,Sri Guru Gobind Singh College Of Commerce,9.73,9.82,9.775
-19078570023,HITESH WALIA,Sri Guru Gobind Singh College Of Commerce,8.45,9,8.725
-19078570025,JAPLEEN KAUR,Sri Guru Gobind Singh College Of Commerce,7.82,9,8.41
-19078570026,KAMNA SHARMA,Sri Guru Gobind Singh College Of Commerce,7.91,8.82,8.365
-19078570027,KAPIL ARORA,Sri Guru Gobind Singh College Of Commerce,7.64,8.73,8.185
-19078570028,KUNALDEEP SINGH,Sri Guru Gobind Singh College Of Commerce,6.45,8.27,7.36
-19078570029,MANMEET SINGH,Sri Guru Gobind Singh College Of Commerce,9.73,10,9.865
-19078570030,MANSAHIB SINGH,Sri Guru Gobind Singh College Of Commerce,8.09,8.45,8.27
-19078570031,MANSIMAR KAUR,Sri Guru Gobind Singh College Of Commerce,6.45,8,7.225
-19078570032,MANU KUMAR,Sri Guru Gobind Singh College Of Commerce,9.09,9.55,9.32
-19078570033,MUSKAN JAIN,Sri Guru Gobind Singh College Of Commerce,7.82,8.82,8.32
-19078570034,NAVEEN AGRAHARI,Sri Guru Gobind Singh College Of Commerce,8.27,8.55,8.41
-19078570035,PALAK BHALOTHIA,Sri Guru Gobind Singh College Of Commerce,8,8.55,8.275
-19078570036,PARMEET SINGH,Sri Guru Gobind Singh College Of Commerce,7.64,9,8.32
-19078570037,PRABHJEET SINGH GAMBHIR,Sri Guru Gobind Singh College Of Commerce,9.36,9.55,9.455
-19078570038,PRAKASH,Sri Guru Gobind Singh College Of Commerce,9.09,9.27,9.18
-19078570039,PULKIT VIDYARTHI,Sri Guru Gobind Singh College Of Commerce,7.45,8.09,7.77
-19078570040,RAGHAV GUPTA,Sri Guru Gobind Singh College Of Commerce,7.18,8.36,7.77
-19078570041,RAHUL SHARMA,Sri Guru Gobind Singh College Of Commerce,8.18,8.55,8.365
-19078570042,RAJAN MISHRA,Sri Guru Gobind Singh College Of Commerce,8.36,9.27,8.815
-19078570043,RASHPREET SINGH,Sri Guru Gobind Singh College Of Commerce,8.55,9.27,8.91
-19078570044,SAJAL GUPTA,Sri Guru Gobind Singh College Of Commerce,8.55,8.73,8.64
-19078570045,SATYAM MANN,Sri Guru Gobind Singh College Of Commerce,9.36,9.55,9.455
-19078570046,SHUBH GOELA,Sri Guru Gobind Singh College Of Commerce,6.73,8.27,7.5
-19078570047,SHUBHIKA SINGHAL,Sri Guru Gobind Singh College Of Commerce,7.18,8.27,7.725
-19078570048,SIDAK PREET SINGH,Sri Guru Gobind Singh College Of Commerce,6.73,8,7.365
-19078570049,SIMAR SINGH,Sri Guru Gobind Singh College Of Commerce,4.91,6.18,5.545
-19078570050,TARANPREET SINGH,Sri Guru Gobind Singh College Of Commerce,8.09,9,8.545
-19078570051,TARUN GAHLAUT,Sri Guru Gobind Singh College Of Commerce,7.36,8.27,7.815
-19078570052,YUVRAJ SINGH JADON,Sri Guru Gobind Singh College Of Commerce,9.82,10,9.91
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19078570001,AGAMPREET SINGH,Sri Guru Gobind Singh College Of Commerce,7.00,7.55,9.00,7.944
+19078570002,AMAN SEHGAL,Sri Guru Gobind Singh College Of Commerce,8.64,8.55,9.00,8.750
+19078570003,ANGAD SINGH ARORA,Sri Guru Gobind Singh College Of Commerce,5.91,8.00,9.00,7.750
+19078570004,ANJALI GARG,Sri Guru Gobind Singh College Of Commerce,8.55,9.55,9.57,9.250
+19078570005,ANJALI RAI,Sri Guru Gobind Singh College Of Commerce,8.82,9.00,9.79,9.250
+19078570006,ANSHIKA MAINI,Sri Guru Gobind Singh College Of Commerce,9.36,9.55,9.36,9.417
+19078570007,ANU KUMARI,Sri Guru Gobind Singh College Of Commerce,8.55,9.27,9.57,9.167
+19078570008,ARSHDEEP SINGH,Sri Guru Gobind Singh College Of Commerce,9.55,9.73,9.79,9.694
+19078570009,ARSHIYA SIKRI,Sri Guru Gobind Singh College Of Commerce,7.73,8.55,9.43,8.639
+19078570010,ARYAN BANSAL,Sri Guru Gobind Singh College Of Commerce,5.55,7.09,7.86,6.917
+19078570011,ASHAMPREET KAUR PAHWA,Sri Guru Gobind Singh College Of Commerce,7.73,9.00,9.21,8.694
+19078570012,AVNEET KAUR,Sri Guru Gobind Singh College Of Commerce,5.55,7.45,9.00,7.472
+19078570013,BHAVYA KAUDINYA,Sri Guru Gobind Singh College Of Commerce,5.91,7.82,9.07,7.722
+19078570015,GARVIT BANSAL,Sri Guru Gobind Singh College Of Commerce,9.09,9.27,9.79,9.417
+19078570016,GORSEET PAUL SINGH,Sri Guru Gobind Singh College Of Commerce,9.36,9.27,9.57,9.417
+19078570017,GURMOHIT SINGH DHILLON,Sri Guru Gobind Singh College Of Commerce,6.18,7.73,9.21,7.833
+19078570018,HANAAYA VARYANI,Sri Guru Gobind Singh College Of Commerce,9.18,9.73,9.79,9.583
+19078570019,HARDIK VATS,Sri Guru Gobind Singh College Of Commerce,8.73,9.00,8.79,8.833
+19078570020,HARMANPREET SINGH,Sri Guru Gobind Singh College Of Commerce,8.27,9.00,9.00,8.778
+19078570021,HARSH JAIN,Sri Guru Gobind Singh College Of Commerce,8.36,8.55,9.00,8.667
+19078570022,HIMANSHU SINGH,Sri Guru Gobind Singh College Of Commerce,9.73,9.82,9.79,9.778
+19078570023,HITESH WALIA,Sri Guru Gobind Singh College Of Commerce,8.45,9.00,9.43,9.000
+19078570025,JAPLEEN KAUR,Sri Guru Gobind Singh College Of Commerce,7.82,9.00,9.43,8.806
+19078570026,KAMNA SHARMA,Sri Guru Gobind Singh College Of Commerce,7.91,8.82,9.57,8.833
+19078570027,KAPIL ARORA,Sri Guru Gobind Singh College Of Commerce,7.64,8.73,9.00,8.500
+19078570028,KUNALDEEP SINGH,Sri Guru Gobind Singh College Of Commerce,6.45,8.27,9.57,8.222
+19078570029,MANMEET SINGH,Sri Guru Gobind Singh College Of Commerce,9.73,10.00,9.57,9.750
+19078570030,MANSAHIB SINGH,Sri Guru Gobind Singh College Of Commerce,8.09,8.45,9.43,8.722
+19078570031,MANSIMAR KAUR,Sri Guru Gobind Singh College Of Commerce,6.45,8.00,9.57,8.139
+19078570032,MANU KUMAR,Sri Guru Gobind Singh College Of Commerce,9.09,9.55,8.50,9.000
+19078570033,MUSKAN JAIN,Sri Guru Gobind Singh College Of Commerce,7.82,8.82,9.57,8.806
+19078570034,NAVEEN AGRAHARI,Sri Guru Gobind Singh College Of Commerce,8.27,8.55,9.21,8.722
+19078570035,PALAK BHALOTHIA,Sri Guru Gobind Singh College Of Commerce,8.00,8.55,9.43,8.722
+19078570036,PARMEET SINGH,Sri Guru Gobind Singh College Of Commerce,7.64,9.00,9.57,8.806
+19078570037,PRABHJEET SINGH GAMBHIR,Sri Guru Gobind Singh College Of Commerce,9.36,9.55,9.00,9.278
+19078570038,PRAKASH,Sri Guru Gobind Singh College Of Commerce,9.09,9.27,9.64,9.361
+19078570039,PULKIT VIDYARTHI,Sri Guru Gobind Singh College Of Commerce,7.45,8.09,9.00,8.250
+19078570040,RAGHAV GUPTA,Sri Guru Gobind Singh College Of Commerce,7.18,8.36,9.00,8.250
+19078570041,RAHUL SHARMA,Sri Guru Gobind Singh College Of Commerce,8.18,8.55,9.43,8.778
+19078570042,RAJAN MISHRA,Sri Guru Gobind Singh College Of Commerce,8.36,9.27,9.43,9.056
+19078570043,RASHPREET SINGH,Sri Guru Gobind Singh College Of Commerce,8.55,9.27,9.21,9.028
+19078570044,SAJAL GUPTA,Sri Guru Gobind Singh College Of Commerce,8.55,8.73,8.64,8.639
+19078570045,SATYAM MANN,Sri Guru Gobind Singh College Of Commerce,9.36,9.55,9.64,9.528
+19078570046,SHUBH GOELA,Sri Guru Gobind Singh College Of Commerce,6.73,8.27,9.21,8.167
+19078570047,SHUBHIKA SINGHAL,Sri Guru Gobind Singh College Of Commerce,7.18,8.27,9.79,8.528
+19078570048,SIDAK PREET SINGH,Sri Guru Gobind Singh College Of Commerce,6.73,8.00,9.43,8.167
+19078570049,SIMAR SINGH,Sri Guru Gobind Singh College Of Commerce,4.91,6.18,9.00,6.889
+19078570050,TARANPREET SINGH,Sri Guru Gobind Singh College Of Commerce,8.09,9.00,9.36,8.861
+19078570051,TARUN GAHLAUT,Sri Guru Gobind Singh College Of Commerce,7.36,8.27,8.86,8.222
+19078570052,YUVRAJ SINGH JADON,Sri Guru Gobind Singh College Of Commerce,9.82,10.00,9.79,9.861

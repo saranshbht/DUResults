@@ -1,15 +1,15 @@
-RollNo,Name,College,Sem1,Average
-19039724001,ABHA DAS,Lady Shri Ram College for Women,6.75,6.75
-19039724005,DEEPTI SHARMA,Lady Shri Ram College for Women,6.75,6.75
-19039724006,GAYATRI MISHRA,Lady Shri Ram College for Women,6.75,6.75
-19039724004,CHODIPILLI NOOKA RATNAM,Lady Shri Ram College for Women,6.5,6.5
-19039724007,KIRTI PANDEY,Lady Shri Ram College for Women,6.5,6.5
-19039724003,ANJANI,Lady Shri Ram College for Women,6.25,6.25
-19039724010,PRADIPTI DASH,Lady Shri Ram College for Women,6.25,6.25
-19039724014,SWEETY LAKRA,Lady Shri Ram College for Women,6.25,6.25
-19039724008,MAMTA BANSAL,Lady Shri Ram College for Women,6,6
-19039724013,SIMRAN,Lady Shri Ram College for Women,5.75,5.75
-19039724011,REWA JOSEPHINE DELDAN,Lady Shri Ram College for Women,5.5,5.5
-19039724002,ANJALI KUMARI,Lady Shri Ram College for Women,4.75,4.75
-19039724009,NISHTHA SINGH,Lady Shri Ram College for Women,4.75,4.75
-19039724012,SHRESHTHA SHARMA,Lady Shri Ram College for Women,4.5,4.5
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19039724001,ABHA DAS,Lady Shri Ram College for Women,6.75,6.72,6.75,6.741
+19039724002,ANJALI KUMARI,Lady Shri Ram College for Women,6.25,6.00,6.75,6.345
+19039724003,ANJANI,Lady Shri Ram College for Women,6.25,6.22,7.00,6.500
+19039724004,CHODIPILLI NOOKA RATNAM,Lady Shri Ram College for Women,6.50,6.50,7.00,6.672
+19039724005,DEEPTI SHARMA,Lady Shri Ram College for Women,6.75,6.44,6.50,6.569
+19039724006,GAYATRI MISHRA,Lady Shri Ram College for Women,6.75,6.50,7.25,6.845
+19039724007,KIRTI PANDEY,Lady Shri Ram College for Women,6.50,6.50,0.00,4.259
+19039724008,MAMTA BANSAL,Lady Shri Ram College for Women,6.00,6.00,6.75,6.259
+19039724009,NISHTHA SINGH,Lady Shri Ram College for Women,6.25,6.00,7.00,6.431
+19039724010,PRADIPTI DASH,Lady Shri Ram College for Women,6.25,6.22,6.75,6.414
+19039724011,REWA JOSEPHINE DELDAN,Lady Shri Ram College for Women,5.50,6.00,6.75,6.086
+19039724012,SHRESHTHA SHARMA,Lady Shri Ram College for Women,6.00,6.00,6.75,6.259
+19039724013,SIMRAN,Lady Shri Ram College for Women,5.75,6.00,6.75,6.172
+19039724014,SWEETY LAKRA,Lady Shri Ram College for Women,6.25,6.22,6.75,6.414

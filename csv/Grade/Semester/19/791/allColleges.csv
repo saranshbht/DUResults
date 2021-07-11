@@ -1,15 +1,12 @@
-RollNo,Name,College,Sem1,Average
-19307791013,SRISHTI KATIYAR,Non Collegiate Women Education Board (NCWEB),6,6
-19307791008,SANGEETA,Non Collegiate Women Education Board (NCWEB),5.75,5.75
-19307791009,VANDANA,Non Collegiate Women Education Board (NCWEB),5.75,5.75
-19307791002,ANJALI,Non Collegiate Women Education Board (NCWEB),5,5
-19307791005,NISHA,Non Collegiate Women Education Board (NCWEB),5,5
-19307791006,POOJA,Non Collegiate Women Education Board (NCWEB),4.5,4.5
-19307791011,JAHANVI,Non Collegiate Women Education Board (NCWEB),4.5,4.5
-19307791004,JYOTI,Non Collegiate Women Education Board (NCWEB),4,4
-19307791014,NISHI MEHTO,Non Collegiate Women Education Board (NCWEB),4,4
-19307791001,AARTI YADAV,Non Collegiate Women Education Board (NCWEB),3.5,3.5
-19307791003,AYSHU BISHT,Non Collegiate Women Education Board (NCWEB),3.5,3.5
-19307791010,SHWETA,Non Collegiate Women Education Board (NCWEB),3.5,3.5
-19307791007,PRATIMA KUMARI,Non Collegiate Women Education Board (NCWEB),2.25,2.25
-19307791012,PAYAL PATHAK,Non Collegiate Women Education Board (NCWEB),0.0,0.0
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19307791001,AARTI YADAV,Non Collegiate Women Education Board (NCWEB),4.75,8.58,3.05,5.328
+19307791002,ANJALI,Non Collegiate Women Education Board (NCWEB),5.00,9.37,7.50,7.262
+19307791004,JYOTI,Non Collegiate Women Education Board (NCWEB),5.50,9.16,5.77,6.738
+19307791005,NISHA,Non Collegiate Women Education Board (NCWEB),5.00,8.63,5.82,6.426
+19307791006,POOJA,Non Collegiate Women Education Board (NCWEB),4.50,8.37,4.64,5.754
+19307791007,PRATIMA KUMARI,Non Collegiate Women Education Board (NCWEB),7.00,9.58,6.05,7.459
+19307791008,SANGEETA,Non Collegiate Women Education Board (NCWEB),5.75,8.89,7.27,7.279
+19307791009,VANDANA,Non Collegiate Women Education Board (NCWEB),5.75,8.79,7.23,7.230
+19307791010,SHWETA,Non Collegiate Women Education Board (NCWEB),5.50,8.58,5.27,6.377
+19307791012,PAYAL PATHAK,Non Collegiate Women Education Board (NCWEB),7.75,9.58,4.91,7.295
+19307791013,SRISHTI KATIYAR,Non Collegiate Women Education Board (NCWEB),6.00,9.37,6.73,7.311

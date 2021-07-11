@@ -1,16 +1,17 @@
-RollNo,Name,College,Sem1,Average
-19019728009,SATYAVRAT SHARMA,Deshbandhu College (Day),8.5,8.5
-19019728014,SUDARSHAN DOBRIYAL,Deshbandhu College (Day),8.5,8.5
-19019728015,GHANSHYAM,Deshbandhu College (Day),7.25,7.25
-19019728003,LAKSHMI,Deshbandhu College (Day),7,7
-19019728002,BABITA,Deshbandhu College (Day),6.5,6.5
-19019728007,POOJA BAR,Deshbandhu College (Day),6.5,6.5
-19019728010,BABY,Deshbandhu College (Day),6.5,6.5
-19019728016,SAURABH MAMGAIN,Deshbandhu College (Day),6.25,6.25
-19019728001,RAVINDRA KUMAR,Deshbandhu College (Day),6,6
-19019728006,PINKI,Deshbandhu College (Day),6,6
-19019728011,MANISHA,Deshbandhu College (Day),6,6
-19019728005,NITIN KASHYAP,Deshbandhu College (Day),5.75,5.75
-19019728008,RAJESH KUMAR,Deshbandhu College (Day),5.75,5.75
-19019728004,NIDHI,Deshbandhu College (Day),5.25,5.25
-19019728012,MOHIT,Deshbandhu College (Day),4.75,4.75
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19019728001,RAVINDRA KUMAR,Deshbandhu College (Day),6.00,7.26,5.45,6.197
+19019728002,BABITA,Deshbandhu College (Day),6.50,7.79,6.82,7.016
+19019728003,LAKSHMI,Deshbandhu College (Day),7.00,8.26,9.05,8.131
+19019728004,NIDHI,Deshbandhu College (Day),5.25,7.05,6.18,6.148
+19019728005,NITIN KASHYAP,Deshbandhu College (Day),5.75,7.53,7.82,7.049
+19019728006,PINKI,Deshbandhu College (Day),6.00,7.53,7.82,7.131
+19019728007,POOJA BAR,Deshbandhu College (Day),6.50,7.79,8.05,7.459
+19019728008,RAJESH KUMAR,Deshbandhu College (Day),5.75,7.26,8.32,7.148
+19019728009,SATYAVRAT SHARMA,Deshbandhu College (Day),8.50,8.53,9.00,8.689
+19019728010,BABY,Deshbandhu College (Day),6.50,7.53,8.32,7.475
+19019728011,MANISHA,Deshbandhu College (Day),6.00,6.79,7.50,6.787
+19019728012,MOHIT,Deshbandhu College (Day),6.75,6.32,6.27,6.443
+19019728013,DAMODAR PRASAD,Deshbandhu College (Day),7.50,7.68,7.41,7.525
+19019728014,SUDARSHAN DOBRIYAL,Deshbandhu College (Day),8.50,8.53,8.50,8.508
+19019728015,GHANSHYAM,Deshbandhu College (Day),7.25,8.05,8.59,7.984
+19019728016,SAURABH MAMGAIN,Deshbandhu College (Day),6.25,7.53,6.73,6.820

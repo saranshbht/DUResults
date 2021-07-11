@@ -1,155 +1,155 @@
-RollNo,Name,College,SemI,SemII,Average
-19065527001,AADITYA ARORA,Shaheed Bhagat Singh College (Eve),4.64,5.55,5.095
-19065527002,ABHAS KANSAL,Shaheed Bhagat Singh College (Eve),5.18,7,6.09
-19065527003,ABHISHEK SALAM,Shaheed Bhagat Singh College (Eve),6.45,7,6.725
-19065527004,ABHISHEK SHAHI,Shaheed Bhagat Singh College (Eve),6.73,8,7.365
-19065527005,ABHISHEK TOMAR,Shaheed Bhagat Singh College (Eve),5,6.73,5.865
-19065527006,ABRAR AHMED,Shaheed Bhagat Singh College (Eve),5,6.91,5.955
-19065527007,AJAY KUMAR,Shaheed Bhagat Singh College (Eve),4.64,6.09,5.365
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+19065527001,AADITYA ARORA,Shaheed Bhagat Singh College (Eve),4.64,5.55,5.091
+19065527002,ABHAS KANSAL,Shaheed Bhagat Singh College (Eve),5.18,7.00,6.091
+19065527003,ABHISHEK SALAM,Shaheed Bhagat Singh College (Eve),6.45,7.00,6.727
+19065527004,ABHISHEK SHAHI,Shaheed Bhagat Singh College (Eve),6.73,8.00,7.364
+19065527005,ABHISHEK TOMAR,Shaheed Bhagat Singh College (Eve),5.00,6.73,5.864
+19065527006,ABRAR AHMED,Shaheed Bhagat Singh College (Eve),5.00,6.91,5.955
+19065527007,AJAY KUMAR,Shaheed Bhagat Singh College (Eve),4.64,6.09,5.364
 19065527008,AJKA AAZMI,Shaheed Bhagat Singh College (Eve),7.18,7.73,7.455
-19065527009,AKASH KUMAR,Shaheed Bhagat Singh College (Eve),4.91,6.45,5.68
-19065527010,AKSHAT CHANDRA,Shaheed Bhagat Singh College (Eve),6.55,7,6.775
-19065527011,ANIKET RAM,Shaheed Bhagat Singh College (Eve),6.27,7.73,7
-19065527012,ANJALI,Shaheed Bhagat Singh College (Eve),6.45,7.45,6.95
-19065527013,ANKIT,Shaheed Bhagat Singh College (Eve),5.18,7,6.09
-19065527014,ANSHU KUMARI,Shaheed Bhagat Singh College (Eve),6.27,8,7.135
-19065527015,ANSHU KUMAR,Shaheed Bhagat Singh College (Eve),8,9,8.5
+19065527009,AKASH KUMAR,Shaheed Bhagat Singh College (Eve),4.91,6.45,5.682
+19065527010,AKSHAT CHANDRA,Shaheed Bhagat Singh College (Eve),6.55,7.00,6.773
+19065527011,ANIKET RAM,Shaheed Bhagat Singh College (Eve),6.27,7.73,7.000
+19065527012,ANJALI,Shaheed Bhagat Singh College (Eve),6.45,7.45,6.955
+19065527013,ANKIT,Shaheed Bhagat Singh College (Eve),5.18,7.00,6.091
+19065527014,ANSHU KUMARI,Shaheed Bhagat Singh College (Eve),6.27,8.00,7.136
+19065527015,ANSHU KUMAR,Shaheed Bhagat Singh College (Eve),8.00,9.00,8.500
 19065527016,ANUJ,Shaheed Bhagat Singh College (Eve),5.91,7.18,6.545
-19065527017,ANUJ PRATAP SINGH,Shaheed Bhagat Singh College (Eve),6.27,7.73,7
-19065527018,APARMIT SINGH GURJAR,Shaheed Bhagat Singh College (Eve),7,7.73,7.365
-19065527019,ARJUN THAKUR,Shaheed Bhagat Singh College (Eve),7,8.73,7.865
-19065527020,ASHISH KUMAR,Shaheed Bhagat Singh College (Eve),5.73,7.45,6.59
-19065527021,ASHISH SINGH,Shaheed Bhagat Singh College (Eve),6.73,7.73,7.23
-19065527022,AYUSH ANKESH,Shaheed Bhagat Singh College (Eve),6.73,7.55,7.14
-19065527023,BHAWANA,Shaheed Bhagat Singh College (Eve),5.91,7.73,6.82
+19065527017,ANUJ PRATAP SINGH,Shaheed Bhagat Singh College (Eve),6.27,7.73,7.000
+19065527018,APARMIT SINGH GURJAR,Shaheed Bhagat Singh College (Eve),7.00,7.73,7.364
+19065527019,ARJUN THAKUR,Shaheed Bhagat Singh College (Eve),7.00,8.73,7.864
+19065527020,ASHISH KUMAR,Shaheed Bhagat Singh College (Eve),5.73,7.45,6.591
+19065527021,ASHISH SINGH,Shaheed Bhagat Singh College (Eve),6.73,7.73,7.227
+19065527022,AYUSH ANKESH,Shaheed Bhagat Singh College (Eve),6.73,7.55,7.136
+19065527023,BHAWANA,Shaheed Bhagat Singh College (Eve),5.91,7.73,6.818
 19065527024,BIKASH SONOWAL,Shaheed Bhagat Singh College (Eve),5.91,7.18,6.545
-19065527025,CHETAN,Shaheed Bhagat Singh College (Eve),6.27,7,6.635
-19065527026,CHETTANPREET KAUR,Shaheed Bhagat Singh College (Eve),6.18,8,7.09
-19065527027,DARPAN SARKAR,Shaheed Bhagat Singh College (Eve),5.64,7.18,6.41
+19065527025,CHETAN,Shaheed Bhagat Singh College (Eve),6.27,7.00,6.636
+19065527026,CHETTANPREET KAUR,Shaheed Bhagat Singh College (Eve),6.18,8.00,7.091
+19065527027,DARPAN SARKAR,Shaheed Bhagat Singh College (Eve),5.64,7.18,6.409
 19065527028,DEEPAK JANGDE,Shaheed Bhagat Singh College (Eve),5.82,7.27,6.545
-19065527029,DEEPAK CHANDRA KANDPAL,Shaheed Bhagat Singh College (Eve),6.18,7.55,6.865
+19065527029,DEEPAK CHANDRA KANDPAL,Shaheed Bhagat Singh College (Eve),6.18,7.55,6.864
 19065527030,DEEPANSHU,Shaheed Bhagat Singh College (Eve),6.18,7.73,6.955
-19065527031,DHEERAJ,Shaheed Bhagat Singh College (Eve),5.27,6.73,6
-19065527032,DIVYA THAKERIYA,Shaheed Bhagat Singh College (Eve),5.27,7.45,6.36
-19065527033,EKLAVYA RAJ,Shaheed Bhagat Singh College (Eve),6.09,7.73,6.91
-19065527034,EKTA KUMARI,Shaheed Bhagat Singh College (Eve),6.18,7.45,6.815
-19065527035,ESHA AGRAWAL,Shaheed Bhagat Singh College (Eve),8,9,8.5
-19065527036,GAGAN,Shaheed Bhagat Singh College (Eve),3.82,6.73,5.275
+19065527031,DHEERAJ,Shaheed Bhagat Singh College (Eve),5.27,6.73,6.000
+19065527032,DIVYA THAKERIYA,Shaheed Bhagat Singh College (Eve),5.27,7.45,6.364
+19065527033,EKLAVYA RAJ,Shaheed Bhagat Singh College (Eve),6.09,7.73,6.909
+19065527034,EKTA KUMARI,Shaheed Bhagat Singh College (Eve),6.18,7.45,6.818
+19065527035,ESHA AGRAWAL,Shaheed Bhagat Singh College (Eve),8.00,9.00,8.500
+19065527036,GAGAN,Shaheed Bhagat Singh College (Eve),3.82,6.73,5.273
 19065527037,GAGANDEEP SINGH,Shaheed Bhagat Singh College (Eve),5.73,7.18,6.455
-19065527038,GARIMA,Shaheed Bhagat Singh College (Eve),6.45,7.73,7.09
-19065527039,GAURAV SINGH,Shaheed Bhagat Singh College (Eve),6.73,8,7.365
-19065527040,GAURAV KUMAR PANDEY,Shaheed Bhagat Singh College (Eve),7,8,7.5
-19065527041,GAYATRI SINGH,Shaheed Bhagat Singh College (Eve),5.91,8,6.955
-19065527042,GOURAV,Shaheed Bhagat Singh College (Eve),5,6.73,5.865
-19065527043,GRACY TINNGAILAM HAOKIP,Shaheed Bhagat Singh College (Eve),6.18,7.18,6.68
-19065527044,HARIOM KUMAR,Shaheed Bhagat Singh College (Eve),7.36,8.18,7.77
-19065527045,HARSH SARRAF,Shaheed Bhagat Singh College (Eve),5,6.18,5.59
-19065527046,HEMANT KUMAR,Shaheed Bhagat Singh College (Eve),6.27,7,6.635
-19065527047,HIMANSHU,Shaheed Bhagat Singh College (Eve),5.45,7,6.225
-19065527048,HIMANSHU,Shaheed Bhagat Singh College (Eve),3.36,6.45,4.905
-19065527049,HIMANSHU GAUTAM,Shaheed Bhagat Singh College (Eve),5.36,6.64,6
-19065527050,HRITHIK SAW,Shaheed Bhagat Singh College (Eve),7.45,8.27,7.86
-19065527051,IRIS,Shaheed Bhagat Singh College (Eve),7.45,8.73,8.09
-19065527052,KANIKA SURESH,Shaheed Bhagat Singh College (Eve),6.18,7.27,6.725
-19065527053,KARTIK KANOJIA,Shaheed Bhagat Singh College (Eve),6.55,7.73,7.14
-19065527054,KARTIKEY SINGH,Shaheed Bhagat Singh College (Eve),5.91,7.73,6.82
-19065527055,KIRAN,Shaheed Bhagat Singh College (Eve),6,8,7
-19065527056,KISHAN NAGAR,Shaheed Bhagat Singh College (Eve),5.73,6,5.865
-19065527057,KSHITIJ KASHYAP,Shaheed Bhagat Singh College (Eve),6.91,8.73,7.82
+19065527038,GARIMA,Shaheed Bhagat Singh College (Eve),6.45,7.73,7.091
+19065527039,GAURAV SINGH,Shaheed Bhagat Singh College (Eve),6.73,8.00,7.364
+19065527040,GAURAV KUMAR PANDEY,Shaheed Bhagat Singh College (Eve),7.00,8.00,7.500
+19065527041,GAYATRI SINGH,Shaheed Bhagat Singh College (Eve),5.91,8.00,6.955
+19065527042,GOURAV,Shaheed Bhagat Singh College (Eve),5.00,6.73,5.864
+19065527043,GRACY TINNGAILAM HAOKIP,Shaheed Bhagat Singh College (Eve),6.18,7.18,6.682
+19065527044,HARIOM KUMAR,Shaheed Bhagat Singh College (Eve),7.36,8.18,7.773
+19065527045,HARSH SARRAF,Shaheed Bhagat Singh College (Eve),5.00,6.18,5.591
+19065527046,HEMANT KUMAR,Shaheed Bhagat Singh College (Eve),6.27,7.00,6.636
+19065527047,HIMANSHU,Shaheed Bhagat Singh College (Eve),5.45,7.00,6.227
+19065527048,HIMANSHU,Shaheed Bhagat Singh College (Eve),3.36,6.45,4.909
+19065527049,HIMANSHU GAUTAM,Shaheed Bhagat Singh College (Eve),5.36,6.64,6.000
+19065527050,HRITHIK SAW,Shaheed Bhagat Singh College (Eve),7.45,8.27,7.864
+19065527051,IRIS,Shaheed Bhagat Singh College (Eve),7.45,8.73,8.091
+19065527052,KANIKA SURESH,Shaheed Bhagat Singh College (Eve),6.18,7.27,6.727
+19065527053,KARTIK KANOJIA,Shaheed Bhagat Singh College (Eve),6.55,7.73,7.136
+19065527054,KARTIKEY SINGH,Shaheed Bhagat Singh College (Eve),5.91,7.73,6.818
+19065527055,KIRAN,Shaheed Bhagat Singh College (Eve),6.00,8.00,7.000
+19065527056,KISHAN NAGAR,Shaheed Bhagat Singh College (Eve),5.73,6.00,5.864
+19065527057,KSHITIJ KASHYAP,Shaheed Bhagat Singh College (Eve),6.91,8.73,7.818
 19065527058,KUNDAN KUMAR YADAV,Shaheed Bhagat Singh College (Eve),7.36,8.73,8.045
-19065527059,KUSH SHARMA,Shaheed Bhagat Singh College (Eve),6.18,7.45,6.815
-19065527060,LALRUATZELA,Shaheed Bhagat Singh College (Eve),6.45,7.73,7.09
-19065527061,LAXMI,Shaheed Bhagat Singh College (Eve),4.45,6.73,5.59
-19065527062,LOKESH CHAUHAN,Shaheed Bhagat Singh College (Eve),5.91,7,6.455
-19065527063,MADAN KUMAR,Shaheed Bhagat Singh College (Eve),6.36,8,7.18
-19065527064,MANAS HALDER,Shaheed Bhagat Singh College (Eve),5,6.73,5.865
-19065527065,MANISH KUMAR AHIRWAR,Shaheed Bhagat Singh College (Eve),6.18,7.18,6.68
-19065527066,MANISHA BHARTI,Shaheed Bhagat Singh College (Eve),3.82,7,5.41
-19065527067,MANOJ KUMAR,Shaheed Bhagat Singh College (Eve),5.45,5.27,5.36
-19065527068,MANSI BASIST,Shaheed Bhagat Singh College (Eve),6.73,7.45,7.09
-19065527069,MD SHAMIM,Shaheed Bhagat Singh College (Eve),7.27,8.73,8
-19065527070,MEGHNA BORAH,Shaheed Bhagat Singh College (Eve),6.91,8,7.455
-19065527071,MOHD. AADIL,Shaheed Bhagat Singh College (Eve),5.45,6.55,6
-19065527072,MOHD. SHAHID,Shaheed Bhagat Singh College (Eve),6,7.73,6.865
-19065527073,MOHIT SINGH,Shaheed Bhagat Singh College (Eve),5.27,6.91,6.09
-19065527074,MUHAMMED HAFEEZ,Shaheed Bhagat Singh College (Eve),6.27,8,7.135
-19065527075,MUKESH PASWAN,Shaheed Bhagat Singh College (Eve),6.18,7.45,6.815
-19065527076,MUSKAN,Shaheed Bhagat Singh College (Eve),5.73,7.27,6.5
+19065527059,KUSH SHARMA,Shaheed Bhagat Singh College (Eve),6.18,7.45,6.818
+19065527060,LALRUATZELA,Shaheed Bhagat Singh College (Eve),6.45,7.73,7.091
+19065527061,LAXMI,Shaheed Bhagat Singh College (Eve),4.45,6.73,5.591
+19065527062,LOKESH CHAUHAN,Shaheed Bhagat Singh College (Eve),5.91,7.00,6.455
+19065527063,MADAN KUMAR,Shaheed Bhagat Singh College (Eve),6.36,8.00,7.182
+19065527064,MANAS HALDER,Shaheed Bhagat Singh College (Eve),5.00,6.73,5.864
+19065527065,MANISH KUMAR AHIRWAR,Shaheed Bhagat Singh College (Eve),6.18,7.18,6.682
+19065527066,MANISHA BHARTI,Shaheed Bhagat Singh College (Eve),3.82,7.00,5.409
+19065527067,MANOJ KUMAR,Shaheed Bhagat Singh College (Eve),5.45,5.27,5.364
+19065527068,MANSI BASIST,Shaheed Bhagat Singh College (Eve),6.73,7.45,7.091
+19065527069,MD SHAMIM,Shaheed Bhagat Singh College (Eve),7.27,8.73,8.000
+19065527070,MEGHNA BORAH,Shaheed Bhagat Singh College (Eve),6.91,8.00,7.455
+19065527071,MOHD. AADIL,Shaheed Bhagat Singh College (Eve),5.45,6.55,6.000
+19065527072,MOHD. SHAHID,Shaheed Bhagat Singh College (Eve),6.00,7.73,6.864
+19065527073,MOHIT SINGH,Shaheed Bhagat Singh College (Eve),5.27,6.91,6.091
+19065527074,MUHAMMED HAFEEZ,Shaheed Bhagat Singh College (Eve),6.27,8.00,7.136
+19065527075,MUKESH PASWAN,Shaheed Bhagat Singh College (Eve),6.18,7.45,6.818
+19065527076,MUSKAN,Shaheed Bhagat Singh College (Eve),5.73,7.27,6.500
 19065527077,NAMAN KHANNA,Shaheed Bhagat Singh College (Eve),5.82,7.27,6.545
-19065527078,NEERAJ KUMAR,Shaheed Bhagat Singh College (Eve),5.64,7,6.32
-19065527079,NIDHI SAINI,Shaheed Bhagat Singh College (Eve),6.91,7.73,7.32
-19065527080,NISHANT BHIRWARA,Shaheed Bhagat Singh College (Eve),5,6.45,5.725
-19065527081,NISSAN TANWAR,Shaheed Bhagat Singh College (Eve),5.36,6.27,5.815
-19065527082,NITESH KUMAR SINGH,Shaheed Bhagat Singh College (Eve),6.45,8.45,7.45
-19065527083,NITIN KUMAR,Shaheed Bhagat Singh College (Eve),5.36,7.45,6.405
-19065527084,NITIN KUMAR,Shaheed Bhagat Singh College (Eve),5.64,7,6.32
-19065527085,NITISH KUMAR,Shaheed Bhagat Singh College (Eve),6.73,7.73,7.23
-19065527086,NOHA SHABBIR ANSARI,Shaheed Bhagat Singh College (Eve),6.45,8,7.225
-19065527087,POOJA SAIKIA,Shaheed Bhagat Singh College (Eve),6.09,8,7.045
-19065527088,POOJA PASWAN,Shaheed Bhagat Singh College (Eve),6.18,8,7.09
-19065527089,PREM KUMAR,Shaheed Bhagat Singh College (Eve),3.45,5.36,4.405
-19065527090,PRERNA BHARTI,Shaheed Bhagat Singh College (Eve),6.27,8.18,7.225
-19065527091,PRINCE KUMAR SINGH,Shaheed Bhagat Singh College (Eve),5.91,7.55,6.73
-19065527092,PRIYAM PRATAP SINGH,Shaheed Bhagat Singh College (Eve),5.91,6.45,6.18
-19065527093,PRIYANSHU CHARAN,Shaheed Bhagat Singh College (Eve),6.18,7.45,6.815
-19065527094,PRIYAVRAT,Shaheed Bhagat Singh College (Eve),6.91,8.27,7.59
-19065527095,PUNIT PUNIA,Shaheed Bhagat Singh College (Eve),5.91,7.73,6.82
+19065527078,NEERAJ KUMAR,Shaheed Bhagat Singh College (Eve),5.64,7.00,6.318
+19065527079,NIDHI SAINI,Shaheed Bhagat Singh College (Eve),6.91,7.73,7.318
+19065527080,NISHANT BHIRWARA,Shaheed Bhagat Singh College (Eve),5.00,6.45,5.727
+19065527081,NISSAN TANWAR,Shaheed Bhagat Singh College (Eve),5.36,6.27,5.818
+19065527082,NITESH KUMAR SINGH,Shaheed Bhagat Singh College (Eve),6.45,8.45,7.455
+19065527083,NITIN KUMAR,Shaheed Bhagat Singh College (Eve),5.36,7.45,6.409
+19065527084,NITIN KUMAR,Shaheed Bhagat Singh College (Eve),5.64,7.00,6.318
+19065527085,NITISH KUMAR,Shaheed Bhagat Singh College (Eve),6.73,7.73,7.227
+19065527086,NOHA SHABBIR ANSARI,Shaheed Bhagat Singh College (Eve),6.45,8.00,7.227
+19065527087,POOJA SAIKIA,Shaheed Bhagat Singh College (Eve),6.09,8.00,7.045
+19065527088,POOJA PASWAN,Shaheed Bhagat Singh College (Eve),6.18,8.00,7.091
+19065527089,PREM KUMAR,Shaheed Bhagat Singh College (Eve),3.45,5.36,4.409
+19065527090,PRERNA BHARTI,Shaheed Bhagat Singh College (Eve),6.27,8.18,7.227
+19065527091,PRINCE KUMAR SINGH,Shaheed Bhagat Singh College (Eve),5.91,7.55,6.727
+19065527092,PRIYAM PRATAP SINGH,Shaheed Bhagat Singh College (Eve),5.91,6.45,6.182
+19065527093,PRIYANSHU CHARAN,Shaheed Bhagat Singh College (Eve),6.18,7.45,6.818
+19065527094,PRIYAVRAT,Shaheed Bhagat Singh College (Eve),6.91,8.27,7.591
+19065527095,PUNIT PUNIA,Shaheed Bhagat Singh College (Eve),5.91,7.73,6.818
 19065527096,RAHUL KUMAR,Shaheed Bhagat Singh College (Eve),5.18,7.73,6.455
-19065527097,RAJEEV KUMAR,Shaheed Bhagat Singh College (Eve),5.91,7.55,6.73
+19065527097,RAJEEV KUMAR,Shaheed Bhagat Singh College (Eve),5.91,7.55,6.727
 19065527098,RANJESH KUMAR,Shaheed Bhagat Singh College (Eve),6.36,7.73,7.045
-19065527099,RAVI RAJ,Shaheed Bhagat Singh College (Eve),6.27,8,7.135
-19065527100,RAVI RAUSHAN KUMAR,Shaheed Bhagat Singh College (Eve),6.73,8,7.365
-19065527101,RIDHI KALRA,Shaheed Bhagat Singh College (Eve),5.91,7,6.455
-19065527102,RINKI,Shaheed Bhagat Singh College (Eve),5.73,7,6.365
+19065527099,RAVI RAJ,Shaheed Bhagat Singh College (Eve),6.27,8.00,7.136
+19065527100,RAVI RAUSHAN KUMAR,Shaheed Bhagat Singh College (Eve),6.73,8.00,7.364
+19065527101,RIDHI KALRA,Shaheed Bhagat Singh College (Eve),5.91,7.00,6.455
+19065527102,RINKI,Shaheed Bhagat Singh College (Eve),5.73,7.00,6.364
 19065527103,RISHABH SHARMA,Shaheed Bhagat Singh College (Eve),7.18,8.73,7.955
-19065527104,RISHAV ANAND,Shaheed Bhagat Singh College (Eve),2.36,5,3.68
+19065527104,RISHAV ANAND,Shaheed Bhagat Singh College (Eve),2.36,5.00,3.682
 19065527105,RIYA,Shaheed Bhagat Singh College (Eve),6.91,8.18,7.545
-19065527106,RIYA,Shaheed Bhagat Singh College (Eve),6.45,6.27,6.36
-19065527107,ROHIT SONI,Shaheed Bhagat Singh College (Eve),5.82,7,6.41
+19065527106,RIYA,Shaheed Bhagat Singh College (Eve),6.45,6.27,6.364
+19065527107,ROHIT SONI,Shaheed Bhagat Singh College (Eve),5.82,7.00,6.409
 19065527108,ROMI KUMAR,Shaheed Bhagat Singh College (Eve),5.64,7.27,6.455
-19065527109,ROUSHAN KUMAR,Shaheed Bhagat Singh College (Eve),8,9,8.5
-19065527110,SAKSHAM SINGH,Shaheed Bhagat Singh College (Eve),6.91,8.27,7.59
-19065527111,SAKSHI,Shaheed Bhagat Singh College (Eve),7,8.27,7.635
+19065527109,ROUSHAN KUMAR,Shaheed Bhagat Singh College (Eve),8.00,9.00,8.500
+19065527110,SAKSHAM SINGH,Shaheed Bhagat Singh College (Eve),6.91,8.27,7.591
+19065527111,SAKSHI,Shaheed Bhagat Singh College (Eve),7.00,8.27,7.636
 19065527112,SAKSHI AGARWAL,Shaheed Bhagat Singh College (Eve),6.91,8.18,7.545
-19065527113,SALONI SINGH,Shaheed Bhagat Singh College (Eve),6.45,8,7.225
-19065527114,SAMEER ANSARI,Shaheed Bhagat Singh College (Eve),5.64,7,6.32
-19065527115,SANDEEP KUMAR,Shaheed Bhagat Singh College (Eve),5.45,7.18,6.315
-19065527116,SANGEETA,Shaheed Bhagat Singh College (Eve),5.64,7,6.32
-19065527117,SANU VARGHESE,Shaheed Bhagat Singh College (Eve),6.91,8.27,7.59
-19065527118,SATISH PANDEY,Shaheed Bhagat Singh College (Eve),6.09,7.73,6.91
-19065527119,SATYAVEER YADAV,Shaheed Bhagat Singh College (Eve),6.27,8,7.135
-19065527120,SAURAJ KUSHWAHA,Shaheed Bhagat Singh College (Eve),5.73,7.27,6.5
-19065527121,SHADIA,Shaheed Bhagat Singh College (Eve),6.55,7.73,7.14
-19065527122,SHAHRUKH KHAN,Shaheed Bhagat Singh College (Eve),6.91,8.27,7.59
-19065527123,SHILPI SINHA,Shaheed Bhagat Singh College (Eve),6.73,8.45,7.59
-19065527124,SHIVAM,Shaheed Bhagat Singh College (Eve),7.18,8,7.59
-19065527125,SHIVAM KUMAR,Shaheed Bhagat Singh College (Eve),5.45,7,6.225
-19065527126,SHIVANI,Shaheed Bhagat Singh College (Eve),6.45,7.73,7.09
-19065527127,SHIVANI,Shaheed Bhagat Singh College (Eve),6.73,8,7.365
-19065527128,SHIVANI KUMARI,Shaheed Bhagat Singh College (Eve),5.91,7.27,6.59
-19065527129,SHIWANI KUMARI,Shaheed Bhagat Singh College (Eve),7.55,9,8.275
+19065527113,SALONI SINGH,Shaheed Bhagat Singh College (Eve),6.45,8.00,7.227
+19065527114,SAMEER ANSARI,Shaheed Bhagat Singh College (Eve),5.64,7.00,6.318
+19065527115,SANDEEP KUMAR,Shaheed Bhagat Singh College (Eve),5.45,7.18,6.318
+19065527116,SANGEETA,Shaheed Bhagat Singh College (Eve),5.64,7.00,6.318
+19065527117,SANU VARGHESE,Shaheed Bhagat Singh College (Eve),6.91,8.27,7.591
+19065527118,SATISH PANDEY,Shaheed Bhagat Singh College (Eve),6.09,7.73,6.909
+19065527119,SATYAVEER YADAV,Shaheed Bhagat Singh College (Eve),6.27,8.00,7.136
+19065527120,SAURAJ KUSHWAHA,Shaheed Bhagat Singh College (Eve),5.73,7.27,6.500
+19065527121,SHADIA,Shaheed Bhagat Singh College (Eve),6.55,7.73,7.136
+19065527122,SHAHRUKH KHAN,Shaheed Bhagat Singh College (Eve),6.91,8.27,7.591
+19065527123,SHILPI SINHA,Shaheed Bhagat Singh College (Eve),6.73,8.45,7.591
+19065527124,SHIVAM,Shaheed Bhagat Singh College (Eve),7.18,8.00,7.591
+19065527125,SHIVAM KUMAR,Shaheed Bhagat Singh College (Eve),5.45,7.00,6.227
+19065527126,SHIVANI,Shaheed Bhagat Singh College (Eve),6.45,7.73,7.091
+19065527127,SHIVANI,Shaheed Bhagat Singh College (Eve),6.73,8.00,7.364
+19065527128,SHIVANI KUMARI,Shaheed Bhagat Singh College (Eve),5.91,7.27,6.591
+19065527129,SHIWANI KUMARI,Shaheed Bhagat Singh College (Eve),7.55,9.00,8.273
 19065527130,SHUBHAM DASS,Shaheed Bhagat Singh College (Eve),6.73,8.18,7.455
-19065527131,SHUBHANGI SINGH,Shaheed Bhagat Singh College (Eve),6.91,8,7.455
-19065527132,SHWETA,Shaheed Bhagat Singh College (Eve),8,8.73,8.365
-19065527133,SIMRAN DHINGRA,Shaheed Bhagat Singh College (Eve),6.45,7.73,7.09
-19065527134,SMRITI SINGH,Shaheed Bhagat Singh College (Eve),5.27,6.73,6
-19065527135,SOFIYA,Shaheed Bhagat Singh College (Eve),7.45,8.45,7.95
-19065527136,SONAL K.S.,Shaheed Bhagat Singh College (Eve),4.91,5.82,5.365
-19065527137,SRIJAN SHARMA,Shaheed Bhagat Singh College (Eve),7.73,9,8.365
-19065527138,SUJIT SINGH GURJAR,Shaheed Bhagat Singh College (Eve),5.64,7.18,6.41
-19065527139,SUMIT,Shaheed Bhagat Singh College (Eve),6.45,7.18,6.815
-19065527140,SUNNY KUMAR SINGH,Shaheed Bhagat Singh College (Eve),6.91,7.73,7.32
-19065527141,SUVENDU KUNDU,Shaheed Bhagat Singh College (Eve),6.73,7.73,7.23
-19065527142,SWATI SAXENA,Shaheed Bhagat Singh College (Eve),7.45,8.45,7.95
+19065527131,SHUBHANGI SINGH,Shaheed Bhagat Singh College (Eve),6.91,8.00,7.455
+19065527132,SHWETA,Shaheed Bhagat Singh College (Eve),8.00,8.73,8.364
+19065527133,SIMRAN DHINGRA,Shaheed Bhagat Singh College (Eve),6.45,7.73,7.091
+19065527134,SMRITI SINGH,Shaheed Bhagat Singh College (Eve),5.27,6.73,6.000
+19065527135,SOFIYA,Shaheed Bhagat Singh College (Eve),7.45,8.45,7.955
+19065527136,SONAL K.S.,Shaheed Bhagat Singh College (Eve),4.91,5.82,5.364
+19065527137,SRIJAN SHARMA,Shaheed Bhagat Singh College (Eve),7.73,9.00,8.364
+19065527138,SUJIT SINGH GURJAR,Shaheed Bhagat Singh College (Eve),5.64,7.18,6.409
+19065527139,SUMIT,Shaheed Bhagat Singh College (Eve),6.45,7.18,6.818
+19065527140,SUNNY KUMAR SINGH,Shaheed Bhagat Singh College (Eve),6.91,7.73,7.318
+19065527141,SUVENDU KUNDU,Shaheed Bhagat Singh College (Eve),6.73,7.73,7.227
+19065527142,SWATI SAXENA,Shaheed Bhagat Singh College (Eve),7.45,8.45,7.955
 19065527143,SYED MOHD EBAD,Shaheed Bhagat Singh College (Eve),5.36,6.73,6.045
-19065527144,TONGGOUMANG KHONGSAI,Shaheed Bhagat Singh College (Eve),6.45,7.45,6.95
+19065527144,TONGGOUMANG KHONGSAI,Shaheed Bhagat Singh College (Eve),6.45,7.45,6.955
 19065527145,TWINKLE NANDAN,Shaheed Bhagat Singh College (Eve),6.18,7.73,6.955
-19065527146,UJJWAL ANAND,Shaheed Bhagat Singh College (Eve),5.09,7.18,6.135
-19065527147,VANSHIKA JAIN,Shaheed Bhagat Singh College (Eve),7.73,9,8.365
-19065527148,VASU KANT,Shaheed Bhagat Singh College (Eve),6.36,7.91,7.135
+19065527146,UJJWAL ANAND,Shaheed Bhagat Singh College (Eve),5.09,7.18,6.136
+19065527147,VANSHIKA JAIN,Shaheed Bhagat Singh College (Eve),7.73,9.00,8.364
+19065527148,VASU KANT,Shaheed Bhagat Singh College (Eve),6.36,7.91,7.136
 19065527149,VIJAY KUMAR GAUTAM,Shaheed Bhagat Singh College (Eve),5.73,7.18,6.455
-19065527150,VIJETA SHARMA,Shaheed Bhagat Singh College (Eve),7.18,9,8.09
-19065527151,YASH KAHTRI,Shaheed Bhagat Singh College (Eve),0.73,4.55,2.64
-19065527152,YASH KUMAR,Shaheed Bhagat Singh College (Eve),7.18,8.45,7.815
-19065527153,YASHIKA,Shaheed Bhagat Singh College (Eve),5.64,7.18,6.41
-19065527154,YUVRAJ,Shaheed Bhagat Singh College (Eve),5.09,6.73,5.91
+19065527150,VIJETA SHARMA,Shaheed Bhagat Singh College (Eve),7.18,9.00,8.091
+19065527151,YASH KAHTRI,Shaheed Bhagat Singh College (Eve),0.73,4.55,2.636
+19065527152,YASH KUMAR,Shaheed Bhagat Singh College (Eve),7.18,8.45,7.818
+19065527153,YASHIKA,Shaheed Bhagat Singh College (Eve),5.64,7.18,6.409
+19065527154,YUVRAJ,Shaheed Bhagat Singh College (Eve),5.09,6.73,5.909

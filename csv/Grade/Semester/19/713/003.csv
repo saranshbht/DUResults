@@ -1,15 +1,13 @@
-RollNo,Name,College,Sem1,Average
-19003713011,SONU JOSHI,Atma Ram Sanatan Dharam College,6.6,6.6
-19003713007,NITI,Atma Ram Sanatan Dharam College,6.4,6.4
-19003713003,GULISTAN KHATUN,Atma Ram Sanatan Dharam College,6.2,6.2
-19003713008,PARAMJEET SINGH,Atma Ram Sanatan Dharam College,6.2,6.2
-19003713004,JYOTI PAL,Atma Ram Sanatan Dharam College,6,6
-19003713005,MONU BHARATI,Atma Ram Sanatan Dharam College,6,6
-19003713001,ANKIT,Atma Ram Sanatan Dharam College,5.8,5.8
-19003713002,DHARMENDER,Atma Ram Sanatan Dharam College,5.8,5.8
-19003713009,RAVINDRA CHANDRA BADHANI,Atma Ram Sanatan Dharam College,5.6,5.6
-19003713014,MOHD AJAM,Atma Ram Sanatan Dharam College,5.6,5.6
-19003713012,SWETA,Atma Ram Sanatan Dharam College,5.4,5.4
-19003713013,VIKASH KUMAR CHOUDHARY,Atma Ram Sanatan Dharam College,4.6,4.6
-19003713010,SONALI,Atma Ram Sanatan Dharam College,3.6,3.6
-19003713006,NEERAJ KUMAR,Atma Ram Sanatan Dharam College,0.0,0.0
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19003713001,ANKIT,Atma Ram Sanatan Dharam College,5.80,7.00,8.00,6.932
+19003713002,DHARMENDER,Atma Ram Sanatan Dharam College,5.80,6.58,6.80,6.392
+19003713003,GULISTAN KHATUN,Atma Ram Sanatan Dharam College,6.20,7.00,7.20,6.797
+19003713004,JYOTI PAL,Atma Ram Sanatan Dharam College,6.00,6.79,7.00,6.595
+19003713005,MONU BHARATI,Atma Ram Sanatan Dharam College,6.00,6.58,7.60,6.730
+19003713007,NITTI,Atma Ram Sanatan Dharam College,6.40,7.00,7.60,7.000
+19003713009,RAVINDRA CHANDRA BADHANI,Atma Ram Sanatan Dharam College,5.60,6.79,7.40,6.595
+19003713010,SONALI,Atma Ram Sanatan Dharam College,6.60,6.00,8.00,6.878
+19003713011,SONU JOSHI,Atma Ram Sanatan Dharam College,6.60,7.00,7.40,7.000
+19003713012,SWETA,Atma Ram Sanatan Dharam College,5.40,6.58,7.20,6.392
+19003713013,VIKASH KUMAR CHOUDHARY,Atma Ram Sanatan Dharam College,4.60,6.00,6.80,5.797
+19003713014,MOHD AJAM,Atma Ram Sanatan Dharam College,6.60,6.79,7.80,7.068

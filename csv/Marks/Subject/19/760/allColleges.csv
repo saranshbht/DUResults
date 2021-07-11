@@ -1,13 +1,13 @@
-RollNo,Name,College,BACTERIOLOGY,MICROBIAL PHYSIOLOGY AND METABOLISM,MOLECULAR VIROLOGY,IMMUNOLOGY,PRACTICAL I
-19253760001,ANJALI YADAV,Department of Microbiology,77,74,81,76,135
-19253760002,ARPIT TYAGI,Department of Microbiology,58,64,58,66,128
-19253760003,BHAWNA SHARMA,Department of Microbiology,75,58,74,67,148
-19253760004,ELISNORA KHONGSDIER,Department of Microbiology,59,33,46,46,126
-19253760005,MANSI YADAV,Department of Microbiology,75,57,63,64,128
-19253760006,NUPUR TYAGI,Department of Microbiology,81,70,69,67,149
-19253760007,PRATIBHA RAUNIYAR,Department of Microbiology,63,50,58,49,150
-19253760008,RITU MANN,Department of Microbiology,72,60,65,72,138
-19253760009,SHRABANI SNIGDHA,Department of Microbiology,64,44,63,54,150
-19253760010,SHUBHI KHARE,Department of Microbiology,73,66,69,70,146
-19253760011,SRISHTI,Department of Microbiology,78,55,63,63,154
-19253760012,TANISHQA PAWAR,Department of Microbiology,65,48,45,54,130
+RollNo,Name,College,Bacteriology,Microbial Physiology and Metabolism,Molecular Virology,Immunology,Practical I,GENETICS IN CROP IMPROVEMENT AND HUMAN HEALTH,Environmental Microbiology,Industrial Microbiology,Microbial Pathogenicity,Practical II,Biophysical and Biochemical Methods
+19253760001,ANJALI YADAV,Department of Microbiology,77,74,81,76,0,0,0,0,0,0,0
+19253760002,ARPIT TYAGI,Department of Microbiology,58,64,58,66,0,0,0,0,0,0,0
+19253760003,BHAWNA SHARMA,Department of Microbiology,75,58,74,67,0,0,0,0,0,0,0
+19253760004,ELISNORA KHONGSDIER,Department of Microbiology,59,33,46,46,0,0,0,0,0,0,0
+19253760005,MANSI YADAV,Department of Microbiology,75,57,63,64,0,0,0,0,0,0,0
+19253760006,NUPUR TYAGI,Department of Microbiology,81,70,69,67,0,0,0,0,0,0,0
+19253760007,PRATIBHA RAUNIYAR,Department of Microbiology,63,50,58,49,0,0,0,0,0,0,0
+19253760008,RITU MANN,Department of Microbiology,72,60,65,72,0,0,0,0,0,0,0
+19253760009,SHRABANI SNIGDHA,Department of Microbiology,64,44,63,54,0,0,0,0,0,0,0
+19253760010,SHUBHI KHARE,Department of Microbiology,73,66,69,70,0,0,0,0,0,0,0
+19253760011,SRISHTI,Department of Microbiology,78,55,63,63,0,0,0,0,0,0,0
+19253760012,TANISHQA PAWAR,Department of Microbiology,65,48,45,54,0,0,0,0,0,0,0

@@ -1,11 +1,11 @@
-RollNo,Name,College,SemI,SemII,Total,Percentage
+RollNo,Name,College,Sem-I,Sem-II,Total,Percentage
 19067590001,AAKASH KUMAR,Shaheed Sukhdev College of Business Studies,179/400,275/450,454/850,53.412
 19067590002,AANCHAL KALBALIA,Shaheed Sukhdev College of Business Studies,273/400,348/450,621/850,73.059
 19067590003,AARUSHI JAIN,Shaheed Sukhdev College of Business Studies,309/400,376/450,685/850,80.588
 19067590004,AAYUSH SACHDEVA,Shaheed Sukhdev College of Business Studies,306/400,370/450,676/850,79.529
 19067590005,AAYUSH VERMA,Shaheed Sukhdev College of Business Studies,197/400,285/450,482/850,56.706
 19067590006,ABHINANDAN NATH,Shaheed Sukhdev College of Business Studies,293/400,346/450,639/850,75.176
-19067590007,ADITI YADAV,Shaheed Sukhdev College of Business Studies,240/400,338/450,578/850,68
+19067590007,ADITI YADAV,Shaheed Sukhdev College of Business Studies,240/400,338/450,578/850,68.000
 19067590008,AJIT KUMAR,Shaheed Sukhdev College of Business Studies,289/400,367/450,656/850,77.176
 19067590009,AKSHAT AJAY KARNANI,Shaheed Sukhdev College of Business Studies,292/400,369/450,661/850,77.765
 19067590010,AKSHIT NAYYAR,Shaheed Sukhdev College of Business Studies,264/400,341/450,605/850,71.176
@@ -43,7 +43,7 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19067590042,BUKKE SAIPRAKASH NAIK,Shaheed Sukhdev College of Business Studies,288/400,367/450,655/850,77.059
 19067590043,CHAITANYA GUPTA,Shaheed Sukhdev College of Business Studies,315/400,389/450,704/850,82.824
 19067590044,CHIRAG CHAITANYA,Shaheed Sukhdev College of Business Studies,292/400,366/450,658/850,77.412
-19067590045,CHIRAG GUPTA,Shaheed Sukhdev College of Business Studies,350/400,398/450,748/850,88
+19067590045,CHIRAG GUPTA,Shaheed Sukhdev College of Business Studies,350/400,398/450,748/850,88.000
 19067590046,DEEPANSHU RAWAT,Shaheed Sukhdev College of Business Studies,298/400,363/450,661/850,77.765
 19067590047,DEEPESH YADAV,Shaheed Sukhdev College of Business Studies,210/400,330/450,540/850,63.529
 19067590048,DEVANSHI GOEL,Shaheed Sukhdev College of Business Studies,285/400,363/450,648/850,76.235
@@ -52,7 +52,6 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19067590051,DHRUV GUPTAA,Shaheed Sukhdev College of Business Studies,334/400,394/450,728/850,85.647
 19067590052,DIBYANS AGRAWAL,Shaheed Sukhdev College of Business Studies,307/400,375/450,682/850,80.235
 19067590053,DIKSHA BHARGAVA,Shaheed Sukhdev College of Business Studies,322/400,383/450,705/850,82.941
-19067590054,,Shaheed Sukhdev College of Business Studies,,,0/0,NaN
 19067590055,DIVJAS SINGH SARNA,Shaheed Sukhdev College of Business Studies,319/400,387/450,706/850,83.059
 19067590056,DIVYANGI SINGH,Shaheed Sukhdev College of Business Studies,314/400,369/450,683/850,80.353
 19067590057,DIVYE YADAV,Shaheed Sukhdev College of Business Studies,262/400,351/450,613/850,72.118
@@ -65,7 +64,7 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19067590064,HARDIK AGARWAL,Shaheed Sukhdev College of Business Studies,248/400,328/450,576/850,67.765
 19067590065,HARDIK BENIWAL,Shaheed Sukhdev College of Business Studies,310/400,373/450,683/850,80.353
 19067590066,HARIVANSH GAHLOT,Shaheed Sukhdev College of Business Studies,358/400,417/450,775/850,91.176
-19067590067,HARLEEN KAUR,Shaheed Sukhdev College of Business Studies,199/400,311/450,510/850,60
+19067590067,HARLEEN KAUR,Shaheed Sukhdev College of Business Studies,199/400,311/450,510/850,60.000
 19067590068,HARSHIT MALIK,Shaheed Sukhdev College of Business Studies,291/400,343/450,634/850,74.588
 19067590069,HARSHIT RATNANI,Shaheed Sukhdev College of Business Studies,337/400,390/450,727/850,85.529
 19067590070,HARSHIT YADAV,Shaheed Sukhdev College of Business Studies,323/400,383/450,706/850,83.059
@@ -101,10 +100,10 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19067590101,KUNGA LAKSHAY,Shaheed Sukhdev College of Business Studies,186/400,269/450,455/850,53.529
 19067590102,KUSHAGRA VERMA,Shaheed Sukhdev College of Business Studies,295/400,367/450,662/850,77.882
 19067590103,KUSHAL AGRAWAL,Shaheed Sukhdev College of Business Studies,237/400,310/450,547/850,64.353
-19067590104,LAKSHAY,Shaheed Sukhdev College of Business Studies,293/400,370/450,663/850,78
+19067590104,LAKSHAY,Shaheed Sukhdev College of Business Studies,293/400,370/450,663/850,78.000
 19067590105,LAKSHAY BUTTAN,Shaheed Sukhdev College of Business Studies,306/400,375/450,681/850,80.118
 19067590106,LAKSHAY MEENA,Shaheed Sukhdev College of Business Studies,230/400,333/450,563/850,66.235
-19067590107,LAVANYA GOYAL,Shaheed Sukhdev College of Business Studies,309/400,388/450,697/850,82
+19067590107,LAVANYA GOYAL,Shaheed Sukhdev College of Business Studies,309/400,388/450,697/850,82.000
 19067590108,MADHAV S GOEL,Shaheed Sukhdev College of Business Studies,323/400,381/450,704/850,82.824
 19067590109,MADHAV CHADHA,Shaheed Sukhdev College of Business Studies,324/400,388/450,712/850,83.765
 19067590110,MADHAV CHADHA,Shaheed Sukhdev College of Business Studies,304/400,372/450,676/850,79.529
@@ -122,7 +121,7 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19067590122,MRIDUL GUPTA,Shaheed Sukhdev College of Business Studies,328/400,377/450,705/850,82.941
 19067590123,MUHAMMAD HARON,Shaheed Sukhdev College of Business Studies,251/400,325/450,576/850,67.765
 19067590124,MUHAMMAD IDREES ALI,Shaheed Sukhdev College of Business Studies,131/400,275/450,406/850,47.765
-19067590125,MUSKAAN CHUTTANI,Shaheed Sukhdev College of Business Studies,327/400,387/450,714/850,84
+19067590125,MUSKAAN CHUTTANI,Shaheed Sukhdev College of Business Studies,327/400,387/450,714/850,84.000
 19067590126,MUSKAN,Shaheed Sukhdev College of Business Studies,238/400,311/450,549/850,64.588
 19067590127,MUSKAN VISHWAKARMA,Shaheed Sukhdev College of Business Studies,301/400,378/450,679/850,79.882
 19067590128,NAMAN JAIN,Shaheed Sukhdev College of Business Studies,206/400,296/450,502/850,59.059
@@ -141,13 +140,13 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19067590141,PRACHI VERMA,Shaheed Sukhdev College of Business Studies,250/400,349/450,599/850,70.471
 19067590142,PRANJAL SWAMI,Shaheed Sukhdev College of Business Studies,319/400,386/450,705/850,82.941
 19067590143,PREETI RAJ,Shaheed Sukhdev College of Business Studies,145/400,273/450,418/850,49.176
-19067590144,PRERNA SHARMA,Shaheed Sukhdev College of Business Studies,284/400,362/450,646/850,76
+19067590144,PRERNA SHARMA,Shaheed Sukhdev College of Business Studies,284/400,362/450,646/850,76.000
 19067590145,PRIYANKA MAHAJAN,Shaheed Sukhdev College of Business Studies,325/400,334/450,659/850,77.529
 19067590146,PRIYANSH BACHANI,Shaheed Sukhdev College of Business Studies,331/400,402/450,733/850,86.235
 19067590147,PRIYASHA SAINI,Shaheed Sukhdev College of Business Studies,269/400,352/450,621/850,73.059
 19067590148,PULKIT VERMA,Shaheed Sukhdev College of Business Studies,207/400,293/450,500/850,58.824
 19067590149,PURVA BANSAL,Shaheed Sukhdev College of Business Studies,339/400,410/450,749/850,88.118
-19067590150,RACHIT GUPTA,Shaheed Sukhdev College of Business Studies,343/400,405/450,748/850,88
+19067590150,RACHIT GUPTA,Shaheed Sukhdev College of Business Studies,343/400,405/450,748/850,88.000
 19067590151,RADHIKA KANOJIA,Shaheed Sukhdev College of Business Studies,248/400,349/450,597/850,70.235
 19067590152,RAGHAV PARWAL,Shaheed Sukhdev College of Business Studies,333/400,392/450,725/850,85.294
 19067590153,RAJAT GOYAL,Shaheed Sukhdev College of Business Studies,330/400,363/450,693/850,81.529
@@ -172,13 +171,13 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19067590172,SAKSHI RAI,Shaheed Sukhdev College of Business Studies,327/400,386/450,713/850,83.882
 19067590173,SAMRIDHI GOYAL,Shaheed Sukhdev College of Business Studies,314/400,382/450,696/850,81.882
 19067590174,SANDEEP YADAV,Shaheed Sukhdev College of Business Studies,225/400,295/450,520/850,61.176
-19067590175,SEHMAN,Shaheed Sukhdev College of Business Studies,147/400,278/450,425/850,50
+19067590175,SEHMAN,Shaheed Sukhdev College of Business Studies,147/400,278/450,425/850,50.000
 19067590176,SHANTANU CHAUDHARY,Shaheed Sukhdev College of Business Studies,277/400,337/450,614/850,72.235
 19067590177,SHIKHA GARG,Shaheed Sukhdev College of Business Studies,346/400,396/450,742/850,87.294
 19067590178,SHIVAM RAJPUT,Shaheed Sukhdev College of Business Studies,279/400,351/450,630/850,74.118
 19067590179,SHIVANI DAVAR,Shaheed Sukhdev College of Business Studies,343/400,409/450,752/850,88.471
-19067590180,SHREYA GUPTA,Shaheed Sukhdev College of Business Studies,294/400,369/450,663/850,78
-19067590181,SHREYA JAIN,Shaheed Sukhdev College of Business Studies,302/400,378/450,680/850,80
+19067590180,SHREYA GUPTA,Shaheed Sukhdev College of Business Studies,294/400,369/450,663/850,78.000
+19067590181,SHREYA JAIN,Shaheed Sukhdev College of Business Studies,302/400,378/450,680/850,80.000
 19067590182,SHREYA JAMWAL,Shaheed Sukhdev College of Business Studies,280/400,370/450,650/850,76.471
 19067590183,SHRUSTI GUPTA,Shaheed Sukhdev College of Business Studies,253/400,302/450,555/850,65.294
 19067590184,SHRUTI DHUSSAWAT,Shaheed Sukhdev College of Business Studies,253/400,336/450,589/850,69.294
@@ -190,7 +189,7 @@ RollNo,Name,College,SemI,SemII,Total,Percentage
 19067590190,SOURABH YADAV,Shaheed Sukhdev College of Business Studies,311/400,384/450,695/850,81.765
 19067590191,SUDARSH KANSAL,Shaheed Sukhdev College of Business Studies,339/400,383/450,722/850,84.941
 19067590192,SUFI RAJ,Shaheed Sukhdev College of Business Studies,211/400,277/450,488/850,57.412
-19067590193,SUKRITI JAIN,Shaheed Sukhdev College of Business Studies,340/400,391/450,731/850,86
+19067590193,SUKRITI JAIN,Shaheed Sukhdev College of Business Studies,340/400,391/450,731/850,86.000
 19067590194,SUNAIYNA VARMA,Shaheed Sukhdev College of Business Studies,262/400,341/450,603/850,70.941
 19067590195,TANISHQ PREMI,Shaheed Sukhdev College of Business Studies,208/400,276/450,484/850,56.941
 19067590196,TANYA VERMA,Shaheed Sukhdev College of Business Studies,304/400,374/450,678/850,79.765

@@ -1,34 +1,32 @@
-RollNo,Name,College,SemI,SemII,SemIII,SemIV,Average
-18204531002,AMISHA,Department of Germanic and Romance Studies,8.27,7.91,6.36,6.79,7.332
-18204531003,ARYAN SOARAV,Department of Germanic and Romance Studies,8.91,8.82,8.71,8.93,8.843
-18204531004,ATTULLAH KHAN,Department of Germanic and Romance Studies,6.36,5,4.79,1.71,4.465
-18204531005,CHAVI CHAUDHARY,Department of Germanic and Romance Studies,5.27,6.45,5.93,6.14,5.947
-18204531006,DRISHTI DHAWAN,Department of Germanic and Romance Studies,6.09,6.55,5,6.79,6.107
-18204531009,JOHNSON BASYAN,Department of Germanic and Romance Studies,4.73,4.18,1.07,3.36,3.335
-18204531010,KAMALDEEP KAUR MEHROK,Department of Germanic and Romance Studies,6.09,5.73,3.86,1.93,4.402
-18204531011,KHUSHI VERMA,Department of Germanic and Romance Studies,7.73,7.73,6.93,6.57,7.24
-18204531013,KRATI PURI,Department of Germanic and Romance Studies,8.09,8.36,7.5,7.57,7.88
-18204531014,MADHAV BAJAJ,Department of Germanic and Romance Studies,8,8.18,7.93,9,8.277
-18204531015,MANSHA KAPOOR,Department of Germanic and Romance Studies,6.36,6.36,4.36,4.07,5.288
-18204531016,MANYA RAI,Department of Germanic and Romance Studies,6.91,4.91,3.93,4.93,5.17
-18204531017,MD. AMMAR BADR,Department of Germanic and Romance Studies,7.91,6.82,7,7.21,7.235
-18204531018,PARMESHWAR CHAND,Department of Germanic and Romance Studies,6.45,5.73,5.36,6.43,5.992
-18204531019,PRAGYA BHARTI,Department of Germanic and Romance Studies,8.64,8.55,7.36,8,8.137
-18204531020,PRAKRITI BANSAL,Department of Germanic and Romance Studies,8.55,8,7.07,7.36,7.745
-18204531022,RIDDHIMA DEOGUN,Department of Germanic and Romance Studies,7.27,7.73,6.93,7.36,7.322
-18204531023,SAIMA ZAFAR,Department of Germanic and Romance Studies,7.55,8.73,8.5,9,8.445
-18204531024,SAKSHAM KAPOOR,Department of Germanic and Romance Studies,6.91,7.64,5.07,5.29,6.228
-18204531025,SHIV SHARMA,Department of Germanic and Romance Studies,7.55,7.18,4.86,6.14,6.433
-18204531026,SHIVAM SAINI,Department of Germanic and Romance Studies,8.55,9.09,7.71,8.57,8.48
-18204531027,SHIVANGI PAWAR,Department of Germanic and Romance Studies,5.55,6.73,6.14,6.71,6.283
-18204531028,SHIVANI ADHIKARI,Department of Germanic and Romance Studies,7.27,7.73,6.29,7,7.072
-18204531029,SHIVANI NAGALIYA,Department of Germanic and Romance Studies,6.36,5.91,4.86,5.07,5.55
-18204531031,SUNIL,Department of Germanic and Romance Studies,4.73,5.27,3.79,4.14,4.482
-18204531032,SURBHI,Department of Germanic and Romance Studies,8,7.73,7.5,7.64,7.718
-18204531033,TANISHA TULI,Department of Germanic and Romance Studies,9.09,9.09,8.14,8.79,8.777
-18204531034,TARUN KUMAR,Department of Germanic and Romance Studies,6.55,5.91,5.36,5.5,5.83
-18204531035,VISHAL JOY TOPPO,Department of Germanic and Romance Studies,5.82,5.36,4.07,5.93,5.295
-18204531036,VISHWAJEET RAI,Department of Germanic and Romance Studies,6.18,5.82,1.5,3.57,4.268
-18204531037,ZEBA AMIR,Department of Germanic and Romance Studies,8.09,8.36,7.5,7.36,7.827
-18204531038,TENZIN CHIME,Department of Germanic and Romance Studies,6.18,4.36,0,0.86,2.85
-18204531040,ABU RAYYAN,Department of Germanic and Romance Studies,5.45,5.55,5.64,6,5.66
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Overall CGPA
+18204531002,AMISHA,Department of Germanic and Romance Studies,8.27,7.91,6.36,6.79,7.75,7.339
+18204531003,ARYAN SOARAV,Department of Germanic and Romance Studies,8.91,8.82,8.71,8.93,8.00,8.677
+18204531005,CHAVI CHAUDHARY,Department of Germanic and Romance Studies,5.27,6.45,5.93,6.14,7.50,6.258
+18204531006,DRISHTI DHAWAN,Department of Germanic and Romance Studies,6.09,6.55,6.50,6.79,8.00,6.790
+18204531009,JOHNSON BASYAN,Department of Germanic and Romance Studies,4.73,4.18,3.93,3.36,5.50,4.290
+18204531010,KAMALDEEP KAUR MEHROK,Department of Germanic and Romance Studies,6.09,5.73,4.71,1.93,6.75,4.903
+18204531011,KHUSHI VERMA,Department of Germanic and Romance Studies,7.73,7.73,6.93,6.57,7.75,7.290
+18204531013,KRATI PURI,Department of Germanic and Romance Studies,8.09,8.36,7.50,7.57,7.50,7.774
+18204531014,MADHAV BAJAJ,Department of Germanic and Romance Studies,8.00,8.18,7.93,9.00,9.00,8.435
+18204531015,MANSHA KAPOOR,Department of Germanic and Romance Studies,6.36,6.36,5.43,4.07,7.50,5.855
+18204531016,MANYA RAI,Department of Germanic and Romance Studies,6.91,4.91,5.21,4.93,6.00,5.548
+18204531017,MD. AMMAR BADR,Department of Germanic and Romance Studies,7.91,6.82,7.00,7.21,7.75,7.323
+18204531018,PARMESHWAR CHAND,Department of Germanic and Romance Studies,6.45,5.73,5.36,6.43,8.00,6.371
+18204531020,PRAKRITI BANSAL,Department of Germanic and Romance Studies,8.55,8.00,7.07,7.36,8.75,7.887
+18204531022,RIDDHIMA DEOGUN,Department of Germanic and Romance Studies,7.27,7.73,6.93,7.36,7.25,7.290
+18204531023,SAIMA ZAFAR,Department of Germanic and Romance Studies,7.55,8.73,8.50,9.00,8.50,8.484
+18204531024,SAKSHAM KAPOOR,Department of Germanic and Romance Studies,6.91,7.64,6.36,5.29,6.75,6.516
+18204531025,SHIV SHARMA,Department of Germanic and Romance Studies,7.55,7.18,6.36,6.14,8.00,6.984
+18204531026,SHIVAM SAINI,Department of Germanic and Romance Studies,8.55,9.09,7.71,8.57,8.00,8.355
+18204531027,SHIVANGI PAWAR,Department of Germanic and Romance Studies,5.55,6.73,6.14,6.71,6.25,6.290
+18204531028,SHIVANI ADHIKARI,Department of Germanic and Romance Studies,7.27,7.73,6.29,7.00,8.00,7.210
+18204531029,SHIVANI NAGALIYA,Department of Germanic and Romance Studies,6.36,5.91,4.86,5.07,6.25,5.629
+18204531031,SUNIL,Department of Germanic and Romance Studies,4.73,5.27,5.07,4.14,6.75,5.161
+18204531032,SURBHI,Department of Germanic and Romance Studies,8.00,7.73,7.50,7.64,7.00,7.565
+18204531033,TANISHA TULI,Department of Germanic and Romance Studies,9.09,9.09,8.14,8.79,8.25,8.645
+18204531034,TARUN KUMAR,Department of Germanic and Romance Studies,6.55,5.91,5.36,5.50,6.25,5.871
+18204531035,VISHAL JOY TOPPO,Department of Germanic and Romance Studies,5.82,5.36,5.57,5.93,7.50,6.032
+18204531036,VISHWAJEET RAI,Department of Germanic and Romance Studies,6.18,5.82,5.79,3.57,6.00,5.403
+18204531037,ZEBA AMIR,Department of Germanic and Romance Studies,8.09,8.36,7.50,7.36,7.25,7.677
+18204531038,TENZIN CHIME,Department of Germanic and Romance Studies,6.18,4.36,5.21,0.86,6.75,4.548
+18204531040,ABU RAYYAN,Department of Germanic and Romance Studies,5.45,5.55,5.64,6.00,6.25,5.790

@@ -1,18 +1,17 @@
-RollNo,Name,College,Sem1,Average
-19003708004,DIWANSHI GAUR,Atma Ram Sanatan Dharam College,6.75,6.75
-19003708002,AYUSHI GUPTA,Atma Ram Sanatan Dharam College,6.5,6.5
-19003708003,DIVYA KUMARI,Atma Ram Sanatan Dharam College,6.25,6.25
-19003708014,RAISA DAS,Atma Ram Sanatan Dharam College,6,6
-19003708005,GAYATRI MOHANTY,Atma Ram Sanatan Dharam College,5.75,5.75
-19003708007,KHUSHBOO KUMARI,Atma Ram Sanatan Dharam College,5.5,5.5
-19003708008,KIRITI CHOUDHARY,Atma Ram Sanatan Dharam College,5.5,5.5
-19003708012,NINGOMBAM GEETANJALI DEVI,Atma Ram Sanatan Dharam College,5.5,5.5
-19003708006,GEETIKA RAO,Atma Ram Sanatan Dharam College,5.25,5.25
-19003708017,VIVEK KUMAR,Atma Ram Sanatan Dharam College,5,5
-19003708010,MICHELLE LALNUNMAWII,Atma Ram Sanatan Dharam College,5,5
-19003708016,URAVASHI SHARMA,Atma Ram Sanatan Dharam College,4.75,4.75
-19003708009,KIRITI KUMAR,Atma Ram Sanatan Dharam College,4.5,4.5
-19003708013,PRIYA THAKUR,Atma Ram Sanatan Dharam College,3,3
-19003708001,ARJUN BANERJEE,Atma Ram Sanatan Dharam College,3,3
-19003708015,SAKSHI YADAV,Atma Ram Sanatan Dharam College,0.0,0.0
-19003708011,NAWANG JIGME LOSAL BHUTIA,Atma Ram Sanatan Dharam College,0.0,0.0
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19003708001,ARJUN BANERJEE,Atma Ram Sanatan Dharam College,6.50,6.00,6.00,6.156
+19003708002,AYUSHI GUPTA,Atma Ram Sanatan Dharam College,6.50,7.00,6.50,6.688
+19003708003,DIVYA KUMARI,Atma Ram Sanatan Dharam College,6.25,6.79,6.75,6.609
+19003708004,DIWANSHI GAUR,Atma Ram Sanatan Dharam College,6.75,7.00,6.50,6.766
+19003708005,GAYATRI MOHANTY,Atma Ram Sanatan Dharam College,6.00,6.17,6.25,6.141
+19003708006,GEETIKA RAO,Atma Ram Sanatan Dharam College,5.25,6.54,6.50,6.125
+19003708007,KHUSHBOO KUMARI,Atma Ram Sanatan Dharam College,6.00,6.00,6.25,6.078
+19003708008,KIRTI CHOUDHARY,Atma Ram Sanatan Dharam College,6.00,6.17,6.25,6.141
+19003708009,KIRTI KUMAR,Atma Ram Sanatan Dharam College,6.50,6.00,6.75,6.391
+19003708010,MICHELLE LALNUNMAWII,Atma Ram Sanatan Dharam College,5.00,6.21,6.50,5.922
+19003708011,NAWANG JIGME LOSAL BHUTIA,Atma Ram Sanatan Dharam College,6.50,4.79,6.75,5.938
+19003708012,NINGOMBAM GEETANJALI DEVI,Atma Ram Sanatan Dharam College,5.50,1.17,0.00,2.156
+19003708013,PRIYA THAKUR,Atma Ram Sanatan Dharam College,3.00,0.00,0.00,0.938
+19003708014,RAISA DAS,Atma Ram Sanatan Dharam College,6.25,6.38,6.50,6.375
+19003708016,URVASHI SHARMA,Atma Ram Sanatan Dharam College,6.25,6.58,6.50,6.453
+19003708017,VIVEK KUMAR,Atma Ram Sanatan Dharam College,6.00,5.79,6.25,6.000

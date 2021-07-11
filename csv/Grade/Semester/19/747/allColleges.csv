@@ -1,55 +1,48 @@
-RollNo,Name,College,SemI,SemII,Average
-19234747001,AASHISH,Department of Computer Science,6.2,7.17,6.685
-19234747002,ABHISHEK SHARMA,Department of Computer Science,7.8,8.17,7.985
-19234747003,ADITI MISHRA,Department of Computer Science,8.6,8.21,8.405
-19234747004,AKUL BHARTI,Department of Computer Science,5.4,6.58,5.99
-19234747005,AMIT KUMAR,Department of Computer Science,5.8,6.96,6.38
-19234747006,ANJALI SAJWAN,Department of Computer Science,6.4,6.96,6.68
-19234747007,ANKITA YADAV,Department of Computer Science,6.8,7.38,7.09
-19234747008,ANKUSH KHANNA,Department of Computer Science,8,8.58,8.29
-19234747009,ANUSHKA GURJAR,Department of Computer Science,7.4,7.96,7.68
-19234747010,ASHWANI VARSHNEY,Department of Computer Science,8.2,9,8.6
-19234747011,BHARAT SARDANA,Department of Computer Science,7,8.38,7.69
-19234747012,BHARTI,Department of Computer Science,6.8,7.17,6.985
-19234747013,CECILIA RUBY TIRKEY,Department of Computer Science,5.4,6.96,6.18
-19234747014,DEEKSHA JOSHI,Department of Computer Science,7.2,8.38,7.79
-19234747015,DEEPANSHU MANI,Department of Computer Science,1.6,5.54,3.57
-19234747016,DEVANSH SHARMA,Department of Computer Science,7,8.17,7.585
-19234747017,DEVANSHU,Department of Computer Science,7.6,8,7.8
-19234747018,DEVENDER GUPTA,Department of Computer Science,9,9.79,9.395
-19234747019,DIKSHA GUPTA,Department of Computer Science,8,8.38,8.19
-19234747020,DIVYA SINGH,Department of Computer Science,8,8.58,8.29
-19234747021,FARHEEN SIDDIQUI,Department of Computer Science,7,8.17,7.585
-19234747022,HIMANSHU DABAS,Department of Computer Science,5.8,6.96,6.38
-19234747023,HITESH YADAV,Department of Computer Science,7.2,7.58,7.39
-19234747024,JASPREET SINGH DHANI,Department of Computer Science,9,9.79,9.395
-19234747025,KAJAL GUPTA,Department of Computer Science,8.4,8.79,8.595
-19234747026,KAJAL RATHORE,Department of Computer Science,5.2,6.96,6.08
-19234747027,MANSI SAXENA,Department of Computer Science,5.4,7.38,6.39
-19234747028,MONIKA YADAV,Department of Computer Science,5.8,6.96,6.38
-19234747029,NAVENDU DUARI,Department of Computer Science,7.8,7.75,7.775
-19234747030,NEERAJ,Department of Computer Science,5.4,6.75,6.075
-19234747031,NEHA TOMAR,Department of Computer Science,8.6,9.17,8.885
-19234747032,NIKHIL AGARWAL,Department of Computer Science,6.6,7.75,7.175
-19234747033,NIKITA BANSAL,Department of Computer Science,8.8,8.58,8.69
-19234747034,NITESH YADAV,Department of Computer Science,7.2,8.17,7.685
-19234747035,POOJA SIKKA,Department of Computer Science,7.8,8.38,8.09
-19234747036,PRIYANKA NEGI,Department of Computer Science,8.2,8.42,8.31
-19234747037,RASHIKA BAGRI,Department of Computer Science,6.4,7.38,6.89
-19234747038,RIYA YADAV,Department of Computer Science,7.6,8.17,7.885
-19234747039,ROHIT RANA,Department of Computer Science,9.4,9.17,9.285
-19234747040,ROHIT SHAKYA,Department of Computer Science,5,6.75,5.875
-19234747041,RUCHIKA BHATT,Department of Computer Science,9.8,9.79,9.795
-19234747042,SAACHI,Department of Computer Science,9,9.17,9.085
-19234747043,SAHIL PRAJAPATI,Department of Computer Science,8.4,8.96,8.68
-19234747044,SANYAM JAIN,Department of Computer Science,6.8,7.79,7.295
-19234747045,SEEMA BHATI,Department of Computer Science,4.6,6.38,5.49
-19234747046,SHIVALI MEENA,Department of Computer Science,2.8,5.75,4.275
-19234747047,SIMRAN MEHRA,Department of Computer Science,6.4,7.58,6.99
-19234747049,SUPRIYA KATYAL,Department of Computer Science,7.8,9,8.4
-19234747050,SUSMITA SIKDAR,Department of Computer Science,3.8,6.38,5.09
-19234747051,YADAV PRASHANT SHRIKANT,Department of Computer Science,3.8,5.58,4.69
-19234747052,YATIN KAPOOR,Department of Computer Science,9.4,10,9.7
-19234747053,ANUP KUMAR,Department of Computer Science,2.6,5.96,4.28
-19234747054,PRADEEP RAI,Department of Computer Science,6,7.38,6.69
-19234747055,SONAM SHAKYA,Department of Computer Science,5.2,6.75,5.975
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19234747001,AASHISH,Department of Computer Science,6.20,7.17,8.79,7.370
+19234747002,ABHISHEK SHARMA,Department of Computer Science,7.80,8.17,9.00,8.315
+19234747003,ADITI MISHRA,Department of Computer Science,8.60,8.21,9.21,8.671
+19234747004,AKUL BHARTI,Department of Computer Science,5.40,6.58,8.17,6.699
+19234747005,AMIT KUMAR,Department of Computer Science,5.80,6.96,8.38,7.027
+19234747006,ANJALI SAJWAN,Department of Computer Science,6.40,6.96,8.79,7.370
+19234747007,ANKITA YADAV,Department of Computer Science,6.80,7.38,8.17,7.438
+19234747008,ANKUSH KHANNA,Department of Computer Science,8.00,8.58,8.83,8.466
+19234747009,ANUSHKA GURJAR,Department of Computer Science,7.40,7.96,8.17,7.836
+19234747010,ASHWANI VARSHNEY,Department of Computer Science,9.40,9.00,10.00,9.466
+19234747011,BHARAT SARDANA,Department of Computer Science,7.00,8.38,9.04,8.123
+19234747012,BHARTI,Department of Computer Science,6.80,7.17,9.21,7.712
+19234747013,CECILIA RUBY TIRKEY,Department of Computer Science,5.40,6.96,8.42,6.904
+19234747014,DEEKSHA JOSHI,Department of Computer Science,7.20,8.38,9.42,8.315
+19234747015,DEEPANSHU MANI,Department of Computer Science,6.40,5.54,8.83,6.918
+19234747016,DEVANSH SHARMA,Department of Computer Science,7.00,8.17,9.21,8.110
+19234747017,DEVANSHU,Department of Computer Science,7.60,8.00,9.25,8.274
+19234747018,DEVENDER GUPTA,Department of Computer Science,9.00,9.79,9.83,9.534
+19234747019,DIKSHA GUPTA,Department of Computer Science,8.00,8.38,8.63,8.329
+19234747020,DIVYA SINGH,Department of Computer Science,8.00,8.58,8.42,8.329
+19234747021,FARHEEN SIDDIQUI,Department of Computer Science,7.00,8.17,8.58,7.904
+19234747022,HIMANSHU DABAS,Department of Computer Science,5.80,6.96,9.21,7.301
+19234747023,HITESH YADAV,Department of Computer Science,7.20,7.58,9.00,7.918
+19234747024,JASPREET SINGH DHANI,Department of Computer Science,9.00,9.79,9.58,9.452
+19234747025,KAJAL GUPTA,Department of Computer Science,8.40,8.79,9.21,8.795
+19234747026,KAJAL RATHORE,Department of Computer Science,5.20,6.96,8.58,6.890
+19234747027,MANSI SAXENA,Department of Computer Science,5.40,7.38,8.63,7.110
+19234747028,MONIKA YADAV,Department of Computer Science,8.00,6.96,9.42,8.123
+19234747029,NAVENDU DUARI,Department of Computer Science,7.80,7.75,8.38,7.973
+19234747030,NEERAJ,Department of Computer Science,5.40,6.75,7.96,6.685
+19234747031,NEHA TOMAR,Department of Computer Science,8.60,9.17,9.00,8.918
+19234747032,NIKHIL AGARWAL,Department of Computer Science,6.60,7.75,8.58,7.630
+19234747033,NIKITA BANSAL,Department of Computer Science,8.80,8.58,8.38,8.589
+19234747034,NITESH YADAV,Department of Computer Science,7.20,8.17,9.42,8.247
+19234747035,POOJA SIKKA,Department of Computer Science,7.80,8.38,8.79,8.315
+19234747036,PRIYANKA NEGI,Department of Computer Science,8.20,8.42,9.00,8.534
+19234747037,RASHIKA BAGRI,Department of Computer Science,6.40,7.38,8.79,7.507
+19234747038,RIYA YADAV,Department of Computer Science,7.60,8.17,9.00,8.247
+19234747039,ROHIT RANA,Department of Computer Science,9.40,9.17,8.38,8.986
+19234747040,ROHIT SHAKYA,Department of Computer Science,5.00,6.75,8.38,6.685
+19234747041,RUCHIKA BHATT,Department of Computer Science,9.80,9.79,9.38,9.658
+19234747042,SAACHI,Department of Computer Science,9.00,9.17,9.79,9.315
+19234747043,SAHIL PRAJAPATI,Department of Computer Science,8.40,8.96,8.38,8.575
+19234747044,SANYAM JAIN,Department of Computer Science,6.80,7.79,8.79,7.781
+19234747045,SEEMA BHATI,Department of Computer Science,4.60,6.38,8.17,6.356
+19234747046,SHIVALI MEENA,Department of Computer Science,6.80,5.75,8.58,7.041
+19234747047,SIMRAN MEHRA,Department of Computer Science,6.40,7.58,8.79,7.575

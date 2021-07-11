@@ -1,63 +1,57 @@
-RollNo,Name,College,CLASSICAL INDIAN PHILOSOPHY-I,GREEK PHILOSOPHY,FORMAL LOGIC,ETHICS
-19349723001,AASTHA CHAUHAN,Department of Philosophy (SDC),6,5,4,4
-19349723002,AAYUSHI TRIPATHY,Department of Philosophy (SDC),5,6,4,4
-19349723003,ABHIMANYU,Department of Philosophy (SDC),4,4,5,4
-19349723004,ABHISHEK KUMAR TIWARI,Department of Philosophy (SDC),6,5,5,5
-19349723005,ADISHA AGARWAL,Department of Philosophy (SDC),4,4,4,4
-19349723006,ADITYA JAGDAMBA TRIPATHI,Department of Philosophy (SDC),0,0,8,6
-19349723007,AKABO SUMI,Department of Philosophy (SDC),6,5,6,5
-19349723008,ANAMIKA SHARMA,Department of Philosophy (SDC),0,0,0,0
-19349723009,ANIKET SINGH,Department of Philosophy (SDC),6,6,9,7
-19349723010,ANKIT DHRAK,Department of Philosophy (SDC),6,5,4,0
-19349723011,ANKIT TRIPATHI,Department of Philosophy (SDC),6,4,4,5
-19349723012,ANSHU,Department of Philosophy (SDC),6,6,8,5
-19349723013,ATAHAR KAMAL,Department of Philosophy (SDC),6,6,9,6
-19349723014,BAISHALI CHAKRABORTY,Department of Philosophy (SDC),6,6,4,7
-19349723015,BHAMINI BERI,Department of Philosophy (SDC),6,5,6,5
-19349723016,CHANDAN RAJ,Department of Philosophy (SDC),0,0,0,0
-19349723017,DEEPSHIKHA SHARMA,Department of Philosophy (SDC),0,7,9,6
-19349723018,DIKSHA,Department of Philosophy (SDC),0,6,0,7
-19349723019,GYANENDRA TIWARI,Department of Philosophy (SDC),7,6,9,6
-19349723020,HARENDRA CHAUDHARY,Department of Philosophy (SDC),5,4,0,5
-19349723021,KANCHAN SHARMA,Department of Philosophy (SDC),7,6,5,7
-19349723022,KAPIL KUMAR SHARMA,Department of Philosophy (SDC),6,6,0,6
-19349723023,KARMVEER,Department of Philosophy (SDC),6,5,5,0
-19349723024,KHUSHBU SAINANI,Department of Philosophy (SDC),6,6,7,6
-19349723025,KOTLA SHIVA KUMAR,Department of Philosophy (SDC),6,4,5,5
-19349723026,LAXMI BISHT,Department of Philosophy (SDC),6,6,8,7
-19349723027,MADHAW PANDEY,Department of Philosophy (SDC),6,6,6,7
-19349723028,MAHIMA JAIN,Department of Philosophy (SDC),6,6,6,7
-19349723029,MAYURI SINGH,Department of Philosophy (SDC),6,6,6,6
-19349723030,MD. ABUL FAJAL,Department of Philosophy (SDC),4,6,4,6
-19349723031,MERIN C. RAPHEAL,Department of Philosophy (SDC),4,0,0,0
-19349723032,NAVEEN YADAV,Department of Philosophy (SDC),5,5,0,6
-19349723033,NAVYA AGRAWAL,Department of Philosophy (SDC),6,6,4,6
-19349723034,NEHA RAJAN,Department of Philosophy (SDC),6,6,7,6
-19349723035,PAPPU TUDU,Department of Philosophy (SDC),4,4,4,4
-19349723036,PRANAV TYAGI,Department of Philosophy (SDC),5,5,6,7
-19349723037,PREKSHA YADAV,Department of Philosophy (SDC),6,6,8,4
-19349723038,PRIYANKA SINGH YADAV,Department of Philosophy (SDC),4,4,0,4
-19349723039,PRIYANSHI KHAKI,Department of Philosophy (SDC),0,4,0,0
-19349723040,RAHUL KUMAR,Department of Philosophy (SDC),6,4,8,5
-19349723041,RASHI,Department of Philosophy (SDC),0,0,0,4
-19349723042,RAVIRANJAN KUMAR,Department of Philosophy (SDC),6,4,0,5
-19349723043,RITESH SHAH,Department of Philosophy (SDC),4,4,4,5
-19349723044,ROHIT,Department of Philosophy (SDC),6,4,6,5
-19349723045,RUCHIKA RAWAT,Department of Philosophy (SDC),6,4,8,6
-19349723046,SALONI JAIN,Department of Philosophy (SDC),6,6,0,6
-19349723047,SAMBHAVI SINHA,Department of Philosophy (SDC),6,7,8,7
-19349723048,SANA ANAND,Department of Philosophy (SDC),0,0,0,0
-19349723049,SANJEEV KUMAR YADAV,Department of Philosophy (SDC),0,0,0,0
-19349723050,SHUBHAM KUMAR,Department of Philosophy (SDC),6,6,8,7
-19349723051,SHWETA DAS,Department of Philosophy (SDC),6,4,10,5
-19349723052,SIDDHANT KHAMKAR,Department of Philosophy (SDC),6,4,0,0
-19349723053,SONALI KUSHWAH,Department of Philosophy (SDC),6,5,5,4
-19349723054,TAMANA SINDHER,Department of Philosophy (SDC),7,6,10,7
-19349723055,TANMAY PURI,Department of Philosophy (SDC),7,8,9,7
-19349723056,TANYA PRASAD,Department of Philosophy (SDC),6,6,7,7
-19349723057,VIKASH JAISWAL,Department of Philosophy (SDC),0,4,5,0
-19349723058,VINOD KUMAR YADAV,Department of Philosophy (SDC),6,5,4,6
-19349723059,VIVEK,Department of Philosophy (SDC),6,5,4,6
-19349723060,YASHI SHARMA,Department of Philosophy (SDC),5,4,0,0
-19349723061,YASHIKA SHARMA,Department of Philosophy (SDC),6,7,8,7
-19349723062,YOGESH,Department of Philosophy (SDC),5,5,0,4
+RollNo,Name,College,CLASSICAL INDIAN PHILOSOPHY-I,GREEK PHILOSOPHY,FORMAL LOGIC,ETHICS,CLASSICAL INDIAN PHILOSOPHY II,MODERN WESTERN PHILOSOPHY,META ETHICS,EPISTEMOLOGY,APPLIED ETHICS,ANALYTIC PHILOSOPHY,CONTINENTAL PHILOSOPHY-I,SOCIAL AND POLITICAL PHILOSOPHY(INDIAN),PHILOSOPHY OF HUMAN RIGHTS,TOPICS IN COGNITIVE SCIENCE,SOCIAL AND POLITICAL PHILOSOPHY (WESTERN),CRITICAL PHILOSOPHICAL TRADITIONS OF INDIA,PHILOSOPHY OF B.R. AMBEDKAR,INDIAN LOGIC,OUTLINE OF CULTURE & CIVILIZATION AS DEPICTED IN SANSKRIT LITERATURE,CONTEMPORARY INDIAN REFLECTIONS ON VEDANTA,ORIGIN AND DEVELOPMENT OF BUDDHIST SECTS IN INDIA AND THEIR PHILOSOPHY,FEMINIST FILM THEORY,ORIGIN AND DEVELOPMENT OF MAHAYANA BUDDHISM,PHILOSOPHY OF MIND (INDIAN),INDIAN AESTHETICS,ENVIRONMENTAL ETHICS,PHILOSOPHY OF MIND (WESTERN),POLITICAL LIBERALISM AND COMMUNITARIANISM,FOUNDATIONS OF COGNITIVE SCIENCE,DEVOTION IN CHINESE BUDDHISM,POLITICAL INSTITUTIONS AND PROCESSES IN INDIA
+19349723001,AASTHA CHAUHAN,Department of Philosophy (SDC),6,5,7,4,5,4,4,5,5,4,6,7,7,,,,,,,,,,,,,,,,,,
+19349723002,AAYUSH TRIPATHY,Department of Philosophy (SDC),5,6,4,4,5,5,5,5,,5,7,,7,5,7,,,,,,,,,,,,,,,,
+19349723003,ABHIMANYU,Department of Philosophy (SDC),4,4,5,4,4,0,,4,,4,6,7,,4,,0,8,,,,,,,,,,,,,,
+19349723004,ABHISHEK KUMAR TIWARI,Department of Philosophy (SDC),6,5,8,6,6,6,,,,6,7,7,,,,7,,5,7,6,,,,,,,,,,,
+19349723006,ADITYA JAGDAMBA TRIPATHI,Department of Philosophy (SDC),4,6,8,6,5,0,0,5,,5,6,6,,,,,,,,,0,4,,,,,,,,,
+19349723007,AKABO SUMI,Department of Philosophy (SDC),6,5,6,5,6,6,,6,,6,7,,7,,,6,,,,,,,6,7,,,,,,,
+19349723009,ANIKET SINGH,Department of Philosophy (SDC),6,6,9,7,7,7,6,,7,6,7,8,,,,,8,7,,,,,,,,,,,,,
+19349723010,ANKIT DHRAIK,Department of Philosophy (SDC),6,5,4,6,5,5,,5,,6,7,8,7,,,6,,,,,0,,,,,,,,,,
+19349723011,ANKIT TRIPATHI,Department of Philosophy (SDC),6,5,8,5,5,4,,,,6,5,7,,,,6,8,5,6,,,,,,,,,,,,
+19349723012,ANSHU,Department of Philosophy (SDC),6,6,8,5,7,6,,6,,7,7,7,,,,7,7,,8,,,,,,,,,,,,
+19349723013,ATAHAR KAMAL,Department of Philosophy (SDC),6,6,9,6,6,6,,,,5,7,8,,,,7,,7,7,,,,,,8,,,,,,
+19349723014,BAISHALI CHAKRABORTY,Department of Philosophy (SDC),6,6,4,7,6,6,6,6,7,6,7,,,,7,,,,,,,,,,,7,,,,,
+19349723015,BHAMINI BERI,Department of Philosophy (SDC),6,5,6,5,6,5,6,6,,6,7,,,,,,,,,,,8,7,,,,6,,,,
+19349723017,DEEPSHIKHA SHARMA,Department of Philosophy (SDC),6,7,9,6,7,7,7,7,,6,7,,,8,7,,,,,,,8,,,,,,,,,
+19349723018,DIKSHA,Department of Philosophy (SDC),7,6,8,7,6,5,5,4,5,6,7,,,,7,,,,,,,,,,,,,7,,,
+19349723019,GYANENDRA TIWARI,Department of Philosophy (SDC),7,6,9,6,7,7,7,7,5,6,7,,,,6,,,,,,,,,,,,,,6,,
+19349723020,HARENDRA CHAUDHARY,Department of Philosophy (SDC),5,4,0,5,0,5,,,,4,5,0,,,,5,0,6,6,,,,,,,,,,,,
+19349723021,KANCHAN SHARMA,Department of Philosophy (SDC),7,6,5,7,6,6,,6,,5,7,7,,,,7,8,,8,,,,,,,,,,,,
+19349723022,KAPIL KUMAR SHARMA,Department of Philosophy (SDC),6,6,8,6,6,6,,,,6,7,,,,,7,,6,8,,,,,,,5,6,,,,
+19349723023,KARMVEER,Department of Philosophy (SDC),6,5,5,7,6,6,,6,,8,7,,,6,8,6,,,,,,,,,,6,,,,,
+19349723024,KHUSHBU SAINANI,Department of Philosophy (SDC),6,6,7,6,7,7,7,7,8,6,7,,,,7,,,,,,,,,,,8,,,,,
+19349723025,KOTLA SHIVA KUMAR,Department of Philosophy (SDC),6,5,8,5,5,5,4,,,6,7,7,,5,,,,5,,,,,,,8,,,,,,
+19349723026,LAXMI BISHT,Department of Philosophy (SDC),6,6,8,7,7,6,6,6,,6,7,8,,,,,,,8,,,7,,,,,,,,,
+19349723027,MADHAW PANDEY,Department of Philosophy (SDC),6,6,6,7,6,7,,,,6,7,,,,7,7,8,8,8,,,,,,,,,,,,
+19349723028,MAHIMA JAIN,Department of Philosophy (SDC),6,6,6,7,7,7,6,7,,7,6,,,,,,,,8,,,8,,7,,,,,,,
+19349723029,MAYURI SINGH,Department of Philosophy (SDC),6,6,6,6,6,6,,6,,7,6,,8,,7,6,,,8,,,,,,,,,,,,
+19349723030,MD. ABUL FAJAL,Department of Philosophy (SDC),5,6,8,6,6,5,5,6,,6,7,,,6,7,,,,,,,,,,,6,,,,,
+19349723031,MERIN C. RAPHEAL,Department of Philosophy (SDC),4,5,5,4,4,0,,0,,5,6,,,4,,4,8,,,,,,,,,,6,,,,
+19349723032,NAVEEN YADAV,Department of Philosophy (SDC),5,5,6,6,5,5,5,5,,6,7,,,6,7,,,,,,,,,,,,,8,,,
+19349723033,NAVYA AGRAWAL,Department of Philosophy (SDC),6,6,4,6,6,6,,5,6,6,7,8,,,,7,8,,,,,,,,,,,,,,
+19349723034,NEHA RAJAN,Department of Philosophy (SDC),6,6,7,6,7,5,6,7,,5,7,,,,7,,8,,7,,,,,,,,,,,,
+19349723035,PAPPU TUDU,Department of Philosophy (SDC),4,4,4,4,5,4,,,,0,0,0,,,,5,,4,6,,,,,,6,,,,,,
+19349723036,PRANAV TYAGI,Department of Philosophy (SDC),5,5,6,7,6,6,,6,,6,7,,,7,7,6,,,,8,,,,,,,,,,,
+19349723037,PREKSHA YADAV,Department of Philosophy (SDC),6,6,8,4,6,6,,,,6,7,7,,,,7,8,6,8,,,,,,,,,,,,
+19349723038,PRIYANKA SINGH YADAV,Department of Philosophy (SDC),4,4,6,4,4,4,,4,,5,7,7,6,,,5,,,6,,,,,,,,,,,,
+19349723039,PRIYANSHI KHAKI,Department of Philosophy (SDC),5,4,6,5,0,0,,0,,6,6,7,,,,4,8,,,,,,,,,,,,,5,
+19349723040,RAHUL KUMAR,Department of Philosophy (SDC),6,4,8,5,6,6,,,,6,7,7,,,,6,,6,7,6,,,,,,,,,,,
+19349723041,RASHI,Department of Philosophy (SDC),4,4,4,4,4,0,,,,6,7,,,,,4,,4,,,,6,5,7,,,,,,,
+19349723043,RITESH SHAH,Department of Philosophy (SDC),4,4,9,5,6,5,,,,6,7,8,,,,6,9,5,7,,,,,,,,,,,,
+19349723044,ROHIT,Department of Philosophy (SDC),6,4,6,5,6,5,,,,6,7,,,,,7,,5,7,7,,,,7,,,,,,,
+19349723045,RUCHIKA RAWAT,Department of Philosophy (SDC),6,4,8,6,7,6,,7,6,7,7,,8,,6,7,,,,,,,,,,,,,,,
+19349723046,SALONI JAIN,Department of Philosophy (SDC),6,6,7,6,6,5,6,6,,6,8,,7,7,,,,,,,,,,,,,4,,,,
+19349723047,SAMBHAVI SINHA,Department of Philosophy (SDC),6,7,8,7,7,7,6,7,,7,7,8,,6,,,,,,,,,,,,7,,,,,
+19349723050,SHUBHAM KUMAR,Department of Philosophy (SDC),6,6,8,7,7,7,,,,4,6,,,8,,8,,7,,,,,,5,,5,,,,,
+19349723051,SHWETA DAS,Department of Philosophy (SDC),6,4,10,5,7,6,6,6,6,5,7,7,6,,,,,,,,,,,,,,,,,,
+19349723052,SIDDHANT KHAMKAR,Department of Philosophy (SDC),6,7,7,5,5,4,4,5,,6,7,,,4,,,,,,,,,,,,,8,,9,,
+19349723053,SONALI KUSHWAH,Department of Philosophy (SDC),6,5,5,7,6,5,5,,,5,7,7,,5,,,8,5,,,,,,,,,,,,,
+19349723054,TAMANNA SINDHER,Department of Philosophy (SDC),7,6,10,7,7,7,,7,,5,8,,,7,,8,,,,,,,,,,,6,,6,,
+19349723055,TANMAY PURI,Department of Philosophy (SDC),7,8,9,7,7,8,7,8,,7,8,,,8,7,,,,,,,,,,,7,,,,,
+19349723056,TANYA PRASAD,Department of Philosophy (SDC),6,6,7,7,6,7,7,7,6,6,7,,,,7,,,,,,,8,,,,,,,,,
+19349723057,VIKASH JAISWAL,Department of Philosophy (SDC),6,4,5,6,5,4,,,5,5,5,7,,,,6,8,5,,,,,,,,,,,,,
+19349723058,VINOD KUMAR YADAV,Department of Philosophy (SDC),6,5,7,6,5,5,,,,6,6,8,,,,6,,5,7,7,,,,,,,,,,,
+19349723059,VIVEK,Department of Philosophy (SDC),6,5,4,6,6,5,5,,,6,7,7,,4,,,,5,,,,,,,8,,,,,,
+19349723060,YASHI SHARMA,Department of Philosophy (SDC),6,5,7,6,4,4,5,5,,5,7,,,,6,,,,,,,7,,,,,,,,,4
+19349723061,YASHIKA SHARMA,Department of Philosophy (SDC),6,7,8,7,7,6,7,7,7,7,7,,8,,7,,,,,,,,,,,,,,,,
+19349723062,YOGESH,Department of Philosophy (SDC),5,5,0,4,5,4,,,,5,7,,,5,,6,,5,,,,,,5,,,,,0,,

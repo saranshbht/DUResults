@@ -1,32 +1,29 @@
-RollNo,Name,College,SemI,SemII,SemIII,SemIV,Average
-18075529001,AARTI YADAV,Shyama Prasad Mukherji College for Women,4.91,4.91,6,6.21,5.508
-18075529002,DIMPLE ATTRI,Shyama Prasad Mukherji College for Women,5.64,5.73,5.79,6,5.79
-18075529004,HIMANSHI GUPTA,Shyama Prasad Mukherji College for Women,7.82,8.36,9.14,9,8.58
-18075529006,HEMLATA,Shyama Prasad Mukherji College for Women,6.73,4.91,6.36,7.79,6.447
-18075529007,KAJAL,Shyama Prasad Mukherji College for Women,6.73,6.27,5.86,7,6.465
-18075529008,KAUSHALYA KADYAN,Shyama Prasad Mukherji College for Women,4.91,5,4.79,6,5.175
-18075529009,KHUSHBOO,Shyama Prasad Mukherji College for Women,6.18,6,6,7,6.295
-18075529010,KAVITA,Shyama Prasad Mukherji College for Women,7,8,7.5,8.43,7.732
-18075529011,KANCHAN,Shyama Prasad Mukherji College for Women,5.55,3.55,6,6,5.275
-18075529012,KOMAL,Shyama Prasad Mukherji College for Women,6.73,7.91,7.64,8.21,7.623
-18075529013,KANCHAN SHARMA,Shyama Prasad Mukherji College for Women,4.36,3.55,0,3.71,2.905
-18075529014,LAXMI DEVI,Shyama Prasad Mukherji College for Women,5.73,5.91,0,2.29,3.482
-18075529015,MANSI PANWAR,Shyama Prasad Mukherji College for Women,7,7.91,7.93,8.21,7.763
-18075529016,MANSI BANSAL,Shyama Prasad Mukherji College for Women,5.45,3,6.29,7.64,5.595
-18075529017,NIKITA BHARDWAJ,Shyama Prasad Mukherji College for Women,6.45,6.36,5.79,6.79,6.348
-18075529018,NANDINI PANDEY,Shyama Prasad Mukherji College for Women,6.36,5.55,0,4.36,4.067
-18075529019,PRAGYNA MAYEE RATH,Shyama Prasad Mukherji College for Women,4.27,5.82,4.43,5.21,4.933
-18075529020,POOJA YADAV,Shyama Prasad Mukherji College for Women,5.45,6,5.71,6.57,5.933
-18075529021,POONAM,Shyama Prasad Mukherji College for Women,5.73,6,5.57,6.57,5.968
-18075529022,POONAM,Shyama Prasad Mukherji College for Women,6.27,6,5.5,6.21,5.995
-18075529023,PRIYANKA SARDAR,Shyama Prasad Mukherji College for Women,5.55,8,7.21,8,7.19
-18075529024,RUPANSHI CHANDELA,Shyama Prasad Mukherji College for Women,6.91,8.18,8.14,8.21,7.86
-18075529025,REEMA,Shyama Prasad Mukherji College for Women,5.55,5.27,0,3.14,3.49
-18075529026,SONAL,Shyama Prasad Mukherji College for Women,4.82,3,5.64,6.57,5.008
-18075529027,SIMRAN,Shyama Prasad Mukherji College for Women,6.18,5.73,5.64,6.79,6.085
-18075529029,SUMAN BARMAN,Shyama Prasad Mukherji College for Women,4.55,4.36,5.21,6.43,5.138
-18075529030,SONIA,Shyama Prasad Mukherji College for Women,7.27,6.55,5.93,6.64,6.598
-18075529031,KRISHNA RATHORE,Shyama Prasad Mukherji College for Women,6,2.45,5.43,6.57,5.112
-18075529032,SHIKHA,Shyama Prasad Mukherji College for Women,4.91,3.27,0,4.43,3.152
-18075529033,MADHU JHA,Shyama Prasad Mukherji College for Women,5.64,5.18,6.21,7,6.008
-18075529034,KHUSHBU,Shyama Prasad Mukherji College for Women,5.18,5.27,0,1.07,2.88
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Overall CGPA
+18075529001,AARTI YADAV,Shyama Prasad Mukherji College for Women,4.91,4.91,6.00,6.21,7.50,5.952
+18075529004,HIMANSHI GUPTA,Shyama Prasad Mukherji College for Women,7.82,8.36,9.14,9.00,9.75,8.855
+18075529006,HEMLATA,Shyama Prasad Mukherji College for Women,6.73,4.91,6.36,7.79,7.75,6.758
+18075529007,KAJAL,Shyama Prasad Mukherji College for Women,6.73,6.27,5.86,7.00,6.50,6.468
+18075529008,KAUSHALYA KADYAN,Shyama Prasad Mukherji College for Women,4.91,5.00,4.79,6.00,7.25,5.597
+18075529009,KHUSHBOO,Shyama Prasad Mukherji College for Women,6.18,6.00,6.00,7.00,6.75,6.403
+18075529010,KAVITA,Shyama Prasad Mukherji College for Women,7.00,8.00,7.50,8.43,9.25,8.048
+18075529011,KANCHAN,Shyama Prasad Mukherji College for Women,5.55,3.55,6.00,6.00,6.75,5.629
+18075529012,KOMAL,Shyama Prasad Mukherji College for Women,6.73,7.91,7.64,8.21,8.00,7.726
+18075529013,KANCHAN SHARMA,Shyama Prasad Mukherji College for Women,4.36,3.55,6.21,3.71,7.00,5.000
+18075529015,MANSI PANWAR,Shyama Prasad Mukherji College for Women,7.00,7.91,7.93,8.21,9.25,8.081
+18075529016,MANSI BANSAL,Shyama Prasad Mukherji College for Women,5.45,3.00,6.29,7.64,9.00,6.387
+18075529017,NIKITA BHARDWAJ,Shyama Prasad Mukherji College for Women,6.45,6.36,5.79,6.79,8.00,6.661
+18075529018,NANDINI PANDEY,Shyama Prasad Mukherji College for Women,6.36,5.55,6.14,4.36,7.00,5.839
+18075529019,PRAGYNA MAYEE RATH,Shyama Prasad Mukherji College for Women,5.91,5.82,4.43,5.21,7.00,5.613
+18075529020,POOJA YADAV,Shyama Prasad Mukherji College for Women,5.45,6.00,5.71,6.57,7.25,6.210
+18075529021,POONAM,Shyama Prasad Mukherji College for Women,5.73,6.00,5.57,6.57,7.75,6.323
+18075529022,POONAM,Shyama Prasad Mukherji College for Women,6.27,6.00,5.50,6.21,8.25,6.419
+18075529023,PRIYANKA SARDAR,Shyama Prasad Mukherji College for Women,5.55,8.00,7.21,8.00,6.50,7.097
+18075529024,RUPANSHI CHANDELA,Shyama Prasad Mukherji College for Women,6.91,8.18,8.14,8.21,8.50,8.016
+18075529026,SONAL,Shyama Prasad Mukherji College for Women,4.82,3.00,5.64,6.57,6.50,5.403
+18075529027,SIMRAN,Shyama Prasad Mukherji College for Women,6.18,5.73,5.64,6.79,7.50,6.371
+18075529029,SUMAN BARMAN,Shyama Prasad Mukherji College for Women,4.55,4.36,5.21,6.43,5.50,5.274
+18075529030,SONIA,Shyama Prasad Mukherji College for Women,7.27,6.55,5.93,6.64,8.00,6.839
+18075529031,KRISHNA RATHORE,Shyama Prasad Mukherji College for Women,6.00,2.45,5.43,6.57,7.50,5.661
+18075529032,SHIKHA,Shyama Prasad Mukherji College for Women,4.91,3.27,6.00,4.43,6.25,5.016
+18075529033,MADHU JHA,Shyama Prasad Mukherji College for Women,5.64,5.18,6.21,7.00,7.50,6.355
+18075529034,KHUSHBU,Shyama Prasad Mukherji College for Women,5.18,5.27,4.71,1.07,5.00,4.129

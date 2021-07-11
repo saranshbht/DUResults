@@ -1,16 +1,15 @@
-RollNo,Name,College,Sem1,Average
-19204710005,MOLINA SHARMA,Department of Germanic and Romance Studies,7.75,7.75
-19204710002,GUNJAN KINGER,Department of Germanic and Romance Studies,7.5,7.5
-19204710003,KAREENA KAPOOR,Department of Germanic and Romance Studies,7.5,7.5
-19204710012,RUCHIKA TUTEJA,Department of Germanic and Romance Studies,7.5,7.5
-19204710015,SRISHTI SOOD,Department of Germanic and Romance Studies,7.5,7.5
-19204710011,ROSHNI MISHRA,Department of Germanic and Romance Studies,7,7
-19204710009,RICHA CHOUDHARY,Department of Germanic and Romance Studies,6.5,6.5
-19204710013,SHRUTI SHARMA,Department of Germanic and Romance Studies,6.5,6.5
-19204710014,SIMRAN NAGPAL,Department of Germanic and Romance Studies,6.5,6.5
-19204710001,BINESH,Department of Germanic and Romance Studies,6,6
-19204710006,PARNIKA SETHI,Department of Germanic and Romance Studies,5.5,5.5
-19204710004,MOHD SULTAN,Department of Germanic and Romance Studies,5,5
-19204710008,PURU DUA,Department of Germanic and Romance Studies,5,5
-19204710010,ROHIT KUMAR,Department of Germanic and Romance Studies,4.75,4.75
-19204710007,PRIYANSHI MEHTA,Department of Germanic and Romance Studies,0.0,0.0
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19204710001,BINESH,Department of Germanic and Romance Studies,6.00,6.21,6.50,6.237
+19204710002,GUNJAN KINGER,Department of Germanic and Romance Studies,7.50,7.21,7.50,7.407
+19204710003,KAREENA KAPOOR,Department of Germanic and Romance Studies,7.50,7.68,7.50,7.559
+19204710004,MOHD SULTAN,Department of Germanic and Romance Studies,5.00,5.21,6.00,5.407
+19204710005,MOLINA SHARMA,Department of Germanic and Romance Studies,7.75,8.21,8.25,8.068
+19204710006,PARNIKA SETHI,Department of Germanic and Romance Studies,5.50,6.21,8.25,6.661
+19204710008,PURU DUA,Department of Germanic and Romance Studies,5.00,5.63,6.25,5.627
+19204710009,RICHA CHOUDHARY,Department of Germanic and Romance Studies,6.50,6.74,6.00,6.407
+19204710010,ROHIT KUMAR,Department of Germanic and Romance Studies,4.75,5.47,6.25,5.492
+19204710011,ROSHNI MISHRA,Department of Germanic and Romance Studies,7.00,6.74,7.75,7.169
+19204710012,RUCHIKA TUTEJA,Department of Germanic and Romance Studies,7.50,7.21,8.00,7.576
+19204710013,SHRUTI SHARMA,Department of Germanic and Romance Studies,6.50,7.21,7.25,6.983
+19204710014,SIMRAN NAGPAL,Department of Germanic and Romance Studies,6.50,6.68,7.50,6.898
+19204710015,SRISHTI SOOD,Department of Germanic and Romance Studies,7.50,7.42,8.00,7.644

@@ -1,13 +1,12 @@
-RollNo,Name,College,Sem1,Average
-19058713002,AKHILESH YADAV,Ram Lal Anand College (Day),7.2,7.2
-19058713001,ADITYA,Ram Lal Anand College (Day),7,7
-19058713006,KIRAN,Ram Lal Anand College (Day),7,7
-19058713003,ANURAG CHAUDHARY,Ram Lal Anand College (Day),6.8,6.8
-19058713009,RAM NIWAS SHARMA,Ram Lal Anand College (Day),6.6,6.6
-19058713007,KULDEEP SINGH,Ram Lal Anand College (Day),6.4,6.4
-19058713008,POOJA,Ram Lal Anand College (Day),6.4,6.4
-19058713005,GOVIND KUMAR,Ram Lal Anand College (Day),6,6
-19058713010,RANJEET,Ram Lal Anand College (Day),5.8,5.8
-19058713004,DEEPAK KUMAR,Ram Lal Anand College (Day),5,5
-19058713011,SOMESH KUMAR,Ram Lal Anand College (Day),4.2,4.2
-19058713012,VIJAY KUMAR MEHATO,Ram Lal Anand College (Day),0.0,0.0
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19058713001,ADITYA,Ram Lal Anand College (Day),7.00,7.21,7.00,7.068
+19058713002,AKHILESH YADAV,Ram Lal Anand College (Day),7.20,8.00,7.20,7.459
+19058713003,ANURAG CHAUDHARY,Ram Lal Anand College (Day),6.80,7.21,6.60,6.865
+19058713004,DEEPAK KUMAR,Ram Lal Anand College (Day),6.20,7.00,7.20,6.797
+19058713005,GOVIND KUMAR,Ram Lal Anand College (Day),6.00,7.00,6.00,6.324
+19058713006,KIRAN,Ram Lal Anand College (Day),7.00,7.21,7.00,7.068
+19058713007,KULDEEP SINGH,Ram Lal Anand College (Day),6.40,7.00,7.20,6.865
+19058713008,POOJA,Ram Lal Anand College (Day),6.40,7.00,7.20,6.865
+19058713009,RAM NIWAS SHARMA,Ram Lal Anand College (Day),7.00,7.21,7.00,7.068
+19058713010,RANJEET,Ram Lal Anand College (Day),5.80,7.00,7.20,6.662
+19058713011,SOMESH KUMAR,Ram Lal Anand College (Day),6.40,6.83,7.00,6.743

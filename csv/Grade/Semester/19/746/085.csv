@@ -1,12 +1,12 @@
-RollNo,Name,College,Sem1,Average
-19085746006,RISHABH SAXENA,Zakir Husain Delhi College (Day),7.67,7.67
-19085746009,SURAJ,Zakir Husain Delhi College (Day),7.33,7.33
-19085746001,ANIMESH BANERJEE,Zakir Husain Delhi College (Day),7,7
-19085746005,PARAS SHAKLA,Zakir Husain Delhi College (Day),7,7
-19085746007,SHASHANK KUMAR MISHRA,Zakir Husain Delhi College (Day),7,7
-19085746003,DINESH KUMAR,Zakir Husain Delhi College (Day),6.67,6.67
-19085746002,DEBI PRASANNA BHUYAN,Zakir Husain Delhi College (Day),6,6
-19085746010,VEENAPRIYA K. M.,Zakir Husain Delhi College (Day),6,6
-19085746004,G ANURADHIKA,Zakir Husain Delhi College (Day),5.67,5.67
-19085746008,SHIVAM YADAV,Zakir Husain Delhi College (Day),5.33,5.33
-19085746011,VIVEK KUMAR,Zakir Husain Delhi College (Day),5,5
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19085746001,ANIMESH BANERJEE,Zakir Husain Delhi College (Day),7.00,7.67,8.33,7.733
+19085746002,DEBI PRASANNA BHUYAN,Zakir Husain Delhi College (Day),6.00,7.00,8.50,7.300
+19085746003,DINESH KUMAR,Zakir Husain Delhi College (Day),6.67,7.33,8.67,7.667
+19085746004,G ANURADHIKA,Zakir Husain Delhi College (Day),5.67,7.67,8.50,7.400
+19085746005,PARAS SHAKLA,Zakir Husain Delhi College (Day),7.00,8.00,8.17,7.767
+19085746006,RISHABH SAXENA,Zakir Husain Delhi College (Day),7.67,7.67,8.33,7.933
+19085746007,SHASHANK KUMAR MISHRA,Zakir Husain Delhi College (Day),7.00,7.67,8.50,7.800
+19085746008,SHIVAM YADAV,Zakir Husain Delhi College (Day),5.33,7.00,8.00,6.900
+19085746009,SURAJ,Zakir Husain Delhi College (Day),7.33,8.00,7.50,7.600
+19085746010,VEENAPRIYA K. M.,Zakir Husain Delhi College (Day),6.00,7.33,8.17,7.267
+19085746011,VIVEK KUMAR,Zakir Husain Delhi College (Day),6.00,7.00,8.50,7.300

@@ -1,25 +1,24 @@
-RollNo,Name,College,SemI,SemII,Average
-19085558001,AAKIFA,Zakir Husain Delhi College (Day),7.91,9,8.455
-19085558002,ANKIT RAJPUT,Zakir Husain Delhi College (Day),7.73,8.27,8
-19085558003,ANKUSH YADAV,Zakir Husain Delhi College (Day),6.09,6.91,6.5
-19085558004,ANUJ PAL,Zakir Husain Delhi College (Day),6.91,7.82,7.365
-19085558005,ANUJ PAL,Zakir Husain Delhi College (Day),6.91,7.64,7.275
-19085558006,ASHWANI KUMAR,Zakir Husain Delhi College (Day),6.36,6.91,6.635
-19085558007,DEEPAK YADAV,Zakir Husain Delhi College (Day),5.55,7,6.275
-19085558008,DEVESH,Zakir Husain Delhi College (Day),2.09,6.73,4.41
-19085558009,HITESH KUMAR YADAV,Zakir Husain Delhi College (Day),8,8,8
-19085558010,KARMANYU MEHTA,Zakir Husain Delhi College (Day),6.36,4.91,5.635
-19085558011,MANISHA GUPTA,Zakir Husain Delhi College (Day),8.55,9,8.775
-19085558012,MOHAMMAD ABBAS,Zakir Husain Delhi College (Day),5.82,6,5.91
-19085558013,MOHIT NAIN,Zakir Husain Delhi College (Day),6.55,5.73,6.14
-19085558014,POOJA KUMARI,Zakir Husain Delhi College (Day),6.27,8,7.135
-19085558015,PRIYANSHU JOGI,Zakir Husain Delhi College (Day),7,6.45,6.725
-19085558016,PRIYANSHU TIWARI,Zakir Husain Delhi College (Day),6.91,8,7.455
-19085558017,RAHUL KUMAR,Zakir Husain Delhi College (Day),8.91,8.73,8.82
-19085558018,SATYAM SHUKLA,Zakir Husain Delhi College (Day),6.64,7.09,6.865
-19085558019,SHUBHAM,Zakir Husain Delhi College (Day),8.91,9,8.955
-19085558020,SHUBHAM SHARMA,Zakir Husain Delhi College (Day),7.09,8,7.545
-19085558021,STANZIN YOUDON,Zakir Husain Delhi College (Day),7.27,8,7.635
-19085558022,VIJAY MEHRA,Zakir Husain Delhi College (Day),8.91,9.27,9.09
-19085558023,VIPIN,Zakir Husain Delhi College (Day),7.09,8,7.545
-19085558024,ZEESHAN ASIF,Zakir Husain Delhi College (Day),4.45,4.64,4.545
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19085558001,AAKIFA,Zakir Husain Delhi College (Day),7.91,9.00,8.79,8.583
+19085558002,ANKIT RAJPUT,Zakir Husain Delhi College (Day),7.73,8.27,9.21,8.472
+19085558003,ANKUSH YADAV,Zakir Husain Delhi College (Day),6.09,6.91,8.21,7.167
+19085558004,ANUJ PAL,Zakir Husain Delhi College (Day),6.91,7.82,8.57,7.833
+19085558005,ANUJ PAL,Zakir Husain Delhi College (Day),6.91,7.64,7.21,7.250
+19085558006,ASHWANI KUMAR,Zakir Husain Delhi College (Day),6.36,6.91,8.79,7.472
+19085558007,DEEPAK YADAV,Zakir Husain Delhi College (Day),5.55,7.00,9.21,7.417
+19085558008,DEVESH,Zakir Husain Delhi College (Day),4.82,6.73,8.79,6.944
+19085558009,HITESH KUMAR YADAV,Zakir Husain Delhi College (Day),8.00,8.00,8.57,8.222
+19085558011,MANISHA GUPTA,Zakir Husain Delhi College (Day),8.55,9.00,9.36,9.000
+19085558012,MOHAMMAD ABBAS,Zakir Husain Delhi College (Day),5.82,6.00,8.00,6.722
+19085558013,MOHIT NAIN,Zakir Husain Delhi College (Day),6.55,5.73,8.43,7.028
+19085558014,POOJA KUMARI,Zakir Husain Delhi College (Day),6.27,8.00,8.93,7.833
+19085558015,PRIYANSHU JOGI,Zakir Husain Delhi College (Day),7.00,6.45,9.36,7.750
+19085558016,PRIYANSHU TIWARI,Zakir Husain Delhi College (Day),6.91,8.00,9.21,8.139
+19085558017,RAHUL KUMAR,Zakir Husain Delhi College (Day),8.91,8.73,9.14,8.944
+19085558018,SATYAM SHUKLA,Zakir Husain Delhi College (Day),6.64,7.09,9.00,7.694
+19085558019,SHUBHAM,Zakir Husain Delhi College (Day),8.91,9.00,9.00,8.972
+19085558020,SHUBHAM SHARMA,Zakir Husain Delhi College (Day),7.09,8.00,9.00,8.111
+19085558021,STANZIN YOUDON,Zakir Husain Delhi College (Day),7.27,8.00,8.71,8.056
+19085558022,VIJAY MEHRA,Zakir Husain Delhi College (Day),8.91,9.27,9.36,9.194
+19085558023,VIPIN,Zakir Husain Delhi College (Day),7.09,8.00,8.57,7.944
+19085558024,ZEESHAN ASIF,Zakir Husain Delhi College (Day),4.45,4.64,8.00,5.889

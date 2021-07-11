@@ -1,17 +1,17 @@
-RollNo,Name,College,Sem1,Average
-19085724003,GAURAV PANDEY,Zakir Husain Delhi College (Day),6.5,6.5
-19085724010,MD TANVEER AMIN,Zakir Husain Delhi College (Day),6.5,6.5
-19085724002,ARUNIMA SUNIL BABU,Zakir Husain Delhi College (Day),6.25,6.25
-19085724001,AAFIYA QURESHI,Zakir Husain Delhi College (Day),6,6
-19085724006,IHA RASHMI VERMA,Zakir Husain Delhi College (Day),6,6
-19085724016,VICTOR JAMATIA,Zakir Husain Delhi College (Day),6,6
-19085724014,SARIKA,Zakir Husain Delhi College (Day),5.75,5.75
-19085724015,SAYEED AHMED,Zakir Husain Delhi College (Day),5.75,5.75
-19085724013,SANTOSH HUIDROM,Zakir Husain Delhi College (Day),5.5,5.5
-19085724011,NGAWANG KUNGA,Zakir Husain Delhi College (Day),5,5
-19085724004,HARSHIT,Zakir Husain Delhi College (Day),4.75,4.75
-19085724007,KAUSHIK KUMAR,Zakir Husain Delhi College (Day),4.5,4.5
-19085724009,MANSIMRAN KAUR SACHDEVA,Zakir Husain Delhi College (Day),4.5,4.5
-19085724012,ROHIT,Zakir Husain Delhi College (Day),4.5,4.5
-19085724005,HEMANT,Zakir Husain Delhi College (Day),4.25,4.25
-19085724008,LALIT BOD,Zakir Husain Delhi College (Day),4,4
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19085724001,AAFIYA QURESHI,Zakir Husain Delhi College (Day),6.00,5.78,6.75,6.190
+19085724002,ARUNIMA SUNIL BABU,Zakir Husain Delhi College (Day),6.25,6.00,6.50,6.259
+19085724003,GAURAV PANDEY,Zakir Husain Delhi College (Day),6.50,6.00,6.75,6.431
+19085724004,HARSHIT,Zakir Husain Delhi College (Day),4.75,4.44,6.00,5.086
+19085724005,HEMANT,Zakir Husain Delhi College (Day),5.75,5.22,5.25,5.414
+19085724006,IHA RASHMI VERMA,Zakir Husain Delhi College (Day),6.00,6.22,7.00,6.414
+19085724007,KAUSHIK KUMAR,Zakir Husain Delhi College (Day),6.00,5.78,6.75,6.190
+19085724008,LALIT BOD,Zakir Husain Delhi College (Day),5.25,5.22,6.25,5.586
+19085724009,MANSIMRAN KAUR SACHDEVA,Zakir Husain Delhi College (Day),6.00,5.78,7.00,6.276
+19085724010,TANVEER AMIN,Zakir Husain Delhi College (Day),6.50,6.00,5.75,6.086
+19085724011,NGAWANG KUNGA,Zakir Husain Delhi College (Day),5.00,5.50,6.75,5.759
+19085724012,ROHIT,Zakir Husain Delhi College (Day),6.00,5.72,6.00,5.914
+19085724013,SANTOSH HUIDROM,Zakir Husain Delhi College (Day),5.50,6.22,6.50,6.069
+19085724014,SARIKA,Zakir Husain Delhi College (Day),5.75,5.72,6.50,6.000
+19085724015,SAYEED AHMED,Zakir Husain Delhi College (Day),5.75,5.72,6.00,5.828
+19085724016,VICTOR JAMATIA,Zakir Husain Delhi College (Day),6.00,5.44,6.50,6.000

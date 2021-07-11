@@ -1,46 +1,43 @@
-RollNo,Name,College,SemI,SemII,Average
-19085533001,ADIBA,Zakir Husain Delhi College (Day),3.27,6.18,4.725
-19085533002,AFREEN,Zakir Husain Delhi College (Day),5.91,6.82,6.365
-19085533003,AQSA QURESHI,Zakir Husain Delhi College (Day),6.09,7.27,6.68
-19085533004,ASGAR ALI,Zakir Husain Delhi College (Day),5.55,4.36,4.955
-19085533005,ASHFIYA KHURSHEED,Zakir Husain Delhi College (Day),6.55,6.82,6.685
-19085533006,ASJAD KAMAL,Zakir Husain Delhi College (Day),7,7.73,7.365
-19085533007,AZHAR SIDDIQUI,Zakir Husain Delhi College (Day),5.45,4.82,5.135
-19085533008,AZHARUDDIN,Zakir Husain Delhi College (Day),8.09,8.18,8.135
-19085533009,DILNAWAZ ARIF,Zakir Husain Delhi College (Day),7,7.73,7.365
-19085533010,HALEEMA RIZWAN,Zakir Husain Delhi College (Day),7.18,8,7.59
-19085533011,ILMA,Zakir Husain Delhi College (Day),3.82,5.64,4.73
-19085533012,IMTIYAZ HUSSAIN,Zakir Husain Delhi College (Day),4.55,2.45,3.5
-19085533013,INSHA ZAINAB,Zakir Husain Delhi College (Day),6,7,6.5
-19085533014,IQRA PARVEEN,Zakir Husain Delhi College (Day),7.09,7.45,7.27
-19085533015,IQRA WAJID,Zakir Husain Delhi College (Day),5.27,1.82,3.545
-19085533016,JAHIR KHAN,Zakir Husain Delhi College (Day),5,5.73,5.365
-19085533017,KM. MUSKAN RANI,Zakir Husain Delhi College (Day),6,7,6.5
-19085533018,LAIBA SUNDUS ABEDIN,Zakir Husain Delhi College (Day),5.55,6.73,6.14
-19085533019,MD. NOORULLAH,Zakir Husain Delhi College (Day),4.82,6.73,5.775
-19085533020,MOHAMMAD AZAM,Zakir Husain Delhi College (Day),7.18,7.73,7.455
-19085533021,MOHD. ASHRAF,Zakir Husain Delhi College (Day),5.91,7,6.455
-19085533022,MOHD. AZIM,Zakir Husain Delhi College (Day),6,7,6.5
-19085533023,MOHD. MASOOM,Zakir Husain Delhi College (Day),6.73,8,7.365
-19085533024,MOHD. SAIFULLAH,Zakir Husain Delhi College (Day),6.45,7.55,7
-19085533025,MOHD. SANIR,Zakir Husain Delhi College (Day),5.18,5.18,5.18
-19085533026,MOHD. SOHAIL,Zakir Husain Delhi College (Day),5.73,3.27,4.5
-19085533027,MOHD. TAHIR,Zakir Husain Delhi College (Day),4.82,7.18,6
-19085533028,MOHD. USAMA,Zakir Husain Delhi College (Day),7.27,8.45,7.86
-19085533029,MOHD. ZIYAUDDIN,Zakir Husain Delhi College (Day),5.91,7.27,6.59
-19085533030,MUSKAN,Zakir Husain Delhi College (Day),4.09,6.18,5.135
-19085533031,PARVEZ,Zakir Husain Delhi College (Day),4.91,5.91,5.41
-19085533032,RAFIA BANO,Zakir Husain Delhi College (Day),7.55,9,8.275
-19085533033,RUBAB,Zakir Husain Delhi College (Day),7.18,8,7.59
-19085533034,RUQAIYA IFTEKHAR,Zakir Husain Delhi College (Day),6.27,7.45,6.86
-19085533035,SAJIDA PARVEEN,Zakir Husain Delhi College (Day),4.73,7.18,5.955
-19085533036,SANA RABBI,Zakir Husain Delhi College (Day),7,7.45,7.225
-19085533037,SARFARAZ AHMAD,Zakir Husain Delhi College (Day),5.91,6.91,6.41
-19085533038,SHAMA,Zakir Husain Delhi College (Day),7.09,7.55,7.32
-19085533039,SIMRA,Zakir Husain Delhi College (Day),6.64,6.82,6.73
-19085533040,SUFIA,Zakir Husain Delhi College (Day),6.73,7.73,7.23
-19085533041,SUMAIYYA PARVEEN,Zakir Husain Delhi College (Day),7,8,7.5
-19085533042,TAYYABA BEGUM,Zakir Husain Delhi College (Day),8.36,8.82,8.59
-19085533043,WAHID HUSSAIN,Zakir Husain Delhi College (Day),6.18,7,6.59
-19085533044,WASEEM AHMAD,Zakir Husain Delhi College (Day),6.27,7,6.635
-19085533045,YAHYA KHAN,Zakir Husain Delhi College (Day),6.27,6.73,6.5
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19085533001,ADIBA,Zakir Husain Delhi College (Day),5.73,6.18,8.14,6.806
+19085533002,AFREEN,Zakir Husain Delhi College (Day),5.91,6.82,7.36,6.750
+19085533003,AQSA QURESHI,Zakir Husain Delhi College (Day),6.09,7.27,6.43,6.583
+19085533004,ASGAR ALI,Zakir Husain Delhi College (Day),6.36,4.36,6.79,5.917
+19085533005,ASHFIYA KHURSHEED,Zakir Husain Delhi College (Day),6.55,6.82,7.93,7.167
+19085533006,ASJAD KAMAL,Zakir Husain Delhi College (Day),7.00,7.73,7.14,7.278
+19085533007,AZHAR SIDDIQUI,Zakir Husain Delhi College (Day),5.45,4.82,7.57,6.083
+19085533008,AZHARUDDIN,Zakir Husain Delhi College (Day),8.09,8.18,8.00,8.083
+19085533009,DILNAWAZ ARIF,Zakir Husain Delhi College (Day),7.00,7.73,7.93,7.583
+19085533010,HALEEMA RIZWAN,Zakir Husain Delhi College (Day),7.18,8.00,7.79,7.667
+19085533011,ILMA,Zakir Husain Delhi College (Day),4.91,5.64,7.43,6.111
+19085533012,IMTIYAZ HUSSAIN,Zakir Husain Delhi College (Day),4.55,2.45,5.71,4.361
+19085533013,INSHA ZAINAB,Zakir Husain Delhi College (Day),6.00,7.00,7.93,7.056
+19085533014,IQRA PARVEEN,Zakir Husain Delhi College (Day),7.09,7.45,8.36,7.694
+19085533016,JAHIR KHAN,Zakir Husain Delhi College (Day),5.00,5.73,7.07,6.028
+19085533017,KM. MUSKAN RANI,Zakir Husain Delhi College (Day),6.00,7.00,8.14,7.139
+19085533018,LAIBA SUNDUS ABEDIN,Zakir Husain Delhi College (Day),5.55,6.73,6.64,6.333
+19085533019,MD. NOORULLAH,Zakir Husain Delhi College (Day),6.18,6.73,7.93,7.028
+19085533020,MOHAMMAD AZAM,Zakir Husain Delhi College (Day),7.18,7.73,8.79,7.972
+19085533021,MOHD. ASHRAF,Zakir Husain Delhi College (Day),5.91,7.00,6.14,6.333
+19085533022,MOHD. AZIM,Zakir Husain Delhi College (Day),6.00,7.00,6.36,6.444
+19085533023,MOHD. MASOOM,Zakir Husain Delhi College (Day),6.73,8.00,7.79,7.528
+19085533024,MOHD. SAIFULLAH,Zakir Husain Delhi College (Day),6.45,7.55,7.36,7.139
+19085533025,MOHD. SANIR,Zakir Husain Delhi College (Day),5.18,5.18,6.43,5.667
+19085533026,MOHD. SOHAIL,Zakir Husain Delhi College (Day),5.73,3.27,6.71,5.361
+19085533027,MOHD. TAHIR,Zakir Husain Delhi College (Day),6.45,7.18,7.14,6.944
+19085533028,MOHD. USAMA,Zakir Husain Delhi College (Day),7.27,8.45,9.14,8.361
+19085533029,MOHD. ZIYAUDDIN,Zakir Husain Delhi College (Day),5.91,7.27,7.57,6.972
+19085533030,MUSKAN,Zakir Husain Delhi College (Day),5.45,6.18,7.57,6.500
+19085533031,PARVEZ,Zakir Husain Delhi College (Day),6.00,5.91,8.36,6.889
+19085533032,RAFIA BANO,Zakir Husain Delhi College (Day),7.55,9.00,8.71,8.444
+19085533033,RUBAB,Zakir Husain Delhi College (Day),7.18,8.00,8.14,7.806
+19085533034,RUQAIYA IFTEKHAR,Zakir Husain Delhi College (Day),6.27,7.45,6.79,6.833
+19085533035,SAJIDA PARVEEN,Zakir Husain Delhi College (Day),4.73,7.18,8.79,7.056
+19085533037,SARFARAZ AHMAD,Zakir Husain Delhi College (Day),5.91,6.91,7.79,6.944
+19085533039,SIMRA,Zakir Husain Delhi College (Day),6.64,6.82,7.86,7.167
+19085533040,SUFIA,Zakir Husain Delhi College (Day),6.73,7.73,8.43,7.694
+19085533041,SUMAIYYA PARVEEN,Zakir Husain Delhi College (Day),7.00,8.00,7.57,7.528
+19085533042,TAYYABA BEGUM,Zakir Husain Delhi College (Day),8.36,8.82,8.71,8.639
+19085533043,WAHID HUSSAIN,Zakir Husain Delhi College (Day),6.18,7.00,5.36,6.111
+19085533044,WASEEM AHMAD,Zakir Husain Delhi College (Day),6.27,7.00,6.57,6.611
+19085533045,YAHYA KHAN,Zakir Husain Delhi College (Day),6.27,6.73,6.93,6.667

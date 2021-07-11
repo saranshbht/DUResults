@@ -1,21 +1,20 @@
-RollNo,Name,College,SemI,SemII,SemIII,SemIV,Average
-18069516001,BABITA,Sri Guru Nanak Dev Khalsa College,6.09,6,6.79,7.64,6.63
-18069516002,ABHISHEK TYAGI,Sri Guru Nanak Dev Khalsa College,6.27,6.27,6.5,3.79,5.707
-18069516003,RAHUL SINGH,Sri Guru Nanak Dev Khalsa College,7.45,7.64,7.57,8.64,7.825
-18069516004,SAURABH RAI,Sri Guru Nanak Dev Khalsa College,7.27,6.82,6.07,5.5,6.415
-18069516005,KUNAL OBEROI,Sri Guru Nanak Dev Khalsa College,7,6.73,5.14,6,6.218
-18069516006,AMIT VISHWKARMA,Sri Guru Nanak Dev Khalsa College,6.73,5.91,5.79,5.71,6.035
-18069516007,SONU,Sri Guru Nanak Dev Khalsa College,6.73,6.45,7,7.64,6.955
-18069516008,KAMAL JEET KAUR,Sri Guru Nanak Dev Khalsa College,6.64,6.18,7.36,8.21,7.098
-18069516009,RAMANDEEP KAUR,Sri Guru Nanak Dev Khalsa College,5.55,4,5.07,6.43,5.263
-18069516010,JASMEET KAUR,Sri Guru Nanak Dev Khalsa College,5.09,1.82,5.29,3.21,3.853
-18069516011,SHUBHAM SHUKLA,Sri Guru Nanak Dev Khalsa College,6.45,6.18,6.86,7.43,6.73
-18069516012,DEEPAK KUMAR GAUR,Sri Guru Nanak Dev Khalsa College,5.82,5.73,6.79,3.86,5.55
-18069516013,WAISH,Sri Guru Nanak Dev Khalsa College,6.18,6.91,7.07,7.21,6.843
-18069516014,MANISHA,Sri Guru Nanak Dev Khalsa College,6.09,6.45,7,7,6.635
-18069516016,ASHAR KHAN,Sri Guru Nanak Dev Khalsa College,6.18,5.18,6.36,6.14,5.965
-18069516017,SHAZIYA,Sri Guru Nanak Dev Khalsa College,6.18,6.82,5.79,3.43,5.555
-18069516018,SAMREEN PARVEEN,Sri Guru Nanak Dev Khalsa College,6.64,6.73,5.14,7.43,6.485
-18069516019,YOGESH,Sri Guru Nanak Dev Khalsa College,6,4.91,5.86,3.64,5.103
-18069516020,NARAYAN,Sri Guru Nanak Dev Khalsa College,5.73,6.36,6.29,5.71,6.022
-18069516021,ROHIT,Sri Guru Nanak Dev Khalsa College,6.27,6.45,6.93,7.64,6.822
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Overall CGPA
+18069516001,BABITA,Sri Guru Nanak Dev Khalsa College,6.09,6.00,6.79,7.64,7.75,6.903
+18069516002,ABHISHEK TYAGI,Sri Guru Nanak Dev Khalsa College,6.27,6.27,6.50,3.79,7.50,6.000
+18069516003,RAHUL SINGH,Sri Guru Nanak Dev Khalsa College,7.45,7.64,7.57,8.64,8.25,7.935
+18069516004,SAURABH RAI,Sri Guru Nanak Dev Khalsa College,7.27,6.82,6.07,5.50,7.75,6.613
+18069516005,KUNAL OBEROI,Sri Guru Nanak Dev Khalsa College,7.00,6.73,6.29,6.00,8.25,6.806
+18069516006,AMIT VISHWKARMA,Sri Guru Nanak Dev Khalsa College,6.73,5.91,5.79,5.71,7.25,6.242
+18069516007,SONU,Sri Guru Nanak Dev Khalsa College,6.73,6.45,7.00,7.64,7.25,7.048
+18069516008,KAMAL JEET KAUR,Sri Guru Nanak Dev Khalsa College,6.64,6.18,7.36,8.21,8.50,7.435
+18069516009,RAMANDEEP KAUR,Sri Guru Nanak Dev Khalsa College,5.55,4.00,5.07,6.43,5.25,5.306
+18069516010,JASMEET KAUR,Sri Guru Nanak Dev Khalsa College,5.09,1.82,5.29,3.21,7.75,4.645
+18069516011,SHUBHAM SHUKLA,Sri Guru Nanak Dev Khalsa College,6.45,6.18,6.86,7.43,6.00,6.629
+18069516012,DEEPAK KUMAR GAUR,Sri Guru Nanak Dev Khalsa College,5.82,5.73,6.79,3.86,7.25,5.855
+18069516013,WAISH,Sri Guru Nanak Dev Khalsa College,6.18,6.91,7.07,7.21,8.50,7.194
+18069516014,MANISHA,Sri Guru Nanak Dev Khalsa College,6.09,6.45,7.00,7.00,7.25,6.790
+18069516016,ASHAR KHAN,Sri Guru Nanak Dev Khalsa College,6.18,5.18,6.36,6.14,8.25,6.435
+18069516018,SAMREEN PARVEEN,Sri Guru Nanak Dev Khalsa College,6.64,6.73,6.64,7.43,8.50,7.194
+18069516019,YOGESH,Sri Guru Nanak Dev Khalsa College,6.00,4.91,5.86,3.64,7.00,5.435
+18069516020,NARAYAN,Sri Guru Nanak Dev Khalsa College,5.73,6.36,6.29,5.71,7.75,6.355
+18069516021,ROHIT,Sri Guru Nanak Dev Khalsa College,6.27,6.45,6.93,7.64,8.25,7.145

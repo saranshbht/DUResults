@@ -1,36 +1,34 @@
-RollNo,Name,College,SemI,SemII,Average
-19204531001,YEONGJUN JO,Department of Germanic and Romance Studies,8.27,8.18,8.225
-19204531002,AAYATI BISHT,Department of Germanic and Romance Studies,4.55,4.09,4.32
-19204531003,AKARSHI RAJPUT,Department of Germanic and Romance Studies,7.91,8,7.955
-19204531004,ALISA PREM,Department of Germanic and Romance Studies,8.73,9,8.865
-19204531005,ARPAN KUMAR,Department of Germanic and Romance Studies,3.09,3.27,3.18
-19204531006,ASHISH,Department of Germanic and Romance Studies,8.55,9.27,8.91
-19204531007,ASHUTOSH BAJPAI,Department of Germanic and Romance Studies,8.64,8.73,8.685
-19204531008,ASMIT KAUR,Department of Germanic and Romance Studies,7.18,7.73,7.455
-19204531009,BHANU PRATAP SINGH,Department of Germanic and Romance Studies,8.64,9.27,8.955
-19204531010,BHUMIKA GUPTA,Department of Germanic and Romance Studies,5.45,5.91,5.68
-19204531011,DAKSH PRIYA,Department of Germanic and Romance Studies,6.09,6.73,6.41
-19204531012,DIPTI,Department of Germanic and Romance Studies,5.82,6.18,6
-19204531013,GUNGUN ARORA,Department of Germanic and Romance Studies,8.64,8.45,8.545
-19204531014,KARAN,Department of Germanic and Romance Studies,6.91,8,7.455
-19204531015,KARTHIKA,Department of Germanic and Romance Studies,7.73,8,7.865
-19204531016,KHUSHBOO,Department of Germanic and Romance Studies,5.64,6.18,5.91
-19204531017,KHUSHI KUMARI,Department of Germanic and Romance Studies,5.36,7.18,6.27
-19204531018,KIRTI GOEL,Department of Germanic and Romance Studies,8.45,8.73,8.59
-19204531019,LALIT KUMAR,Department of Germanic and Romance Studies,8,8.27,8.135
-19204531020,MANISHA BISWAS,Department of Germanic and Romance Studies,8.55,9.27,8.91
-19204531021,MD RAYEES AZAMI,Department of Germanic and Romance Studies,8.55,9,8.775
-19204531023,MOHD SHAD,Department of Germanic and Romance Studies,3.18,5.36,4.27
-19204531024,MUHAMED SHAMMAS,Department of Germanic and Romance Studies,7.82,8,7.91
-19204531025,NARENDER KUMAR,Department of Germanic and Romance Studies,7.91,8,7.955
-19204531026,NEHA,Department of Germanic and Romance Studies,8,8.27,8.135
-19204531027,RISHIKA AGARWAL,Department of Germanic and Romance Studies,6.27,7.73,7
-19204531028,RIYA ANAND,Department of Germanic and Romance Studies,9.55,9.27,9.41
-19204531029,RULI YADAV,Department of Germanic and Romance Studies,6.18,6.18,6.18
-19204531030,SANTOSH SINGH,Department of Germanic and Romance Studies,8.64,8.82,8.73
-19204531031,SAPNA,Department of Germanic and Romance Studies,5.09,5.91,5.5
-19204531032,SUGANDH NARANG,Department of Germanic and Romance Studies,9.55,9.55,9.55
-19204531033,SUNNY TYAGI,Department of Germanic and Romance Studies,8.27,7.73,8
-19204531034,TANVEER AHMAD,Department of Germanic and Romance Studies,8.36,9.27,8.815
-19204531035,VEDICA,Department of Germanic and Romance Studies,6.91,7.45,7.18
-19204531036,MOHAMMAD USMAN GHANI,Department of Germanic and Romance Studies,7.09,8,7.545
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19204531001,YEONGJUN JO,Department of Germanic and Romance Studies,8.27,8.18,0.00,5.028
+19204531002,AAYATI BISHT,Department of Germanic and Romance Studies,4.55,4.09,3.43,3.972
+19204531003,AKARSHI RAJPUT,Department of Germanic and Romance Studies,7.91,8.00,7.07,7.611
+19204531004,ALISA PREM,Department of Germanic and Romance Studies,8.73,9.00,8.43,8.694
+19204531005,ARPAN KUMAR,Department of Germanic and Romance Studies,3.09,3.27,1.71,2.611
+19204531006,ASHISH,Department of Germanic and Romance Studies,8.55,9.27,8.71,8.833
+19204531007,ASHUTOSH BAJPAI,Department of Germanic and Romance Studies,8.64,8.73,8.43,8.583
+19204531008,ASMIT KAUR,Department of Germanic and Romance Studies,7.18,7.73,5.93,6.861
+19204531009,BHANU PRATAP SINGH,Department of Germanic and Romance Studies,8.64,9.27,8.21,8.667
+19204531010,BHUMIKA GUPTA,Department of Germanic and Romance Studies,5.45,5.91,4.29,5.139
+19204531011,DAKSH PRIYA,Department of Germanic and Romance Studies,6.09,6.73,5.57,6.083
+19204531013,GUNGUN ARORA,Department of Germanic and Romance Studies,8.64,8.45,7.36,8.083
+19204531014,KARAN,Department of Germanic and Romance Studies,6.91,8.00,6.64,7.139
+19204531015,KARTHIKA,Department of Germanic and Romance Studies,7.73,8.00,7.14,7.583
+19204531016,KHUSHBOO,Department of Germanic and Romance Studies,5.64,6.18,5.64,5.806
+19204531018,KIRTI GOEL,Department of Germanic and Romance Studies,8.45,8.73,7.14,8.028
+19204531019,LALIT KUMAR,Department of Germanic and Romance Studies,8.00,8.27,6.86,7.639
+19204531020,MANISHA BISWAS,Department of Germanic and Romance Studies,8.55,9.27,8.57,8.778
+19204531021,MD RAYEES AZAMI,Department of Germanic and Romance Studies,8.55,9.00,8.00,8.472
+19204531023,MOHD SHAD,Department of Germanic and Romance Studies,3.18,5.36,0.00,2.611
+19204531024,MUHAMED SHAMMAS,Department of Germanic and Romance Studies,7.82,8.00,6.93,7.528
+19204531025,NARENDER KUMAR,Department of Germanic and Romance Studies,7.91,8.00,6.64,7.444
+19204531026,NEHA,Department of Germanic and Romance Studies,8.00,8.27,8.36,8.222
+19204531027,RISHIKA AGARWAL,Department of Germanic and Romance Studies,6.27,7.73,5.71,6.500
+19204531028,RIYA ANAND,Department of Germanic and Romance Studies,9.55,9.27,8.36,9.000
+19204531029,RULI YADAV,Department of Germanic and Romance Studies,6.18,6.18,5.86,6.056
+19204531030,SANTOSH SINGH,Department of Germanic and Romance Studies,8.64,8.82,8.14,8.500
+19204531031,SAPNA,Department of Germanic and Romance Studies,5.09,5.91,5.43,5.472
+19204531032,SUGANDH NARANG,Department of Germanic and Romance Studies,9.55,9.55,8.79,9.250
+19204531033,SUNNY TYAGI,Department of Germanic and Romance Studies,8.27,7.73,6.71,7.500
+19204531034,TANVEER AHMAD,Department of Germanic and Romance Studies,8.36,9.27,7.50,8.306
+19204531035,VEDICA,Department of Germanic and Romance Studies,6.91,7.45,7.64,7.361
+19204531036,MOHAMMAD USMAN GHANI,Department of Germanic and Romance Studies,7.09,8.00,6.93,7.306

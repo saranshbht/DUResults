@@ -1,18 +1,19 @@
-RollNo,Name,College,Sem1,Average
-19039728008,LATIKA SADH,Lady Shri Ram College for Women,8.5,8.5
-19039728005,JYOTSNA,Lady Shri Ram College for Women,7,7
-19039728007,LAKSHMI RANA,Lady Shri Ram College for Women,7,7
-19039728009,POONAM,Lady Shri Ram College for Women,7,7
-19039728017,VAISHALI VATS,Lady Shri Ram College for Women,6.75,6.75
-19039728004,JYOTI KUMARI,Lady Shri Ram College for Women,6.5,6.5
-19039728013,SADHANA YADAV,Lady Shri Ram College for Women,6.5,6.5
-19039728002,DIVYA,Lady Shri Ram College for Women,6.25,6.25
-19039728014,SHWETAMBRI KUMAR,Lady Shri Ram College for Women,6.25,6.25
-19039728012,SADBHAVANA MOHAN,Lady Shri Ram College for Women,6,6
-19039728010,POONAM MEENA,Lady Shri Ram College for Women,5.5,5.5
-19039728016,TULSI CHOUDHRY,Lady Shri Ram College for Women,5.5,5.5
-19039728003,HIMANSHI JAITLEY,Lady Shri Ram College for Women,5.25,5.25
-19039728015,SMRITI SUMAN,Lady Shri Ram College for Women,5.25,5.25
-19039728001,ANJALI,Lady Shri Ram College for Women,4.75,4.75
-19039728011,RITU,Lady Shri Ram College for Women,4.75,4.75
-19039728018,DIVYA YADAV,Lady Shri Ram College for Women,3.25,3.25
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19039728001,ANJALI,Lady Shri Ram College for Women,4.75,6.26,3.41,4.738
+19039728002,DIVYA,Lady Shri Ram College for Women,6.25,7.79,8.59,7.574
+19039728003,HIMANSHI JAITLEY,Lady Shri Ram College for Women,5.25,7.26,7.00,6.508
+19039728004,JYOTI KUMARI,Lady Shri Ram College for Women,6.50,7.79,7.77,7.361
+19039728005,JYOTSNA,Lady Shri Ram College for Women,7.00,8.26,7.77,7.672
+19039728006,KHUSHBU,Lady Shri Ram College for Women,6.50,8.00,8.73,7.770
+19039728007,LAKSHMI RANA,Lady Shri Ram College for Women,7.00,8.26,8.55,7.951
+19039728008,LATIKA SADH,Lady Shri Ram College for Women,8.50,9.26,9.55,9.115
+19039728009,POONAM,Lady Shri Ram College for Women,7.00,8.26,6.95,7.377
+19039728010,POONAM MEENA,Lady Shri Ram College for Women,5.50,7.00,7.55,6.705
+19039728011,RITU,Lady Shri Ram College for Women,4.75,6.53,6.82,6.049
+19039728012,SADBHAVANA MOHAN,Lady Shri Ram College for Women,6.00,7.79,7.00,6.918
+19039728013,SADHANA YADAV,Lady Shri Ram College for Women,6.50,7.79,6.23,6.803
+19039728014,SHWETAMBRI KUMAR,Lady Shri Ram College for Women,6.25,7.26,6.00,6.475
+19039728015,SMRITI SUMAN,Lady Shri Ram College for Women,5.25,6.53,6.00,5.918
+19039728016,TULSI CHOUDHRY,Lady Shri Ram College for Women,5.50,7.00,6.45,6.311
+19039728017,VAISHALI VATS,Lady Shri Ram College for Women,7.75,7.47,7.55,7.590
+19039728018,DIVYA YADAV,Lady Shri Ram College for Women,3.25,1.05,7.36,4.049

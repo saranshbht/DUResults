@@ -1,19 +1,19 @@
-RollNo,Name,College,SemI,SemII,SemIII,SemIV,Average
-18039529001,AKANKSHA,Lady Shri Ram College for Women,8.36,7.36,8.57,9.43,8.43
-18039529002,AKSHITA LOHIA,Lady Shri Ram College for Women,5.27,5.27,6.29,7.57,6.1
-18039529004,ANITA,Lady Shri Ram College for Women,5.91,6.27,7.93,8.43,7.135
-18039529005,ANUSHA,Lady Shri Ram College for Women,7.09,7,8.29,9,7.845
-18039529006,APARNA KUMARI,Lady Shri Ram College for Women,5.64,5.91,6.71,7.43,6.423
-18039529009,DEBESHI SENGUPTA,Lady Shri Ram College for Women,6.91,7.45,8.57,8.79,7.93
-18039529011,EKTA,Lady Shri Ram College for Women,6.82,6.82,6.71,8,7.088
-18039529012,JYOTI KUMARI,Lady Shri Ram College for Women,6.55,6.27,7.5,8.36,7.17
-18039529013,KAJAL KUMARI,Lady Shri Ram College for Women,4.73,5.09,5.93,8,5.938
-18039529014,LATESH,Lady Shri Ram College for Women,7.45,8.45,9.14,10,8.76
-18039529015,NIKITA,Lady Shri Ram College for Women,5.45,6.55,6.21,8,6.553
-18039529016,NIKITA,Lady Shri Ram College for Women,5,4.45,5.21,7.79,5.612
-18039529017,PAAYEL,Lady Shri Ram College for Women,5.73,6.45,6.86,7.79,6.707
-18039529018,PRIYANKA SHARMA,Lady Shri Ram College for Women,7.55,7.55,8.5,9,8.15
-18039529019,RAJLAKSHMI SHARMA,Lady Shri Ram College for Women,8.73,8,8.29,9,8.505
-18039529020,SONIA,Lady Shri Ram College for Women,5,5.73,6.5,8,6.308
-18039529021,SWATI,Lady Shri Ram College for Women,8.18,8,7.86,8.79,8.207
-18039529022,TANYA SONI,Lady Shri Ram College for Women,4.82,4.82,5.43,6.79,5.465
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Overall CGPA
+18039529001,AKANKSHA,Lady Shri Ram College for Women,8.36,7.36,8.57,9.43,8.75,8.548
+18039529002,AKSHITA LOHIA,Lady Shri Ram College for Women,5.27,5.27,6.29,7.57,8.75,6.694
+18039529004,ANITA,Lady Shri Ram College for Women,5.91,6.27,7.93,8.43,7.25,7.258
+18039529005,ANUSHA,Lady Shri Ram College for Women,7.09,7.00,8.29,9.00,0.00,6.403
+18039529006,APARNA KUMARI,Lady Shri Ram College for Women,5.64,5.91,6.71,7.43,8.50,6.887
+18039529009,DEBESHI SENGUPTA,Lady Shri Ram College for Women,6.91,7.45,8.57,8.79,8.75,8.161
+18039529011,EKTA,Lady Shri Ram College for Women,6.82,6.82,6.71,8.00,9.00,7.484
+18039529012,JYOTI KUMARI,Lady Shri Ram College for Women,6.55,6.27,7.50,8.36,8.50,7.500
+18039529013,KAJAL KUMARI,Lady Shri Ram College for Women,4.73,5.09,5.93,8.00,0.00,4.887
+18039529014,LATESH,Lady Shri Ram College for Women,7.45,8.45,9.14,10.00,0.00,7.145
+18039529015,NIKITA,Lady Shri Ram College for Women,5.45,6.55,7.50,8.00,7.75,7.129
+18039529016,NIKITA,Lady Shri Ram College for Women,5.00,4.45,5.21,7.79,8.25,6.210
+18039529017,PAAYEL,Lady Shri Ram College for Women,5.73,6.45,6.86,7.79,7.75,6.968
+18039529018,PRIYANKA SHARMA,Lady Shri Ram College for Women,7.55,7.55,8.50,9.00,8.75,8.323
+18039529019,RAJLAKSHMI SHARMA,Lady Shri Ram College for Women,8.73,8.00,8.29,9.00,9.50,8.710
+18039529020,SONIA,Lady Shri Ram College for Women,5.00,5.73,6.50,8.00,6.75,6.484
+18039529021,SWATI,Lady Shri Ram College for Women,8.18,8.00,7.86,8.79,6.50,7.887
+18039529022,TANYA SONI,Lady Shri Ram College for Women,4.82,4.82,5.43,6.79,6.75,5.774

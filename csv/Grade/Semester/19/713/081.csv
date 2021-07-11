@@ -1,18 +1,13 @@
-RollNo,Name,College,Sem1,Average
-19081713012,SHAILESH KUMAR SINGH,Swami Shraddhanand College,6.6,6.6
-19081713002,ASHUTOSH PANDEY,Swami Shraddhanand College,6.4,6.4
-19081713014,SHWETA,Swami Shraddhanand College,6.2,6.2
-19081713003,DEEPTI,Swami Shraddhanand College,6,6
-19081713004,GOMA RAM,Swami Shraddhanand College,6,6
-19081713008,PAVAN KUMAR,Swami Shraddhanand College,6,6
-19081713006,MANIK CHAND RAM,Swami Shraddhanand College,5.8,5.8
-19081713007,NEHA,Swami Shraddhanand College,5.8,5.8
-19081713001,AMIT KUMAR SINGH,Swami Shraddhanand College,5.6,5.6
-19081713015,SONIA CHIBA,Swami Shraddhanand College,5.6,5.6
-19081713017,VARUN KUMAR YADAV,Swami Shraddhanand College,5.4,5.4
-19081713016,SUNNY LAKRA,Swami Shraddhanand College,5,5
-19081713009,PUNEET,Swami Shraddhanand College,4.8,4.8
-19081713011,SANDEEP KUMAR,Swami Shraddhanand College,4.2,4.2
-19081713010,RAJ KUMAR,Swami Shraddhanand College,3.2,3.2
-19081713013,SHUBHAM DAHIYA,Swami Shraddhanand College,0.0,0.0
-19081713005,JITESH SAROHA,Swami Shraddhanand College,0.0,0.0
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+19081713001,AMIT KUMAR SINGH,Swami Shraddhanand College,7.00,6.83,7.00,6.946
+19081713002,ASHUTOSH PANDEY,Swami Shraddhanand College,6.40,7.00,7.00,6.797
+19081713003,DEEPTI,Swami Shraddhanand College,6.00,7.00,7.00,6.662
+19081713004,GOMA RAM,Swami Shraddhanand College,6.00,5.83,6.80,6.216
+19081713006,MANIK CHAND RAM,Swami Shraddhanand College,5.80,7.00,6.00,6.257
+19081713007,NEHA,Swami Shraddhanand College,5.80,6.79,7.00,6.527
+19081713008,PAVAN KUMAR,Swami Shraddhanand College,6.00,7.00,7.00,6.662
+19081713009,PUNEET,Swami Shraddhanand College,5.60,6.00,6.20,5.932
+19081713012,SHAILESH KUMAR SINGH,Swami Shraddhanand College,6.60,7.00,7.00,6.865
+19081713014,SHWETA,Swami Shraddhanand College,6.20,7.00,6.40,6.527
+19081713015,SONIA CHIBA,Swami Shraddhanand College,5.60,6.67,6.20,6.149
+19081713017,VARUN KUMAR YADAV,Swami Shraddhanand College,5.60,6.83,6.40,6.270

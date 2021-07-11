@@ -1,35 +1,34 @@
-RollNo,Name,College,SemI,SemII,SemIII,SemIV,Average
-18066558001,AANCHAL,Shaheed Rajguru College of Applied Sciences for Women,8.45,9.27,9.14,9.79,9.162
-18066558002,ADITI GUPTA,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.45,7.36,8.36,8.087
-18066558003,AFREEN,Shaheed Rajguru College of Applied Sciences for Women,8,7.82,8,8.36,8.045
-18066558004,AGREEMITA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,7.91,8.09,6.86,8.79,7.912
-18066558005,AKANKSHA KUMARI,Shaheed Rajguru College of Applied Sciences for Women,7.45,8.82,8.29,9.14,8.425
-18066558006,APARNA,Shaheed Rajguru College of Applied Sciences for Women,6.09,5.91,6.71,5.79,6.125
-18066558007,AYATRI RAY,Shaheed Rajguru College of Applied Sciences for Women,9,8.45,9,10,9.113
-18066558008,BANI HALDAR,Shaheed Rajguru College of Applied Sciences for Women,5.36,6.73,5.86,7.93,6.47
-18066558009,DEEPIKA CHOUDHARY,Shaheed Rajguru College of Applied Sciences for Women,7.45,8.55,8,9.14,8.285
-18066558010,HIMANSHI SINGH,Shaheed Rajguru College of Applied Sciences for Women,5.91,7.45,6.64,8.14,7.035
-18066558011,HIMANSHI VAISHYA,Shaheed Rajguru College of Applied Sciences for Women,8.27,9.09,8.14,9.14,8.66
-18066558012,JYOTI,Shaheed Rajguru College of Applied Sciences for Women,5.64,5.73,7.07,7.93,6.593
-18066558013,JYOTI GUPTA,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.18,8.79,9.36,8.627
-18066558014,JYOTI YADAV,Shaheed Rajguru College of Applied Sciences for Women,8,7.73,7.57,9,8.075
-18066558015,JYOTI YADAV,Shaheed Rajguru College of Applied Sciences for Women,4.82,5.18,5.43,7.57,5.75
-18066558016,KAJAL SINGH,Shaheed Rajguru College of Applied Sciences for Women,7.91,8.18,8.14,9,8.308
-18066558017,KOMAL,Shaheed Rajguru College of Applied Sciences for Women,6.09,6.45,6.71,7.71,6.74
-18066558018,NEHA JANGID,Shaheed Rajguru College of Applied Sciences for Women,6.64,8,6.86,8.14,7.41
-18066558019,NIKETA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,6.91,6.36,7.14,8.36,7.192
-18066558020,PALI JUGRAN,Shaheed Rajguru College of Applied Sciences for Women,7.36,7.36,7.07,8.14,7.482
-18066558021,PARUL PANDEY,Shaheed Rajguru College of Applied Sciences for Women,7,7.09,7.07,8.14,7.325
-18066558022,POOJA MITTAL,Shaheed Rajguru College of Applied Sciences for Women,8.45,8.91,8.79,9.79,8.985
-18066558023,PRIYA SINGH,Shaheed Rajguru College of Applied Sciences for Women,5.55,5.55,6.07,7.79,6.24
-18066558024,RASHMI BHANDARI,Shaheed Rajguru College of Applied Sciences for Women,7.18,8,7.57,8.79,7.885
-18066558025,RIYA GOSAIN,Shaheed Rajguru College of Applied Sciences for Women,7,7.18,6.71,8.14,7.258
-18066558026,RIYA SIWACH,Shaheed Rajguru College of Applied Sciences for Women,7.18,7.64,7.57,8.79,7.795
-18066558027,SHABNAM,Shaheed Rajguru College of Applied Sciences for Women,6.73,8.27,8.36,9,8.09
-18066558028,SHALU KUMARI,Shaheed Rajguru College of Applied Sciences for Women,5.64,6.73,6.5,8.14,6.753
-18066558029,SHIVANI GUSAIN,Shaheed Rajguru College of Applied Sciences for Women,7.36,7.73,7.5,8.79,7.845
-18066558030,SHRESHTHA SAINI,Shaheed Rajguru College of Applied Sciences for Women,7.09,6.27,7.93,8.79,7.52
-18066558031,SWATI SINGH,Shaheed Rajguru College of Applied Sciences for Women,5.82,4.91,5.71,7.79,6.058
-18066558032,UZMA ALVI,Shaheed Rajguru College of Applied Sciences for Women,5.64,5.73,5.71,7.57,6.163
-18066558033,VANSHIKA SALWAN,Shaheed Rajguru College of Applied Sciences for Women,7.73,7,6.86,8.14,7.433
-18066558034,VIBHA YADAV,Shaheed Rajguru College of Applied Sciences for Women,6.09,6.45,6.93,7.93,6.85
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Overall CGPA
+18066558001,AANCHAL,Shaheed Rajguru College of Applied Sciences for Women,8.45,9.27,9.14,9.79,9.50,9.258
+18066558002,ADITI GUPTA,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.45,7.36,8.36,9.25,8.290
+18066558003,AFREEN,Shaheed Rajguru College of Applied Sciences for Women,8.00,7.82,8.00,8.36,7.50,7.952
+18066558004,AGREEMITA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,7.91,8.09,7.29,8.79,9.50,8.306
+18066558005,AKANKSHA KUMARI,Shaheed Rajguru College of Applied Sciences for Women,7.45,8.82,8.29,9.14,9.25,8.613
+18066558007,AYATRI RAY,Shaheed Rajguru College of Applied Sciences for Women,9.00,8.45,9.00,10.00,10.00,9.323
+18066558008,BANI HALDAR,Shaheed Rajguru College of Applied Sciences for Women,5.36,6.73,5.86,7.93,8.00,6.806
+18066558009,DEEPIKA CHOUDHARY,Shaheed Rajguru College of Applied Sciences for Women,7.45,8.55,8.00,9.14,8.50,8.355
+18066558010,HIMANSHI SINGH,Shaheed Rajguru College of Applied Sciences for Women,5.91,7.45,6.64,8.14,8.50,7.355
+18066558011,HIMANSHI VAISHYA,Shaheed Rajguru College of Applied Sciences for Women,8.27,9.09,8.14,9.14,9.75,8.871
+18066558012,JYOTI,Shaheed Rajguru College of Applied Sciences for Women,5.64,5.73,7.07,7.93,8.00,6.952
+18066558013,JYOTI GUPTA,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.18,8.79,9.36,8.50,8.645
+18066558014,JYOTI YADAV,Shaheed Rajguru College of Applied Sciences for Women,8.00,7.73,7.57,9.00,9.25,8.323
+18066558015,JYOTI YADAV,Shaheed Rajguru College of Applied Sciences for Women,4.82,5.18,5.43,7.57,8.25,6.306
+18066558016,KAJAL SINGH,Shaheed Rajguru College of Applied Sciences for Women,7.91,8.18,8.14,9.00,8.75,8.419
+18066558017,KOMAL,Shaheed Rajguru College of Applied Sciences for Women,6.09,6.45,6.71,7.71,8.50,7.129
+18066558018,NEHA JANGID,Shaheed Rajguru College of Applied Sciences for Women,6.64,8.00,6.86,8.14,8.25,7.581
+18066558019,NIKETA GUPTA,Shaheed Rajguru College of Applied Sciences for Women,6.91,6.36,7.14,8.36,9.00,7.597
+18066558020,PALI JUGRAN,Shaheed Rajguru College of Applied Sciences for Women,7.36,7.36,7.07,8.14,9.00,7.790
+18066558021,PARUL PANDEY,Shaheed Rajguru College of Applied Sciences for Women,7.00,7.09,7.07,8.14,8.50,7.581
+18066558022,POOJA MITTAL,Shaheed Rajguru College of Applied Sciences for Women,8.45,8.91,8.79,9.79,10.00,9.210
+18066558023,PRIYA SINGH,Shaheed Rajguru College of Applied Sciences for Women,5.55,5.55,6.07,7.79,8.00,6.645
+18066558024,RASHMI BHANDARI,Shaheed Rajguru College of Applied Sciences for Women,7.18,8.00,7.57,8.79,9.25,8.177
+18066558025,RIYA GOSAIN,Shaheed Rajguru College of Applied Sciences for Women,7.00,7.18,6.71,8.14,8.50,7.516
+18066558026,RIYA SIWACH,Shaheed Rajguru College of Applied Sciences for Women,7.18,7.64,7.57,8.79,8.50,7.968
+18066558027,SHABNAM,Shaheed Rajguru College of Applied Sciences for Women,6.73,8.27,8.36,9.00,8.00,8.129
+18066558028,SHALU KUMARI,Shaheed Rajguru College of Applied Sciences for Women,5.64,6.73,6.50,8.14,9.00,7.242
+18066558029,SHIVANI GUSAIN,Shaheed Rajguru College of Applied Sciences for Women,7.36,7.73,7.50,8.79,9.00,8.097
+18066558030,SHRESHTHA SAINI,Shaheed Rajguru College of Applied Sciences for Women,7.09,6.27,7.93,8.79,8.00,7.694
+18066558031,SWATI SINGH,Shaheed Rajguru College of Applied Sciences for Women,5.82,4.91,5.71,7.79,8.75,6.645
+18066558032,UZMA ALVI,Shaheed Rajguru College of Applied Sciences for Women,5.64,5.73,5.71,7.57,7.50,6.468
+18066558033,VANSHIKA SALWAN,Shaheed Rajguru College of Applied Sciences for Women,7.73,7.00,6.86,8.14,8.75,7.694
+18066558034,VIBHA YADAV,Shaheed Rajguru College of Applied Sciences for Women,6.09,6.45,6.93,7.93,8.25,7.177

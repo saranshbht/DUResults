@@ -1,8 +1,8 @@
-RollNo,Name,College,SemI,SemII,SemIII,SemIV,Total,Percentage
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Total,Percentage
 18059590001,ANISH TRIVEDI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],261/400,233/400,349/500,380/500,1223/1800,67.944
 18059590002,SHALABH SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],257/400,213/400,309/500,329/500,1108/1800,61.556
 18059590003,SUSHANT KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],221/400,216/400,275/500,322/500,1034/1800,57.444
-18059590004,SIDHARTH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],194/400,131/400,213/500,254/500,792/1800,44
+18059590004,SIDHARTH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],194/400,131/400,213/500,254/500,792/1800,44.000
 18059590005,BHAVYA AGARWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],246/400,304/400,300/500,326/500,1176/1800,65.333
 18059590006,KRITI CHOPRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],219/400,225/400,270/500,324/500,1038/1800,57.667
 18059590008,YASH SHARMA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],219/400,247/400,307/500,330/500,1103/1800,61.278
@@ -11,7 +11,7 @@ RollNo,Name,College,SemI,SemII,SemIII,SemIV,Total,Percentage
 18059590011,MUKUL CHANDEL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],178/400,187/400,213/500,305/500,883/1800,49.056
 18059590012,SANTOSH YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],242/400,220/400,288/500,349/500,1099/1800,61.056
 18059590013,RACHIT GOEL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],192/400,215/400,220/500,281/500,908/1800,50.444
-18059590014,AMIT RAJ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],220/450,221/450,251/550,287/550,979/2000,48.95
+18059590014,AMIT RAJ,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],220/450,221/450,251/550,287/550,979/2000,48.950
 18059590015,MAYANK GUPTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],201/400,172/400,282/500,296/500,951/1800,52.833
 18059590016,NEHA YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],196/400,250/400,243/500,324/500,1013/1800,56.278
 18059590017,HARSHIL JAIN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],260/400,328/400,348/500,375/500,1311/1800,72.833
@@ -27,11 +27,10 @@ RollNo,Name,College,SemI,SemII,SemIII,SemIV,Total,Percentage
 18059590028,NIKHIL YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],263/400,293/400,308/500,356/500,1220/1800,67.778
 18059590029,YASH GUPTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],256/400,272/400,308/500,365/500,1201/1800,66.722
 18059590030,HARSHITA MALIK,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],222/400,244/400,224/500,292/500,982/1800,54.556
-18059590031,UTSAV MISHRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],208/450,245/450,231/550,291/550,975/2000,48.75
+18059590031,UTSAV MISHRA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],208/450,245/450,231/550,291/550,975/2000,48.750
 18059590032,MADHAV JAITLY,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],236/400,257/400,278/500,314/500,1085/1800,60.278
 18059590034,NITISH GUPTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],244/400,260/400,274/500,371/500,1149/1800,63.833
 18059590035,MOHAMMAD ARIF NANG,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],166/400,109/400,11/500,19/500,305/1800,16.944
-18059590036,,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],,,,,0/0,NaN
 18059590037,AMAN YADAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],244/400,294/400,329/500,353/500,1220/1800,67.778
 18059590038,SHUBHAM BHANDARI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],210/400,177/400,264/500,277/500,928/1800,51.556
 18059590039,SAHIL GUPTA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],238/400,289/400,353/500,374/500,1254/1800,69.667
