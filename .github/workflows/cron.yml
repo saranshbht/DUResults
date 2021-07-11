@@ -1,42 +1,46 @@
 name: cron job
 
-on: 
+on:
+  workflow_dispatch:
   schedule:
-    - cron: 0/5 7 * * *
-      
-      
+    - cron: 0 0 * * *
+
 jobs:
-  create-commit:
+  cron-job:
     runs-on: ubuntu-latest
 
     steps:
-    - name: checkout
-      uses: actions/checkout@v2
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          ref: testing
 
-    - name: set up node
-      uses: actions/setup-node@v1
+      - name: set up node
+        uses: actions/setup-node@v1
 
-    - name: install
-      run: |
-        npm install
+      - name: install dependencies
+        run: npm install
 
-    - name: run and push changes
-      run: |
-        git config user.name "Saransh Bhatia"
-        git config user.email "saranshbht@github.com"
-        git checkout testing
-        node runner.js Grade >> logger.txt
-        node runner.js Marks >> logger.txt
-        git add .
-        git commit -m "added changes at `date +'%Y-%m-%d %H:%M:%S'`"
-        git push origin testing
+      - name: run
+        run: |
+          node runner.js Grade >> logger.txt
+          # node runner.js Marks >> logger.txt
+          if [ -d "html" ]; then 7z a html.7z html/ ; fi
+          # if [ -d "html/Marks" ]; then 7z u -t7z html-zip/Marks.7z ./html/Marks; fi
 
-    - name: send failure notification
-      if: failure()
-      env:
-        SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
-      uses: voxmedia/github-action-slack-notify-build@v1
-      with:
-        channel: du-result
-        status: FAILED
-        color: danger 
+      - name: upload folder to google drive
+        uses: Jodebu/upload-to-drive@master
+        if: hashFiles('html.7z') != ''
+        id: driveUpload
+        with:
+          target: html.7z
+          credentials: ${{ secrets.GSA_CREDENTIALS }}
+          folder: ${{ secrets.FOLDER_ID }}
+
+      - name: push changes
+        uses: stefanzweifel/git-auto-commit-action@v4.4.1
+        with:
+          branch: testing
+          commit_message: added changes by action
+          commit_user_name: Saransh Bhatia
+          commit_user_email: saranshbht@gmail.com
