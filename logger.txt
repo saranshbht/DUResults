@@ -12503,3 +12503,119 @@ New course but no college
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Grade/20/718/029' }
+2021-07-11T01:03:34.065Z
+Grade
+ASP.NET_SessionId=eydomp45czfoez55urwthw45
+Courses to be downloaded
+{"18":[],"19":[],"20":["107","569","582","711","718","724","726","728","740","744","745","762","777","791","794"]}
+Error at 20 107 020
+20 569 001
+20 569 021
+20 569 033
+20 569 026
+20 569 081
+20 569 025
+20 569 047
+20 569 036
+20 569 079
+20 569 009
+20 569 015
+20 569 071
+20 569 019
+20 569 014
+20 569 056
+20 569 085
+20 569 024
+20 569 068
+20 569 043
+20 582 001
+20 582 048
+20 582 007
+20 582 021
+20 582 073
+20 582 033
+20 582 026
+20 582 041
+20 582 081
+20 582 025
+20 582 003
+20 582 076
+20 582 047
+20 582 035
+20 582 036
+20 582 080
+20 582 015
+20 582 071
+20 582 019
+20 582 056
+20 582 085
+20 582 055
+20 582 024
+20 582 068
+20 582 043
+20 711 229
+Error at 20 718 029
+Error at 20 724 039
+Error at 20 724 048
+Error at 20 724 034
+Error at 20 724 029
+Error at 20 724 033
+20 726 044
+20 726 069
+20 726 068
+20 728 039
+20 728 084
+20 728 034
+20 728 029
+20 728 033
+20 728 026
+20 728 025
+20 728 044
+20 728 031
+20 728 047
+20 728 036
+20 728 075
+20 728 079
+20 728 080
+20 728 071
+20 728 019
+20 728 014
+20 728 040
+20 728 056
+20 728 085
+Error at 20 728 307
+20 740 047
+20 740 025
+Error at 20 740 306
+New course but no college
+20 745 047
+20 745 056
+20 745 025
+20 745 068
+20 745 036
+20 745 026
+Error at 20 745 306
+20 762 025
+Error at 20 762 026
+Error at 20 762 306
+20 762 036
+20 762 047
+20 762 056
+20 762 068
+20 762 079
+Error at 20 762 080
+New course but no college
+20 791 307
+20 794 307
+Courses to be updated
+{"18":[],"19":[],"20":["727","753","569","582","711","726","728","740","745","762","791","794"]}
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/727/242'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:461:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:37:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/727/242' }
