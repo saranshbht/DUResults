@@ -13594,3 +13594,81 @@ New course but no college
 New course but no college
 Courses to be updated
 {"18":[],"19":[],"20":[]}
+2021-08-04T00:58:57.363Z
+Grade
+ASP.NET_SessionId=tm2obfycqdytkd450tkb2i45
+Courses to be downloaded
+{"18":[],"19":[],"20":["107","572","703","705","713","718","724","731","744","777","790"]}
+Error at 20 107 020
+Error at 20 572 013
+20 703 208
+20 705 208
+Error at 20 713 039
+Error at 20 713 048
+Error at 20 713 084
+Error at 20 713 034
+Error at 20 713 029
+Error at 20 718 029
+20 724 039
+20 724 048
+20 724 034
+20 724 029
+20 724 033
+20 724 026
+20 724 003
+20 724 044
+20 724 053
+20 724 031
+20 724 036
+20 724 075
+Error at 20 724 062
+20 724 071
+20 724 019
+20 724 014
+20 724 040
+20 724 056
+20 724 085
+20 724 024
+20 724 068
+20 724 043
+20 731 208
+New course but no college
+New course but no college
+20 790 307
+Courses to be updated
+{"18":[],"19":[],"20":["703","705","724","731","790"]}
+Grade 20 703 208
+Grade 20 705 208
+Grade 20 724 039
+Grade 20 724 048
+Grade 20 724 034
+Grade 20 724 029
+Grade 20 724 033
+Grade 20 724 026
+Grade 20 724 003
+Grade 20 724 044
+Grade 20 724 053
+Grade 20 724 031
+Grade 20 724 036
+Grade 20 724 075
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/724/062'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:461:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:37:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/724/062' }
+Grade 20 724 071
+Grade 20 724 019
+Grade 20 724 014
+Grade 20 724 040
+Grade 20 724 056
+Grade 20 724 085
+Grade 20 724 024
+Grade 20 724 068
+Grade 20 724 043
+Grade 20 731 208
+Grade 20 790 307
