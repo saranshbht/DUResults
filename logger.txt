@@ -13672,3 +13672,55 @@ Grade 20 724 068
 Grade 20 724 043
 Grade 20 731 208
 Grade 20 790 307
+2021-08-05T00:59:38.235Z
+Grade
+ASP.NET_SessionId=w41yjfbvybaqg555kxxefg55
+Courses to be downloaded
+{"18":[],"19":[],"20":["107","572","713","718","743","744","746","777"]}
+Error at 20 107 020
+Error at 20 572 013
+Error at 20 713 039
+Error at 20 713 048
+Error at 20 713 084
+Error at 20 713 034
+Error at 20 713 029
+Error at 20 718 029
+20 743 318
+New course but no college
+20 746 001
+20 746 047
+20 746 056
+20 746 085
+20 746 025
+20 746 024
+20 746 068
+20 746 036
+20 746 079
+20 746 080
+20 746 026
+Error at 20 746 306
+New course but no college
+Courses to be updated
+{"18":[],"19":[],"20":["743","746"]}
+Grade 20 743 318
+Grade 20 746 001
+Grade 20 746 047
+Grade 20 746 056
+Grade 20 746 085
+Grade 20 746 025
+Grade 20 746 024
+Grade 20 746 068
+Grade 20 746 036
+Grade 20 746 079
+Grade 20 746 080
+Grade 20 746 026
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/746/306'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:461:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:37:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/746/306' }
