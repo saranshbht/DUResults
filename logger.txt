@@ -13724,3 +13724,123 @@ Grade 20 746 026
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Grade/20/746/306' }
+2021-08-06T01:03:09.687Z
+Grade
+ASP.NET_SessionId=mmsvmg3rukxdxg45p4hfmbqq
+Courses to be downloaded
+{"18":[],"19":[],"20":["107","505","510","572","596","713","718","744","777"]}
+Error at 20 107 020
+20 505 024
+20 505 075
+20 505 084
+20 505 010
+20 505 077
+20 505 020
+20 510 039
+20 510 063
+20 510 048
+20 510 034
+20 510 029
+20 510 021
+20 510 073
+20 510 033
+20 510 026
+20 510 077
+20 510 078
+20 510 074
+20 510 025
+20 510 003
+20 510 053
+20 510 031
+20 510 047
+20 510 036
+20 510 075
+20 510 064
+20 510 079
+20 510 080
+20 510 062
+20 510 020
+20 510 071
+20 510 019
+20 510 014
+20 510 040
+20 510 056
+20 510 085
+20 510 032
+20 510 055
+20 510 024
+20 510 068
+20 510 043
+20 510 016
+20 510 010
+20 510 013
+Error at 20 510 072
+20 510 059
+Error at 20 572 013
+20 596 020
+Error at 20 713 039
+Error at 20 713 048
+Error at 20 713 084
+Error at 20 713 034
+Error at 20 713 029
+Error at 20 718 029
+New course but no college
+New course but no college
+Courses to be updated
+{"18":[],"19":[],"20":["505","510","596"]}
+Grade 20 505 024
+Grade 20 505 075
+Grade 20 505 084
+Grade 20 505 010
+Grade 20 505 077
+Grade 20 505 020
+Grade 20 510 039
+Grade 20 510 063
+Grade 20 510 048
+Grade 20 510 034
+Grade 20 510 029
+Grade 20 510 021
+Grade 20 510 073
+Grade 20 510 033
+Grade 20 510 026
+Grade 20 510 077
+Grade 20 510 078
+Grade 20 510 074
+Grade 20 510 025
+Grade 20 510 003
+Grade 20 510 053
+Grade 20 510 031
+Grade 20 510 047
+Grade 20 510 036
+Grade 20 510 075
+Grade 20 510 064
+Grade 20 510 079
+Grade 20 510 080
+Grade 20 510 062
+Grade 20 510 020
+Grade 20 510 071
+Grade 20 510 019
+Grade 20 510 014
+Grade 20 510 040
+Grade 20 510 056
+Grade 20 510 085
+Grade 20 510 032
+Grade 20 510 055
+Grade 20 510 024
+Grade 20 510 068
+Grade 20 510 043
+Grade 20 510 016
+Grade 20 510 010
+Grade 20 510 013
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/510/072'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:461:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:37:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/510/072' }
+Grade 20 510 059
+Grade 20 596 020
