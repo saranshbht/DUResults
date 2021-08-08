@@ -13861,3 +13861,212 @@ New course but no college
 New course but no college
 Courses to be updated
 {"18":[],"19":[],"20":[]}
+2021-08-08T00:59:47.240Z
+Grade
+ASP.NET_SessionId=myz43v45ys1rdg45cmll0oaz
+Courses to be downloaded
+{"18":[],"19":[],"20":["107","506","507","512","514","519","523","529","531","532","544","551","560","572","584","585","586","588","589","590","592","593","595","601","914","713","718","744","777"]}
+Error at 20 107 020
+20 506 085
+20 507 047
+20 507 085
+20 512 204
+20 514 204
+20 519 204
+20 523 047
+20 523 056
+20 523 029
+20 523 026
+20 523 014
+20 529 039
+20 529 048
+Error at 20 529 086
+20 529 084
+20 529 034
+20 529 029
+20 529 021
+20 529 033
+20 529 026
+20 529 008
+20 529 025
+20 529 044
+20 529 053
+20 529 031
+20 529 047
+20 529 036
+20 529 075
+20 529 079
+20 529 080
+20 529 062
+20 529 071
+20 529 019
+20 529 014
+20 529 040
+20 529 056
+20 529 085
+20 529 055
+20 529 024
+20 529 043
+20 531 204
+20 532 002
+Error at 20 532 010
+Error at 20 544 029
+20 551 025
+20 560 058
+20 560 025
+Error at 20 572 013
+20 584 055
+20 584 019
+20 584 003
+20 585 036
+20 586 081
+Error at 20 588 058
+20 588 069
+Error at 20 588 002
+20 588 010
+20 589 028
+20 590 035
+20 590 058
+20 590 013
+20 590 015
+20 590 066
+20 590 020
+20 590 067
+20 590 059
+20 590 078
+20 592 056
+20 592 026
+Error at 20 592 029
+20 593 002
+20 593 058
+20 595 028
+20 601 316
+20 914 312
+Error at 20 713 039
+Error at 20 713 048
+Error at 20 713 084
+Error at 20 713 034
+Error at 20 713 029
+Error at 20 718 029
+New course but no college
+New course but no college
+Courses to be updated
+{"18":[],"19":[],"20":["506","507","512","514","519","523","529","531","532","551","560","584","585","586","588","589","590","592","593","595","601","914"]}
+Grade 20 506 085
+Grade 20 507 047
+Grade 20 507 085
+Grade 20 512 204
+Grade 20 514 204
+Grade 20 519 204
+Grade 20 523 047
+Grade 20 523 056
+Grade 20 523 029
+Grade 20 523 026
+Grade 20 523 014
+Grade 20 529 039
+Grade 20 529 048
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/529/086'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:461:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:37:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/529/086' }
+Grade 20 529 084
+Grade 20 529 034
+Grade 20 529 029
+Grade 20 529 021
+Grade 20 529 033
+Grade 20 529 026
+Grade 20 529 008
+Grade 20 529 025
+Grade 20 529 044
+Grade 20 529 053
+Grade 20 529 031
+Grade 20 529 047
+Grade 20 529 036
+Grade 20 529 075
+Grade 20 529 079
+Grade 20 529 080
+Grade 20 529 062
+Grade 20 529 071
+Grade 20 529 019
+Grade 20 529 014
+Grade 20 529 040
+Grade 20 529 056
+Grade 20 529 085
+Grade 20 529 055
+Grade 20 529 024
+Grade 20 529 043
+Grade 20 531 204
+Grade 20 532 002
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/532/010'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:461:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:37:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/532/010' }
+Grade 20 551 025
+Grade 20 560 058
+Grade 20 560 025
+Grade 20 584 055
+Grade 20 584 019
+Grade 20 584 003
+Grade 20 585 036
+Grade 20 586 081
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/588/058'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:461:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:37:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/588/058' }
+Grade 20 588 069
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/588/002'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:461:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:37:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/588/002' }
+Grade 20 588 010
+Grade 20 589 028
+Grade 20 590 035
+Grade 20 590 058
+Grade 20 590 013
+Grade 20 590 015
+Grade 20 590 066
+Grade 20 590 020
+Grade 20 590 067
+Grade 20 590 059
+Grade 20 590 078
+Grade 20 592 056
+Grade 20 592 026
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/592/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:461:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:37:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/592/029' }
+Grade 20 593 002
+Grade 20 593 058
+Grade 20 595 028
+Grade 20 601 316
+Grade 20 914 312
