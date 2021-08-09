@@ -14070,3 +14070,21 @@ Grade 20 593 058
 Grade 20 595 028
 Grade 20 601 316
 Grade 20 914 312
+2021-08-09T00:59:42.670Z
+Grade
+ASP.NET_SessionId=2ofppebbsdlje4qrpbmhgw55
+Courses to be downloaded
+{"18":[],"19":[],"20":["107","544","572","713","718","744","777"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 713 039
+Error at 20 713 048
+Error at 20 713 084
+Error at 20 713 034
+Error at 20 713 029
+Error at 20 718 029
+New course but no college
+New course but no college
+Courses to be updated
+{"18":[],"19":[],"20":[]}
