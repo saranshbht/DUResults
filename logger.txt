@@ -14106,3 +14106,76 @@ New course but no college
 New course but no college
 Courses to be updated
 {"18":[],"19":[],"20":[]}
+2021-08-11T01:00:27.404Z
+Grade
+ASP.NET_SessionId=kiviyqzba1pft5qefgrgzvno
+Courses to be downloaded
+{"18":[],"19":["105","519","523","544","551","560","572","573","574","576","588","592","914"],"20":["107","544","572","713","718","744","777"]}
+19 105 033
+19 519 204
+19 523 047
+19 523 056
+19 523 029
+19 523 026
+19 523 014
+19 544 029
+19 551 025
+19 560 058
+19 560 025
+19 572 013
+19 573 013
+19 574 013
+19 576 013
+19 588 058
+19 588 069
+19 588 002
+19 588 010
+19 592 056
+19 592 026
+Error at 19 592 029
+19 914 312
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 713 039
+Error at 20 713 048
+Error at 20 713 084
+Error at 20 713 034
+Error at 20 713 029
+Error at 20 718 029
+New course but no college
+New course but no college
+Courses to be updated
+{"18":[],"19":["105","519","523","544","551","560","572","573","574","576","588","592","914"],"20":[]}
+Grade 19 105 033
+Grade 19 519 204
+Grade 19 523 047
+Grade 19 523 056
+Grade 19 523 029
+Grade 19 523 026
+Grade 19 523 014
+Grade 19 544 029
+Grade 19 551 025
+Grade 19 560 058
+Grade 19 560 025
+Grade 19 572 013
+Grade 19 573 013
+Grade 19 574 013
+Grade 19 576 013
+Grade 19 588 058
+Grade 19 588 069
+Grade 19 588 002
+Grade 19 588 010
+Grade 19 592 056
+Grade 19 592 026
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/19/592/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:461:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:37:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/19/592/029' }
+Grade 19 914 312
