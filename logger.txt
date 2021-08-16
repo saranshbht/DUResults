@@ -14257,3 +14257,21 @@ New course but no college
 Courses to be updated
 {"18":[],"19":["595"],"20":[]}
 Grade 19 595 028
+2021-08-16T00:58:16.004Z
+Grade
+ASP.NET_SessionId=zmperazcvd10zijuq01ib3yi
+Courses to be downloaded
+{"18":[],"19":[],"20":["107","544","572","713","718","744","777"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 713 039
+Error at 20 713 048
+Error at 20 713 084
+Error at 20 713 034
+Error at 20 713 029
+Error at 20 718 029
+New course but no college
+New course but no college
+Courses to be updated
+{"18":[],"19":[],"20":[]}
