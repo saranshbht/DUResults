@@ -14490,3 +14490,46 @@ New course but no college
 New course but no college
 Courses to be updated
 {"18":[],"19":[],"20":[]}
+2021-08-28T00:55:09.414Z
+Grade
+ASP.NET_SessionId=50kcwqehxu12dh45oqolmqvw
+Courses to be downloaded
+{"18":[],"19":[],"20":["107","544","572","713","718","744","766","777"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 713 039
+Error at 20 713 048
+Error at 20 713 084
+Error at 20 713 034
+Error at 20 713 029
+Error at 20 718 029
+New course but no college
+20 766 047
+20 766 056
+20 766 025
+20 766 068
+20 766 036
+20 766 079
+20 766 026
+Error at 20 766 306
+New course but no college
+Courses to be updated
+{"18":[],"19":[],"20":["766"]}
+Grade 20 766 047
+Grade 20 766 056
+Grade 20 766 025
+Grade 20 766 068
+Grade 20 766 036
+Grade 20 766 079
+Grade 20 766 026
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/766/306'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:461:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:37:7)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/766/306' }
