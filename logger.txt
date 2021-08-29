@@ -14533,3 +14533,23 @@ Grade 20 766 026
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Grade/20/766/306' }
+2021-08-29T01:00:51.718Z
+Grade
+ASP.NET_SessionId=r4llmx455a421r3exr1pcxil
+Courses to be downloaded
+{"18":[],"19":[],"20":["107","544","572","713","718","741","744","777"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 713 039
+Error at 20 713 048
+Error at 20 713 084
+Error at 20 713 034
+Error at 20 713 029
+Error at 20 718 029
+20 741 249
+New course but no college
+New course but no college
+Courses to be updated
+{"18":[],"19":[],"20":["741"]}
+Grade 20 741 249
