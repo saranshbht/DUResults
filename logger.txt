@@ -14775,3 +14775,108 @@ New course but no college
 New course but no college
 Courses to be updated
 {"17":[],"18":[],"19":[],"20":[]}
+2021-09-15T02:29:09.578Z
+Grade
+ASP.NET_SessionId=dqlgri55hqwlkhvmyh5aas55
+Courses to be downloaded
+{"17":[],"18":[],"19":[],"20":["107","544","572","713","716","718","744","777","788","789","798","799"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+20 713 039
+20 713 048
+20 713 084
+20 713 034
+20 713 029
+20 713 073
+20 713 033
+20 713 026
+20 713 008
+20 713 081
+20 713 025
+20 713 003
+20 713 044
+20 713 058
+20 713 076
+20 713 053
+20 713 031
+20 713 047
+20 713 036
+20 713 075
+20 713 071
+20 713 019
+20 713 014
+20 713 056
+20 713 085
+20 713 032
+20 713 055
+20 713 068
+20 716 039
+20 716 047
+20 716 056
+20 716 085
+20 716 025
+20 716 055
+20 716 068
+20 716 036
+20 716 034
+20 716 079
+20 716 080
+20 716 029
+20 716 291
+20 716 026
+20 716 031
+Error at 20 718 029
+New course but no college
+New course but no college
+20 788 307
+20 789 307
+New course but no college
+New course but no college
+Courses to be updated
+{"17":[],"18":[],"19":[],"20":["713","716","788","789"]}
+Grade 20 713 039
+Grade 20 713 048
+Grade 20 713 084
+Grade 20 713 034
+Grade 20 713 029
+Grade 20 713 073
+Grade 20 713 033
+Grade 20 713 026
+Grade 20 713 008
+Grade 20 713 081
+Grade 20 713 025
+Grade 20 713 003
+Grade 20 713 044
+Grade 20 713 058
+Grade 20 713 076
+Grade 20 713 053
+Grade 20 713 031
+Grade 20 713 047
+Grade 20 713 036
+Grade 20 713 075
+Grade 20 713 071
+Grade 20 713 019
+Grade 20 713 014
+Grade 20 713 056
+Grade 20 713 085
+Grade 20 713 032
+Grade 20 713 055
+Grade 20 713 068
+Grade 20 716 039
+Grade 20 716 047
+Grade 20 716 056
+Grade 20 716 085
+Grade 20 716 025
+Grade 20 716 055
+Grade 20 716 068
+Grade 20 716 036
+Grade 20 716 034
+Grade 20 716 079
+Grade 20 716 080
+Grade 20 716 029
+Grade 20 716 291
+Grade 20 716 026
+Grade 20 716 031
+Grade 20 788 307
+Grade 20 789 307
