@@ -15321,3 +15321,22 @@ New course but no college
 New course but no college
 Courses to be updated
 {"17":[],"18":[],"19":[],"20":[]}
+2021-10-16T00:41:18.297Z
+Grade
+ASP.NET_SessionId=lyridu3jghm4st55skbsmu55
+Courses to be downloaded
+{"17":[],"18":[],"19":[],"20":["107","544","572","718","744","777","798","799","800"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 718 029
+New course but no college
+New course but no college
+New course but no college
+New course but no college
+20 800 346
+20 800 345
+Courses to be updated
+{"17":[],"18":[],"19":[],"20":["800"]}
+Grade 20 800 346
+Grade 20 800 345
