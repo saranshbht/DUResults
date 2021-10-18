@@ -19,8 +19,9 @@ const urllib = require("urllib");
 //   "content-type": "application/x-www-form-urlencoded",
 // };
 let req_headers = {};
-
+let session = "nov_dec";
 let begin;
+
 let log = (msg = "") => {
   if (!begin) {
     begin = Date.now();
@@ -28,6 +29,10 @@ let log = (msg = "") => {
   let t = ((Date.now() - begin) / 1000).toFixed(3);
   console.log(t + " " + msg);
   begin = Date.now();
+};
+
+let setSession = (value) => {
+  session = value;
 };
 
 let toBeUpdated = () => {
@@ -38,7 +43,7 @@ let toBeUpdated = () => {
   return remaining;
 };
 
-let getRemaining = (url, type) => {
+let getRemaining = (url) => {
   return urllib
     .request(url)
     .then((res) => {
@@ -96,7 +101,6 @@ let setCookie = (url) => {
       parameters = {
         ...parameters,
         ddlcollege: "234",
-        ddl_exam_session: "Nov-Dec 2020",
         txtrollno: "20234747050",
         ddlDD: "14",
         ddlMM: "3",
@@ -256,7 +260,7 @@ let downloadHtmls = async (remaining, type, url, step, store_path) => {
         downloaded[year] = downloaded[year] || [];
         if (!downloaded[year].includes(course)) downloaded[year].push(course);
         fs.writeFile(
-          `./downloaded${type}.json`,
+          `${session}/downloaded${type}.json`,
           JSON.stringify(downloaded)
         ).catch(console.log);
       }
@@ -542,7 +546,10 @@ let makeJsons = (remaining, type, source_path, store_path, zip = false) => {
       // add course to the array of updated courses for current year
       updated[year] = updated[year] || [];
       if (!updated[year].includes(course)) updated[year].push(course);
-      fss.writeFileSync(`./updated${type}.json`, JSON.stringify(updated));
+      fss.writeFileSync(
+        `${session}/updated${type}.json`,
+        JSON.stringify(updated)
+      );
     }
   }
 };
@@ -640,13 +647,15 @@ let downloaded = {};
 let updated = {};
 
 let loadFiles = (type) => {
-  if (fss.existsSync(`./downloaded${type}.json`)) {
+  if (fss.existsSync(`${session}/downloaded${type}.json`)) {
     downloaded = JSON.parse(
-      fss.readFileSync(`./downloaded${type}.json`).toString()
+      fss.readFileSync(`${session}/downloaded${type}.json`).toString()
     );
   }
-  if (fss.existsSync(`./updated${type}.json`)) {
-    updated = JSON.parse(fss.readFileSync(`./updated${type}.json`).toString());
+  if (fss.existsSync(`${session}/updated${type}.json`)) {
+    updated = JSON.parse(
+      fss.readFileSync(`${session}/updated${type}.json`).toString()
+    );
   }
 };
 
@@ -659,4 +668,5 @@ module.exports = {
   loadFiles,
   jsonsToJsonGzips,
   jsonsToCsvs,
+  setSession,
 };
