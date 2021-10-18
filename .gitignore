@@ -4,3 +4,4 @@ Trash/
 test*
 node_modules/
 html*
+.vscode/

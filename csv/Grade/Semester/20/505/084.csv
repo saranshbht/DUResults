@@ -1,34 +1,37 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20084505001,Akshita Verma,Vivekananda College,9.00,9.000
-20084505002,Anjali Chauhan,Vivekananda College,8.73,8.727
-20084505003,ANUSHKA SINGH,Vivekananda College,8.55,8.545
-20084505004,BHAVYA,Vivekananda College,5.45,5.455
-20084505005,Divya Sipani,Vivekananda College,8.55,8.545
-20084505007,gracy kaur kalra,Vivekananda College,6.00,6.000
-20084505008,GUNJAN NEGI,Vivekananda College,7.45,7.455
-20084505009,Isha,Vivekananda College,4.27,4.273
-20084505010,Isha Bhatia,Vivekananda College,8.55,8.545
-20084505011,Ishi Girdhar,Vivekananda College,8.45,8.455
-20084505012,ISHIKA SINGH,Vivekananda College,7.82,7.818
-20084505013,Jasnoor Bakhshi,Vivekananda College,8.18,8.182
-20084505014,Kaashvi Rewalia,Vivekananda College,7.73,7.727
-20084505015,Khushi Tiwari,Vivekananda College,8.27,8.273
-20084505016,Komal gupta,Vivekananda College,7.45,7.455
-20084505018,Mahika Gupta,Vivekananda College,7.45,7.455
-20084505019,MANISHA,Vivekananda College,8.45,8.455
-20084505020,Muskaan Ramdev,Vivekananda College,8.27,8.273
-20084505021,Prachi Himanshu Joshi,Vivekananda College,8.45,8.455
-20084505022,Preeti Pal,Vivekananda College,7.91,7.909
-20084505023,Priyal Gupta,Vivekananda College,8.18,8.182
-20084505024,Rakshita,Vivekananda College,8.27,8.273
-20084505025,Rashi Jain,Vivekananda College,8.36,8.364
-20084505026,RIDDHIMA CHOPRA,Vivekananda College,7.73,7.727
-20084505027,Sadiya,Vivekananda College,6.73,6.727
-20084505029,Samia Naved,Vivekananda College,8.00,8.000
-20084505030,SAMRIDDHI PANWAR,Vivekananda College,8.36,8.364
-20084505031,Soumya Bisht,Vivekananda College,7.82,7.818
-20084505032,Souravi Salgat,Vivekananda College,8.45,8.455
-20084505033,T SUSHMA,Vivekananda College,7.73,7.727
-20084505034,Tanistha Mehta,Vivekananda College,8.45,8.455
-20084505036,Tejaswini Pugla,Vivekananda College,8.73,8.727
-20084505037,Vartika,Vivekananda College,7.91,7.909
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20084505001,Akshita Verma,Vivekananda College,9.00,10.00,9.500
+20084505002,Anjali Chauhan,Vivekananda College,8.73,9.00,8.864
+20084505003,ANUSHKA SINGH,Vivekananda College,8.55,8.73,8.636
+20084505004,BHAVYA,Vivekananda College,5.45,5.73,5.591
+20084505005,Divya Sipani,Vivekananda College,8.55,9.00,8.773
+20084505006,Geetika Grover,Vivekananda College,8.00,9.00,8.500
+20084505007,gracy kaur kalra,Vivekananda College,6.00,3.36,4.682
+20084505008,GUNJAN NEGI,Vivekananda College,7.45,8.27,7.864
+20084505009,Isha,Vivekananda College,4.27,1.91,3.091
+20084505010,Isha Bhatia,Vivekananda College,8.55,7.64,8.091
+20084505011,Ishi Girdhar,Vivekananda College,8.45,9.27,8.864
+20084505012,ISHIKA SINGH,Vivekananda College,7.82,8.00,7.909
+20084505013,Jasnoor Bakhshi,Vivekananda College,8.18,8.82,8.500
+20084505014,Kaashvi Rewalia,Vivekananda College,7.73,8.27,8.000
+20084505015,Khushi Tiwari,Vivekananda College,8.27,8.45,8.364
+20084505016,Komal gupta,Vivekananda College,7.45,8.00,7.727
+20084505017,Mahera Ansari,Vivekananda College,8.27,8.55,8.409
+20084505018,Mahika Gupta,Vivekananda College,7.45,8.27,7.864
+20084505019,MANISHA,Vivekananda College,8.45,8.27,8.364
+20084505020,Muskaan Ramdev,Vivekananda College,8.27,9.00,8.636
+20084505021,Prachi Himanshu Joshi,Vivekananda College,8.45,8.73,8.591
+20084505022,Preeti Pal,Vivekananda College,7.91,8.00,7.955
+20084505023,Priyal Gupta,Vivekananda College,8.18,9.00,8.591
+20084505024,Rakshita,Vivekananda College,8.27,9.00,8.636
+20084505025,Rashi Jain,Vivekananda College,8.36,9.00,8.682
+20084505026,RIDDHIMA CHOPRA,Vivekananda College,7.73,9.00,8.364
+20084505027,Sadiya,Vivekananda College,6.73,7.73,7.227
+20084505028,SAKSHI MANCHANDA,Vivekananda College,8.45,9.00,8.727
+20084505029,Samia Naved,Vivekananda College,8.00,9.00,8.500
+20084505031,Soumya Bisht,Vivekananda College,7.82,9.00,8.409
+20084505032,Souravi Salgat,Vivekananda College,8.45,9.00,8.727
+20084505033,T SUSHMA,Vivekananda College,7.73,8.27,8.000
+20084505034,Tanistha Mehta,Vivekananda College,8.45,9.00,8.727
+20084505035,TAVIESHI VIVEK GAUTAM,Vivekananda College,8.18,9.00,8.591
+20084505036,Tejaswini Pugla,Vivekananda College,8.73,9.00,8.864
+20084505037,Vartika,Vivekananda College,7.91,8.82,8.364

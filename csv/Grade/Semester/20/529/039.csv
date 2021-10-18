@@ -1,23 +1,22 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20039529001,Aastha Shree,,8.45,8.455
-20039529002,ALKA PRIYA,,8.45,8.455
-20039529003,Anmolika singh,,7.91,7.909
-20039529004,CHETNA DUBEY,,8.18,8.182
-20039529005,Isha Yadav,,6.27,6.273
-20039529006,Jay Laxmi,,7.91,7.909
-20039529007,KOMAL,,8.45,8.455
-20039529008,Mitali Gambhir,,8.91,8.909
-20039529009,Nandini Kumari,,8.45,8.455
-20039529010,Nayancy Singh,,8.91,8.909
-20039529011,REEMA,,8.00,8.000
-20039529012,Sanjana Singh,,8.09,8.091
-20039529013,TANYA SHARMA,,7.45,7.455
-20039529014,Varsha Devi,,9.27,9.273
-20039529015,VISHWAKRITI SINGH,,8.64,8.636
-20039529016,Akansha sharma,,7.73,7.727
-20039529017,Garima,,8.18,8.182
-20039529018,Kashish Khetrapal,,8.45,8.455
-20039529019,RASHI SHAH,,7.55,7.545
-20039529020,Sudipa Bhattacharya,,7.36,7.364
-20039529021,TRIPTI,,7.09,7.091
-20039529022,Vishakha rajput,,5.09,5.091
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20039529001,Aastha Shree,Lady Shri Ram College for Women,8.45,9.00,8.727
+20039529002,ALKA PRIYA,Lady Shri Ram College for Women,8.45,9.00,8.727
+20039529003,Anmolika singh,Lady Shri Ram College for Women,7.91,9.00,8.455
+20039529004,CHETNA DUBEY,Lady Shri Ram College for Women,8.18,9.00,8.591
+20039529005,Isha Yadav,Lady Shri Ram College for Women,6.27,8.00,7.136
+20039529006,Jay Laxmi,Lady Shri Ram College for Women,7.91,9.00,8.455
+20039529007,KOMAL,Lady Shri Ram College for Women,8.45,9.00,8.727
+20039529008,Mitali Gambhir,Lady Shri Ram College for Women,8.91,10.00,9.455
+20039529009,Nandini Kumari,Lady Shri Ram College for Women,8.45,9.00,8.727
+20039529010,Nayancy Singh,Lady Shri Ram College for Women,8.91,9.82,9.364
+20039529011,REEMA,Lady Shri Ram College for Women,8.00,9.00,8.500
+20039529012,Sanjana Singh,Lady Shri Ram College for Women,8.09,8.73,8.409
+20039529013,TANYA SHARMA,Lady Shri Ram College for Women,7.45,9.00,8.227
+20039529014,Varsha Devi,Lady Shri Ram College for Women,9.27,10.00,9.636
+20039529015,VISHWAKRITI SINGH,Lady Shri Ram College for Women,8.64,9.55,9.091
+20039529016,Akansha sharma,Lady Shri Ram College for Women,7.73,9.00,8.364
+20039529017,Garima,Lady Shri Ram College for Women,8.18,8.73,8.455
+20039529018,Kashish Khetrapal,Lady Shri Ram College for Women,8.45,9.00,8.727
+20039529020,Sudipa Bhattacharya,Lady Shri Ram College for Women,7.36,9.00,8.182
+20039529021,TRIPTI,Lady Shri Ram College for Women,7.09,8.82,7.955
+20039529022,Vishakha rajput,Lady Shri Ram College for Women,5.09,0.00,2.545

@@ -1,27 +1,23 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20071557001,Akansha,Shivaji College,9.27,9.273
-20071557002,DEEPAK KUMAR,Shivaji College,9.27,9.273
-20071557003,DIYA SHARMA,Shivaji College,9.55,9.545
-20071557004,Harsh Daksh,Shivaji College,8.82,8.818
-20071557005,Harshit Kapil,Shivaji College,8.00,8.000
-20071557006,KHUSHI,Shivaji College,8.82,8.818
-20071557007,KHUSHI TYAGI,Shivaji College,9.36,9.364
-20071557008,Lingwang Ramra,Shivaji College,8.55,8.545
-20071557009,MEHUL PUROHIT,Shivaji College,9.09,9.091
-20071557010,Nishant Malik,Shivaji College,9.36,9.364
-20071557011,PRAGATI CHHABRA,Shivaji College,9.55,9.545
-20071557012,Pranjal Aggarwal,Shivaji College,9.36,9.364
-20071557013,Preeti Singh,Shivaji College,9.09,9.091
-20071557014,Rakesh yadav,Shivaji College,8.55,8.545
-20071557015,RANJEET KUMAR,Shivaji College,9.09,9.091
-20071557016,RITIK GARG,Shivaji College,7.82,7.818
-20071557017,RITIKA,Shivaji College,9.82,9.818
-20071557018,Samiksha,Shivaji College,9.00,9.000
-20071557019,Sandeep sharma,Shivaji College,9.27,9.273
-20071557020,Sanjeev kumar,Shivaji College,6.82,6.818
-20071557021,SHIVANI,Shivaji College,9.36,9.364
-20071557022,Sumit Kumar Ojha,Shivaji College,9.27,9.273
-20071557023,Tushar,Shivaji College,9.36,9.364
-20071557024,UMANG,Shivaji College,9.00,9.000
-20071557025,VINOD,Shivaji College,9.36,9.364
-20071557026,RITIKA MEHTA,Shivaji College,9.27,9.273
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20071557002,DEEPAK KUMAR,Shivaji College,9.27,9.18,9.227
+20071557003,DIYA SHARMA,Shivaji College,9.55,9.18,9.364
+20071557004,Harsh Daksh,Shivaji College,8.82,9.00,8.909
+20071557005,Harshit Kapil,Shivaji College,8.00,8.73,8.364
+20071557006,KHUSHI,Shivaji College,8.82,9.00,8.909
+20071557007,KHUSHI TYAGI,Shivaji College,9.36,9.73,9.545
+20071557008,Lingwang Ramra,Shivaji College,8.55,9.00,8.773
+20071557009,MEHUL PUROHIT,Shivaji College,9.09,9.00,9.045
+20071557010,Nishant Malik,Shivaji College,9.36,9.00,9.182
+20071557011,PRAGATI CHHABRA,Shivaji College,9.55,9.18,9.364
+20071557012,Pranjal Aggarwal,Shivaji College,9.36,10.00,9.682
+20071557014,Rakesh yadav,Shivaji College,8.55,8.73,8.636
+20071557016,RITIK GARG,Shivaji College,7.82,7.45,7.636
+20071557017,RITIKA,Shivaji College,9.82,10.00,9.909
+20071557018,Samiksha,Shivaji College,9.00,9.00,9.000
+20071557019,Sandeep sharma,Shivaji College,9.27,8.73,9.000
+20071557020,Sanjeev kumar,Shivaji College,7.91,8.45,8.182
+20071557022,Sumit Kumar Ojha,Shivaji College,9.27,9.00,9.136
+20071557023,Tushar,Shivaji College,9.36,9.00,9.182
+20071557024,UMANG,Shivaji College,9.00,9.27,9.136
+20071557025,VINOD,Shivaji College,9.36,9.00,9.182
+20071557026,RITIKA MEHTA,Shivaji College,9.27,8.73,9.000

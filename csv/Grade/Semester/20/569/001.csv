@@ -1,46 +1,43 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20001569001,Akshita,Acharya Narendra Dev College,8.73,8.727
-20001569002,ALKA RAJU,Acharya Narendra Dev College,8.18,8.182
-20001569003,ALOK RANJAN,Acharya Narendra Dev College,8.00,8.000
-20001569004,Anaam Asif Moin,Acharya Narendra Dev College,8.91,8.909
-20001569005,ANAND,Acharya Narendra Dev College,5.91,5.909
-20001569006,ANJU,Acharya Narendra Dev College,9.00,9.000
-20001569007,ARYAMA PRIYA,Acharya Narendra Dev College,9.27,9.273
-20001569008,Charu,Acharya Narendra Dev College,8.73,8.727
-20001569009,Divya Yadav,Acharya Narendra Dev College,8.73,8.727
-20001569010,Guru Prakash Pandey,Acharya Narendra Dev College,6.45,6.455
-20001569011,Himanshu,Acharya Narendra Dev College,6.91,6.909
-20001569012,JUNAID MUZAFFAR,Acharya Narendra Dev College,8.45,8.455
-20001569013,Kaibalya Bhatra,Acharya Narendra Dev College,8.55,8.545
-20001569014,Kanishka Bothra,Acharya Narendra Dev College,8.45,8.455
-20001569015,Khushi Agrawal,Acharya Narendra Dev College,8.73,8.727
-20001569016,Khushi Vashishtha,Acharya Narendra Dev College,8.73,8.727
-20001569017,Mahip Singh,Acharya Narendra Dev College,9.27,9.273
-20001569018,Manisha,Acharya Narendra Dev College,8.55,8.545
-20001569019,Manshi,Acharya Narendra Dev College,8.45,8.455
-20001569020,Mohit Singh Bohara,Acharya Narendra Dev College,8.45,8.455
-20001569021,Navedulla khan,Acharya Narendra Dev College,7.82,7.818
-20001569022,Neha Rana,Acharya Narendra Dev College,9.18,9.182
-20001569023,Nitesh,Acharya Narendra Dev College,9.27,9.273
-20001569024,PRANAV,Acharya Narendra Dev College,8.45,8.455
-20001569025,PRANJAL DWIVEDI,Acharya Narendra Dev College,8.45,8.455
-20001569026,Praphul Tyagi,Acharya Narendra Dev College,8.73,8.727
-20001569027,Preeti Singh,Acharya Narendra Dev College,9.00,9.000
-20001569028,RAJKUMAR JAIN,Acharya Narendra Dev College,9.18,9.182
-20001569029,RAKHI YADAV,Acharya Narendra Dev College,9.00,9.000
-20001569030,Raushan kumar,Acharya Narendra Dev College,6.91,6.909
-20001569031,Ritika Sisodiya,Acharya Narendra Dev College,7.64,7.636
-20001569032,RUBY KHAN,Acharya Narendra Dev College,7.00,7.000
-20001569033,Sanskriti,Acharya Narendra Dev College,8.73,8.727
-20001569034,Shivam tyagi,Acharya Narendra Dev College,8.27,8.273
-20001569035,Shivani Meena,Acharya Narendra Dev College,9.00,9.000
-20001569036,Shreyansh Verma,Acharya Narendra Dev College,8.18,8.182
-20001569037,SHRUTI KUMARI SINGH,Acharya Narendra Dev College,9.27,9.273
-20001569038,SHUBHAM ROHILLA,Acharya Narendra Dev College,7.73,7.727
-20001569039,sneha sharma,Acharya Narendra Dev College,8.45,8.455
-20001569040,Sunidhi Kumari,Acharya Narendra Dev College,9.00,9.000
-20001569041,Swapnil meena,Acharya Narendra Dev College,5.91,5.909
-20001569042,Twishi Mishra,Acharya Narendra Dev College,9.00,9.000
-20001569043,Toko Nyat,Acharya Narendra Dev College,4.27,4.273
-20001569044,PRIYANKA,Acharya Narendra Dev College,4.55,4.545
-20001569045,JATIN CHOUDHARY,Acharya Narendra Dev College,5.82,5.818
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20001569001,Akshita,Acharya Narendra Dev College,8.73,9.00,8.864
+20001569002,ALKA RAJU,Acharya Narendra Dev College,8.18,8.73,8.455
+20001569003,ALOK RANJAN,Acharya Narendra Dev College,8.00,9.00,8.500
+20001569004,Anaam Asif Moin,Acharya Narendra Dev College,8.91,9.27,9.091
+20001569005,ANAND,Acharya Narendra Dev College,5.91,1.36,3.636
+20001569006,ANJU,Acharya Narendra Dev College,9.00,9.00,9.000
+20001569007,ARYAMA PRIYA,Acharya Narendra Dev College,9.27,9.00,9.136
+20001569008,Charu,Acharya Narendra Dev College,8.73,7.45,8.091
+20001569009,Divya Yadav,Acharya Narendra Dev College,8.73,9.00,8.864
+20001569010,Guru Prakash Pandey,Acharya Narendra Dev College,6.45,1.09,3.773
+20001569011,Himanshu,Acharya Narendra Dev College,6.91,8.27,7.591
+20001569012,JUNAID MUZAFFAR,Acharya Narendra Dev College,8.45,9.00,8.727
+20001569013,Kaibalya Bhatra,Acharya Narendra Dev College,8.55,7.45,8.000
+20001569014,Kanishka Bothra,Acharya Narendra Dev College,8.45,6.36,7.409
+20001569015,Khushi Agrawal,Acharya Narendra Dev College,8.73,9.27,9.000
+20001569016,Khushi Vashishtha,Acharya Narendra Dev College,8.73,9.27,9.000
+20001569017,Mahip Singh,Acharya Narendra Dev College,9.27,9.00,9.136
+20001569018,Manisha,Acharya Narendra Dev College,8.55,8.73,8.636
+20001569019,Manshi,Acharya Narendra Dev College,8.45,9.00,8.727
+20001569020,Mohit Singh Bohara,Acharya Narendra Dev College,8.45,7.45,7.955
+20001569022,Neha Rana,Acharya Narendra Dev College,9.18,9.00,9.091
+20001569023,Nitesh,Acharya Narendra Dev College,9.27,9.27,9.273
+20001569024,PRANAV,Acharya Narendra Dev College,8.45,9.00,8.727
+20001569025,PRANJAL DWIVEDI,Acharya Narendra Dev College,8.45,8.00,8.227
+20001569026,Praphul Tyagi,Acharya Narendra Dev College,8.73,9.00,8.864
+20001569027,Preeti Singh,Acharya Narendra Dev College,9.00,9.00,9.000
+20001569028,RAJKUMAR JAIN,Acharya Narendra Dev College,9.18,10.00,9.591
+20001569029,RAKHI YADAV,Acharya Narendra Dev College,9.00,9.55,9.273
+20001569030,Raushan kumar,Acharya Narendra Dev College,6.91,8.00,7.455
+20001569031,Ritika Sisodiya,Acharya Narendra Dev College,7.64,8.00,7.818
+20001569032,RUBY KHAN,Acharya Narendra Dev College,7.00,6.91,6.955
+20001569033,Sanskriti,Acharya Narendra Dev College,8.73,9.00,8.864
+20001569034,Shivam tyagi,Acharya Narendra Dev College,8.27,9.00,8.636
+20001569035,Shivani Meena,Acharya Narendra Dev College,9.00,9.00,9.000
+20001569036,Shreyansh Verma,Acharya Narendra Dev College,8.18,9.00,8.591
+20001569037,SHRUTI KUMARI SINGH,Acharya Narendra Dev College,9.27,9.00,9.136
+20001569039,sneha sharma,Acharya Narendra Dev College,8.45,9.00,8.727
+20001569040,Sunidhi Kumari,Acharya Narendra Dev College,9.00,9.00,9.000
+20001569041,Swapnil meena,Acharya Narendra Dev College,5.91,0.00,2.955
+20001569042,Twishi Mishra,Acharya Narendra Dev College,9.00,9.45,9.227
+20001569043,Toko Nyat,Acharya Narendra Dev College,4.27,0.00,2.136
+20001569045,JATIN CHOUDHARY,Acharya Narendra Dev College,5.82,3.27,4.545

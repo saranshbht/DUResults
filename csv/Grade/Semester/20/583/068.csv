@@ -1,37 +1,37 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20068583001,Aakash,S.G.T.B. Khalsa College,4.45,4.455
-20068583002,Akanksha tyagi,S.G.T.B. Khalsa College,7.91,7.909
-20068583003,ASIYA BANOO,S.G.T.B. Khalsa College,8.09,8.091
-20068583004,Charanjeet Kaur Malhotra,S.G.T.B. Khalsa College,7.64,7.636
-20068583005,Diksha Negi,S.G.T.B. Khalsa College,8.64,8.636
-20068583006,Gagandeep Kaur,S.G.T.B. Khalsa College,7.82,7.818
-20068583007,GURLEEN KAUR,S.G.T.B. Khalsa College,7.18,7.182
-20068583008,Harpreet Kaur Sandhu,S.G.T.B. Khalsa College,7.55,7.545
-20068583009,Harshita Bisht,S.G.T.B. Khalsa College,7.91,7.909
-20068583011,JASJOT KAUR,S.G.T.B. Khalsa College,8.55,8.545
-20068583012,Jaskaran Singh,S.G.T.B. Khalsa College,7.00,7.000
-20068583013,Kamalpreet Kaur,S.G.T.B. Khalsa College,8.18,8.182
-20068583014,Khushboo Nangia,S.G.T.B. Khalsa College,8.55,8.545
-20068583015,kinjaldeep kaur,S.G.T.B. Khalsa College,8.09,8.091
-20068583016,Kishandeep Kaur,S.G.T.B. Khalsa College,8.64,8.636
-20068583017,MANJARI PANDEY,S.G.T.B. Khalsa College,8.82,8.818
-20068583018,MANKIRAT SINGH,S.G.T.B. Khalsa College,7.00,7.000
-20068583019,meenu,S.G.T.B. Khalsa College,8.36,8.364
-20068583020,MISHU KAUR,S.G.T.B. Khalsa College,8.64,8.636
-20068583021,Mridul Sethi,S.G.T.B. Khalsa College,6.36,6.364
-20068583022,Nidhi,S.G.T.B. Khalsa College,0.00,0.000
-20068583023,Paawani Kaushik,S.G.T.B. Khalsa College,8.09,8.091
-20068583024,Priya,S.G.T.B. Khalsa College,6.36,6.364
-20068583025,RIYA ARORA,S.G.T.B. Khalsa College,8.64,8.636
-20068583026,Sakshi sharma,S.G.T.B. Khalsa College,7.55,7.545
-20068583027,SIYA BATTLA,S.G.T.B. Khalsa College,7.00,7.000
-20068583029,Srishti Srivastav,S.G.T.B. Khalsa College,8.82,8.818
-20068583030,sulakshini Kumari,S.G.T.B. Khalsa College,6.82,6.818
-20068583031,Sunpreet kaur,S.G.T.B. Khalsa College,8.09,8.091
-20068583032,Tushar Dahiya,S.G.T.B. Khalsa College,8.55,8.545
-20068583033,Vidushi singh,S.G.T.B. Khalsa College,0.00,0.000
-20068583034,Vishal,S.G.T.B. Khalsa College,3.55,3.545
-20068583035,DILPREET SINGH,S.G.T.B. Khalsa College,8.09,8.091
-20068583036,ARHAM KHAN,S.G.T.B. Khalsa College,4.18,4.182
-20068583037,ASHWANI KUMAR,S.G.T.B. Khalsa College,4.27,4.273
-20068583038,Heena,S.G.T.B. Khalsa College,8.09,8.091
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20068583001,Aakash,S.G.T.B. Khalsa College,4.45,4.82,4.636
+20068583002,Akanksha tyagi,S.G.T.B. Khalsa College,7.91,9.00,8.455
+20068583003,ASIYA BANOO,S.G.T.B. Khalsa College,8.09,9.00,8.545
+20068583004,Charanjeet Kaur Malhotra,S.G.T.B. Khalsa College,7.64,9.00,8.318
+20068583005,Diksha Negi,S.G.T.B. Khalsa College,8.64,9.00,8.818
+20068583006,Gagandeep Kaur,S.G.T.B. Khalsa College,7.82,8.55,8.182
+20068583007,GURLEEN KAUR,S.G.T.B. Khalsa College,7.18,8.55,7.864
+20068583008,Harpreet Kaur Sandhu,S.G.T.B. Khalsa College,7.55,8.18,7.864
+20068583009,Harshita Bisht,S.G.T.B. Khalsa College,7.91,9.00,8.455
+20068583010,Himank Upreti,S.G.T.B. Khalsa College,7.64,6.73,7.182
+20068583011,JASJOT KAUR,S.G.T.B. Khalsa College,8.55,9.00,8.773
+20068583012,Jaskaran Singh,S.G.T.B. Khalsa College,7.00,8.00,7.500
+20068583013,Kamalpreet Kaur,S.G.T.B. Khalsa College,8.18,6.82,7.500
+20068583014,Khushboo Nangia,S.G.T.B. Khalsa College,8.55,9.00,8.773
+20068583015,kinjaldeep kaur,S.G.T.B. Khalsa College,8.09,9.00,8.545
+20068583016,Kishandeep Kaur,S.G.T.B. Khalsa College,8.64,8.00,8.318
+20068583017,MANJARI PANDEY,S.G.T.B. Khalsa College,8.82,9.27,9.045
+20068583018,MANKIRAT SINGH,S.G.T.B. Khalsa College,7.00,8.27,7.636
+20068583019,meenu,S.G.T.B. Khalsa College,8.36,9.00,8.682
+20068583020,MISHU KAUR,S.G.T.B. Khalsa College,8.64,9.00,8.818
+20068583021,Mridul Sethi,S.G.T.B. Khalsa College,6.36,6.36,6.364
+20068583023,Paawani Kaushik,S.G.T.B. Khalsa College,8.09,8.18,8.136
+20068583024,Priya,S.G.T.B. Khalsa College,6.36,2.36,4.364
+20068583025,RIYA ARORA,S.G.T.B. Khalsa College,8.64,9.00,8.818
+20068583026,Sakshi sharma,S.G.T.B. Khalsa College,7.55,8.00,7.773
+20068583027,SIYA BATTLA,S.G.T.B. Khalsa College,7.00,8.00,7.500
+20068583028,Sneha gupta,S.G.T.B. Khalsa College,9.09,9.00,9.045
+20068583029,Srishti Srivastav,S.G.T.B. Khalsa College,8.82,8.82,8.818
+20068583030,sulakshini Kumari,S.G.T.B. Khalsa College,8.27,9.00,8.636
+20068583031,Sunpreet kaur,S.G.T.B. Khalsa College,8.09,9.00,8.545
+20068583032,Tushar Dahiya,S.G.T.B. Khalsa College,8.55,9.27,8.909
+20068583034,Vishal,S.G.T.B. Khalsa College,3.55,1.82,2.682
+20068583035,DILPREET SINGH,S.G.T.B. Khalsa College,8.09,8.73,8.409
+20068583036,ARHAM KHAN,S.G.T.B. Khalsa College,4.18,3.91,4.045
+20068583037,ASHWANI KUMAR,S.G.T.B. Khalsa College,4.27,4.82,4.545
+20068583038,Heena,S.G.T.B. Khalsa College,8.09,8.73,8.409

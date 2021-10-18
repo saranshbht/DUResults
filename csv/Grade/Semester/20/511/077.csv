@@ -1,48 +1,50 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20077511001,ADITI GAIROLA,Sri Aurobindo College (Eve),7.45,7.455
-20077511002,ANANJAY BABU,Sri Aurobindo College (Eve),7.00,7.000
-20077511003,ANANT AGARWAL,Sri Aurobindo College (Eve),5.64,5.636
-20077511004,ANANYA SAPRA,Sri Aurobindo College (Eve),7.27,7.273
-20077511005,ANUSHKA SRIVASTAVA,Sri Aurobindo College (Eve),7.18,7.182
-20077511006,ANUSHKA XESS,Sri Aurobindo College (Eve),7.45,7.455
-20077511007,APARNA SURESH,Sri Aurobindo College (Eve),6.73,6.727
-20077511008,ARIDAMAN YADAV,Sri Aurobindo College (Eve),6.91,6.909
-20077511009,ARPANA SONI,Sri Aurobindo College (Eve),7.18,7.182
-20077511011,DIVYA THEARIA,Sri Aurobindo College (Eve),7.00,7.000
-20077511012,EKANSH SRIVASTAVA,Sri Aurobindo College (Eve),6.64,6.636
-20077511013,ESHA,Sri Aurobindo College (Eve),7.00,7.000
-20077511014,GARIMA SUYAL,Sri Aurobindo College (Eve),7.18,7.182
-20077511015,HANSIKA TREHAN,Sri Aurobindo College (Eve),6.64,6.636
-20077511016,HARSHIT WADHWA,Sri Aurobindo College (Eve),6.45,6.455
-20077511017,HARSHITA BERI,Sri Aurobindo College (Eve),6.91,6.909
-20077511018,HIMANSHI,Sri Aurobindo College (Eve),5.09,5.091
-20077511019,KAUSHAL BHARADWAJ,Sri Aurobindo College (Eve),6.18,6.182
-20077511022,MAHIMA MISHRA,Sri Aurobindo College (Eve),7.18,7.182
-20077511023,MANSHU GROVER,Sri Aurobindo College (Eve),6.45,6.455
-20077511024,MITALI JOSHI,Sri Aurobindo College (Eve),6.45,6.455
-20077511025,MUSKAN JANDA,Sri Aurobindo College (Eve),6.73,6.727
-20077511026,OCIKA SINGH,Sri Aurobindo College (Eve),7.64,7.636
-20077511027,PARUL,Sri Aurobindo College (Eve),6.73,6.727
-20077511028,PRAGYA SAXENA,Sri Aurobindo College (Eve),6.45,6.455
-20077511030,PRISHITA KUMARI,Sri Aurobindo College (Eve),7.18,7.182
-20077511031,RAHUL JHA,Sri Aurobindo College (Eve),6.45,6.455
-20077511032,RASHIKA,Sri Aurobindo College (Eve),7.45,7.455
-20077511033,RAZIYA PARVEEN,Sri Aurobindo College (Eve),7.00,7.000
-20077511034,RIYA MITRA,Sri Aurobindo College (Eve),7.00,7.000
-20077511035,SANGITA KUMARI,Sri Aurobindo College (Eve),7.18,7.182
-20077511036,SAPNA JHA,Sri Aurobindo College (Eve),5.55,5.545
-20077511037,SHAHNAWAZ ALAM,Sri Aurobindo College (Eve),3.82,3.818
-20077511038,SHRISHTI KARIWALA,Sri Aurobindo College (Eve),7.00,7.000
-20077511039,SIMRAN JOT KAUR,Sri Aurobindo College (Eve),6.82,6.818
-20077511040,SUPRIYA KUMARI,Sri Aurobindo College (Eve),7.45,7.455
-20077511041,SWASTIKA GAUTAM,Sri Aurobindo College (Eve),7.18,7.182
-20077511042,VEDANG SINGH,Sri Aurobindo College (Eve),7.27,7.273
-20077511043,VEDANSHI SHARMA,Sri Aurobindo College (Eve),7.45,7.455
-20077511044,VIPASANA KAUL,Sri Aurobindo College (Eve),7.00,7.000
-20077511046,ANISH,Sri Aurobindo College (Eve),5.18,5.182
-20077511047,ANUPAMA SHARMA,Sri Aurobindo College (Eve),7.18,7.182
-20077511048,BHATERI,Sri Aurobindo College (Eve),6.82,6.818
-20077511049,GARIMA JOSHI,Sri Aurobindo College (Eve),6.73,6.727
-20077511051,SANCHI KHATTAR,Sri Aurobindo College (Eve),7.45,7.455
-20077511052,VANSHIKA CHAUDHARY,Sri Aurobindo College (Eve),7.18,7.182
-20077511053,MS. GAURI ANDANI,Sri Aurobindo College (Eve),6.18,6.182
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20077511001,ADITI GAIROLA,Sri Aurobindo College (Eve),7.45,9.00,8.227
+20077511002,Ananjay Babu,Sri Aurobindo College (Eve),7.00,8.00,7.500
+20077511003,Anant Agarwal,Sri Aurobindo College (Eve),5.64,7.00,6.318
+20077511004,Ananya Sapra,Sri Aurobindo College (Eve),7.27,8.82,8.045
+20077511006,Anushka Xess,Sri Aurobindo College (Eve),7.45,8.00,7.727
+20077511007,APARNA SURESH,Sri Aurobindo College (Eve),6.73,8.00,7.364
+20077511008,aridaman yadav,Sri Aurobindo College (Eve),6.91,8.00,7.455
+20077511009,Arpana Soni,Sri Aurobindo College (Eve),7.18,8.00,7.591
+20077511010,BISHNU KUMAR MOHANTA,Sri Aurobindo College (Eve),6.73,8.00,7.364
+20077511011,Divya Thearia,Sri Aurobindo College (Eve),7.00,8.00,7.500
+20077511012,EKANSH SRIVASTAVA,Sri Aurobindo College (Eve),6.64,8.00,7.318
+20077511013,ESHA,Sri Aurobindo College (Eve),7.00,8.00,7.500
+20077511014,Garima suyal,Sri Aurobindo College (Eve),7.18,8.27,7.727
+20077511015,Hansika Trehan,Sri Aurobindo College (Eve),6.64,8.00,7.318
+20077511016,Harshit Wadhwa,Sri Aurobindo College (Eve),6.45,8.00,7.227
+20077511017,HARSHITA BERI,Sri Aurobindo College (Eve),6.91,8.00,7.455
+20077511019,Kaushal Bharadwaj,Sri Aurobindo College (Eve),6.18,6.73,6.455
+20077511020,Lalit Sharma,Sri Aurobindo College (Eve),6.18,7.00,6.591
+20077511022,Mahima Mishra,Sri Aurobindo College (Eve),7.18,8.00,7.591
+20077511023,Manshu Grover,Sri Aurobindo College (Eve),6.45,8.00,7.227
+20077511024,MITALI JOSHI,Sri Aurobindo College (Eve),6.45,7.00,6.727
+20077511025,MUSKAN JANDA,Sri Aurobindo College (Eve),6.73,7.00,6.864
+20077511026,OCIKA SINGH,Sri Aurobindo College (Eve),7.64,8.55,8.091
+20077511027,Parul,Sri Aurobindo College (Eve),6.73,8.00,7.364
+20077511028,Pragya Saxena,Sri Aurobindo College (Eve),6.45,7.55,7.000
+20077511029,Prerna Chugh,Sri Aurobindo College (Eve),7.45,9.00,8.227
+20077511030,PRISHITA KUMARI,Sri Aurobindo College (Eve),7.18,8.27,7.727
+20077511031,Rahul Jha,Sri Aurobindo College (Eve),6.45,8.00,7.227
+20077511032,Rashika,Sri Aurobindo College (Eve),7.45,8.00,7.727
+20077511033,RAZIYA PARVEEN,Sri Aurobindo College (Eve),7.00,8.00,7.500
+20077511034,RIYA MITRA,Sri Aurobindo College (Eve),7.00,8.00,7.500
+20077511035,SANGITA KUMARI,Sri Aurobindo College (Eve),7.18,8.00,7.591
+20077511036,SAPNA JHA,Sri Aurobindo College (Eve),5.55,8.00,6.773
+20077511037,shahnawaz alam,Sri Aurobindo College (Eve),3.82,6.00,4.909
+20077511038,SHRISHTI KARIWALA,Sri Aurobindo College (Eve),7.00,8.00,7.500
+20077511039,SIMRAN JOT KAUR,Sri Aurobindo College (Eve),6.82,7.00,6.909
+20077511040,Supriya kumari,Sri Aurobindo College (Eve),7.45,8.27,7.864
+20077511041,Swastika Gautam,Sri Aurobindo College (Eve),7.18,8.55,7.864
+20077511042,Vedang Singh,Sri Aurobindo College (Eve),7.27,9.00,8.136
+20077511043,Vedanshi Sharma,Sri Aurobindo College (Eve),7.45,9.00,8.227
+20077511044,VIPASANA KAUL,Sri Aurobindo College (Eve),7.00,8.00,7.500
+20077511046,Anish,Sri Aurobindo College (Eve),5.18,6.55,5.864
+20077511047,ANUPAMA SHARMA,Sri Aurobindo College (Eve),7.18,8.27,7.727
+20077511048,Bhateri,Sri Aurobindo College (Eve),6.82,8.00,7.409
+20077511049,Garima Joshi,Sri Aurobindo College (Eve),6.73,8.00,7.364
+20077511050,Haasim,Sri Aurobindo College (Eve),6.82,8.00,7.409
+20077511051,Sanchi khattar,Sri Aurobindo College (Eve),7.45,9.00,8.227
+20077511052,Vanshika chaudhary,Sri Aurobindo College (Eve),7.18,8.00,7.591
+20077511053,Ms. Gauri Andani,Sri Aurobindo College (Eve),6.18,7.18,6.682

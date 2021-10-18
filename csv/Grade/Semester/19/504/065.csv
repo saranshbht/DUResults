@@ -1,56 +1,54 @@
-RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
-19065504001,AABHAS YADAV,Shaheed Bhagat Singh College (Eve),7.18,8.27,8.21,7.917
-19065504002,AASHIMA MAKKAR,Shaheed Bhagat Singh College (Eve),8.27,9.00,8.57,8.611
-19065504003,ACHAL MIHANI,Shaheed Bhagat Singh College (Eve),4.27,5.73,7.57,6.000
-19065504004,ADITI SHREE,Shaheed Bhagat Singh College (Eve),7.36,9.00,9.14,8.556
-19065504005,ADITYA KUMAR,Shaheed Bhagat Singh College (Eve),6.18,7.73,8.79,7.667
-19065504006,AJAY KUMAR,Shaheed Bhagat Singh College (Eve),7.73,8.73,8.14,8.194
-19065504007,AKANKSHA YADAV,Shaheed Bhagat Singh College (Eve),6.73,8.82,8.36,8.000
-19065504008,AMAN JAISWAL,Shaheed Bhagat Singh College (Eve),7.18,9.00,9.36,8.583
-19065504009,AMAN SHARMA,Shaheed Bhagat Singh College (Eve),6.64,7.73,8.00,7.500
-19065504010,AMRITA NANDWANI,Shaheed Bhagat Singh College (Eve),6.91,8.18,9.00,8.111
-19065504011,ANJALI,Shaheed Bhagat Singh College (Eve),7.45,8.82,9.14,8.528
-19065504012,AYUSH ABHISHEK,Shaheed Bhagat Singh College (Eve),6.45,8.55,8.36,7.833
-19065504013,BRIJ KISHORE,Shaheed Bhagat Singh College (Eve),6.45,8.09,8.57,7.778
-19065504014,CHEHAK KAMRA,Shaheed Bhagat Singh College (Eve),7.73,9.00,8.71,8.500
-19065504015,DEVANSH,Shaheed Bhagat Singh College (Eve),5.45,6.45,8.36,6.889
-19065504016,DINESH GARG,Shaheed Bhagat Singh College (Eve),8.00,9.00,8.79,8.611
-19065504017,FALGUNI MISHRA,Shaheed Bhagat Singh College (Eve),7.36,8.55,9.21,8.444
-19065504018,GARGY PANDEY,Shaheed Bhagat Singh College (Eve),7.18,8.55,8.79,8.222
-19065504019,HITESH,Shaheed Bhagat Singh College (Eve),7.73,9.00,8.57,8.444
-19065504021,HRITHIK MALIK,Shaheed Bhagat Singh College (Eve),7.91,9.00,8.14,8.333
-19065504022,KASHISH PAHWA,Shaheed Bhagat Singh College (Eve),9.00,9.73,9.14,9.278
-19065504023,KOMAL KUMARI,Shaheed Bhagat Singh College (Eve),6.36,8.27,8.79,7.889
-19065504024,MANSI KHANEJA,Shaheed Bhagat Singh College (Eve),8.27,8.73,9.36,8.833
-19065504025,MUDIT JAIN,Shaheed Bhagat Singh College (Eve),8.09,9.00,8.71,8.611
-19065504026,NISHANT ROHILLA,Shaheed Bhagat Singh College (Eve),7.55,9.00,8.64,8.417
-19065504027,NISHANT SHEKHAR,Shaheed Bhagat Singh College (Eve),7.45,8.73,8.57,8.278
-19065504028,NITESH,Shaheed Bhagat Singh College (Eve),7.55,8.55,8.79,8.333
-19065504029,P ROHIT,Shaheed Bhagat Singh College (Eve),7.00,8.27,8.14,7.833
-19065504030,PALAK SINGLA,Shaheed Bhagat Singh College (Eve),8.18,8.82,8.93,8.667
-19065504031,PARIDHI,Shaheed Bhagat Singh College (Eve),6.91,8.27,8.57,7.972
-19065504032,PIYUSH SHARMA,Shaheed Bhagat Singh College (Eve),4.91,6.27,8.21,6.611
-19065504033,PRANJAL VERMA,Shaheed Bhagat Singh College (Eve),5.91,6.45,8.14,6.944
-19065504034,PRERNA,Shaheed Bhagat Singh College (Eve),7.18,8.55,8.79,8.222
-19065504035,PRIYANSHU KUMAR,Shaheed Bhagat Singh College (Eve),6.00,8.00,8.57,7.611
-19065504036,RACHIT MANDAWEWALA,Shaheed Bhagat Singh College (Eve),7.27,8.82,8.79,8.333
-19065504037,RIYA GARG,Shaheed Bhagat Singh College (Eve),8.00,8.73,8.79,8.528
-19065504038,ROSHAN KUMAR,Shaheed Bhagat Singh College (Eve),5.91,6.73,7.43,6.750
-19065504039,SAHIL KUMAR GUPTA,Shaheed Bhagat Singh College (Eve),7.55,9.00,8.36,8.306
-19065504040,SARVDAMAN YADAV,Shaheed Bhagat Singh College (Eve),6.45,8.00,7.93,7.500
-19065504041,SAUMYA NEGI,Shaheed Bhagat Singh College (Eve),7.27,8.82,9.00,8.417
-19065504042,SHAILESH KUMAR SINGH,Shaheed Bhagat Singh College (Eve),5.45,7.27,8.36,7.139
-19065504043,SHIVANI YADAV,Shaheed Bhagat Singh College (Eve),7.09,8.27,8.79,8.111
-19065504044,SHRESTH GUPTA,Shaheed Bhagat Singh College (Eve),7.82,8.73,8.14,8.222
-19065504045,SHREYA JAISWAL,Shaheed Bhagat Singh College (Eve),6.64,8.55,8.79,8.056
-19065504046,SHRUTI RANI,Shaheed Bhagat Singh College (Eve),8.27,9.82,9.57,9.250
-19065504047,SHUBHAM GUPTA,Shaheed Bhagat Singh College (Eve),8.00,8.73,7.57,8.056
-19065504048,TANNU SINGH,Shaheed Bhagat Singh College (Eve),8.00,9.00,9.14,8.750
-19065504049,TRICHANKU RANA BORGOHAIN,Shaheed Bhagat Singh College (Eve),5.27,8.00,9.07,7.583
-19065504050,VASU CHHABRA,Shaheed Bhagat Singh College (Eve),7.64,8.73,8.57,8.333
-19065504051,VIKASH TOMAR,Shaheed Bhagat Singh College (Eve),6.73,7.55,8.36,7.611
-19065504052,VIKRANT SINGH,Shaheed Bhagat Singh College (Eve),5.73,7.73,8.57,7.444
-19065504053,VINAYAK SATSANGI,Shaheed Bhagat Singh College (Eve),7.45,8.82,8.57,8.306
-19065504054,VISHAL GAURAV,Shaheed Bhagat Singh College (Eve),7.18,8.82,8.86,8.333
-19065504055,VISHESH ALHAYAN,Shaheed Bhagat Singh College (Eve),7.00,8.00,7.36,7.444
-19065504056,YASH KHANDELWAL,Shaheed Bhagat Singh College (Eve),9.00,9.55,9.43,9.333
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Overall CGPA
+19065504001,AABHAS YADAV,Shaheed Bhagat Singh College (Eve),7.18,8.27,8.21,8.79,8.160
+19065504002,AASHIMA MAKKAR,Shaheed Bhagat Singh College (Eve),8.27,9.00,8.57,9.00,8.720
+19065504003,ACHAL MIHANI,Shaheed Bhagat Singh College (Eve),4.27,5.73,7.57,8.14,6.600
+19065504004,ADITI SHREE,Shaheed Bhagat Singh College (Eve),7.36,9.00,9.14,9.57,8.840
+19065504005,ADITYA KUMAR,Shaheed Bhagat Singh College (Eve),6.18,7.73,8.79,9.21,8.100
+19065504006,AJAY KUMAR,Shaheed Bhagat Singh College (Eve),7.73,8.73,8.14,8.64,8.320
+19065504007,AKANKSHA YADAV,Shaheed Bhagat Singh College (Eve),6.73,8.82,8.36,9.00,8.280
+19065504008,AMAN JAISWAL,Shaheed Bhagat Singh College (Eve),7.18,9.00,9.36,9.57,8.860
+19065504009,AMAN SHARMA,Shaheed Bhagat Singh College (Eve),6.64,7.73,8.00,5.71,7.000
+19065504010,AMRITA NANDWANI,Shaheed Bhagat Singh College (Eve),6.91,8.18,9.00,8.79,8.300
+19065504011,ANJALI,Shaheed Bhagat Singh College (Eve),7.45,8.82,9.14,9.00,8.660
+19065504012,AYUSH ABHISHEK,Shaheed Bhagat Singh College (Eve),6.45,8.55,8.36,9.00,8.160
+19065504013,BRIJ KISHORE,Shaheed Bhagat Singh College (Eve),6.45,8.09,8.57,9.00,8.120
+19065504014,CHEHAK KAMRA,Shaheed Bhagat Singh College (Eve),7.73,9.00,8.71,9.00,8.640
+19065504015,DEVANSH,Shaheed Bhagat Singh College (Eve),5.45,6.45,8.36,8.79,7.420
+19065504016,DINESH GARG,Shaheed Bhagat Singh College (Eve),8.00,9.00,8.79,9.00,8.720
+19065504017,FALGUNI MISHRA,Shaheed Bhagat Singh College (Eve),7.36,8.55,9.21,9.79,8.820
+19065504018,GARGY PANDEY,Shaheed Bhagat Singh College (Eve),7.18,8.55,8.79,9.57,8.600
+19065504019,HITESH,Shaheed Bhagat Singh College (Eve),7.73,9.00,8.57,9.00,8.600
+19065504021,HRITHIK MALIK,Shaheed Bhagat Singh College (Eve),7.91,9.00,8.14,9.00,8.520
+19065504022,KASHISH PAHWA,Shaheed Bhagat Singh College (Eve),9.00,9.73,9.14,10.00,9.480
+19065504023,KOMAL KUMARI,Shaheed Bhagat Singh College (Eve),6.36,8.27,8.79,8.79,8.140
+19065504025,MUDIT JAIN,Shaheed Bhagat Singh College (Eve),8.09,9.00,8.71,9.21,8.780
+19065504026,NISHANT ROHILLA,Shaheed Bhagat Singh College (Eve),7.55,9.00,8.64,9.00,8.580
+19065504027,NISHANT SHEKHAR,Shaheed Bhagat Singh College (Eve),7.45,8.73,8.57,9.00,8.480
+19065504028,NITESH,Shaheed Bhagat Singh College (Eve),7.55,8.55,8.79,9.00,8.520
+19065504029,P ROHIT,Shaheed Bhagat Singh College (Eve),7.00,8.27,8.14,8.57,8.040
+19065504030,PALAK SINGLA,Shaheed Bhagat Singh College (Eve),8.18,8.82,8.93,9.21,8.820
+19065504032,PIYUSH SHARMA,Shaheed Bhagat Singh College (Eve),4.91,6.27,8.21,8.21,7.060
+19065504033,PRANJAL VERMA,Shaheed Bhagat Singh College (Eve),5.91,6.45,8.14,9.00,7.520
+19065504034,PRERNA,Shaheed Bhagat Singh College (Eve),7.18,8.55,8.79,9.00,8.440
+19065504035,PRIYANSHU KUMAR,Shaheed Bhagat Singh College (Eve),6.00,8.00,8.57,9.21,8.060
+19065504036,RACHIT MANDAWEWALA,Shaheed Bhagat Singh College (Eve),7.27,8.82,8.79,9.57,8.680
+19065504037,RIYA GARG,Shaheed Bhagat Singh College (Eve),8.00,8.73,8.79,9.00,8.660
+19065504038,ROSHAN KUMAR,Shaheed Bhagat Singh College (Eve),5.91,6.73,7.43,8.43,7.220
+19065504039,SAHIL KUMAR GUPTA,Shaheed Bhagat Singh College (Eve),7.55,9.00,8.36,9.00,8.500
+19065504040,SARVDAMAN YADAV,Shaheed Bhagat Singh College (Eve),6.45,8.00,7.93,9.00,7.920
+19065504041,SAUMYA NEGI,Shaheed Bhagat Singh College (Eve),7.27,8.82,9.00,9.57,8.740
+19065504042,SHAILESH KUMAR SINGH,Shaheed Bhagat Singh College (Eve),5.45,7.27,8.36,8.57,7.540
+19065504043,SHIVANI YADAV,Shaheed Bhagat Singh College (Eve),7.09,8.27,8.79,9.00,8.360
+19065504044,SHRESTH GUPTA,Shaheed Bhagat Singh College (Eve),7.82,8.73,8.14,8.86,8.400
+19065504045,SHREYA JAISWAL,Shaheed Bhagat Singh College (Eve),6.64,8.55,8.79,9.21,8.380
+19065504046,SHRUTI RANI,Shaheed Bhagat Singh College (Eve),8.27,9.82,9.57,10.00,9.460
+19065504047,SHUBHAM GUPTA,Shaheed Bhagat Singh College (Eve),8.00,8.73,7.57,0.00,5.800
+19065504048,TANNU SINGH,Shaheed Bhagat Singh College (Eve),8.00,9.00,9.14,9.00,8.820
+19065504049,TRICHANKU RANA BORGOHAIN,Shaheed Bhagat Singh College (Eve),5.27,8.00,9.07,9.57,8.140
+19065504050,VASU CHHABRA,Shaheed Bhagat Singh College (Eve),7.64,8.73,8.57,9.00,8.520
+19065504051,VIKASH TOMAR,Shaheed Bhagat Singh College (Eve),6.73,7.55,8.36,9.00,8.000
+19065504052,VIKRANT SINGH,Shaheed Bhagat Singh College (Eve),5.73,7.73,8.57,9.00,7.880
+19065504053,VINAYAK SATSANGI,Shaheed Bhagat Singh College (Eve),7.45,8.82,8.57,9.00,8.500
+19065504054,VISHAL GAURAV,Shaheed Bhagat Singh College (Eve),7.18,8.82,8.86,9.00,8.520
+19065504055,VISHESH ALHAYAN,Shaheed Bhagat Singh College (Eve),7.00,8.00,7.36,8.21,7.660
+19065504056,YASH KHANDELWAL,Shaheed Bhagat Singh College (Eve),9.00,9.55,9.43,9.00,9.240

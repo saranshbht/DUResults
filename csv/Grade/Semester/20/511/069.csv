@@ -1,27 +1,27 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20069511001,Agam Kaur,Sri Guru Nanak Dev Khalsa College,8.00,8.000
-20069511002,Amandeep Kaur,Sri Guru Nanak Dev Khalsa College,7.82,7.818
-20069511003,Anmol kaur bhatia,Sri Guru Nanak Dev Khalsa College,8.18,8.182
-20069511004,Ayush Mishra,Sri Guru Nanak Dev Khalsa College,7.55,7.545
-20069511005,Dineet kaur,Sri Guru Nanak Dev Khalsa College,8.18,8.182
-20069511006,Gaganjeet Singh,Sri Guru Nanak Dev Khalsa College,7.45,7.455
-20069511007,Gurbani Kaur,Sri Guru Nanak Dev Khalsa College,7.73,7.727
-20069511008,Gurpreet Singh Bansal,Sri Guru Nanak Dev Khalsa College,6.27,6.273
-20069511009,Harmanjeet Singh,Sri Guru Nanak Dev Khalsa College,7.73,7.727
-20069511010,Ikshit Rajpal,Sri Guru Nanak Dev Khalsa College,7.55,7.545
-20069511011,Jasiba Kaur,Sri Guru Nanak Dev Khalsa College,7.45,7.455
-20069511012,Jaspreet Kaur,Sri Guru Nanak Dev Khalsa College,7.18,7.182
-20069511013,Jaya baru,Sri Guru Nanak Dev Khalsa College,7.55,7.545
-20069511014,Mohit Attri,Sri Guru Nanak Dev Khalsa College,6.45,6.455
-20069511015,Navya Singh Grover,Sri Guru Nanak Dev Khalsa College,7.64,7.636
-20069511016,Rabnoor Singh,Sri Guru Nanak Dev Khalsa College,7.64,7.636
-20069511017,Radhika,Sri Guru Nanak Dev Khalsa College,8.36,8.364
-20069511018,Sandhya Gusain,Sri Guru Nanak Dev Khalsa College,7.45,7.455
-20069511019,Sanjana Singh,Sri Guru Nanak Dev Khalsa College,7.73,7.727
-20069511020,Saurav Kamra,Sri Guru Nanak Dev Khalsa College,7.73,7.727
-20069511021,Sehaj preet singh awal,Sri Guru Nanak Dev Khalsa College,7.18,7.182
-20069511022,Shivam Kumar,Sri Guru Nanak Dev Khalsa College,6.36,6.364
-20069511023,Shweta,Sri Guru Nanak Dev Khalsa College,7.73,7.727
-20069511024,Tanya Oberoi,Sri Guru Nanak Dev Khalsa College,7.09,7.091
-20069511025,Vanshika Verma,Sri Guru Nanak Dev Khalsa College,8.00,8.000
-20069511026,Vedant Singh,Sri Guru Nanak Dev Khalsa College,7.27,7.273
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20069511001,Agam Kaur,Sri Guru Nanak Dev Khalsa College,8.00,8.00,8.000
+20069511002,Amandeep Kaur,Sri Guru Nanak Dev Khalsa College,7.82,8.73,8.273
+20069511003,Anmol kaur bhatia,Sri Guru Nanak Dev Khalsa College,8.18,8.00,8.091
+20069511004,Ayush Mishra,Sri Guru Nanak Dev Khalsa College,7.55,8.00,7.773
+20069511005,Dineet kaur,Sri Guru Nanak Dev Khalsa College,8.18,8.82,8.500
+20069511006,Gaganjeet Singh,Sri Guru Nanak Dev Khalsa College,7.45,8.00,7.727
+20069511007,Gurbani Kaur,Sri Guru Nanak Dev Khalsa College,7.73,8.00,7.864
+20069511008,Gurpreet Singh Bansal,Sri Guru Nanak Dev Khalsa College,6.27,7.27,6.773
+20069511009,Harmanjeet Singh,Sri Guru Nanak Dev Khalsa College,7.73,8.55,8.136
+20069511010,Ikshit Rajpal,Sri Guru Nanak Dev Khalsa College,7.55,7.00,7.273
+20069511011,Jasiba Kaur,Sri Guru Nanak Dev Khalsa College,7.45,8.00,7.727
+20069511012,Jaspreet Kaur,Sri Guru Nanak Dev Khalsa College,7.18,8.45,7.818
+20069511013,Jaya baru,Sri Guru Nanak Dev Khalsa College,7.55,8.27,7.909
+20069511014,Mohit Attri,Sri Guru Nanak Dev Khalsa College,6.45,7.82,7.136
+20069511015,Navya Singh Grover,Sri Guru Nanak Dev Khalsa College,7.64,8.00,7.818
+20069511016,Rabnoor Singh,Sri Guru Nanak Dev Khalsa College,7.64,8.00,7.818
+20069511017,Radhika,Sri Guru Nanak Dev Khalsa College,8.36,8.27,8.318
+20069511018,Sandhya Gusain,Sri Guru Nanak Dev Khalsa College,7.45,8.00,7.727
+20069511019,Sanjana Singh,Sri Guru Nanak Dev Khalsa College,7.73,9.00,8.364
+20069511020,Saurav Kamra,Sri Guru Nanak Dev Khalsa College,7.73,8.27,8.000
+20069511021,Sehaj preet singh awal,Sri Guru Nanak Dev Khalsa College,7.18,7.55,7.364
+20069511022,Shivam Kumar,Sri Guru Nanak Dev Khalsa College,6.36,7.00,6.682
+20069511023,Shweta,Sri Guru Nanak Dev Khalsa College,7.73,8.82,8.273
+20069511024,Tanya Oberoi,Sri Guru Nanak Dev Khalsa College,7.09,7.73,7.409
+20069511025,Vanshika Verma,Sri Guru Nanak Dev Khalsa College,8.00,9.00,8.500
+20069511026,Vedant Singh,Sri Guru Nanak Dev Khalsa College,7.27,7.73,7.500

@@ -1,48 +1,46 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20032503001,Aksa Mary Jose,Jesus & Mary College,9.00,9.000
-20032503002,Ananya Wadhwa,Jesus & Mary College,9.00,9.000
-20032503003,Angel Rajji,Jesus & Mary College,8.09,8.091
-20032503004,Ankita Gupta,Jesus & Mary College,9.00,9.000
-20032503005,Ann Riya Rajeev,Jesus & Mary College,8.45,8.455
-20032503006,Arshiya Batra,Jesus & Mary College,8.55,8.545
-20032503007,Auhona Roy,Jesus & Mary College,8.55,8.545
-20032503008,Bhakti Bansal,Jesus & Mary College,7.73,7.727
-20032503009,Chelsah Joseph,Jesus & Mary College,8.55,8.545
-20032503010,Chinnu Jacob,Jesus & Mary College,8.18,8.182
-20032503011,Depanshi Gulati,Jesus & Mary College,8.73,8.727
-20032503012,Diya Bhatia,Jesus & Mary College,8.82,8.818
-20032503013,Drishti,Jesus & Mary College,9.27,9.273
-20032503014,Esha Solomon,Jesus & Mary College,9.00,9.000
-20032503015,Garima Anand,Jesus & Mary College,8.27,8.273
-20032503016,Harsha Sosa Wilson,Jesus & Mary College,8.73,8.727
-20032503017,Harshita Kuriakose,Jesus & Mary College,8.73,8.727
-20032503018,Harshita Singh,Jesus & Mary College,8.45,8.455
-20032503019,Himani Dev Verma,Jesus & Mary College,8.45,8.455
-20032503020,Jiss Mathew,Jesus & Mary College,7.82,7.818
-20032503021,Kavya dwivedi,Jesus & Mary College,8.45,8.455
-20032503022,Khushi Gupta,Jesus & Mary College,7.73,7.727
-20032503023,Khushi Sodhi,Jesus & Mary College,7.91,7.909
-20032503024,Mansi Cecil Tuti,Jesus & Mary College,8.09,8.091
-20032503025,Mareena Thomas,Jesus & Mary College,8.09,8.091
-20032503026,Maria Roselin V Rayan,Jesus & Mary College,7.82,7.818
-20032503027,Merin Chacko,Jesus & Mary College,8.73,8.727
-20032503028,Mishika Kapoor,Jesus & Mary College,9.27,9.273
-20032503029,Muskaan Mehra,Jesus & Mary College,9.27,9.273
-20032503030,Oasis kindo,Jesus & Mary College,7.91,7.909
-20032503031,Philomina Daniel,Jesus & Mary College,7.91,7.909
-20032503032,Pragati Juneja,Jesus & Mary College,8.55,8.545
-20032503033,Prapti Barnawal,Jesus & Mary College,8.73,8.727
-20032503034,Pratiksha Carol Gomes,Jesus & Mary College,8.73,8.727
-20032503035,Preeny Joseph,Jesus & Mary College,8.18,8.182
-20032503036,Priya Kakkar,Jesus & Mary College,8.73,8.727
-20032503037,Rhea Oberoi,Jesus & Mary College,8.73,8.727
-20032503038,Rimjhim Srivastava,Jesus & Mary College,8.73,8.727
-20032503039,Rosita Jolly Mathew,Jesus & Mary College,8.27,8.273
-20032503040,Serena Dhir,Jesus & Mary College,9.27,9.273
-20032503041,Sharon K Sam,Jesus & Mary College,8.27,8.273
-20032503042,Sharon Rajasekharan,Jesus & Mary College,8.45,8.455
-20032503043,Sneha Bhandari,Jesus & Mary College,8.73,8.727
-20032503044,Stuti Malik,Jesus & Mary College,9.00,9.000
-20032503045,Tigmanshi Singh,Jesus & Mary College,8.55,8.545
-20032503046,Vaibhavi Khandelwal,Jesus & Mary College,8.73,8.727
-20032503047,Vasundhra Jain,Jesus & Mary College,8.82,8.818
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20032503001,Aksa Mary Jose,Jesus & Mary College,9.00,9.55,9.273
+20032503002,Ananya Wadhwa,Jesus & Mary College,9.00,9.82,9.409
+20032503003,Angel Rajji,Jesus & Mary College,8.09,8.82,8.455
+20032503004,Ankita Gupta,Jesus & Mary College,9.00,9.55,9.273
+20032503005,Ann Riya Rajeev,Jesus & Mary College,8.45,9.00,8.727
+20032503006,Arshiya Batra,Jesus & Mary College,8.55,9.00,8.773
+20032503007,Auhona Roy,Jesus & Mary College,8.55,9.00,8.773
+20032503008,Bhakti Bansal,Jesus & Mary College,7.73,8.55,8.136
+20032503009,Chelsah Joseph,Jesus & Mary College,8.55,9.00,8.773
+20032503010,Chinnu Jacob,Jesus & Mary College,8.18,9.00,8.591
+20032503011,Depanshi Gulati,Jesus & Mary College,8.73,9.27,9.000
+20032503012,Diya Bhatia,Jesus & Mary College,8.82,9.00,8.909
+20032503013,Drishti,Jesus & Mary College,9.27,9.55,9.409
+20032503014,Esha Solomon,Jesus & Mary College,9.00,9.55,9.273
+20032503015,Garima Anand,Jesus & Mary College,8.27,9.00,8.636
+20032503016,Harsha Sosa Wilson,Jesus & Mary College,8.73,9.55,9.136
+20032503017,Harshita Kuriakose,Jesus & Mary College,8.73,9.00,8.864
+20032503018,Harshita Singh,Jesus & Mary College,8.45,9.00,8.727
+20032503019,Himani Dev Verma,Jesus & Mary College,8.45,9.55,9.000
+20032503020,Jiss Mathew,Jesus & Mary College,7.82,8.82,8.318
+20032503021,Kavya dwivedi,Jesus & Mary College,8.45,9.00,8.727
+20032503022,Khushi Gupta,Jesus & Mary College,7.73,8.27,8.000
+20032503023,Khushi Sodhi,Jesus & Mary College,7.91,9.00,8.455
+20032503024,Mansi Cecil Tuti,Jesus & Mary College,8.09,8.82,8.455
+20032503025,Mareena Thomas,Jesus & Mary College,8.09,9.00,8.545
+20032503026,Maria Roselin V Rayan,Jesus & Mary College,7.82,8.55,8.182
+20032503027,Merin Chacko,Jesus & Mary College,8.73,9.55,9.136
+20032503028,Mishika Kapoor,Jesus & Mary College,9.27,9.55,9.409
+20032503029,Muskaan Mehra,Jesus & Mary College,9.27,9.55,9.409
+20032503030,Oasis kindo,Jesus & Mary College,7.91,8.82,8.364
+20032503031,Philomina Daniel,Jesus & Mary College,7.91,8.82,8.364
+20032503032,Pragati Juneja,Jesus & Mary College,8.55,9.55,9.045
+20032503033,Prapti Barnawal,Jesus & Mary College,8.73,9.55,9.136
+20032503034,Pratiksha Carol Gomes,Jesus & Mary College,8.73,9.00,8.864
+20032503035,Preeny Joseph,Jesus & Mary College,8.18,9.00,8.591
+20032503036,Priya Kakkar,Jesus & Mary College,8.73,9.82,9.273
+20032503037,Rhea Oberoi,Jesus & Mary College,8.73,9.55,9.136
+20032503039,Rosita Jolly Mathew,Jesus & Mary College,8.27,9.55,8.909
+20032503040,Serena Dhir,Jesus & Mary College,9.27,9.55,9.409
+20032503041,Sharon K Sam,Jesus & Mary College,8.27,8.82,8.545
+20032503042,Sharon Rajasekharan,Jesus & Mary College,8.45,9.00,8.727
+20032503044,Stuti Malik,Jesus & Mary College,9.00,9.27,9.136
+20032503045,Tigmanshi Singh,Jesus & Mary College,8.55,9.00,8.773
+20032503046,Vaibhavi Khandelwal,Jesus & Mary College,8.73,9.27,9.000
+20032503047,Vasundhra Jain,Jesus & Mary College,8.82,9.00,8.909

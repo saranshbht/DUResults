@@ -1,387 +1,386 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20002501001,AKANSHA,Aditi Mahavidyalaya,6.91,6.909
-20002501002,ANANYA PARASHAR,Aditi Mahavidyalaya,7.73,7.727
-20002501003,ASTHA SHARMA,Aditi Mahavidyalaya,7.73,7.727
-20002501004,BHARTI,Aditi Mahavidyalaya,7.73,7.727
-20002501005,CHETANSHI AGGARWAL,Aditi Mahavidyalaya,6.73,6.727
-20002501006,DEEPA DUBEY,Aditi Mahavidyalaya,7.18,7.182
-20002501007,HARLEEN KAUR,Aditi Mahavidyalaya,7.73,7.727
-20002501008,JANHAVI SINGH,Aditi Mahavidyalaya,8.09,8.091
-20002501010,MANSI KUMARI,Aditi Mahavidyalaya,6.64,6.636
-20002501011,MANVI SIROHI,Aditi Mahavidyalaya,8.00,8.000
-20002501012,NISHA MANGLA,Aditi Mahavidyalaya,8.27,8.273
-20002501013,PRANJAL CHOUDHARY,Aditi Mahavidyalaya,7.45,7.455
-20002501014,PUJA MISHRA,Aditi Mahavidyalaya,7.18,7.182
-20002501015,RAVINA,Aditi Mahavidyalaya,7.45,7.455
-20002501016,RITIKA TYAGI,Aditi Mahavidyalaya,7.73,7.727
-20002501017,RITU,Aditi Mahavidyalaya,5.45,5.455
-20002501018,SHIVANI KUMARI,Aditi Mahavidyalaya,5.36,5.364
-20002501020,SHRUTI KANDARI,Aditi Mahavidyalaya,8.00,8.000
-20002501021,TANNU,Aditi Mahavidyalaya,3.00,3.000
-20002501022,AALIKA MALIK,Aditi Mahavidyalaya,7.55,7.545
-20002501023,AISHWARYA VISHNOI,Aditi Mahavidyalaya,7.73,7.727
-20002501024,DEEPA YADAV,Aditi Mahavidyalaya,7.91,7.909
-20002501025,KAMYA,Aditi Mahavidyalaya,8.00,8.000
-20002501026,KANISHKA AGARWAL,Aditi Mahavidyalaya,8.00,8.000
-20002501027,MANNU,Aditi Mahavidyalaya,8.00,8.000
-20002501028,MANTASHA ALAM,Aditi Mahavidyalaya,6.18,6.182
-20002501029,PANIL AGRAWAL,Aditi Mahavidyalaya,8.27,8.273
-20002501031,PRACHI,Aditi Mahavidyalaya,7.73,7.727
-20002501032,PRERNA,Aditi Mahavidyalaya,7.73,7.727
-20002501033,RITIKA,Aditi Mahavidyalaya,7.18,7.182
-20002501034,ROSHNI DHAWAN,Aditi Mahavidyalaya,7.73,7.727
-20002501035,SANAAH KALRA,Aditi Mahavidyalaya,7.45,7.455
-20002501036,SHREYA SHARMA,Aditi Mahavidyalaya,7.45,7.455
-20002501038,TAMANNA,Aditi Mahavidyalaya,6.91,6.909
-20002501039,TANNU,Aditi Mahavidyalaya,8.00,8.000
-20002501040,YASHIKA DALAL,Aditi Mahavidyalaya,7.18,7.182
-20002501041,ANJALI CHAUDHARY,Aditi Mahavidyalaya,7.36,7.364
-20002501043,BABITA,Aditi Mahavidyalaya,6.00,6.000
-20002501044,DEEPA KUMARI,Aditi Mahavidyalaya,8.27,8.273
-20002501045,DEEPU DUGGAL,Aditi Mahavidyalaya,7.27,7.273
-20002501046,HIMANI CHAUDHARY,Aditi Mahavidyalaya,7.18,7.182
-20002501047,ISHA KHATTAR,Aditi Mahavidyalaya,6.91,6.909
-20002501048,ISSIKA,Aditi Mahavidyalaya,8.00,8.000
-20002501049,KHUSHI,Aditi Mahavidyalaya,7.09,7.091
-20002501051,NANCY,Aditi Mahavidyalaya,7.91,7.909
-20002501052,PINKY PUROHIT,Aditi Mahavidyalaya,7.09,7.091
-20002501053,POOJA SHARMA,Aditi Mahavidyalaya,7.18,7.182
-20002501054,PREETI SHARMA,Aditi Mahavidyalaya,5.00,5.000
-20002501056,SANDHYA MISHRA,Aditi Mahavidyalaya,8.00,8.000
-20002501057,SHRUTI MISHRA,Aditi Mahavidyalaya,7.73,7.727
-20002501058,SIMRAN KUMARI,Aditi Mahavidyalaya,8.00,8.000
-20002501059,SINGAMAYUM MARJINA,Aditi Mahavidyalaya,7.45,7.455
-20002501060,SOMI KUMARI,Aditi Mahavidyalaya,8.82,8.818
-20002501061,SUHANI,Aditi Mahavidyalaya,7.18,7.182
-20002501062,AARTI,Aditi Mahavidyalaya,7.73,7.727
-20002501063,ANCHAL RAJE SINGH,Aditi Mahavidyalaya,7.73,7.727
-20002501064,BHUMIKA,Aditi Mahavidyalaya,7.45,7.455
-20002501065,CHANCHAL,Aditi Mahavidyalaya,7.91,7.909
-20002501066,DUTTIE SHARMA,Aditi Mahavidyalaya,8.18,8.182
-20002501067,HIMANSHI AWANA,Aditi Mahavidyalaya,8.00,8.000
-20002501068,HRITIKA SACHDEVA,Aditi Mahavidyalaya,6.82,6.818
-20002501070,KANIKA,Aditi Mahavidyalaya,8.55,8.545
-20002501071,MANISHA KUMARI,Aditi Mahavidyalaya,6.27,6.273
-20002501072,MANSI CHOPRA,Aditi Mahavidyalaya,4.64,4.636
-20002501073,PRIYANKA,Aditi Mahavidyalaya,5.73,5.727
-20002501074,RAKSHA SINGH,Aditi Mahavidyalaya,7.73,7.727
-20002501075,REENA,Aditi Mahavidyalaya,6.09,6.091
-20002501076,RITIKA SINGH,Aditi Mahavidyalaya,7.18,7.182
-20002501077,SHILPA,Aditi Mahavidyalaya,7.45,7.455
-20002501078,SHIVANI,Aditi Mahavidyalaya,7.73,7.727
-20002501079,SHRADDHA KASHYAP,Aditi Mahavidyalaya,8.27,8.273
-20002501080,SHYAMITA PURI,Aditi Mahavidyalaya,8.27,8.273
-20002501081,SIDDHI DWIVEDI,Aditi Mahavidyalaya,7.45,7.455
-20002501082,SIMRAN KUMARI,Aditi Mahavidyalaya,6.64,6.636
-20002501083,SURUTI KUMARI,Aditi Mahavidyalaya,6.91,6.909
-20002501084,TANNU,Aditi Mahavidyalaya,7.45,7.455
-20002501085,TARU SIROHI,Aditi Mahavidyalaya,8.45,8.455
-20002501086,UMANG RATHOUR,Aditi Mahavidyalaya,7.73,7.727
-20002501087,ANJALI,Aditi Mahavidyalaya,7.45,7.455
-20002501088,ASHPREET KAUR,Aditi Mahavidyalaya,8.09,8.091
-20002501089,BHUMIKA SOLANKI,Aditi Mahavidyalaya,6.91,6.909
-20002501091,DIKSHA BAUDHISTH,Aditi Mahavidyalaya,8.27,8.273
-20002501092,ISHANI TIWARI,Aditi Mahavidyalaya,7.45,7.455
-20002501093,ISHIKA SIMRA,Aditi Mahavidyalaya,8.18,8.182
-20002501094,JAHNVI DEV  SINGH,Aditi Mahavidyalaya,7.55,7.545
-20002501095,KAJAL,Aditi Mahavidyalaya,8.00,8.000
-20002501096,KASHISH PONIA,Aditi Mahavidyalaya,7.55,7.545
-20002501097,KOYNA BARNWAL,Aditi Mahavidyalaya,7.73,7.727
-20002501098,MAHIMA YADAV,Aditi Mahavidyalaya,8.18,8.182
-20002501100,NANCY,Aditi Mahavidyalaya,5.45,5.455
-20002501101,NEETU,Aditi Mahavidyalaya,8.55,8.545
-20002501102,NISHA,Aditi Mahavidyalaya,8.09,8.091
-20002501103,NISHA,Aditi Mahavidyalaya,3.45,3.455
-20002501104,NISHITA,Aditi Mahavidyalaya,6.91,6.909
-20002501106,POOJA MAAN,Aditi Mahavidyalaya,8.55,8.545
-20002501107,PRAGATI KUMARI,Aditi Mahavidyalaya,8.73,8.727
-20002501108,PRIYA,Aditi Mahavidyalaya,7.55,7.545
-20002501109,PRIYA,Aditi Mahavidyalaya,7.27,7.273
-20002501110,PRIYANKA DAS,Aditi Mahavidyalaya,7.73,7.727
-20002501111,PRIYANKA SINGH,Aditi Mahavidyalaya,7.82,7.818
-20002501112,SAKSHI,Aditi Mahavidyalaya,8.00,8.000
-20002501113,SALONI CHAUHAN,Aditi Mahavidyalaya,7.45,7.455
-20002501114,SHAGUN,Aditi Mahavidyalaya,7.91,7.909
-20002501115,SHAGUN,Aditi Mahavidyalaya,8.00,8.000
-20002501116,SHAILLY,Aditi Mahavidyalaya,8.00,8.000
-20002501117,SHIVANI,Aditi Mahavidyalaya,8.27,8.273
-20002501118,SHIVANI,Aditi Mahavidyalaya,8.27,8.273
-20002501120,UTKARSHA SHARMA,Aditi Mahavidyalaya,7.45,7.455
-20002501121,VARSHA YADAV,Aditi Mahavidyalaya,7.73,7.727
-20002501122,YUKTI YANA MISHRA,Aditi Mahavidyalaya,7.55,7.545
-20002501123,KOMAL,Aditi Mahavidyalaya,4.09,4.091
-20002501124,MANSI,Aditi Mahavidyalaya,7.73,7.727
-20002501125,POOJA NAGARKOTI,Aditi Mahavidyalaya,8.09,8.091
-20002501126,SABIYA,Aditi Mahavidyalaya,7.36,7.364
-20002501127,SHREYA BALUJA,Aditi Mahavidyalaya,8.00,8.000
-20002501128,TANUSHREE MISHRA,Aditi Mahavidyalaya,8.27,8.273
-20002501129,VIDHA PRASAD,Aditi Mahavidyalaya,6.27,6.273
-20002501130,AKANKSHA ANAND,Aditi Mahavidyalaya,7.73,7.727
-20002501131,ANJUM,Aditi Mahavidyalaya,7.09,7.091
-20002501132,HIMANSHI RATHOUR,Aditi Mahavidyalaya,8.27,8.273
-20002501133,JHALAK GUPTA,Aditi Mahavidyalaya,8.09,8.091
-20002501134,JYOTI,Aditi Mahavidyalaya,8.00,8.000
-20002501135,JYOTI SHARMA,Aditi Mahavidyalaya,7.45,7.455
-20002501136,MADHU MEHTA,Aditi Mahavidyalaya,7.09,7.091
-20002501138,POONAM BISHT,Aditi Mahavidyalaya,8.55,8.545
-20002501139,PRERNA SINGH,Aditi Mahavidyalaya,5.45,5.455
-20002501140,REEYA,Aditi Mahavidyalaya,8.00,8.000
-20002501141,RITIKA,Aditi Mahavidyalaya,6.91,6.909
-20002501142,RIYA RAI,Aditi Mahavidyalaya,7.73,7.727
-20002501143,SIMRAN,Aditi Mahavidyalaya,7.45,7.455
-20002501144,UNNATI KAUSHIK,Aditi Mahavidyalaya,7.73,7.727
-20002501146,DEVIKA SINGH,Aditi Mahavidyalaya,7.27,7.273
-20002501147,HUMAIRA KHALID,Aditi Mahavidyalaya,7.73,7.727
-20002501148,KAVERI,Aditi Mahavidyalaya,7.73,7.727
-20002501149,KHUSHI,Aditi Mahavidyalaya,6.00,6.000
-20002501150,KRITIKA PACHOURI,Aditi Mahavidyalaya,8.27,8.273
-20002501151,MAHVISH ALAM,Aditi Mahavidyalaya,7.00,7.000
-20002501152,MANSI MITTAL,Aditi Mahavidyalaya,6.27,6.273
-20002501153,MS. SANJANA,Aditi Mahavidyalaya,8.00,8.000
-20002501154,NIKITA,Aditi Mahavidyalaya,7.36,7.364
-20002501155,PREETI DABAS,Aditi Mahavidyalaya,8.00,8.000
-20002501156,RITIKA UPADHYAY,Aditi Mahavidyalaya,7.73,7.727
-20002501157,RITIKA YADAV,Aditi Mahavidyalaya,7.64,7.636
-20002501158,SAKSHI,Aditi Mahavidyalaya,7.45,7.455
-20002501159,SEEMA,Aditi Mahavidyalaya,6.73,6.727
-20002501161,SONALI CHAWHAN,Aditi Mahavidyalaya,8.00,8.000
-20002501162,VANSHITA SINGH,Aditi Mahavidyalaya,7.55,7.545
-20002501163,VASUDHA,Aditi Mahavidyalaya,7.73,7.727
-20002501164,DEEPIKA,Aditi Mahavidyalaya,7.73,7.727
-20002501165,KAJAL KUMARI,Aditi Mahavidyalaya,7.55,7.545
-20002501166,KALPNA,Aditi Mahavidyalaya,8.00,8.000
-20002501167,KANISHKA SHARMA,Aditi Mahavidyalaya,7.55,7.545
-20002501169,POOJA,Aditi Mahavidyalaya,7.55,7.545
-20002501170,PRIYANSHI SINGH,Aditi Mahavidyalaya,7.27,7.273
-20002501171,SHREE KANWAR,Aditi Mahavidyalaya,8.00,8.000
-20002501172,TANISHA YADAV,Aditi Mahavidyalaya,7.82,7.818
-20002501173,AARTI JHA,Aditi Mahavidyalaya,7.73,7.727
-20002501174,ANISHA KHUREJA,Aditi Mahavidyalaya,7.82,7.818
-20002501175,ANITA,Aditi Mahavidyalaya,7.55,7.545
-20002501176,ANJALI D,Aditi Mahavidyalaya,7.55,7.545
-20002501177,ANKITA,Aditi Mahavidyalaya,7.00,7.000
-20002501178,BHOOMI SAXENA,Aditi Mahavidyalaya,8.09,8.091
-20002501179,DIVYA PRASAD,Aditi Mahavidyalaya,7.18,7.182
-20002501180,JYOTI YADAV,Aditi Mahavidyalaya,7.18,7.182
-20002501181,MANSI KUMARI,Aditi Mahavidyalaya,7.73,7.727
-20002501182,NAINA JAIN,Aditi Mahavidyalaya,8.09,8.091
-20002501183,POOJA KUMARI,Aditi Mahavidyalaya,7.55,7.545
-20002501184,PREETI,Aditi Mahavidyalaya,7.73,7.727
-20002501186,RITIKA MAYTI,Aditi Mahavidyalaya,8.82,8.818
-20002501187,SAPNA KUMARI,Aditi Mahavidyalaya,7.09,7.091
-20002501188,SHIKHA PANDEY,Aditi Mahavidyalaya,7.82,7.818
-20002501189,TANNU,Aditi Mahavidyalaya,7.64,7.636
-20002501190,UMA BHARTI,Aditi Mahavidyalaya,7.73,7.727
-20002501191,ANJALI,Aditi Mahavidyalaya,7.55,7.545
-20002501192,BHAWNA DANU,Aditi Mahavidyalaya,7.82,7.818
-20002501194,GUNGUN PATHAK,Aditi Mahavidyalaya,7.73,7.727
-20002501195,HARSHITA SHARMA,Aditi Mahavidyalaya,7.55,7.545
-20002501196,HIMANI BHARDWAJ,Aditi Mahavidyalaya,6.45,6.455
-20002501197,JASMEEN,Aditi Mahavidyalaya,7.73,7.727
-20002501198,KULPRABHA,Aditi Mahavidyalaya,7.18,7.182
-20002501199,MADHU SHARMA,Aditi Mahavidyalaya,5.18,5.182
-20002501200,MANISHA BHARDWAJ,Aditi Mahavidyalaya,7.55,7.545
-20002501201,NIDHI GIRI,Aditi Mahavidyalaya,7.82,7.818
-20002501202,NIHARIKA,Aditi Mahavidyalaya,0.00,0.000
-20002501203,SHALLY,Aditi Mahavidyalaya,7.91,7.909
-20002501204,SHREYA TANEJA,Aditi Mahavidyalaya,8.00,8.000
-20002501205,SONAM,Aditi Mahavidyalaya,8.27,8.273
-20002501206,SONU,Aditi Mahavidyalaya,8.00,8.000
-20002501207,TISHA BAGESHWAR,Aditi Mahavidyalaya,7.18,7.182
-20002501208,ZEBA,Aditi Mahavidyalaya,7.27,7.273
-20002501210,DIMPLE SINGH,Aditi Mahavidyalaya,8.27,8.273
-20002501211,HIMANI,Aditi Mahavidyalaya,3.18,3.182
-20002501212,HIMANI,Aditi Mahavidyalaya,6.00,6.000
-20002501213,JEEVIKA SETHI,Aditi Mahavidyalaya,8.27,8.273
-20002501214,MANISHA,Aditi Mahavidyalaya,7.82,7.818
-20002501215,NABA KHAN,Aditi Mahavidyalaya,7.73,7.727
-20002501216,RASHI SHARMA,Aditi Mahavidyalaya,8.00,8.000
-20002501218,RUBI PRAVEEN,Aditi Mahavidyalaya,5.82,5.818
-20002501219,SCHATAKSHI TIWARI,Aditi Mahavidyalaya,8.36,8.364
-20002501220,SHEETAL SHARMA,Aditi Mahavidyalaya,7.55,7.545
-20002501221,SHIKSHA,Aditi Mahavidyalaya,7.45,7.455
-20002501222,SHUBHI SHARMA,Aditi Mahavidyalaya,8.27,8.273
-20002501223,SNEHA,Aditi Mahavidyalaya,7.73,7.727
-20002501224,UMANG,Aditi Mahavidyalaya,7.91,7.909
-20002501225,ARCHANA,Aditi Mahavidyalaya,8.27,8.273
-20002501226,BHARTI,Aditi Mahavidyalaya,5.36,5.364
-20002501227,BHAWNA JAMNAL,Aditi Mahavidyalaya,7.55,7.545
-20002501228,DEVASHREE,Aditi Mahavidyalaya,8.27,8.273
-20002501229,DIGBIJAYEE,Aditi Mahavidyalaya,7.18,7.182
-20002501230,JANVI,Aditi Mahavidyalaya,6.55,6.545
-20002501231,LOVELY PAL,Aditi Mahavidyalaya,6.64,6.636
-20002501232,MEHAR KAUR,Aditi Mahavidyalaya,4.73,4.727
-20002501233,NANDINI ATRISH,Aditi Mahavidyalaya,6.73,6.727
-20002501234,NIDHI YADAV,Aditi Mahavidyalaya,7.73,7.727
-20002501235,NIKITA VERMA,Aditi Mahavidyalaya,7.64,7.636
-20002501236,POOJA BHARTI,Aditi Mahavidyalaya,7.18,7.182
-20002501237,PRAGATI SINGH,Aditi Mahavidyalaya,7.64,7.636
-20002501239,RITIKA SINGH,Aditi Mahavidyalaya,8.55,8.545
-20002501240,RIYA JAIN,Aditi Mahavidyalaya,8.09,8.091
-20002501241,RIYA MEHRA,Aditi Mahavidyalaya,8.36,8.364
-20002501242,RIYA TEOTIA,Aditi Mahavidyalaya,7.09,7.091
-20002501243,SAPNA,Aditi Mahavidyalaya,7.55,7.545
-20002501244,SHOBHA,Aditi Mahavidyalaya,7.27,7.273
-20002501245,SIMRAN KANOJIA,Aditi Mahavidyalaya,8.55,8.545
-20002501246,SONI GUPTA,Aditi Mahavidyalaya,7.73,7.727
-20002501247,TANIYA,Aditi Mahavidyalaya,6.27,6.273
-20002501248,VANSHIKA PAYAL,Aditi Mahavidyalaya,7.73,7.727
-20002501250,ANSHIKA PAL,Aditi Mahavidyalaya,7.73,7.727
-20002501251,AYUSHI MOHANTY,Aditi Mahavidyalaya,7.73,7.727
-20002501252,BHUMIKA RAWAT,Aditi Mahavidyalaya,7.82,7.818
-20002501253,DIKSHA RAI,Aditi Mahavidyalaya,5.45,5.455
-20002501254,DIVYA,Aditi Mahavidyalaya,7.27,7.273
-20002501255,GARIMA,Aditi Mahavidyalaya,6.73,6.727
-20002501256,HARSHITA AHUJA,Aditi Mahavidyalaya,7.27,7.273
-20002501257,ITIKA TYAGI,Aditi Mahavidyalaya,8.09,8.091
-20002501258,JANVEE DWIVEDI,Aditi Mahavidyalaya,7.55,7.545
-20002501259,KAJAL AGARWAL,Aditi Mahavidyalaya,8.55,8.545
-20002501260,KAREENA BADGUJAR,Aditi Mahavidyalaya,7.45,7.455
-20002501261,KARUNA,Aditi Mahavidyalaya,7.36,7.364
-20002501262,KAVITA,Aditi Mahavidyalaya,7.27,7.273
-20002501263,MANSI SHUKLA,Aditi Mahavidyalaya,8.09,8.091
-20002501264,MONIKA CHAHAL,Aditi Mahavidyalaya,8.55,8.545
-20002501265,NEHA RAJ,Aditi Mahavidyalaya,8.00,8.000
-20002501266,NIHARIKA MEHRA,Aditi Mahavidyalaya,8.09,8.091
-20002501267,NIRMLA,Aditi Mahavidyalaya,7.00,7.000
-20002501268,PARUL TANDON,Aditi Mahavidyalaya,8.27,8.273
-20002501270,SHEHNAZ KHATUN,Aditi Mahavidyalaya,7.55,7.545
-20002501271,DEEPSHIKHA,Aditi Mahavidyalaya,7.73,7.727
-20002501272,HARSHITA RAWAT,Aditi Mahavidyalaya,4.36,4.364
-20002501273,ISHIKA AGGARWAL,Aditi Mahavidyalaya,7.73,7.727
-20002501275,KOMAL,Aditi Mahavidyalaya,7.27,7.273
-20002501276,MAYA KUMARI,Aditi Mahavidyalaya,5.09,5.091
-20002501277,NAVYA SINGH,Aditi Mahavidyalaya,8.55,8.545
-20002501278,NIDHI KUMARI,Aditi Mahavidyalaya,7.45,7.455
-20002501279,PRACHI CHAUHAN,Aditi Mahavidyalaya,7.55,7.545
-20002501280,PRIYA KUMARI,Aditi Mahavidyalaya,5.27,5.273
-20002501281,SHIKHA MISHRA,Aditi Mahavidyalaya,7.91,7.909
-20002501282,SHILPA,Aditi Mahavidyalaya,5.18,5.182
-20002501283,SHIVANI,Aditi Mahavidyalaya,7.55,7.545
-20002501284,SHOBHA BHARDWAJ,Aditi Mahavidyalaya,8.36,8.364
-20002501286,AASTHA SINGH,Aditi Mahavidyalaya,8.00,8.000
-20002501287,ANCHAL,Aditi Mahavidyalaya,7.27,7.273
-20002501288,ANUSHKA MAURYA,Aditi Mahavidyalaya,7.18,7.182
-20002501289,BHAWNA,Aditi Mahavidyalaya,8.55,8.545
-20002501290,HIMANSHI BHARDWAJ,Aditi Mahavidyalaya,8.64,8.636
-20002501291,MAHIMA,Aditi Mahavidyalaya,7.00,7.000
-20002501292,NAMITA,Aditi Mahavidyalaya,7.45,7.455
-20002501293,NEHA KUMARI,Aditi Mahavidyalaya,7.73,7.727
-20002501294,NEHA ROY,Aditi Mahavidyalaya,7.45,7.455
-20002501295,PAVITRA POKHREL,Aditi Mahavidyalaya,4.09,4.091
-20002501296,PURNIMA SARKAR,Aditi Mahavidyalaya,7.64,7.636
-20002501297,RIYA,Aditi Mahavidyalaya,8.27,8.273
-20002501299,SAVITA,Aditi Mahavidyalaya,7.64,7.636
-20002501300,SHALINI SUMAN,Aditi Mahavidyalaya,7.73,7.727
-20002501301,AARTI GUPTA,Aditi Mahavidyalaya,7.73,7.727
-20002501302,ADISHREE JHA,Aditi Mahavidyalaya,8.55,8.545
-20002501303,BHAVNA PATHAK,Aditi Mahavidyalaya,7.45,7.455
-20002501304,DEEPA,Aditi Mahavidyalaya,7.00,7.000
-20002501305,DOLMA TSERING,Aditi Mahavidyalaya,7.00,7.000
-20002501306,ESHITA SHAH,Aditi Mahavidyalaya,7.27,7.273
-20002501307,GARIMA,Aditi Mahavidyalaya,5.36,5.364
-20002501308,HARSHITA CHAUHAN,Aditi Mahavidyalaya,8.27,8.273
-20002501309,JAGRITI MANOCHA,Aditi Mahavidyalaya,7.55,7.545
-20002501311,JYOTI,Aditi Mahavidyalaya,6.09,6.091
-20002501312,JYOTI MISHRA,Aditi Mahavidyalaya,7.45,7.455
-20002501313,KAJAL KUMARI,Aditi Mahavidyalaya,4.45,4.455
-20002501314,KANTI,Aditi Mahavidyalaya,4.09,4.091
-20002501315,KASHISH GUPTA,Aditi Mahavidyalaya,8.09,8.091
-20002501316,KHUSHI,Aditi Mahavidyalaya,8.36,8.364
-20002501317,KOMAL YADAV,Aditi Mahavidyalaya,6.45,6.455
-20002501318,MANEESHA S PILLAI,Aditi Mahavidyalaya,8.00,8.000
-20002501319,MANSI PANDEY,Aditi Mahavidyalaya,6.55,6.545
-20002501321,N DHARANI,Aditi Mahavidyalaya,0.00,0.000
-20002501322,NIKITA MODI,Aditi Mahavidyalaya,6.82,6.818
-20002501323,POOJA MISHRA,Aditi Mahavidyalaya,7.18,7.182
-20002501324,PREETI KUSHWAHA,Aditi Mahavidyalaya,6.55,6.545
-20002501325,RADHIKA,Aditi Mahavidyalaya,7.73,7.727
-20002501326,RIYA JHA,Aditi Mahavidyalaya,8.27,8.273
-20002501327,S P DHARSINI,Aditi Mahavidyalaya,7.27,7.273
-20002501328,SHAKSHI MISHRA,Aditi Mahavidyalaya,7.55,7.545
-20002501329,SNEHA GAUTAM,Aditi Mahavidyalaya,6.73,6.727
-20002501331,ARCHANA K S,Aditi Mahavidyalaya,7.27,7.273
-20002501332,GITANJALI KUMARI,Aditi Mahavidyalaya,7.27,7.273
-20002501333,ISHA MIGLANI,Aditi Mahavidyalaya,7.27,7.273
-20002501334,KAJAL,Aditi Mahavidyalaya,7.73,7.727
-20002501335,KIRTI,Aditi Mahavidyalaya,8.55,8.545
-20002501336,LAXMI,Aditi Mahavidyalaya,7.00,7.000
-20002501337,MEHAK,Aditi Mahavidyalaya,6.09,6.091
-20002501338,PRERENA SONI,Aditi Mahavidyalaya,8.27,8.273
-20002501339,RADHIKA YADAV,Aditi Mahavidyalaya,6.45,6.455
-20002501341,RUCHI,Aditi Mahavidyalaya,7.45,7.455
-20002501342,SAKSHI BAGHEL,Aditi Mahavidyalaya,8.55,8.545
-20002501343,SHAHNAJ,Aditi Mahavidyalaya,7.73,7.727
-20002501344,SHRESHTHA SHRIVASTAVA,Aditi Mahavidyalaya,7.27,7.273
-20002501345,SIMRAN,Aditi Mahavidyalaya,7.73,7.727
-20002501346,SONAM DOLMA,Aditi Mahavidyalaya,7.82,7.818
-20002501347,SONI,Aditi Mahavidyalaya,8.00,8.000
-20002501348,TSERING DOLKAR,Aditi Mahavidyalaya,7.55,7.545
-20002501349,WOSOPHI ANGKANG,Aditi Mahavidyalaya,6.55,6.545
-20002501351,ANJALI PASWAN,Aditi Mahavidyalaya,7.64,7.636
-20002501352,ANURADHA,Aditi Mahavidyalaya,8.27,8.273
-20002501353,ARADHYA SINGH,Aditi Mahavidyalaya,7.91,7.909
-20002501354,BHUMISHTHA DUA,Aditi Mahavidyalaya,6.36,6.364
-20002501355,DIVYA GUPTA,Aditi Mahavidyalaya,6.82,6.818
-20002501356,HARSHITA GUPTA,Aditi Mahavidyalaya,5.36,5.364
-20002501357,JISHA VERMA,Aditi Mahavidyalaya,5.73,5.727
-20002501358,JYOTI RANI,Aditi Mahavidyalaya,7.73,7.727
-20002501360,KHUSHI,Aditi Mahavidyalaya,6.73,6.727
-20002501361,MITISHA VIJAY,Aditi Mahavidyalaya,6.64,6.636
-20002501362,MUSKAN AHUJA,Aditi Mahavidyalaya,8.36,8.364
-20002501363,PIYUSHI BAGHEL,Aditi Mahavidyalaya,7.27,7.273
-20002501364,PREETI,Aditi Mahavidyalaya,7.82,7.818
-20002501366,PRIYANKA YADAV,Aditi Mahavidyalaya,7.45,7.455
-20002501367,RINKI CHAUDHARY,Aditi Mahavidyalaya,8.27,8.273
-20002501368,RINKLE,Aditi Mahavidyalaya,6.82,6.818
-20002501369,SANJANA SONKER,Aditi Mahavidyalaya,8.27,8.273
-20002501370,SHAKSHI SHARMA,Aditi Mahavidyalaya,8.27,8.273
-20002501371,SHIVANI SINGH,Aditi Mahavidyalaya,4.73,4.727
-20002501372,SRISHTI,Aditi Mahavidyalaya,7.55,7.545
-20002501373,THUPSTAN LAMO,Aditi Mahavidyalaya,7.18,7.182
-20002501374,VARNIKA SINGH,Aditi Mahavidyalaya,7.00,7.000
-20002501375,VARSHA,Aditi Mahavidyalaya,5.73,5.727
-20002501376,VASUNDHARA RAWAT,Aditi Mahavidyalaya,8.27,8.273
-20002501377,AKSHITA KHANNA,Aditi Mahavidyalaya,7.73,7.727
-20002501378,ANSHIKA JAIN,Aditi Mahavidyalaya,7.36,7.364
-20002501380,BINISH KAUSAR,Aditi Mahavidyalaya,8.00,8.000
-20002501381,DEEPTHI S NAIR,Aditi Mahavidyalaya,7.73,7.727
-20002501382,DIKSHA RAWAT,Aditi Mahavidyalaya,7.82,7.818
-20002501383,DIKSHA SAINI,Aditi Mahavidyalaya,7.45,7.455
-20002501384,EKANKI PANWAR,Aditi Mahavidyalaya,7.55,7.545
-20002501385,HUDA HASSAN,Aditi Mahavidyalaya,8.18,8.182
-20002501386,ISHA SHEORAN,Aditi Mahavidyalaya,8.27,8.273
-20002501387,KHUSHI,Aditi Mahavidyalaya,5.36,5.364
-20002501388,KOMAL,Aditi Mahavidyalaya,7.36,7.364
-20002501389,KOYAL,Aditi Mahavidyalaya,7.27,7.273
-20002501390,MANYA YADAV,Aditi Mahavidyalaya,8.27,8.273
-20002501391,NIDHI,Aditi Mahavidyalaya,7.73,7.727
-20002501392,PREETI KUMARI,Aditi Mahavidyalaya,7.64,7.636
-20002501393,PRERNA PRUTHI,Aditi Mahavidyalaya,8.18,8.182
-20002501394,PRIYAMVADA RANJAN,Aditi Mahavidyalaya,8.09,8.091
-20002501395,RAKHI,Aditi Mahavidyalaya,7.82,7.818
-20002501396,RITIKA SINGH,Aditi Mahavidyalaya,7.55,7.545
-20002501397,SAKSHI BHARDWAJ,Aditi Mahavidyalaya,8.55,8.545
-20002501398,SALTANAT,Aditi Mahavidyalaya,8.09,8.091
-20002501400,SIDRA KHAN,Aditi Mahavidyalaya,8.09,8.091
-20002501401,AYUSHI BHADORIA,Aditi Mahavidyalaya,5.73,5.727
-20002501402,KIRTI CHAUHAN,Aditi Mahavidyalaya,6.82,6.818
-20002501403,MONIKA VERMA,Aditi Mahavidyalaya,6.64,6.636
-20002501404,MANISHA,Aditi Mahavidyalaya,7.27,7.273
-20002501405,POOJA KUMARI,Aditi Mahavidyalaya,6.73,6.727
-20002501406,PRACHI,Aditi Mahavidyalaya,7.27,7.273
-20002501408,ANUSHKA YADAV,Aditi Mahavidyalaya,4.91,4.909
-20002501409,DEEPA,Aditi Mahavidyalaya,7.00,7.000
-20002501410,DEVIKA,Aditi Mahavidyalaya,7.36,7.364
-20002501411,ESTHER DIANA GEORGE,Aditi Mahavidyalaya,4.73,4.727
-20002501412,ISHIKA GUPTA,Aditi Mahavidyalaya,7.27,7.273
-20002501413,KAJAL SHARMA,Aditi Mahavidyalaya,0.00,0.000
-20002501414,NEHA,Aditi Mahavidyalaya,6.64,6.636
-20002501415,NISHITA BARANWAL,Aditi Mahavidyalaya,8.00,8.000
-20002501416,PRACHI KUMARI,Aditi Mahavidyalaya,8.27,8.273
-20002501417,TANYA JAIN,Aditi Mahavidyalaya,7.09,7.091
-20002501418,TANYA TRIPATHI,Aditi Mahavidyalaya,5.55,5.545
-20002501420,KRIPA AHUJA,Aditi Mahavidyalaya,0.00,0.000
-20002501421,SONIA,Aditi Mahavidyalaya,8.00,8.000
-20002501422,N GAITRY DEVI,Aditi Mahavidyalaya,7.45,7.455
-20002501423,ROSHANI KUMARI,Aditi Mahavidyalaya,7.36,7.364
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20002501001,Akansha,Aditi Mahavidyalaya,6.91,8.00,7.455
+20002501002,Ananya Parashar,Aditi Mahavidyalaya,7.73,8.45,8.091
+20002501003,Astha Sharma,Aditi Mahavidyalaya,7.73,7.64,7.682
+20002501004,BHARTI,Aditi Mahavidyalaya,7.73,9.00,8.364
+20002501005,CHETANSHI AGGARWAL,Aditi Mahavidyalaya,6.73,7.73,7.227
+20002501006,DEEPA DUBEY,Aditi Mahavidyalaya,7.18,8.73,7.955
+20002501007,Harleen kaur,Aditi Mahavidyalaya,7.73,7.09,7.409
+20002501008,Janhavi Singh,Aditi Mahavidyalaya,8.09,9.00,8.545
+20002501009,Kaushiki,Aditi Mahavidyalaya,7.36,8.00,7.682
+20002501010,Mansi kumari,Aditi Mahavidyalaya,6.64,8.00,7.318
+20002501011,MANVI SIROHI,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501012,Nisha Mangla,Aditi Mahavidyalaya,8.27,8.55,8.409
+20002501013,Pranjal choudhary,Aditi Mahavidyalaya,7.45,8.00,7.727
+20002501014,Puja Mishra,Aditi Mahavidyalaya,7.18,8.73,7.955
+20002501015,Ravina,Aditi Mahavidyalaya,7.45,8.00,7.727
+20002501016,Ritika Tyagi,Aditi Mahavidyalaya,7.73,9.00,8.364
+20002501017,RITU,Aditi Mahavidyalaya,7.36,8.00,7.682
+20002501018,Shivani kumari,Aditi Mahavidyalaya,5.36,8.00,6.682
+20002501019,Shivani Sharma,Aditi Mahavidyalaya,7.82,8.27,8.045
+20002501020,Shruti Kandari,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501021,Tannu Nain,Aditi Mahavidyalaya,4.91,7.27,6.091
+20002501022,AALIKA MALIK,Aditi Mahavidyalaya,7.55,8.73,8.136
+20002501023,Aishwarya Vishnoi,Aditi Mahavidyalaya,7.73,9.00,8.364
+20002501024,Deepa yadav,Aditi Mahavidyalaya,7.91,8.00,7.955
+20002501025,KAMYA,Aditi Mahavidyalaya,8.00,8.82,8.409
+20002501026,kanishka Agarwal,Aditi Mahavidyalaya,8.00,8.27,8.136
+20002501027,Mannu,Aditi Mahavidyalaya,8.00,8.73,8.364
+20002501028,Mantasha alam,Aditi Mahavidyalaya,6.18,4.55,5.364
+20002501029,Panil Agrawal,Aditi Mahavidyalaya,8.27,7.73,8.000
+20002501030,Payal,Aditi Mahavidyalaya,8.18,8.36,8.273
+20002501031,PRACHI,Aditi Mahavidyalaya,7.73,8.27,8.000
+20002501032,prerna,Aditi Mahavidyalaya,7.73,9.00,8.364
+20002501033,Ritika,Aditi Mahavidyalaya,7.18,8.73,7.955
+20002501034,ROSHNI DHAWAN,Aditi Mahavidyalaya,7.73,8.55,8.136
+20002501035,Sanaah kalra,Aditi Mahavidyalaya,7.45,7.73,7.591
+20002501036,Shreya Sharma,Aditi Mahavidyalaya,7.45,9.00,8.227
+20002501037,SURBHI NATH,Aditi Mahavidyalaya,8.82,9.00,8.909
+20002501038,Tamanna,Aditi Mahavidyalaya,6.91,7.82,7.364
+20002501039,Tannu,Aditi Mahavidyalaya,8.00,8.73,8.364
+20002501041,ANJALI CHAUDHARY,Aditi Mahavidyalaya,7.36,7.82,7.591
+20002501042,ANJALI SINGH,Aditi Mahavidyalaya,8.82,9.00,8.909
+20002501043,Babita,Aditi Mahavidyalaya,7.45,8.45,7.955
+20002501044,Deepa kumari,Aditi Mahavidyalaya,8.27,9.00,8.636
+20002501045,Deepu Duggal,Aditi Mahavidyalaya,7.27,9.00,8.136
+20002501046,Himani Chaudhary,Aditi Mahavidyalaya,7.18,8.00,7.591
+20002501047,ISHA KHATTAR,Aditi Mahavidyalaya,6.91,5.82,6.364
+20002501048,Issika,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501049,KHUSHI,Aditi Mahavidyalaya,7.09,8.00,7.545
+20002501051,Nancy,Aditi Mahavidyalaya,7.91,8.82,8.364
+20002501052,PINKY PUROHIT,Aditi Mahavidyalaya,7.09,7.09,7.091
+20002501053,Pooja Sharma,Aditi Mahavidyalaya,7.18,8.00,7.591
+20002501054,Preeti sharma,Aditi Mahavidyalaya,6.91,7.55,7.227
+20002501055,Ritu Dinkar,Aditi Mahavidyalaya,8.00,8.00,8.000
+20002501056,Sandhya mishra,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501057,Shruti Mishra,Aditi Mahavidyalaya,7.73,8.00,7.864
+20002501058,Simran Kumari,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501059,Singamayum Marjina,Aditi Mahavidyalaya,7.45,8.00,7.727
+20002501061,suhani,Aditi Mahavidyalaya,7.18,7.73,7.455
+20002501062,AARTI,Aditi Mahavidyalaya,7.73,7.82,7.773
+20002501063,ANCHAL RAJE SINGH,Aditi Mahavidyalaya,7.73,8.55,8.136
+20002501064,BHUMIKA,Aditi Mahavidyalaya,7.45,8.82,8.136
+20002501065,Chanchal,Aditi Mahavidyalaya,7.91,6.18,7.045
+20002501066,Duttie Sharma,Aditi Mahavidyalaya,8.18,8.55,8.364
+20002501068,Hritika Sachdeva,Aditi Mahavidyalaya,6.82,4.27,5.545
+20002501069,Jyoti,Aditi Mahavidyalaya,7.82,9.00,8.409
+20002501070,Kanika,Aditi Mahavidyalaya,8.55,8.82,8.682
+20002501071,Manisha Kumari,Aditi Mahavidyalaya,7.18,8.00,7.591
+20002501072,Mansi Chopra,Aditi Mahavidyalaya,4.64,4.55,4.591
+20002501073,Priyanka,Aditi Mahavidyalaya,5.73,4.82,5.273
+20002501074,Raksha Singh,Aditi Mahavidyalaya,7.73,8.82,8.273
+20002501075,Reena,Aditi Mahavidyalaya,6.09,6.27,6.182
+20002501076,Ritika Singh,Aditi Mahavidyalaya,7.18,7.82,7.500
+20002501077,SHILPA,Aditi Mahavidyalaya,7.45,8.27,7.864
+20002501078,Shivani,Aditi Mahavidyalaya,7.73,8.82,8.273
+20002501079,shraddha kashyap,Aditi Mahavidyalaya,8.27,8.55,8.409
+20002501080,Shyamita puri,Aditi Mahavidyalaya,8.27,8.73,8.500
+20002501081,Siddhi Dwivedi,Aditi Mahavidyalaya,7.45,9.00,8.227
+20002501082,Simran Kumari,Aditi Mahavidyalaya,6.64,7.55,7.091
+20002501083,Suruti Kumari,Aditi Mahavidyalaya,6.91,6.91,6.909
+20002501084,Tannu,Aditi Mahavidyalaya,7.45,9.00,8.227
+20002501085,Taru Sirohi,Aditi Mahavidyalaya,8.45,9.00,8.727
+20002501086,Umang Rathour,Aditi Mahavidyalaya,7.73,9.00,8.364
+20002501087,Anjali,Aditi Mahavidyalaya,7.45,9.00,8.227
+20002501088,Ashpreet Kaur,Aditi Mahavidyalaya,8.09,9.00,8.545
+20002501089,BHUMIKA SOLANKI,Aditi Mahavidyalaya,6.91,7.82,7.364
+20002501090,Darshana Wamanker,Aditi Mahavidyalaya,8.09,8.82,8.455
+20002501091,DIKSHA BAUDHISTH,Aditi Mahavidyalaya,8.27,9.00,8.636
+20002501092,Ishani Tiwari,Aditi Mahavidyalaya,7.45,6.91,7.182
+20002501093,ISHIKA SIMRA,Aditi Mahavidyalaya,8.18,9.00,8.591
+20002501094,Jahnvi Dev  Singh,Aditi Mahavidyalaya,7.55,7.82,7.682
+20002501095,KAJAL,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501096,KASHISH PONIA,Aditi Mahavidyalaya,7.55,8.82,8.182
+20002501097,Koyna Barnwal,Aditi Mahavidyalaya,7.73,8.82,8.273
+20002501098,MAHIMA YADAV,Aditi Mahavidyalaya,8.18,9.00,8.591
+20002501099,Monisha Roy,Aditi Mahavidyalaya,7.73,7.82,7.773
+20002501101,Neetu,Aditi Mahavidyalaya,8.55,9.00,8.773
+20002501102,Nisha,Aditi Mahavidyalaya,8.09,8.27,8.182
+20002501103,Nisha,Aditi Mahavidyalaya,7.00,8.00,7.500
+20002501104,Nishita,Aditi Mahavidyalaya,6.91,8.00,7.455
+20002501105,NITIKA,Aditi Mahavidyalaya,7.18,4.82,6.000
+20002501106,Pooja Maan,Aditi Mahavidyalaya,8.55,9.00,8.773
+20002501107,Pragati kumari,Aditi Mahavidyalaya,8.73,9.27,9.000
+20002501108,Priya,Aditi Mahavidyalaya,7.55,8.00,7.773
+20002501109,Priya,Aditi Mahavidyalaya,7.27,8.27,7.773
+20002501110,Priyanka Das,Aditi Mahavidyalaya,7.73,8.27,8.000
+20002501111,Priyanka singh,Aditi Mahavidyalaya,7.82,8.82,8.318
+20002501112,Sakshi,Aditi Mahavidyalaya,8.00,7.82,7.909
+20002501113,Saloni chauhan,Aditi Mahavidyalaya,7.45,7.82,7.636
+20002501114,SHAGUN,Aditi Mahavidyalaya,7.91,9.00,8.455
+20002501115,SHAGUN,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501116,Shailly,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501117,Shivani,Aditi Mahavidyalaya,8.27,9.00,8.636
+20002501118,Shivani,Aditi Mahavidyalaya,8.27,9.00,8.636
+20002501119,Sneha Sharma,Aditi Mahavidyalaya,8.45,9.00,8.727
+20002501120,Utkarsha sharma,Aditi Mahavidyalaya,7.45,7.00,7.227
+20002501121,VARSHA YADAV,Aditi Mahavidyalaya,7.73,5.27,6.500
+20002501122,Yukti yana mishra,Aditi Mahavidyalaya,7.55,7.55,7.545
+20002501123,Komal,Aditi Mahavidyalaya,5.36,6.64,6.000
+20002501124,Mansi,Aditi Mahavidyalaya,7.73,8.00,7.864
+20002501125,Pooja Nagarkoti,Aditi Mahavidyalaya,8.09,9.00,8.545
+20002501126,Sabiya,Aditi Mahavidyalaya,7.36,8.00,7.682
+20002501127,Shreya Baluja,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501128,Tanushree Mishra,Aditi Mahavidyalaya,8.27,8.55,8.409
+20002501131,Anjum,Aditi Mahavidyalaya,7.09,8.00,7.545
+20002501132,Himanshi Rathour,Aditi Mahavidyalaya,8.27,8.82,8.545
+20002501133,Jhalak Gupta,Aditi Mahavidyalaya,8.09,8.82,8.455
+20002501134,Jyoti,Aditi Mahavidyalaya,8.00,7.82,7.909
+20002501135,Jyoti sharma,Aditi Mahavidyalaya,7.45,8.00,7.727
+20002501136,Madhu mehta,Aditi Mahavidyalaya,7.09,7.55,7.318
+20002501138,Poonam Bisht,Aditi Mahavidyalaya,8.55,9.00,8.773
+20002501139,Prerna Singh,Aditi Mahavidyalaya,6.73,7.00,6.864
+20002501141,Ritika,Aditi Mahavidyalaya,6.91,6.64,6.773
+20002501142,Riya Rai,Aditi Mahavidyalaya,7.73,8.18,7.955
+20002501143,SIMRAN,Aditi Mahavidyalaya,7.45,8.00,7.727
+20002501144,Unnati kaushik,Aditi Mahavidyalaya,7.73,8.27,8.000
+20002501145,Anjali verma,Aditi Mahavidyalaya,8.55,9.00,8.773
+20002501146,Devika Singh,Aditi Mahavidyalaya,7.27,6.55,6.909
+20002501147,Humaira khalid,Aditi Mahavidyalaya,7.73,9.00,8.364
+20002501148,KAVERI,Aditi Mahavidyalaya,7.73,8.82,8.273
+20002501149,Khushi,Aditi Mahavidyalaya,7.09,8.00,7.545
+20002501150,kritika pachouri,Aditi Mahavidyalaya,8.27,8.55,8.409
+20002501151,Mahvish Alam,Aditi Mahavidyalaya,7.00,8.27,7.636
+20002501152,Mansi Mittal,Aditi Mahavidyalaya,7.55,8.00,7.773
+20002501153,Ms.sanjana,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501154,Nikita,Aditi Mahavidyalaya,7.36,7.00,7.182
+20002501155,Preeti Dabas,Aditi Mahavidyalaya,8.00,8.27,8.136
+20002501156,Ritika Upadhyay,Aditi Mahavidyalaya,7.73,8.55,8.136
+20002501157,RITIKA YADAV,Aditi Mahavidyalaya,7.64,9.00,8.318
+20002501158,Sakshi,Aditi Mahavidyalaya,7.45,9.00,8.227
+20002501159,Seema,Aditi Mahavidyalaya,6.73,8.00,7.364
+20002501160,SHIPRA,Aditi Mahavidyalaya,7.82,8.55,8.182
+20002501161,SONALI CHAWHAN,Aditi Mahavidyalaya,8.00,8.82,8.409
+20002501162,Vanshita Singh,Aditi Mahavidyalaya,7.55,8.00,7.773
+20002501163,Vasudha,Aditi Mahavidyalaya,7.73,8.00,7.864
+20002501164,DEEPIKA,Aditi Mahavidyalaya,7.73,9.00,8.364
+20002501165,Kajal kumari,Aditi Mahavidyalaya,7.55,8.00,7.773
+20002501166,Kalpna,Aditi Mahavidyalaya,8.00,7.73,7.864
+20002501168,Krinal Thummar,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501169,Pooja,Aditi Mahavidyalaya,7.55,7.82,7.682
+20002501170,PRIYANSHI SINGH,Aditi Mahavidyalaya,7.27,8.27,7.773
+20002501171,Shree kanwar,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501172,Tanisha Yadav,Aditi Mahavidyalaya,7.82,7.82,7.818
+20002501173,AARTI JHA,Aditi Mahavidyalaya,7.73,8.55,8.136
+20002501174,ANISHA KHUREJA,Aditi Mahavidyalaya,7.82,8.00,7.909
+20002501175,Anita,Aditi Mahavidyalaya,7.55,7.82,7.682
+20002501176,Anjali D,Aditi Mahavidyalaya,7.55,9.00,8.273
+20002501178,Bhoomi Saxena,Aditi Mahavidyalaya,8.09,8.82,8.455
+20002501179,Divya Prasad,Aditi Mahavidyalaya,7.18,8.00,7.591
+20002501181,MANSI KUMARI,Aditi Mahavidyalaya,7.73,7.27,7.500
+20002501182,Naina jain,Aditi Mahavidyalaya,8.09,8.82,8.455
+20002501183,Pooja kumari,Aditi Mahavidyalaya,7.55,9.00,8.273
+20002501184,PREETI,Aditi Mahavidyalaya,7.73,8.27,8.000
+20002501185,Priya Kumari,Aditi Mahavidyalaya,7.27,8.00,7.636
+20002501186,Ritika Mayti,Aditi Mahavidyalaya,8.82,8.27,8.545
+20002501187,Sapna kumari,Aditi Mahavidyalaya,7.09,8.00,7.545
+20002501188,Shikha Pandey,Aditi Mahavidyalaya,7.82,8.55,8.182
+20002501189,TANNU,Aditi Mahavidyalaya,7.64,8.00,7.818
+20002501190,Uma Bharti,Aditi Mahavidyalaya,7.73,8.00,7.864
+20002501191,Anjali Bhardwaj,Aditi Mahavidyalaya,7.55,8.00,7.773
+20002501192,Bhawna Danu,Aditi Mahavidyalaya,7.82,9.00,8.409
+20002501194,Gungun Pathak,Aditi Mahavidyalaya,7.73,9.00,8.364
+20002501195,Harshita Sharma,Aditi Mahavidyalaya,7.55,8.27,7.909
+20002501196,Himani bhardwaj,Aditi Mahavidyalaya,6.45,7.82,7.136
+20002501197,Jasmeen chauhan,Aditi Mahavidyalaya,7.73,8.27,8.000
+20002501198,Kulprabha,Aditi Mahavidyalaya,7.18,7.82,7.500
+20002501200,Manisha Bhardwaj,Aditi Mahavidyalaya,7.55,7.82,7.682
+20002501201,Nidhi Giri,Aditi Mahavidyalaya,7.82,8.00,7.909
+20002501203,Shally,Aditi Mahavidyalaya,7.91,8.55,8.227
+20002501204,Shreya Taneja,Aditi Mahavidyalaya,8.00,8.55,8.273
+20002501205,Sonam,Aditi Mahavidyalaya,8.27,8.55,8.409
+20002501207,Tisha bageshwar,Aditi Mahavidyalaya,7.18,8.55,7.864
+20002501208,Zeba,Aditi Mahavidyalaya,7.27,7.27,7.273
+20002501210,DIMPLE SINGH,Aditi Mahavidyalaya,8.27,8.27,8.273
+20002501211,Himani,Aditi Mahavidyalaya,6.73,8.00,7.364
+20002501212,Himani,Aditi Mahavidyalaya,6.00,7.55,6.773
+20002501213,Jeevika sethi,Aditi Mahavidyalaya,8.27,8.82,8.545
+20002501214,Manisha,Aditi Mahavidyalaya,7.82,8.27,8.045
+20002501215,Naba khan,Aditi Mahavidyalaya,7.73,9.00,8.364
+20002501216,Rashi Sharma,Aditi Mahavidyalaya,8.00,8.82,8.409
+20002501217,Roshni gupta,Aditi Mahavidyalaya,8.09,8.55,8.318
+20002501218,Rubi Praveen,Aditi Mahavidyalaya,8.00,8.27,8.136
+20002501219,Schatakshi tiwari,Aditi Mahavidyalaya,8.36,8.82,8.591
+20002501221,Shiksha,Aditi Mahavidyalaya,7.45,7.73,7.591
+20002501223,Sneha,Aditi Mahavidyalaya,7.73,7.73,7.727
+20002501224,Umang,Aditi Mahavidyalaya,7.91,8.00,7.955
+20002501225,Archana,Aditi Mahavidyalaya,8.27,8.82,8.545
+20002501226,bharti,Aditi Mahavidyalaya,5.36,7.82,6.591
+20002501227,Bhawna Jamnal,Aditi Mahavidyalaya,7.55,8.00,7.773
+20002501228,Devashree,Aditi Mahavidyalaya,8.27,8.27,8.273
+20002501229,Digbijayee barik,Aditi Mahavidyalaya,7.18,7.55,7.364
+20002501231,LOVELY PAL,Aditi Mahavidyalaya,6.64,6.27,6.455
+20002501232,Mehar kaur,Aditi Mahavidyalaya,6.64,8.00,7.318
+20002501233,Nandini Atrish,Aditi Mahavidyalaya,6.73,7.55,7.136
+20002501234,Nidhi yadav,Aditi Mahavidyalaya,7.73,7.27,7.500
+20002501235,Nikita Verma,Aditi Mahavidyalaya,7.64,8.55,8.091
+20002501236,Pooja bharti,Aditi Mahavidyalaya,7.18,7.27,7.227
+20002501237,Pragati Singh,Aditi Mahavidyalaya,7.64,8.82,8.227
+20002501238,Prerna Anand,Aditi Mahavidyalaya,7.27,7.55,7.409
+20002501239,Ritika Singh,Aditi Mahavidyalaya,8.55,8.55,8.545
+20002501240,Riya jain,Aditi Mahavidyalaya,8.09,7.73,7.909
+20002501241,RIYA MEHRA,Aditi Mahavidyalaya,8.36,8.82,8.591
+20002501242,Riya Teotia,Aditi Mahavidyalaya,7.09,8.27,7.682
+20002501243,SAPNA,Aditi Mahavidyalaya,7.55,8.00,7.773
+20002501244,SHOBHA,Aditi Mahavidyalaya,7.27,7.82,7.545
+20002501245,Simran kanojia,Aditi Mahavidyalaya,8.55,8.00,8.273
+20002501246,Soni gupta,Aditi Mahavidyalaya,7.73,7.27,7.500
+20002501247,Taniya,Aditi Mahavidyalaya,7.36,7.82,7.591
+20002501248,VANSHIKA PAYAL,Aditi Mahavidyalaya,7.73,8.00,7.864
+20002501249,Anjali kumari,Aditi Mahavidyalaya,7.09,7.73,7.409
+20002501250,ANSHIKA PAL,Aditi Mahavidyalaya,7.73,7.82,7.773
+20002501251,Ayushi Mohanty,Aditi Mahavidyalaya,7.73,8.00,7.864
+20002501252,Bhumika Rawat,Aditi Mahavidyalaya,7.82,8.00,7.909
+20002501253,Diksha Rai,Aditi Mahavidyalaya,5.45,6.73,6.091
+20002501254,DIVYA,Aditi Mahavidyalaya,7.27,7.73,7.500
+20002501255,GARIMA,Aditi Mahavidyalaya,6.73,7.55,7.136
+20002501256,Harshita ahuja,Aditi Mahavidyalaya,7.27,7.27,7.273
+20002501257,Itikatyagi,Aditi Mahavidyalaya,8.09,7.82,7.955
+20002501258,JANVEE DWIVEDI,Aditi Mahavidyalaya,7.55,8.00,7.773
+20002501259,Kajal Agarwal,Aditi Mahavidyalaya,8.55,9.27,8.909
+20002501260,Kareena badgujar,Aditi Mahavidyalaya,7.45,8.27,7.864
+20002501261,KARUNA,Aditi Mahavidyalaya,7.36,7.55,7.455
+20002501262,KAVITA,Aditi Mahavidyalaya,7.27,7.82,7.545
+20002501263,Mansi shukla,Aditi Mahavidyalaya,8.09,8.55,8.318
+20002501264,Monika Chahal,Aditi Mahavidyalaya,8.55,9.27,8.909
+20002501265,Neha Raj,Aditi Mahavidyalaya,8.00,8.00,8.000
+20002501266,Niharika Mehra,Aditi Mahavidyalaya,8.09,7.82,7.955
+20002501267,nirmla yadav,Aditi Mahavidyalaya,7.00,6.09,6.545
+20002501268,Parul Tandon,Aditi Mahavidyalaya,8.27,9.00,8.636
+20002501269,Sakshi Jamnal,Aditi Mahavidyalaya,8.09,8.55,8.318
+20002501270,SHEHNAZ KHATUN,Aditi Mahavidyalaya,7.55,8.00,7.773
+20002501271,Deepshikha,Aditi Mahavidyalaya,7.73,8.00,7.864
+20002501272,HARSHITA RAWAT,Aditi Mahavidyalaya,4.36,7.73,6.045
+20002501273,Ishika Aggarwal,Aditi Mahavidyalaya,7.73,8.00,7.864
+20002501274,Jhanvi Hoon,Aditi Mahavidyalaya,7.09,6.27,6.682
+20002501275,KOMAL,Aditi Mahavidyalaya,7.27,7.73,7.500
+20002501276,Maya kumari,Aditi Mahavidyalaya,5.09,6.00,5.545
+20002501277,Navya singh,Aditi Mahavidyalaya,8.55,9.00,8.773
+20002501278,Nidhi kumari,Aditi Mahavidyalaya,7.45,8.00,7.727
+20002501279,Prachi Chauhan,Aditi Mahavidyalaya,7.55,7.55,7.545
+20002501280,Priya kumari,Aditi Mahavidyalaya,5.27,1.36,3.318
+20002501281,Shikha mishra,Aditi Mahavidyalaya,7.91,8.73,8.318
+20002501282,SHILPA,Aditi Mahavidyalaya,5.18,7.27,6.227
+20002501283,Shivani,Aditi Mahavidyalaya,7.55,8.55,8.045
+20002501284,Shobha Bhardwaj,Aditi Mahavidyalaya,8.36,8.55,8.455
+20002501285,Vidhi Suman,Aditi Mahavidyalaya,7.45,8.00,7.727
+20002501286,Aastha singh,Aditi Mahavidyalaya,8.00,8.55,8.273
+20002501287,Anchal,Aditi Mahavidyalaya,7.27,5.64,6.455
+20002501288,Anushka Maurya,Aditi Mahavidyalaya,7.18,8.00,7.591
+20002501290,Himanshi bhardwaj,Aditi Mahavidyalaya,8.64,9.00,8.818
+20002501291,Mahima,Aditi Mahavidyalaya,7.00,6.82,6.909
+20002501292,Namita,Aditi Mahavidyalaya,7.45,6.73,7.091
+20002501293,NEHA KUMARI,Aditi Mahavidyalaya,7.73,8.27,8.000
+20002501294,Neha Roy,Aditi Mahavidyalaya,7.45,8.00,7.727
+20002501295,Pavitra pokhrel,Aditi Mahavidyalaya,4.09,5.82,4.955
+20002501296,Purnima Sarkar,Aditi Mahavidyalaya,7.64,8.27,7.955
+20002501297,Riya,Aditi Mahavidyalaya,8.27,8.73,8.500
+20002501299,Savita,Aditi Mahavidyalaya,7.64,7.73,7.682
+20002501300,Shalini suman,Aditi Mahavidyalaya,7.73,8.82,8.273
+20002501301,Aarti gupta,Aditi Mahavidyalaya,7.73,8.00,7.864
+20002501302,ADISHREE JHA,Aditi Mahavidyalaya,8.55,8.45,8.500
+20002501303,BHAVNA PATHAK,Aditi Mahavidyalaya,7.45,8.00,7.727
+20002501304,Deepa,Aditi Mahavidyalaya,7.00,8.00,7.500
+20002501305,Dolma tsering,Aditi Mahavidyalaya,7.00,7.73,7.364
+20002501306,Eshita Shah,Aditi Mahavidyalaya,7.27,8.00,7.636
+20002501307,GARIMA,Aditi Mahavidyalaya,5.36,7.00,6.182
+20002501308,HARSHITA CHAUHAN,Aditi Mahavidyalaya,8.27,8.82,8.545
+20002501310,Jahanaara,Aditi Mahavidyalaya,6.64,7.27,6.955
+20002501311,JYOTI,Aditi Mahavidyalaya,6.09,7.27,6.682
+20002501312,JYOTI MISHRA,Aditi Mahavidyalaya,7.45,8.00,7.727
+20002501313,Kajal kumari,Aditi Mahavidyalaya,4.45,5.27,4.864
+20002501315,Kashish Gupta,Aditi Mahavidyalaya,8.09,9.00,8.545
+20002501316,Khushi,Aditi Mahavidyalaya,8.36,9.00,8.682
+20002501317,KOMAL YADAV,Aditi Mahavidyalaya,6.45,7.73,7.091
+20002501318,Maneesha S Pillai,Aditi Mahavidyalaya,8.00,8.73,8.364
+20002501319,Mansi pandey,Aditi Mahavidyalaya,6.55,7.55,7.045
+20002501320,Muskan Garg,Aditi Mahavidyalaya,7.55,8.27,7.909
+20002501322,NIKITA MODI,Aditi Mahavidyalaya,6.82,7.45,7.136
+20002501323,Pooja Mishra,Aditi Mahavidyalaya,7.18,8.27,7.727
+20002501324,Preeti kushwaha,Aditi Mahavidyalaya,6.55,7.00,6.773
+20002501325,Radhika,Aditi Mahavidyalaya,7.73,8.09,7.909
+20002501326,RIYA JHA,Aditi Mahavidyalaya,8.27,8.73,8.500
+20002501328,Shakshi Mishra,Aditi Mahavidyalaya,7.55,8.55,8.045
+20002501329,Sneha Gautam,Aditi Mahavidyalaya,6.73,7.73,7.227
+20002501330,TAMANNA ROY,Aditi Mahavidyalaya,8.55,8.73,8.636
+20002501331,Archana KS,Aditi Mahavidyalaya,7.27,7.73,7.500
+20002501332,Gitanjali kumari,Aditi Mahavidyalaya,7.27,8.00,7.636
+20002501334,Kajal,Aditi Mahavidyalaya,7.73,7.73,7.727
+20002501335,Kirti,Aditi Mahavidyalaya,8.55,9.00,8.773
+20002501336,LAXMI,Aditi Mahavidyalaya,7.00,7.73,7.364
+20002501337,Mehak,Aditi Mahavidyalaya,6.09,6.73,6.409
+20002501338,Prerena Soni,Aditi Mahavidyalaya,8.27,9.00,8.636
+20002501339,Radhika yadav,Aditi Mahavidyalaya,6.45,8.00,7.227
+20002501340,RITIKA,Aditi Mahavidyalaya,8.00,7.45,7.727
+20002501341,Ruchi,Aditi Mahavidyalaya,7.45,7.73,7.591
+20002501342,SAKSHI BAGHEL,Aditi Mahavidyalaya,8.55,8.73,8.636
+20002501343,Shahnaj,Aditi Mahavidyalaya,7.73,8.27,8.000
+20002501344,Shreshtha Shrivastava,Aditi Mahavidyalaya,7.27,8.27,7.773
+20002501345,Simran,Aditi Mahavidyalaya,7.73,8.27,8.000
+20002501346,Sonam dolma,Aditi Mahavidyalaya,7.82,8.27,8.045
+20002501347,Soni,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501348,TSERING DOLKAR,Aditi Mahavidyalaya,7.55,6.91,7.227
+20002501349,Wosophi Angkang,Aditi Mahavidyalaya,8.00,8.55,8.273
+20002501350,Aarti,Aditi Mahavidyalaya,7.55,8.00,7.773
+20002501351,Anjali paswan,Aditi Mahavidyalaya,7.64,8.27,7.955
+20002501352,ANURADHA,Aditi Mahavidyalaya,8.27,8.27,8.273
+20002501353,Aradhya Singh,Aditi Mahavidyalaya,7.91,8.73,8.318
+20002501354,Bhumishtha Dua,Aditi Mahavidyalaya,6.36,7.27,6.818
+20002501355,Divya gupta,Aditi Mahavidyalaya,6.82,4.55,5.682
+20002501356,HARSHITA GUPTA,Aditi Mahavidyalaya,7.55,9.00,8.273
+20002501357,JISHA VERMA,Aditi Mahavidyalaya,5.73,7.55,6.636
+20002501358,JYOTI RANI,Aditi Mahavidyalaya,7.73,9.00,8.364
+20002501360,Khushi,Aditi Mahavidyalaya,6.73,8.00,7.364
+20002501361,MITISHA VIJAY,Aditi Mahavidyalaya,6.64,7.00,6.818
+20002501362,Muskan Ahuja,Aditi Mahavidyalaya,8.36,8.82,8.591
+20002501363,Piyushi Baghel,Aditi Mahavidyalaya,7.27,8.27,7.773
+20002501364,Preeti,Aditi Mahavidyalaya,7.82,8.27,8.045
+20002501365,Prerna,Aditi Mahavidyalaya,7.45,8.27,7.864
+20002501366,Priyanka Yadav,Aditi Mahavidyalaya,7.45,9.00,8.227
+20002501367,RINKI CHAUDHARY,Aditi Mahavidyalaya,8.27,9.00,8.636
+20002501368,Rinkle,Aditi Mahavidyalaya,6.82,7.55,7.182
+20002501370,SHAKSHI SHARMA,Aditi Mahavidyalaya,8.27,8.82,8.545
+20002501371,Shivani Singh,Aditi Mahavidyalaya,4.73,7.73,6.227
+20002501372,Srishti,Aditi Mahavidyalaya,7.55,7.18,7.364
+20002501373,Thupstan lamo,Aditi Mahavidyalaya,7.18,8.00,7.591
+20002501374,Varnika Singh,Aditi Mahavidyalaya,7.00,7.73,7.364
+20002501376,Vasundhara Rawat,Aditi Mahavidyalaya,8.27,9.00,8.636
+20002501377,Akshita Khanna,Aditi Mahavidyalaya,7.73,9.00,8.364
+20002501378,ANSHIKA JAIN,Aditi Mahavidyalaya,7.36,8.82,8.091
+20002501380,Binish Kausar,Aditi Mahavidyalaya,8.00,8.73,8.364
+20002501381,Deepthi S Nair,Aditi Mahavidyalaya,7.73,8.55,8.136
+20002501382,Diksha Rawat,Aditi Mahavidyalaya,7.82,9.27,8.545
+20002501383,Diksha Saini,Aditi Mahavidyalaya,7.45,8.27,7.864
+20002501384,EKANKI PANWAR,Aditi Mahavidyalaya,7.55,8.27,7.909
+20002501385,Huda Hassan,Aditi Mahavidyalaya,8.18,8.27,8.227
+20002501386,Isha Sheoran,Aditi Mahavidyalaya,8.27,9.00,8.636
+20002501387,KHUSHI,Aditi Mahavidyalaya,7.55,7.45,7.500
+20002501389,Koyal,Aditi Mahavidyalaya,7.27,8.55,7.909
+20002501390,Manya Yadav,Aditi Mahavidyalaya,8.27,9.00,8.636
+20002501392,PREETI KUMARI,Aditi Mahavidyalaya,7.64,8.27,7.955
+20002501393,Prerna Pruthi,Aditi Mahavidyalaya,8.18,9.00,8.591
+20002501394,Priyamvada Ranjan,Aditi Mahavidyalaya,8.09,9.00,8.545
+20002501395,Rakhi,Aditi Mahavidyalaya,7.82,8.55,8.182
+20002501396,Ritika singh,Aditi Mahavidyalaya,7.55,8.55,8.045
+20002501397,sakshi bhardwaj,Aditi Mahavidyalaya,8.55,9.00,8.773
+20002501398,Saltanat,Aditi Mahavidyalaya,8.09,9.00,8.545
+20002501399,shruti,Aditi Mahavidyalaya,6.73,8.00,7.364
+20002501400,Sidra khan,Aditi Mahavidyalaya,8.09,8.73,8.409
+20002501401,Ayushi bhadoria,Aditi Mahavidyalaya,5.73,7.82,6.773
+20002501402,Kirti Chauhan,Aditi Mahavidyalaya,6.82,5.09,5.955
+20002501403,Monika verma,Aditi Mahavidyalaya,6.64,8.00,7.318
+20002501404,Manisha,Aditi Mahavidyalaya,7.27,7.00,7.136
+20002501405,Pooja kumari,Aditi Mahavidyalaya,6.73,8.00,7.364
+20002501406,Prachi,Aditi Mahavidyalaya,7.27,7.73,7.500
+20002501409,Deepa,Aditi Mahavidyalaya,7.00,7.73,7.364
+20002501410,Devika,Aditi Mahavidyalaya,7.36,8.00,7.682
+20002501412,Ishika Gupta,Aditi Mahavidyalaya,7.27,7.55,7.409
+20002501413,KAJAL SHARMA,Aditi Mahavidyalaya,5.55,6.55,6.045
+20002501415,Nishita baranwal,Aditi Mahavidyalaya,8.00,8.00,8.000
+20002501416,Prachi Kumari,Aditi Mahavidyalaya,8.27,8.27,8.273
+20002501417,TANYA JAIN,Aditi Mahavidyalaya,7.09,8.00,7.545
+20002501418,TANYA TRIPATHI,Aditi Mahavidyalaya,5.55,7.82,6.682
+20002501419,Vandana,Aditi Mahavidyalaya,8.18,8.73,8.455
+20002501421,Sonia,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002501422,N GAITRY DEVI,Aditi Mahavidyalaya,7.45,7.82,7.636
+20002501423,ROSHANI KUMARI,Aditi Mahavidyalaya,7.36,7.45,7.409

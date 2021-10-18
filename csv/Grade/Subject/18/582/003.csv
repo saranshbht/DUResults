@@ -1,158 +1,163 @@
-RollNo,Name,College,"ATOMIC STRUCTURE, BONDING, GENERAL ORGANIC CHEMISTRY & ALIPHATIC HYDROCARBONS",MECHANICS,CALCULUS AND MATRICES,ENVIRONMENTAL SCIENCE,"CHEMICAL ENERGETICS, EQUILIBRIA & FUNCTIONAL GROUP ORGANIC",ELECTRICITY AND MAGNETISM,CALCULUS AND GEMETRY,ENGLISH-A,CHEMISTRY OF COSMETICS & PERFUMES,"SOLUTIONS, PHASE EQUILIBRIA, CONDUCTANCE, ELECTROCHEMISTRY & FUNCTIONAL GROUP ORGANIC CHEMISTRY-II (CORE PAPER)",THERMAL PHYSICS AND STATISTICAL MECHANICS,ALGEBRA,BASIC ANALYTICAL CHEMISTRY,"CHEMISTRY OF S- AND P- BLOCK ELEMENTS, STATES OF MATTER &AMP; CHEMICAL KINETICS",WAVE AND OPTICS,REAL ANALYSIS,PHARMACEUTICAL CHEMISTRY,"CHEMISTRY OF D-BLOCK ELEMENTS, QUANTUM CHEMISTRY AND SPECTROSCOPY",ELEMENTS OF MODERN PHYSICS,DIFFERENTIAL EQUATIONS (B.SC. (PROG.),HINDI BHASHA AUR SANSPRESHAN,NETWORK ANALYSIS AND ANALOG ELECTRONICS,LINEAR AND DIGITAL INTEGRATED CIRCUITS,ELECTRICAL CIRCUITS AND NETWORK SKILLS,COMMUNICATION ELECTRONICS,COMPUTATIONAL PHYSICS SKILLS,MICROPROCESSOR AND MICROCONTROLLER,APPLIED OPTICS,ELECTRONIC INSTRUMENTATION,PROBLEM SOLVING USING COMPUTER,DATABASE MANAGEMENT SYSTEM,OFFICE AUTOMATION TOOLS,OPERATING SYSTEM,PHP PROGRAMMING,COMPUTER SYSTEM ARCHITECTURE,SYSTEM ADMINISTRATION AND MAINTENANCE,PROGRAMMING IN JAVA,CALCULUS AND GEOMETRY
-18003582005,ABHISHEK NAIN,Atma Ram Sanatan Dharam College,8,6,8,7,5,5,5,7,7,7,7,5,8,8,8,8,10,9,10,10,,,,,,,,,,,,,,,,,,
-18003582006,SHIKHA SUNDRIYAL,Atma Ram Sanatan Dharam College,6,6,8,8,7,7,6,8,7,6,6,4,7,7,7,7,10,10,9,8,,,,,,,,,,,,,,,,,,
-18003582007,RAVI SHANKAR RANWA,Atma Ram Sanatan Dharam College,5,5,7,6,5,5,6,,7,5,7,4,7,7,7,7,9,9,9,10,0,,,,,,,,,,,,,,,,,
-18003582008,KASHISH DESHWAL,Atma Ram Sanatan Dharam College,9,6,9,8,7,8,8,7,9,7,7,9,9,8,9,8,10,9,10,9,,,,,,,,,,,,,,,,,,
-18003582009,PRASOON KUMAR,Atma Ram Sanatan Dharam College,6,4,6,5,5,5,7,,8,8,9,9,8,7,7,7,9,10,10,10,8,,,,,,,,,,,,,,,,,
-18003582010,RAJ KUMAR,Atma Ram Sanatan Dharam College,6,5,8,7,5,6,7,6,8,4,7,6,7,7,7,8,9,9,9,10,,,,,,,,,,,,,,,,,,
-18003582011,SAMEER MALIK,Atma Ram Sanatan Dharam College,9,9,9,7,9,7,10,6,9,8,9,9,9,8,9,10,10,0,10,10,,,,,,,,,,,,,,,,,,
-18003582012,NITIN YADAV,Atma Ram Sanatan Dharam College,8,6,9,7,7,6,6,7,8,5,7,7,8,8,8,8,10,9,10,10,,,,,,,,,,,,,,,,,,
-18003582013,NEERAJ KUMAR,Atma Ram Sanatan Dharam College,6,5,7,6,7,5,4,7,8,7,9,5,9,9,8,8,9,9,9,10,,,,,,,,,,,,,,,,,,
-18003582014,PREETI RAI,Atma Ram Sanatan Dharam College,7,7,10,7,8,7,6,7,9,7,8,8,8,8,8,9,10,9,10,8,,,,,,,,,,,,,,,,,,
-18003582015,SHIVANI,Atma Ram Sanatan Dharam College,6,5,9,7,6,7,6,6,9,6,7,5,8,8,8,9,9,9,10,8,,,,,,,,,,,,,,,,,,
-18003582016,PRIKSHIT LOHCHAB,Atma Ram Sanatan Dharam College,6,6,7,8,7,6,5,7,8,7,7,7,8,8,8,8,9,9,9,8,,,,,,,,,,,,,,,,,,
-18003582018,BHUVAN SINGH MANGAT,Atma Ram Sanatan Dharam College,4,6,4,6,5,4,5,6,8,4,6,4,7,6,7,7,10,9,9,10,,,,,,,,,,,,,,,,,,
-18003582019,SHARAD VASHISHATH,Atma Ram Sanatan Dharam College,8,8,10,7,8,8,6,7,8,7,8,8,8,7,8,8,10,9,10,8,,,,,,,,,,,,,,,,,,
-18003582020,PRERIT PARASHAR,Atma Ram Sanatan Dharam College,8,7,9,7,7,6,6,7,8,6,7,6,8,8,8,8,10,9,9,10,,,,,,,,,,,,,,,,,,
-18003582021,JAI KUMAR,Atma Ram Sanatan Dharam College,6,6,6,6,6,5,4,7,8,6,7,7,8,7,7,8,10,9,9,10,,,,,,,,,,,,,,,,,,
-18003582022,GEETIKA,Atma Ram Sanatan Dharam College,7,8,9,7,7,6,6,7,9,7,7,8,9,8,9,9,10,9,8,8,,,,,,,,,,,,,,,,,,
-18003582023,SAPNA,Atma Ram Sanatan Dharam College,6,6,7,6,5,4,5,6,8,6,5,7,8,8,8,8,9,9,9,8,,,,,,,,,,,,,,,,,,
-18003582025,SONU,Atma Ram Sanatan Dharam College,8,8,8,7,7,6,8,7,8,7,9,8,8,8,8,9,9,9,10,8,,,,,,,,,,,,,,,,,,
-18003582026,PRASANN DAHIYA,Atma Ram Sanatan Dharam College,5,6,4,6,6,4,4,7,6,5,5,5,7,7,7,8,9,9,8,8,,,,,,,,,,,,,,,,,,
-18003582027,JAIDEEP,Atma Ram Sanatan Dharam College,7,8,9,9,8,6,8,8,9,7,8,8,9,8,8,8,10,9,10,10,,,,,,,,,,,,,,,,,,
-18003582028,NISHKARSH GUPTA,Atma Ram Sanatan Dharam College,5,6,5,7,6,5,4,7,7,6,6,8,7,6,7,7,10,9,9,8,,,,,,,,,,,,,,,,,,
-18003582029,PANKAJ,Atma Ram Sanatan Dharam College,6,7,7,7,6,4,7,6,8,6,7,7,8,7,8,8,10,9,9,8,,,,,,,,,,,,,,,,,,
-18003582030,ROHIT,Atma Ram Sanatan Dharam College,7,8,8,6,8,5,7,7,8,6,8,8,8,7,8,8,9,9,9,8,,,,,,,,,,,,,,,,,,
-18003582031,KAJAL,Atma Ram Sanatan Dharam College,4,5,5,6,5,0,4,7,8,6,7,6,8,7,8,8,9,9,9,9,,,,,,,,,,,,,,,,,,
-18003582032,SNEHLATA,Atma Ram Sanatan Dharam College,7,7,9,8,6,5,8,7,9,6,8,7,9,8,8,9,10,0,9,8,,,,,,,,,,,,,,,,,,
-18003582033,CHETAN PRAKASH,Atma Ram Sanatan Dharam College,5,8,8,7,5,4,4,6,7,5,7,5,8,7,7,7,9,9,8,8,,,,,,,,,,,,,,,,,,
-18003582035,YOGENDER SINGH,Atma Ram Sanatan Dharam College,8,7,9,7,7,6,6,7,7,6,7,4,8,7,8,8,9,9,9,10,,,,,,,,,,,,,,,,,,
-18003582036,SANJEEV KUMAR,Atma Ram Sanatan Dharam College,7,6,8,7,5,4,5,7,7,5,8,7,8,8,8,8,9,9,9,9,,,,,,,,,,,,,,,,,,
-18003582038,POOJA,Atma Ram Sanatan Dharam College,7,6,9,8,9,6,7,7,9,8,9,9,9,9,9,10,10,9,8,10,,,,,,,,,,,,,,,,,,
-18003582039,MANOJ,Atma Ram Sanatan Dharam College,5,5,8,6,7,4,4,6,6,4,6,7,7,6,7,7,9,9,8,9,,,,,,,,,,,,,,,,,,
-18003582041,VAIBHAV SHARMA,Atma Ram Sanatan Dharam College,7,7,9,7,7,6,5,7,8,7,7,8,9,8,8,9,10,9,9,8,,,,,,,,,,,,,,,,,,
-18003582042,SHIKHAR GUNWANT,Atma Ram Sanatan Dharam College,7,7,7,7,8,6,5,8,10,8,9,8,9,10,9,10,10,10,10,10,,,,,,,,,,,,,,,,,,
-18003582043,PRASHANT CHOUDHARY,Atma Ram Sanatan Dharam College,6,6,7,6,7,6,8,7,8,4,7,8,7,7,7,7,10,9,8,8,,,,,,,,,,,,,,,,,,
-18003582044,VISHAL AGRAHARI,Atma Ram Sanatan Dharam College,7,7,10,8,8,7,10,7,8,7,9,9,9,8,9,9,9,10,9,10,,,,,,,,,,,,,,,,,,
-18003582047,VISHESH MALIK,Atma Ram Sanatan Dharam College,6,8,7,7,8,6,9,7,8,7,6,8,9,9,8,9,10,10,10,10,,,,,,,,,,,,,,,,,,
-18003582048,SANDEEP BHUSHAN,Atma Ram Sanatan Dharam College,6,7,7,7,7,5,8,7,8,6,7,8,9,8,8,8,10,9,9,8,,,,,,,,,,,,,,,,,,
-18003582049,NIRDOSH KUMAR VERMA,Atma Ram Sanatan Dharam College,4,5,6,6,5,4,9,,7,4,5,7,8,7,7,7,9,9,9,8,8,,,,,,,,,,,,,,,,,
-18003582050,TARANA PAREWA,Atma Ram Sanatan Dharam College,6,5,7,6,6,6,8,7,9,5,7,8,9,8,8,8,9,9,9,9,,,,,,,,,,,,,,,,,,
-18003582051,YOGESH KUMAR,Atma Ram Sanatan Dharam College,7,5,4,8,4,4,5,5,6,5,5,5,7,6,7,7,9,0,9,10,,,,,,,,,,,,,,,,,,
-18003582052,JATIN DIGWAL,Atma Ram Sanatan Dharam College,7,7,7,8,7,6,9,6,8,5,7,7,9,8,8,8,10,9,9,8,,,,,,,,,,,,,,,,,,
-18003582053,ANIKET,Atma Ram Sanatan Dharam College,4,4,4,5,5,4,6,6,7,6,8,7,7,7,7,7,9,9,9,8,,,,,,,,,,,,,,,,,,
-18003582054,HARSHITA,Atma Ram Sanatan Dharam College,6,5,6,7,7,4,4,7,8,7,7,7,9,9,8,9,10,10,10,10,,,,,,,,,,,,,,,,,,
-18003582055,AMIT,Atma Ram Sanatan Dharam College,5,5,4,5,5,4,6,7,7,4,5,6,7,7,7,7,10,9,9,10,,,,,,,,,,,,,,,,,,
-18003582056,KARNAIL SINGH,Atma Ram Sanatan Dharam College,5,5,4,7,6,4,7,6,7,4,5,7,7,6,7,7,9,9,9,8,,,,,,,,,,,,,,,,,,
-18003582057,SUMIT KUMAR,Atma Ram Sanatan Dharam College,,5,6,8,,7,9,8,,,6,8,,,8,9,,,9,9,,6,7,8,8,8,7,9,8,,,,,,,,,
-18003582058,MOHIT GARG,Atma Ram Sanatan Dharam College,,6,7,8,,8,10,8,,,7,8,,,8,8,,,9,10,,5,8,10,7,8,8,9,9,,,,,,,,,
-18003582059,ABHISHEK,Atma Ram Sanatan Dharam College,,5,7,8,,7,7,7,,,4,6,,,8,7,,,9,9,,6,7,9,7,7,8,9,10,,,,,,,,,
-18003582062,TARUN KATYAYAN,Atma Ram Sanatan Dharam College,,5,6,8,,4,5,6,,,4,5,,,6,7,,,8,9,,5,5,7,4,6,7,8,9,,,,,,,,,
-18003582063,ANUJ YADAV,Atma Ram Sanatan Dharam College,,6,7,7,,5,6,7,,,4,5,,,6,7,,,9,9,,5,6,7,5,7,7,9,9,,,,,,,,,
-18003582064,VAIBHAV TIWARI,Atma Ram Sanatan Dharam College,,7,6,8,,6,8,,,,7,7,,,8,9,,,9,9,8,7,6,9,7,8,6,10,10,,,,,,,,,
-18003582065,NASEEB,Atma Ram Sanatan Dharam College,,4,5,8,,4,6,6,,,4,6,,,6,6,,,9,6,,5,4,8,4,6,0,9,8,,,,,,,,,
-18003582067,VISHAL KUMAR,Atma Ram Sanatan Dharam College,,4,5,7,,4,7,5,,,5,7,,,8,8,,,10,8,,4,4,8,4,7,7,9,9,,,,,,,,,
-18003582068,HARSH,Atma Ram Sanatan Dharam College,,7,8,8,,8,10,8,,,8,8,,,8,8,,,9,9,,7,8,9,6,8,8,9,10,,,,,,,,,
-18003582069,NAMAN DHANDA,Atma Ram Sanatan Dharam College,,7,8,8,,6,9,8,,,7,8,,,8,9,,,9,9,,6,7,10,7,8,8,9,9,,,,,,,,,
-18003582070,HIMANSHU CHAUHAN,Atma Ram Sanatan Dharam College,,7,10,9,,8,10,8,,,8,9,,,9,9,,,10,9,,9,8,9,6,9,8,9,9,,,,,,,,,
-18003582071,PIYUSH GUPTA,Atma Ram Sanatan Dharam College,,6,6,8,,7,7,7,,,7,8,,,9,9,,,9,10,,6,7,9,9,9,8,9,10,,,,,,,,,
-18003582072,BHUPESH,Atma Ram Sanatan Dharam College,,5,7,8,,5,7,7,,,7,7,,,8,8,,,9,9,,6,6,9,7,8,7,9,9,,,,,,,,,
-18003582074,SHUBHAM RAJ RAUNIYAR,Atma Ram Sanatan Dharam College,,7,8,9,,5,7,8,,,8,7,,,10,9,,,10,9,,6,6,10,8,9,8,9,9,,,,,,,,,
-18003582075,DEEPAK,Atma Ram Sanatan Dharam College,,6,6,5,,0,4,7,,,6,5,,,7,6,,,9,9,,4,0,7,5,6,6,9,9,,,,,,,,,
-18003582076,ANKIT KUMAR,Atma Ram Sanatan Dharam College,,9,8,9,,6,6,8,,,5,7,,,6,5,,,10,10,,9,7,5,5,4,5,9,9,,,,,,,,,
-18003582077,HARSH,Atma Ram Sanatan Dharam College,,6,5,8,,6,5,7,,,6,7,,,9,8,,,9,9,,5,5,9,5,8,8,9,8,,,,,,,,,
-18003582078,SOURAV THAPLIYAL,Atma Ram Sanatan Dharam College,,7,8,8,,6,4,8,,,6,6,,,8,8,,,9,9,,4,6,8,5,7,7,10,9,,,,,,,,,
-18003582079,AAKASH,Atma Ram Sanatan Dharam College,,6,8,8,,5,5,7,,,6,7,,,9,8,,,8,9,,5,6,9,8,7,7,9,9,,,,,,,,,
-18003582081,KOMAL,Atma Ram Sanatan Dharam College,,7,9,9,,6,6,,,,8,7,,,8,9,,,10,10,8,9,7,9,8,8,8,9,10,,,,,,,,,
-18003582082,MANISH,Atma Ram Sanatan Dharam College,,7,6,8,,5,5,7,,,6,7,,,7,9,,,8,10,,4,6,9,6,8,7,9,9,,,,,,,,,
-18003582083,ANKIT,Atma Ram Sanatan Dharam College,,5,4,8,,4,5,6,,,4,5,,,8,7,,,9,9,,4,4,7,5,7,7,9,9,,,,,,,,,
-18003582084,SOURABH KUMIA,Atma Ram Sanatan Dharam College,,6,7,7,,6,7,8,,,5,5,,,6,8,,,9,9,,5,5,8,5,7,6,9,9,,,,,,,,,
-18003582085,KARTIKEY ARORA,Atma Ram Sanatan Dharam College,,6,6,8,,6,4,7,,,4,6,,,7,8,,,9,9,,4,6,9,6,7,6,9,9,,,,,,,,,
-18003582086,AYUSH RAJ,Atma Ram Sanatan Dharam College,,6,5,6,,4,4,6,,,5,6,,,7,7,,,9,9,,4,4,8,5,7,6,9,9,,,,,,,,,
-18003582087,RAMJI DIXIT,Atma Ram Sanatan Dharam College,,7,9,8,,7,6,,,,6,7,,,9,9,,,10,10,8,8,6,10,7,8,9,10,0,,,,,,,,,
-18003582089,TARUN SINGH,Atma Ram Sanatan Dharam College,,6,5,6,,4,4,7,,,6,6,,,9,8,,,9,9,,5,6,9,5,8,5,9,9,,,,,,,,,
-18003582090,SUDHANSHU YADAV,Atma Ram Sanatan Dharam College,,6,5,7,,6,5,7,,,8,6,,,9,9,,,9,9,,5,4,9,7,8,7,10,9,,,,,,,,,
-18003582091,MOHIT YADAV,Atma Ram Sanatan Dharam College,,6,7,8,,5,5,7,,,5,7,,,7,7,,,9,9,,6,6,9,6,7,7,9,9,,,,,,,,,
-18003582092,VAIBHAV,Atma Ram Sanatan Dharam College,,5,5,6,,4,4,4,,,5,5,,,6,7,,,9,9,,4,4,8,5,6,5,9,9,,,,,,,,,
-18003582094,ANSHUL KUMAR MITHALIYA,Atma Ram Sanatan Dharam College,,6,6,6,,6,5,7,,,5,6,,,7,8,,,10,9,,7,4,8,6,6,7,9,9,,,,,,,,,
-18003582095,NEHA YADAV,Atma Ram Sanatan Dharam College,,8,6,7,,6,5,7,,,5,5,,,7,7,,,9,9,,4,6,7,5,7,6,9,9,,,,,,,,,
-18003582096,MOHD UBAIDUL HAQ,Atma Ram Sanatan Dharam College,,5,4,5,,4,5,,,,7,8,,,6,7,,,9,9,7,5,4,7,5,6,0,9,9,,,,,,,,,
-18003582097,AJAY SINGH YADAV,Atma Ram Sanatan Dharam College,,6,4,7,,4,4,4,,,4,8,,,6,6,,,9,9,,4,0,7,5,6,5,9,9,,,,,,,,,
-18003582098,ABHISHEK BISHT,Atma Ram Sanatan Dharam College,,6,4,7,,5,4,6,,,5,5,,,7,8,,,10,9,,4,4,7,6,7,6,9,9,,,,,,,,,
-18003582099,SUDHIR YADAV,Atma Ram Sanatan Dharam College,,5,5,5,,5,5,6,,,4,5,,,6,8,,,9,9,,5,4,8,5,7,4,10,9,,,,,,,,,
-18003582100,ANIKET NAGAR,Atma Ram Sanatan Dharam College,,8,7,7,,7,6,,,,7,8,,,9,9,,,10,9,7,9,6,8,8,8,8,10,10,,,,,,,,,
-18003582101,SOURABH KUMAR,Atma Ram Sanatan Dharam College,,5,7,7,,4,4,4,,,7,5,,,7,9,,,9,9,,7,4,8,6,7,0,9,9,,,,,,,,,
-18003582102,CHETALI VERMA,Atma Ram Sanatan Dharam College,,7,5,5,,7,5,7,,,9,8,,,9,9,,,9,9,,6,7,8,9,8,8,9,9,,,,,,,,,
-18003582103,KAVITA MEENA,Atma Ram Sanatan Dharam College,,7,6,5,,7,4,6,,,6,8,,,8,9,,,10,9,,6,5,9,7,8,7,9,8,,,,,,,,,
-18003582104,VARSHA KUMARI,Atma Ram Sanatan Dharam College,,8,7,7,,7,6,8,,,8,7,,,9,9,,,9,9,,8,8,10,7,9,8,9,8,,,,,,,,,
-18003582105,RITIK BHATT,Atma Ram Sanatan Dharam College,,8,8,8,,9,8,8,,,7,5,,,8,9,,,10,8,,9,9,9,7,7,7,10,10,,,,,,,,,
-18003582106,ANMOL SHARMA,Atma Ram Sanatan Dharam College,,7,6,7,,7,8,7,,,6,7,,,8,9,,,9,9,,8,7,9,8,8,8,9,9,,,,,,,,,
-18003582107,RIYA GUPTA,Atma Ram Sanatan Dharam College,,5,7,6,,5,7,6,,,7,6,,,9,9,,,10,8,,8,6,9,7,8,8,9,10,,,,,,,,,
-18003582109,VANSHIKA,Atma Ram Sanatan Dharam College,,6,4,6,,5,4,7,,,4,8,,,7,7,,,9,9,,6,4,7,5,6,6,9,10,,,,,,,,,
-18003582110,MANAV SHARMA,Atma Ram Sanatan Dharam College,,6,5,7,,5,4,6,,,5,5,,,8,7,,,8,9,,5,6,8,4,6,7,9,9,,,,,,,,,
-18003582111,YUVRAJ SETIA,Atma Ram Sanatan Dharam College,,4,4,6,,5,5,6,,,6,4,,,7,7,,,9,9,,4,4,7,5,6,5,7,8,,,,,,,,,
-18003582112,AMAN RAI,Atma Ram Sanatan Dharam College,,7,9,7,,6,7,5,,,7,5,,,6,6,,,9,10,,,,,,,,,,4,6,7,7,7,7,9,8,
-18003582113,SACHIN YADAV,Atma Ram Sanatan Dharam College,,5,4,6,,6,6,8,,,4,5,,,6,6,,,9,10,,,,,,,,,,5,5,7,5,7,7,9,8,
-18003582114,SAMEER KUMAR DUBEY,Atma Ram Sanatan Dharam College,,6,6,8,,4,7,8,,,4,7,,,6,7,,,9,10,,,,,,,,,,6,6,6,5,8,8,8,9,
-18003582115,SEEMA,Atma Ram Sanatan Dharam College,,8,10,8,,6,8,8,,,7,8,,,8,8,,,8,10,,,,,,,,,,8,8,8,7,9,9,9,9,
-18003582116,MAYANK BISHT,Atma Ram Sanatan Dharam College,,6,6,8,,4,5,6,,,7,6,,,6,6,,,10,9,,,,,,,,,,6,5,7,8,8,8,9,8,
-18003582117,DEEPA RAWAT,Atma Ram Sanatan Dharam College,,8,9,8,,7,8,9,,,7,7,,,7,9,,,9,10,,,,,,,,,,9,8,8,8,9,9,9,10,
-18003582118,PAWAN,Atma Ram Sanatan Dharam College,,5,4,8,,4,5,7,,,7,6,,,6,6,,,9,10,,,,,,,,,,7,5,8,6,8,8,8,8,
-18003582119,BHAWNA RAJPUT,Atma Ram Sanatan Dharam College,,9,9,9,,8,10,9,,,8,8,,,8,10,,,10,10,,,,,,,,,,8,9,10,10,10,10,10,10,
-18003582120,HARSHVARDHAN BISHT,Atma Ram Sanatan Dharam College,,6,6,8,,4,7,8,,,7,7,,,7,8,,,10,9,,,,,,,,,,6,7,8,7,8,9,9,9,
-18003582122,SANSKAR CHOUDHARY,Atma Ram Sanatan Dharam College,,6,8,8,,0,4,5,,,4,5,,,6,6,,,8,8,,,,,,,,,,6,6,6,5,7,7,8,8,
-18003582123,SAURAV KUMAR,Atma Ram Sanatan Dharam College,,8,9,9,,7,8,8,,,7,8,,,6,8,,,9,10,,,,,,,,,,8,7,9,8,4,6,9,9,
-18003582124,VINOD NEGI,Atma Ram Sanatan Dharam College,,6,8,8,,4,6,7,,,7,7,,,7,8,,,9,10,,,,,,,,,,6,6,7,7,8,8,9,8,
-18003582125,NITESH,Atma Ram Sanatan Dharam College,,7,8,8,,5,6,6,,,6,7,,,7,8,,,9,9,,,,,,,,,,4,6,7,6,8,8,8,8,
-18003582126,ABDUL HAMEED,Atma Ram Sanatan Dharam College,,6,7,6,,6,7,7,,,5,6,,,6,7,,,9,9,,,,,,,,,,5,6,7,6,7,8,9,8,
-18003582127,TUSHAR YADAV,Atma Ram Sanatan Dharam College,,8,10,8,,8,8,8,,,7,9,,,8,9,,,9,8,,,,,,,,,,8,8,9,8,9,9,9,9,
-18003582128,AJAY KUMAR,Atma Ram Sanatan Dharam College,,6,9,7,,5,7,8,,,5,8,,,7,7,,,9,8,,,,,,,,,,7,7,7,7,7,8,8,8,
-18003582129,UTKARSH TIWARI,Atma Ram Sanatan Dharam College,,6,9,7,,4,6,7,,,6,8,,,7,6,,,9,8,,,,,,,,,,7,7,6,8,8,8,9,9,
-18003582130,ABHAY GUPTA,Atma Ram Sanatan Dharam College,,7,6,8,,6,6,8,,,6,8,,,7,8,,,9,7,,,,,,,,,,6,7,6,6,8,8,9,8,
-18003582131,PRAVEEN SINGH,Atma Ram Sanatan Dharam College,,6,6,8,,5,8,7,,,5,6,,,7,7,,,8,7,,,,,,,,,,6,8,7,6,8,8,9,9,
-18003582132,BALKESH,Atma Ram Sanatan Dharam College,,8,10,8,,8,9,8,,,9,10,,,9,10,,,9,10,,,,,,,,,,7,9,10,9,9,9,9,9,
-18003582133,DEEPAK,Atma Ram Sanatan Dharam College,,6,9,6,,6,5,7,,,6,6,,,7,8,,,9,8,,,,,,,,,,6,6,7,5,8,8,8,9,
-18003582134,ARVIND,Atma Ram Sanatan Dharam College,,9,9,8,,6,8,8,,,8,5,,,8,9,,,9,9,,,,,,,,,,6,7,9,6,8,8,8,10,
-18003582135,POTSHANGBAM TARUN SINGH,Atma Ram Sanatan Dharam College,,4,5,4,,5,6,8,,,6,6,,,7,8,,,9,10,,,,,,,,,,5,7,9,7,8,9,9,7,
-18003582136,PANKAJ,Atma Ram Sanatan Dharam College,,6,7,7,,5,7,7,,,6,7,,,8,9,,,9,10,,,,,,,,,,5,0,9,6,8,8,9,9,
-18003582137,BHARAT YADAV,Atma Ram Sanatan Dharam College,,4,4,4,,4,4,5,,,4,8,,,5,5,,,9,10,,,,,,,,,,4,4,4,4,6,6,8,8,
-18003582139,HARSH,Atma Ram Sanatan Dharam College,,7,10,8,,7,8,8,,,8,7,,,8,9,,,9,10,,,,,,,,,,6,7,6,7,9,9,9,9,
-18003582140,AVANISH GUPTA,Atma Ram Sanatan Dharam College,,8,9,7,,7,8,8,,,9,8,,,8,8,,,9,10,,,,,,,,,,6,7,8,6,9,9,9,9,
-18003582141,VAIBHAV KUMAR,Atma Ram Sanatan Dharam College,,7,8,9,,5,6,8,,,8,7,,,8,8,,,9,10,,,,,,,,,,7,6,9,8,10,9,10,10,
-18003582142,NAVEEN SHARMA,Atma Ram Sanatan Dharam College,,6,7,8,,4,6,7,,,5,4,,,8,8,,,9,10,,,,,,,,,,6,6,9,6,9,8,9,9,
-18003582143,UJJWAL SOLANKI,Atma Ram Sanatan Dharam College,,4,5,8,,4,7,6,,,6,5,,,7,6,,,10,8,,,,,,,,,,4,6,6,8,8,7,9,9,
-18003582144,GOURKHEDE RITESH BHARGAO,Atma Ram Sanatan Dharam College,,4,4,5,,0,,7,,,6,8,,,6,6,,,10,8,,,,,,,,,,4,5,6,5,7,7,9,5,4
-18003582145,SAJAL BANSAL,Atma Ram Sanatan Dharam College,,5,9,7,,6,6,7,,,7,8,,,7,9,,,9,10,,,,,,,,,,8,5,8,8,9,9,9,9,
-18003582147,RAM KUMAR,Atma Ram Sanatan Dharam College,,8,6,7,,5,6,7,,,6,6,,,7,7,,,10,9,,,,,,,,,,6,6,7,4,8,8,9,8,
-18003582148,HIMANSHU SHARMA,Atma Ram Sanatan Dharam College,,6,5,6,,4,5,6,,,6,4,,,6,5,,,10,9,,,,,,,,,,4,5,5,7,7,7,0,8,
-18003582149,PANKAJ KUMAR,Atma Ram Sanatan Dharam College,,5,6,7,,5,5,7,,,5,6,,,8,7,,,10,8,,,,,,,,,,6,6,9,5,8,8,9,8,
-18003582150,RAHUL SHAH,Atma Ram Sanatan Dharam College,,7,8,8,,5,6,7,,,8,6,,,7,8,,,9,9,,,,,,,,,,7,7,7,8,9,9,9,9,
-18003582151,YUVRAJ SINGH,Atma Ram Sanatan Dharam College,,6,8,7,,5,4,7,,,7,6,,,7,8,,,9,9,,,,,,,,,,5,6,7,7,8,9,9,9,
-18003582152,HITENDER,Atma Ram Sanatan Dharam College,,5,7,8,,5,4,7,,,4,5,,,6,6,,,10,10,,,,,,,,,,5,5,5,6,7,7,8,9,
-18003582153,PARAS DRALL,Atma Ram Sanatan Dharam College,,5,7,8,,5,4,8,,,5,5,,,6,6,,,9,8,,,,,,,,,,4,6,6,6,7,7,8,8,
-18003582154,MOHIT KUMAR,Atma Ram Sanatan Dharam College,,5,7,8,,6,5,6,,,4,5,,,6,6,,,8,7,,,,,,,,,,7,6,7,6,8,7,9,8,
-18003582155,RISHANT KUMAR YADAV,Atma Ram Sanatan Dharam College,,5,6,7,,4,4,6,,,6,7,,,7,8,,,9,10,,,,,,,,,,8,6,7,8,8,8,9,9,
-18003582156,ANKIT,Atma Ram Sanatan Dharam College,,4,5,6,,5,4,5,,,6,5,,,6,7,,,9,9,,,,,,,,,,7,4,6,6,7,7,8,9,
-18003582157,SACHIN KUMAR,Atma Ram Sanatan Dharam College,,5,6,7,,5,4,6,,,5,6,,,6,6,,,8,10,,,,,,,,,,5,4,5,5,7,6,9,8,
-18003582158,MEHAR SINGH,Atma Ram Sanatan Dharam College,,5,7,7,,4,5,6,,,4,5,,,6,5,,,9,10,,,,,,,,,,4,4,5,4,7,6,9,9,
-18003582159,ARUN PANJIYAR,Atma Ram Sanatan Dharam College,,6,7,7,,5,6,7,,,5,7,,,8,7,,,9,7,,,,,,,,,,5,5,8,6,9,9,9,8,
-18003582160,HEMANT,Atma Ram Sanatan Dharam College,,8,10,9,,6,7,7,,,8,8,,,8,9,,,9,8,,,,,,,,,,6,6,9,7,9,9,9,9,
-18003582161,MOIRANGMAYUM RONALDO,Atma Ram Sanatan Dharam College,,6,8,7,,6,5,7,,,6,6,,,7,8,,,9,10,,,,,,,,,,7,5,7,6,8,8,9,8,
-18003582162,MAYANK BHARDWAJ,Atma Ram Sanatan Dharam College,,7,8,8,,4,4,7,,,4,6,,,6,6,,,5,7,,,,,,,,,,5,5,5,6,7,7,8,8,
-18003582163,SATISH YADAV,Atma Ram Sanatan Dharam College,,4,4,6,,4,0,4,,,4,5,,,6,5,,,8,7,,,,,,,,,,4,4,6,8,7,6,8,8,
-18003582164,VAIBHAV SHARMA,Atma Ram Sanatan Dharam College,,9,10,8,,7,8,8,,,8,9,,,8,9,,,9,8,,,,,,,,,,8,7,9,7,8,9,9,9,
-18003582165,JITENDRA SINGH,Atma Ram Sanatan Dharam College,,6,6,7,,6,6,7,,,5,5,,,6,6,,,8,8,,,,,,,,,,5,4,6,6,7,7,4,5,
-18003582166,HIMANSHU KUMAR,Atma Ram Sanatan Dharam College,,4,7,7,,4,0,5,,,7,5,,,6,6,,,10,8,,,,,,,,,,5,5,5,7,7,7,9,7,
-18003582168,FAAIZ ALI,Atma Ram Sanatan Dharam College,,6,6,8,,6,7,7,,,6,7,,,6,7,,,8,10,,,,,,,,,,6,7,8,6,7,8,9,9,
-18003582169,ANSHUL,Atma Ram Sanatan Dharam College,,8,10,8,,7,8,8,,,7,9,,,8,9,,,9,9,,,,,,,,,,6,7,8,7,9,9,9,9,
-18003582170,ABHISHEK KUMAR,Atma Ram Sanatan Dharam College,,6,7,6,,5,4,6,,,4,7,,,6,6,,,8,9,,,,,,,,,,6,4,7,5,7,8,9,9,
-18003582171,SHAURYA BHARDWAJ,Atma Ram Sanatan Dharam College,,6,9,8,,7,8,8,,,7,6,,,8,8,,,9,8,,,,,,,,,,7,7,7,7,8,8,9,8,
-18003582172,ANKIT KUMAR,Atma Ram Sanatan Dharam College,,6,7,7,,5,4,7,,,5,6,,,6,8,,,9,8,,,,,,,,,,6,6,7,6,7,7,8,8,
-18003582173,KSHITIZ DUBEY,Atma Ram Sanatan Dharam College,,6,8,8,,5,5,6,,,5,6,,,6,6,,,9,10,,,,,,,,,,6,6,6,5,7,7,9,9,
-18003582174,ADITYA AGRAWAL,Atma Ram Sanatan Dharam College,,6,7,7,,6,4,7,,,6,6,,,7,7,,,8,9,,,,,,,,,,9,6,8,7,7,7,8,7,
-18003582175,DEVENDRA JOSHI,Atma Ram Sanatan Dharam College,,9,8,9,,7,7,8,,,8,8,,,8,10,,,9,10,,,,,,,,,,8,6,9,9,8,8,9,10,
-18003582176,JAY NARAYAN SINGH,Atma Ram Sanatan Dharam College,,4,5,8,,4,0,5,,,6,5,,,6,5,,,9,9,,,,,,,,,,4,4,6,7,7,6,8,9,
-18003582177,SUBHASH KUMAR,Atma Ram Sanatan Dharam College,4,4,5,6,6,5,6,7,8,5,8,8,8,8,8,8,10,10,9,10,,,,,,,,,,,,,,,,,,
-18003582178,SANJEEV,Atma Ram Sanatan Dharam College,,4,4,5,,4,4,,,,4,6,,,6,6,,,8,6,6,5,4,8,5,6,4,8,8,,,,,,,,,
-18003582179,ROHIT KUMAR,Atma Ram Sanatan Dharam College,,6,8,8,,5,7,7,,,6,5,,,4,7,,,8,9,,,,,,,,,,6,6,5,5,0,0,6,7,
-18003582180,JIGYASA TREHAN,Atma Ram Sanatan Dharam College,5,6,7,9,7,5,7,6,8,8,9,9,9,9,9,10,10,9,10,10,,,,,,,,,,,,,,,,,,
+RollNo,Name,College,"ATOMIC STRUCTURE, BONDING, GENERAL ORGANIC CHEMISTRY & ALIPHATIC HYDROCARBONS",MECHANICS,CALCULUS AND MATRICES,ENVIRONMENTAL SCIENCE,"CHEMICAL ENERGETICS, EQUILIBRIA & FUNCTIONAL GROUP ORGANIC",ELECTRICITY AND MAGNETISM,CALCULUS AND GEOMETRY,ENGLISH-A,CHEMISTRY OF COSMETICS & PERFUMES,"SOLUTIONS, PHASE EQUILIBRIA, CONDUCTANCE, ELECTROCHEMISTRY & FUNCTIONAL GROUP ORGANIC CHEMISTRY-II (CORE PAPER)",THERMAL PHYSICS AND STATISTICAL MECHANICS,ALGEBRA,BASIC ANALYTICAL CHEMISTRY,"CHEMISTRY OF S- AND P- BLOCK ELEMENTS, STATES OF MATTER &AMP; CHEMICAL KINETICS",WAVE AND OPTICS,REAL ANALYSIS,PHARMACEUTICAL CHEMISTRY,"CHEMISTRY OF D-BLOCK ELEMENTS, QUANTUM CHEMISTRY AND SPECTROSCOPY",ELEMENTS OF MODERN PHYSICS,DIFFERENTIAL EQUATIONS (B.SC. (PROG.),PESTICIDE CHEMISTRY,"ORGANOMETALLICS, BIO-INORGANIC CHEMISTRY, POLYNUCLEAR HYDROCARBONS AND UV, IR",NUCLEAR AND PARTICLE PHYSICS,NUMERICAL METHODS,HINDI BHASHA AUR SANSPRESHAN,CALCULUS AND GEMETRY,NETWORK ANALYSIS AND ANALOG ELECTRONICS,LINEAR AND DIGITAL INTEGRATED CIRCUITS,ELECTRICAL CIRCUITS AND NETWORK SKILLS,COMMUNICATION ELECTRONICS,COMPUTATIONAL PHYSICS SKILLS,MICROPROCESSOR AND MICROCONTROLLER,APPLIED OPTICS,ELECTRONIC INSTRUMENTATION,WEATHER FORECASTING,PHOTONIC DEVICES AND POWER ELECTRONICS,PROBLEM SOLVING USING COMPUTER,DATABASE MANAGEMENT SYSTEM,OFFICE AUTOMATION TOOLS,OPERATING SYSTEM,PHP PROGRAMMING,COMPUTER SYSTEM ARCHITECTURE,SYSTEM ADMINISTRATION AND MAINTENANCE,PROGRAMMING IN JAVA,ANDROID PROGRAMMING,INTERNET TECHNOLOGIES
+18003582005,ABHISHEK NAIN,Atma Ram Sanatan Dharma College,8,6,8,7,5,5,5,7,7,7,7,5,8,8,8,8,10,9,10,10,9,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582006,SHIKHA SUNDRIYAL,Atma Ram Sanatan Dharma College,6,6,8,8,7,7,6,8,7,6,6,4,7,7,7,7,10,10,9,8,9,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582007,RAVI SHANKAR RANWA,Atma Ram Sanatan Dharma College,5,5,7,6,5,5,6,,7,5,7,4,7,7,7,7,9,9,9,10,9,10,9,10,9,,,,,,,,,,,,,,,,,,,,,
+18003582008,KASHISH DESHWAL,Atma Ram Sanatan Dharma College,9,6,9,8,7,8,8,7,9,7,7,9,9,8,9,8,10,9,10,9,8,8,8,10,,,,,,,,,,,,,,,,,,,,,,
+18003582009,PRASOON KUMAR,Atma Ram Sanatan Dharma College,6,4,6,5,7,7,7,,8,8,9,9,8,7,7,7,9,10,10,10,8,9,8,10,8,,,,,,,,,,,,,,,,,,,,,
+18003582010,RAJ KUMAR,Atma Ram Sanatan Dharma College,6,5,8,7,5,6,7,6,8,4,7,6,7,7,7,8,9,9,9,10,9,10,8,10,,,,,,,,,,,,,,,,,,,,,,
+18003582011,SAMEER MALIK,Atma Ram Sanatan Dharma College,9,9,9,7,9,7,10,6,9,8,9,9,9,8,9,10,10,10,10,10,9,9,8,9,,,,,,,,,,,,,,,,,,,,,,
+18003582012,NITIN YADAV,Atma Ram Sanatan Dharma College,8,6,9,7,7,6,6,7,8,5,7,7,8,8,8,8,10,9,10,10,9,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582013,NEERAJ KUMAR,Atma Ram Sanatan Dharma College,6,5,7,6,7,5,4,7,8,7,9,5,9,9,8,8,9,9,9,10,8,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582014,PREETI RAI,Atma Ram Sanatan Dharma College,7,7,10,7,8,7,6,7,9,7,8,8,8,8,8,9,10,9,10,8,10,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582015,SHIVANI,Atma Ram Sanatan Dharma College,6,5,9,7,6,7,6,6,9,6,7,5,8,8,8,9,9,9,10,8,8,9,9,9,,,,,,,,,,,,,,,,,,,,,,
+18003582016,PRIKSHIT LOHCHAB,Atma Ram Sanatan Dharma College,6,6,7,8,7,6,5,7,8,7,7,7,8,8,8,8,9,9,9,8,8,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582017,YASH SANGWAN,Atma Ram Sanatan Dharma College,5,7,8,8,7,7,8,7,8,6,7,7,9,8,8,7,9,9,9,8,9,10,8,10,,,,,,,,,,,,,,,,,,,,,,
+18003582018,BHUVAN SINGH MANGAT,Atma Ram Sanatan Dharma College,4,6,4,6,5,4,5,6,8,4,6,4,7,6,7,7,10,9,9,10,9,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582019,SHARAD VASHISHATH,Atma Ram Sanatan Dharma College,8,8,10,7,8,8,6,7,8,7,8,8,8,7,8,8,10,9,10,8,9,9,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582020,PRERIT PARASHAR,Atma Ram Sanatan Dharma College,8,7,9,7,7,6,6,7,8,6,7,6,8,8,8,8,10,9,9,10,8,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582021,JAI KUMAR,Atma Ram Sanatan Dharma College,6,6,6,6,6,5,4,7,8,6,7,7,8,7,7,8,10,9,9,10,9,9,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582022,GEETIKA,Atma Ram Sanatan Dharma College,7,8,9,7,7,6,6,7,9,7,7,8,9,8,9,9,10,9,8,8,8,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582023,SAPNA,Atma Ram Sanatan Dharma College,6,6,7,6,5,4,5,6,8,6,5,7,8,8,8,8,9,9,9,8,8,10,8,10,,,,,,,,,,,,,,,,,,,,,,
+18003582025,SONU,Atma Ram Sanatan Dharma College,8,8,8,7,7,6,8,7,8,7,9,8,8,8,8,9,9,9,10,8,8,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582026,PRASANN DAHIYA,Atma Ram Sanatan Dharma College,5,6,4,6,6,4,4,7,6,5,5,5,7,7,7,8,9,9,8,8,7,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582027,JAIDEEP,Atma Ram Sanatan Dharma College,7,8,9,9,8,6,8,8,9,7,8,8,9,8,8,8,10,9,10,10,9,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582028,NISHKARSH GUPTA,Atma Ram Sanatan Dharma College,5,6,5,7,6,5,4,7,7,6,6,8,7,6,7,7,10,9,9,8,8,9,7,10,,,,,,,,,,,,,,,,,,,,,,
+18003582029,PANKAJ,Atma Ram Sanatan Dharma College,6,7,7,7,6,4,7,6,8,6,7,7,8,7,8,8,10,9,9,8,8,9,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582030,ROHIT,Atma Ram Sanatan Dharma College,7,8,8,6,8,5,7,7,8,6,8,8,8,7,8,8,9,9,9,8,8,10,8,8,,,,,,,,,,,,,,,,,,,,,,
+18003582031,KAJAL,Atma Ram Sanatan Dharma College,4,5,5,6,5,5,,7,8,6,7,6,8,7,8,8,9,9,9,9,8,9,9,10,,7,,,,,,,,,,,,,,,,,,,,
+18003582032,SNEHLATA,Atma Ram Sanatan Dharma College,7,7,9,8,6,5,8,7,9,6,8,7,9,8,8,9,10,9,9,8,9,9,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582033,CHETAN PRAKASH,Atma Ram Sanatan Dharma College,5,8,8,7,5,4,4,6,7,5,7,5,8,7,7,7,9,9,8,8,7,9,8,8,,,,,,,,,,,,,,,,,,,,,,
+18003582035,YOGENDER SINGH,Atma Ram Sanatan Dharma College,8,7,9,7,7,6,6,7,7,6,7,4,8,7,8,8,9,9,9,10,8,9,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582036,SANJEEV KUMAR,Atma Ram Sanatan Dharma College,7,6,8,7,5,4,5,7,7,5,8,7,8,8,8,8,9,9,9,9,8,9,8,10,,,,,,,,,,,,,,,,,,,,,,
+18003582038,MS. POOJA,Atma Ram Sanatan Dharma College,7,6,9,8,9,6,7,7,9,8,9,9,9,9,9,10,10,9,8,10,9,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582039,MANOJ,Atma Ram Sanatan Dharma College,5,5,8,6,7,4,4,6,6,4,6,7,7,6,7,7,9,9,8,9,7,10,8,9,,,,,,,,,,,,,,,,,,,,,,
+18003582040,VIKAS PANCHAL,Atma Ram Sanatan Dharma College,6,8,10,9,7,7,,7,8,8,8,8,8,7,8,8,9,10,10,10,8,10,9,10,,8,,,,,,,,,,,,,,,,,,,,
+18003582041,VAIBHAV SHARMA,Atma Ram Sanatan Dharma College,7,7,9,7,7,6,5,7,8,7,7,8,9,8,8,9,10,9,9,8,9,9,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582042,SHIKHAR GUNWANT,Atma Ram Sanatan Dharma College,7,7,7,7,8,8,,8,10,8,9,8,9,10,9,10,10,10,10,10,10,10,9,10,,9,,,,,,,,,,,,,,,,,,,,
+18003582043,PRASHANT CHOUDHARY,Atma Ram Sanatan Dharma College,6,6,7,6,7,6,8,7,8,4,7,8,7,7,7,7,10,9,8,8,8,9,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582044,VISHAL AGRAHARI,Atma Ram Sanatan Dharma College,7,7,10,8,8,7,10,7,8,7,9,9,9,8,9,9,9,10,9,10,8,9,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582045,HIMANSHU SHARMA,Atma Ram Sanatan Dharma College,7,8,8,7,7,4,8,7,8,5,6,8,7,7,7,7,9,9,9,10,8,9,8,10,,,,,,,,,,,,,,,,,,,,,,
+18003582047,VISHESH MALIK,Atma Ram Sanatan Dharma College,6,8,7,7,8,6,9,7,8,7,6,8,9,9,8,9,10,10,10,10,9,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582048,SANDEEP BHUSHAN,Atma Ram Sanatan Dharma College,6,7,7,7,7,5,8,7,8,6,7,8,9,8,8,8,10,9,9,8,9,9,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582049,NIRDOSH KUMAR VERMA,Atma Ram Sanatan Dharma College,4,5,6,6,5,4,9,,7,4,5,7,8,7,7,7,9,9,9,8,8,10,9,10,8,,,,,,,,,,,,,,,,,,,,,
+18003582050,TARANA PAREWA,Atma Ram Sanatan Dharma College,6,5,7,6,6,6,8,7,9,5,7,8,9,8,8,8,9,9,9,9,8,9,8,10,,,,,,,,,,,,,,,,,,,,,,
+18003582051,YOGESH KUMAR,Atma Ram Sanatan Dharma College,7,5,4,8,4,4,5,5,6,5,5,5,7,6,7,7,9,8,9,10,8,9,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582052,JATIN DIGWAL,Atma Ram Sanatan Dharma College,7,7,7,8,7,6,9,6,8,5,7,7,9,8,8,8,10,9,9,8,9,10,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582053,ANIKET,Atma Ram Sanatan Dharma College,4,4,4,5,5,4,6,6,7,6,8,7,7,7,7,7,9,9,9,8,8,9,9,9,,,,,,,,,,,,,,,,,,,,,,
+18003582054,HARSHITA,Atma Ram Sanatan Dharma College,6,5,6,7,7,7,,7,8,7,7,7,9,9,8,9,10,10,10,10,10,10,10,10,,8,,,,,,,,,,,,,,,,,,,,
+18003582055,AMIT,Atma Ram Sanatan Dharma College,5,5,4,5,5,4,6,7,7,4,5,6,7,7,7,7,10,9,9,10,9,9,9,10,,,,,,,,,,,,,,,,,,,,,,
+18003582056,KARNAIL SINGH,Atma Ram Sanatan Dharma College,5,5,4,7,6,4,7,6,7,4,5,7,7,6,7,7,9,9,9,8,8,9,9,9,,,,,,,,,,,,,,,,,,,,,,
+18003582057,SUMIT KUMAR,Atma Ram Sanatan Dharma College,,5,6,8,,7,9,8,,,6,8,,,8,9,,,9,9,,,8,10,,,6,7,8,8,8,7,9,8,9,8,,,,,,,,,,
+18003582058,MOHIT GARG,Atma Ram Sanatan Dharma College,,6,7,8,,8,10,8,,,7,8,,,8,8,,,9,10,,,7,9,,,5,8,10,7,8,8,9,9,9,9,,,,,,,,,,
+18003582059,ABHISHEK,Atma Ram Sanatan Dharma College,,5,7,8,,7,7,7,,,4,6,,,8,7,,,9,9,,,8,10,,,6,7,9,7,7,8,9,10,9,9,,,,,,,,,,
+18003582062,TARUN KATYAYAN,Atma Ram Sanatan Dharma College,,5,6,8,,4,5,6,,,4,5,,,6,7,,,8,9,,,8,9,,,5,5,7,4,6,7,8,9,8,8,,,,,,,,,,
+18003582063,ANUJ YADAV,Atma Ram Sanatan Dharma College,,6,7,7,,5,6,7,,,4,5,,,6,7,,,9,9,,,8,10,,,5,6,7,5,7,7,9,9,9,8,,,,,,,,,,
+18003582064,VAIBHAV TIWARI,Atma Ram Sanatan Dharma College,,7,6,8,,6,8,,,,7,7,,,8,9,,,9,9,,,8,10,8,,7,6,9,7,8,6,10,10,9,8,,,,,,,,,,
+18003582065,NASEEB,Atma Ram Sanatan Dharma College,,4,5,8,,4,6,6,,,4,6,,,6,6,,,9,6,,,8,10,,,5,4,8,4,6,4,9,8,9,8,,,,,,,,,,
+18003582067,VISHAL KUMAR,Atma Ram Sanatan Dharma College,,4,5,7,,4,7,5,,,5,7,,,8,8,,,10,8,,,10,10,,,4,4,8,4,7,7,9,9,8,9,,,,,,,,,,
+18003582068,HARSH,Atma Ram Sanatan Dharma College,,7,8,8,,8,10,8,,,8,8,,,8,8,,,9,9,,,9,10,,,7,8,9,6,8,8,9,10,9,9,,,,,,,,,,
+18003582069,NAMAN DHANDA,Atma Ram Sanatan Dharma College,,7,8,8,,6,9,8,,,7,8,,,8,9,,,9,9,,,8,10,,,6,7,10,7,8,8,9,9,9,9,,,,,,,,,,
+18003582070,HIMANSHU CHAUHAN,Atma Ram Sanatan Dharma College,,7,10,9,,8,10,8,,,8,9,,,9,9,,,10,9,,,8,10,,,9,8,9,6,9,8,9,9,9,8,,,,,,,,,,
+18003582071,PIYUSH GUPTA,Atma Ram Sanatan Dharma College,,6,6,8,,7,7,7,,,7,8,,,9,9,,,9,10,,,10,10,,,6,7,9,9,9,8,9,10,10,9,,,,,,,,,,
+18003582072,BHUPESH,Atma Ram Sanatan Dharma College,,5,7,8,,5,7,7,,,7,7,,,8,8,,,9,9,,,8,10,,,6,6,9,7,8,7,9,9,9,8,,,,,,,,,,
+18003582074,SHUBHAM RAJ RAUNIYAR,Atma Ram Sanatan Dharma College,,7,8,9,,5,7,8,,,8,7,,,10,9,,,10,9,,,9,10,,,6,6,10,8,9,8,9,9,9,9,,,,,,,,,,
+18003582075,DEEPAK,Atma Ram Sanatan Dharma College,,6,6,5,,6,4,7,,,6,5,,,7,6,,,9,9,,,8,9,,,4,4,7,5,6,6,9,9,9,8,,,,,,,,,,
+18003582076,ANKIT KUMAR,Atma Ram Sanatan Dharma College,,9,8,9,,6,6,8,,,5,7,,,6,5,,,10,10,,,10,10,,,9,7,5,5,4,5,9,9,10,8,,,,,,,,,,
+18003582077,HARSH,Atma Ram Sanatan Dharma College,,6,5,8,,6,5,7,,,6,7,,,9,8,,,9,9,,,10,10,,,5,5,9,5,8,8,9,8,9,9,,,,,,,,,,
+18003582078,SOURAV THAPLIYAL,Atma Ram Sanatan Dharma College,,7,8,8,,6,4,8,,,6,6,,,8,8,,,9,9,,,10,10,,,4,6,8,5,7,7,10,9,9,9,,,,,,,,,,
+18003582079,AAKASH,Atma Ram Sanatan Dharma College,,6,8,8,,7,,7,,,6,7,,,9,8,,,8,9,,,8,10,,8,5,6,9,8,7,7,9,9,8,8,,,,,,,,,,
+18003582081,KOMAL,Atma Ram Sanatan Dharma College,,7,9,9,,6,6,,,,8,7,,,8,9,,,10,10,,,8,10,8,,9,7,9,8,8,8,9,10,9,9,,,,,,,,,,
+18003582082,MANISH,Atma Ram Sanatan Dharma College,,7,6,8,,5,5,7,,,6,7,,,7,9,,,8,10,,,8,10,,,4,6,9,6,8,7,9,9,9,8,,,,,,,,,,
+18003582083,ANKIT,Atma Ram Sanatan Dharma College,,5,4,8,,4,5,6,,,4,5,,,8,7,,,9,9,,,10,10,,,4,4,7,5,7,7,9,9,9,8,,,,,,,,,,
+18003582084,SOURABH KUMIA,Atma Ram Sanatan Dharma College,,6,7,7,,8,,8,,,5,5,,,6,8,,,9,9,,,8,10,,8,5,7,8,5,7,6,9,9,9,9,,,,,,,,,,
+18003582085,KARTIKEY ARORA,Atma Ram Sanatan Dharma College,,6,6,8,,8,,7,,,4,6,,,7,8,,,9,9,,,8,10,,8,4,6,9,6,7,6,9,9,9,9,,,,,,,,,,
+18003582086,AYUSH RAJ,Atma Ram Sanatan Dharma College,,6,5,6,,7,,6,,,5,6,,,7,7,,,9,9,,,9,10,,8,4,4,8,5,7,6,9,9,8,9,,,,,,,,,,
+18003582087,RAMJI DIXIT,Atma Ram Sanatan Dharma College,,7,9,8,,7,6,,,,6,7,,,9,9,,,10,10,,,8,10,8,,8,6,10,7,8,9,10,10,9,9,,,,,,,,,,
+18003582089,TARUN SINGH,Atma Ram Sanatan Dharma College,,6,5,6,,4,4,7,,,6,6,,,9,8,,,9,9,,,8,10,,,5,6,9,5,8,5,9,9,9,9,,,,,,,,,,
+18003582090,SUDHANSHU YADAV,Atma Ram Sanatan Dharma College,,6,5,7,,8,,7,,,8,6,,,9,9,,,9,9,,,9,10,,8,5,8,9,7,8,7,10,9,9,8,,,,,,,,,,
+18003582091,MOHIT YADAV,Atma Ram Sanatan Dharma College,,6,7,8,,5,5,7,,,5,7,,,7,7,,,9,9,,,8,10,,,6,6,9,6,7,7,9,9,9,8,,,,,,,,,,
+18003582092,VAIBHAV,Atma Ram Sanatan Dharma College,,5,5,6,,5,,4,,,5,5,,,6,7,,,9,9,,,8,7,,8,4,4,8,5,6,5,9,9,8,8,,,,,,,,,,
+18003582094,ANSHUL KUMAR MITHALIYA,Atma Ram Sanatan Dharma College,,6,6,6,,6,5,7,,,5,6,,,7,8,,,10,9,,,8,10,,,7,4,8,6,6,7,9,9,9,8,,,,,,,,,,
+18003582095,NEHA YADAV,Atma Ram Sanatan Dharma College,,8,6,7,,6,5,7,,,5,5,,,7,7,,,9,9,,,8,10,,,4,6,7,5,7,6,9,9,9,8,,,,,,,,,,
+18003582096,MOHD UBAIDUL HAQ,Atma Ram Sanatan Dharma College,,5,4,5,,4,5,,,,7,8,,,6,6,,,9,9,,,8,10,7,,5,4,7,5,6,0,9,9,8,7,,,,,,,,,,
+18003582097,AJAY SINGH YADAV,Atma Ram Sanatan Dharma College,,6,4,7,,4,4,4,,,4,8,,,6,6,,,9,9,,,8,10,,,4,5,7,5,6,5,9,9,9,8,,,,,,,,,,
+18003582098,ABHISHEK BISHT,Atma Ram Sanatan Dharma College,,6,4,7,,5,4,6,,,5,5,,,7,8,,,10,9,,,8,10,,,4,4,7,6,7,6,9,9,10,8,,,,,,,,,,
+18003582099,SUDHIR YADAV,Atma Ram Sanatan Dharma College,,5,5,5,,5,5,6,,,4,5,,,6,8,,,9,9,,,8,9,,,5,6,8,5,7,4,10,9,9,8,,,,,,,,,,
+18003582100,ANIKET NAGAR,Atma Ram Sanatan Dharma College,,8,7,7,,7,6,,,,7,8,,,9,9,,,10,9,,,7,10,7,,9,6,8,8,8,8,10,10,10,9,,,,,,,,,,
+18003582101,SOURABH KUMAR,Atma Ram Sanatan Dharma College,,5,7,7,,4,4,4,,,7,5,,,7,9,,,9,9,,,7,10,,,7,4,8,6,7,4,9,9,9,8,,,,,,,,,,
+18003582102,CHETALI VERMA,Atma Ram Sanatan Dharma College,,7,5,5,,7,5,7,,,9,8,,,9,9,,,9,9,,,9,10,,,6,7,8,9,8,8,9,9,9,9,,,,,,,,,,
+18003582103,KAVITA MEENA,Atma Ram Sanatan Dharma College,,7,6,5,,7,4,6,,,6,8,,,8,9,,,10,9,,,9,10,,,6,5,9,7,8,7,9,8,9,9,,,,,,,,,,
+18003582104,VARSHA KUMARI,Atma Ram Sanatan Dharma College,,8,7,7,,7,6,8,,,8,7,,,9,9,,,9,9,,,9,10,,,8,8,10,7,9,8,9,8,10,9,,,,,,,,,,
+18003582105,RITIK BHATT,Atma Ram Sanatan Dharma College,,8,8,8,,9,8,8,,,7,5,,,8,9,,,10,8,,,9,10,,,9,9,9,7,7,7,10,10,10,10,,,,,,,,,,
+18003582106,ANMOL SHARMA,Atma Ram Sanatan Dharma College,,7,6,7,,8,,7,,,6,7,,,8,9,,,9,9,,,8,9,,7,8,7,9,8,8,8,9,9,9,9,,,,,,,,,,
+18003582107,RIYA GUPTA,Atma Ram Sanatan Dharma College,,5,7,6,,5,7,6,,,7,6,,,9,9,,,10,8,,,9,10,,,8,6,9,7,8,8,9,10,10,8,,,,,,,,,,
+18003582108,SAMIKSHA,Atma Ram Sanatan Dharma College,,7,7,6,,5,8,6,,,7,6,,,9,9,,,10,9,,,10,9,,,8,4,9,8,9,8,9,9,9,9,,,,,,,,,,
+18003582109,VANSHIKA,Atma Ram Sanatan Dharma College,,6,4,6,,5,4,7,,,4,8,,,7,7,,,9,9,,,8,9,,,6,4,7,5,6,6,9,10,9,9,,,,,,,,,,
+18003582110,MANAV SHARMA,Atma Ram Sanatan Dharma College,,6,5,7,,5,4,6,,,5,5,,,8,7,,,8,9,,,8,9,,,5,6,8,4,6,7,9,9,6,8,,,,,,,,,,
+18003582111,YUVRAJ SETIA,Atma Ram Sanatan Dharma College,,4,4,6,,5,5,6,,,6,4,,,7,7,,,9,9,,,8,10,,,4,4,7,5,6,5,7,8,8,8,,,,,,,,,,
+18003582112,AMAN RAI,Atma Ram Sanatan Dharma College,,7,9,7,,6,7,5,,,7,5,,,6,6,,,9,10,,,9,10,,,,,,,,,,,,,4,6,7,7,7,7,9,8,10,9
+18003582113,SACHIN YADAV,Atma Ram Sanatan Dharma College,,5,4,6,,6,,8,,,4,5,,,6,6,,,9,10,,,8,10,,8,,,,,,,,,,,5,8,7,5,7,7,9,8,9,9
+18003582114,SAMEER KUMAR DUBEY,Atma Ram Sanatan Dharma College,,6,6,8,,4,7,8,,,4,7,,,6,7,,,9,10,,,8,10,,,,,,,,,,,,,6,6,6,5,8,8,8,9,9,8
+18003582115,SEEMA,Atma Ram Sanatan Dharma College,,8,10,8,,6,8,8,,,7,8,,,8,8,,,8,10,,,9,9,,,,,,,,,,,,,8,8,8,7,9,9,9,9,9,9
+18003582116,MAYANK BISHT,Atma Ram Sanatan Dharma College,,6,6,8,,4,5,6,,,7,6,,,6,6,,,10,9,,,9,10,,,,,,,,,,,,,6,5,7,8,8,8,9,8,9,9
+18003582117,DEEPA RAWAT,Atma Ram Sanatan Dharma College,,8,9,8,,7,8,9,,,7,7,,,7,9,,,9,10,,,9,10,,,,,,,,,,,,,9,8,8,8,9,9,9,10,9,9
+18003582118,PAWAN,Atma Ram Sanatan Dharma College,,5,4,8,,4,5,7,,,7,6,,,6,6,,,9,10,,,9,10,,,,,,,,,,,,,7,5,8,6,8,8,8,8,9,9
+18003582120,HARSHVARDHAN BISHT,Atma Ram Sanatan Dharma College,,6,6,8,,4,7,8,,,7,7,,,7,8,,,10,9,,,9,9,,,,,,,,,,,,,6,7,8,7,8,9,9,9,9,9
+18003582121,SAURABH ANIL PANDEY,Atma Ram Sanatan Dharma College,,8,9,8,,7,7,8,,,8,8,,,7,9,,,9,8,,,8,10,,,,,,,,,,,,,9,7,9,8,10,10,10,10,10,8
+18003582122,SANSKAR CHOUDHARY,Atma Ram Sanatan Dharma College,,6,8,8,,5,4,5,,,4,5,,,6,6,,,8,8,,,9,9,,,,,,,,,,,,,6,6,6,5,7,7,8,8,7,8
+18003582123,SAURAV KUMAR,Atma Ram Sanatan Dharma College,,8,9,9,,7,8,8,,,7,8,,,6,8,,,9,10,,,9,10,,,,,,,,,,,,,8,7,9,8,4,6,9,9,9,9
+18003582124,VINOD NEGI,Atma Ram Sanatan Dharma College,,6,8,8,,4,6,7,,,7,7,,,7,8,,,9,10,,,9,10,,,,,,,,,,,,,6,6,7,7,8,8,9,8,9,8
+18003582125,NITESH,Atma Ram Sanatan Dharma College,,7,8,8,,5,6,6,,,6,7,,,7,8,,,9,9,,,8,9,,,,,,,,,,,,,4,6,7,6,8,8,8,8,9,8
+18003582126,ABDUL HAMEED,Atma Ram Sanatan Dharma College,,6,7,6,,6,7,7,,,5,6,,,6,7,,,9,9,,,8,10,,,,,,,,,,,,,5,6,7,6,7,8,9,8,10,8
+18003582127,TUSHAR YADAV,Atma Ram Sanatan Dharma College,,8,10,8,,8,8,8,,,7,9,,,8,9,,,9,8,,,8,10,,,,,,,,,,,,,8,8,9,8,9,9,9,9,9,9
+18003582128,AJAY KUMAR,Atma Ram Sanatan Dharma College,,6,9,7,,5,7,8,,,5,8,,,7,7,,,9,8,,,9,10,,,,,,,,,,,,,7,7,7,7,7,8,8,8,8,8
+18003582129,UTKARSH TIWARI,Atma Ram Sanatan Dharma College,,6,9,7,,4,6,7,,,6,8,,,7,6,,,9,8,,,9,10,,,,,,,,,,,,,7,7,6,8,8,8,9,9,9,8
+18003582130,ABHAY GUPTA,Atma Ram Sanatan Dharma College,,7,6,8,,6,6,8,,,6,8,,,7,8,,,9,7,,,8,10,,,,,,,,,,,,,6,7,6,6,8,8,9,8,10,9
+18003582131,PRAVEEN SINGH,Atma Ram Sanatan Dharma College,,6,6,8,,5,8,7,,,5,6,,,7,7,,,8,7,,,8,10,,,,,,,,,,,,,6,8,7,6,8,8,9,9,9,9
+18003582132,BALKESH,Atma Ram Sanatan Dharma College,,8,10,8,,8,9,8,,,9,10,,,9,10,,,9,10,,,9,10,,,,,,,,,,,,,7,9,10,9,9,9,9,9,10,9
+18003582133,DEEPAK,Atma Ram Sanatan Dharma College,,6,9,6,,6,5,7,,,6,6,,,7,8,,,9,8,,,9,10,,,,,,,,,,,,,6,6,7,5,8,8,8,9,8,9
+18003582134,ARVIND,Atma Ram Sanatan Dharma College,,9,9,8,,6,8,8,,,8,5,,,8,9,,,9,9,,,9,10,,,,,,,,,,,,,6,7,9,6,8,8,8,10,9,8
+18003582135,POTSHANGBAM TARUN SINGH,Atma Ram Sanatan Dharma College,,4,5,4,,5,6,8,,,6,6,,,7,8,,,9,10,,,7,10,,,,,,,,,,,,,5,7,9,7,8,9,9,7,9,9
+18003582136,PANKAJ,Atma Ram Sanatan Dharma College,,6,7,7,,5,7,7,,,6,7,,,8,9,,,9,10,,,8,10,,,,,,,,,,,,,5,9,9,6,8,8,9,9,9,9
+18003582137,BHARAT YADAV,Atma Ram Sanatan Dharma College,,4,4,4,,5,,5,,,4,8,,,6,5,,,9,10,,,8,10,,8,,,,,,,,,,,4,8,4,4,6,6,8,8,9,8
+18003582138,VISHAL,Atma Ram Sanatan Dharma College,,5,5,8,,5,5,7,,,5,5,,,6,7,,,9,10,,,9,10,,,,,,,,,,,,,4,5,6,4,7,8,8,9,9,8
+18003582140,AVANISH GUPTA,Atma Ram Sanatan Dharma College,,8,9,7,,7,8,8,,,9,8,,,8,8,,,9,10,,,8,10,,,,,,,,,,,,,6,7,8,6,9,9,9,9,9,9
+18003582141,VAIBHAV KUMAR,Atma Ram Sanatan Dharma College,,7,8,9,,5,6,8,,,8,7,,,8,8,,,9,10,,,8,10,,,,,,,,,,,,,7,6,9,8,10,9,10,10,10,9
+18003582142,NAVEEN SHARMA,Atma Ram Sanatan Dharma College,,6,7,8,,4,6,7,,,5,4,,,8,8,,,9,10,,,8,9,,,,,,,,,,,,,6,6,9,6,9,8,9,9,10,9
+18003582143,UJJWAL SOLANKI,Atma Ram Sanatan Dharma College,,4,5,8,,4,7,6,,,6,5,,,7,6,,,10,8,,,7,10,,,,,,,,,,,,,4,6,6,8,8,7,9,9,10,9
+18003582144,GOURKHEDE RITESH BHARGAO,Atma Ram Sanatan Dharma College,,4,4,5,,7,,7,,,6,8,,,8,7,,,10,8,,,9,10,,8,,,,,,,,,,,4,8,6,5,7,7,9,5,9,8
+18003582145,SAJAL BANSAL,Atma Ram Sanatan Dharma College,,5,9,7,,6,6,7,,,7,8,,,7,9,,,9,10,,,8,10,,,,,,,,,,,,,8,5,8,8,9,9,9,9,10,8
+18003582146,ANIL KUMAR,Atma Ram Sanatan Dharam College,,4,6,4,,4,,6,,,4,8,,,6,6,,,9,7,,,7,10,,6,,,,,,,,,,,4,7,6,4,8,7,7,8,9,7
+18003582147,RAM KUMAR,Atma Ram Sanatan Dharma College,,8,6,7,,5,6,7,,,6,6,,,7,7,,,10,9,,,4,10,,,,,,,,,,,,,6,6,7,4,8,8,9,8,9,8
+18003582148,HIMANSHU SHARMA,Atma Ram Sanatan Dharma College,,6,5,6,,4,5,6,,,6,4,,,6,5,,,10,9,,,8,10,,,,,,,,,,,,,4,5,5,7,7,7,8,8,9,8
+18003582149,PANKAJ KUMAR,Atma Ram Sanatan Dharma College,,5,6,7,,5,5,7,,,5,6,,,8,7,,,10,8,,,8,10,,,,,,,,,,,,,6,6,9,5,8,8,9,8,9,8
+18003582150,RAHUL SHAH,Atma Ram Sanatan Dharma College,,7,8,8,,5,6,7,,,8,6,,,7,8,,,9,9,,,9,8,,,,,,,,,,,,,7,7,7,8,9,9,9,9,9,9
+18003582151,YUVRAJ SINGH,Atma Ram Sanatan Dharma College,,6,8,7,,5,4,7,,,7,6,,,7,8,,,9,9,,,8,10,,,,,,,,,,,,,5,6,7,7,8,9,9,9,10,9
+18003582152,HITENDER,Atma Ram Sanatan Dharma College,,5,7,8,,5,4,7,,,4,5,,,6,6,,,10,10,,,8,10,,,,,,,,,,,,,5,5,5,6,7,7,8,9,9,8
+18003582153,PARAS DRALL,Atma Ram Sanatan Dharma College,,5,7,8,,5,4,8,,,5,5,,,6,6,,,9,8,,,8,9,,,,,,,,,,,,,4,6,6,6,7,7,8,8,9,9
+18003582154,MOHIT KUMAR,Atma Ram Sanatan Dharma College,,5,7,8,,6,5,6,,,4,5,,,6,6,,,8,7,,,9,10,,,,,,,,,,,,,7,6,7,6,8,7,9,8,9,8
+18003582155,RISHANT KUMAR YADAV,Atma Ram Sanatan Dharma College,,5,6,7,,4,4,6,,,6,7,,,7,8,,,9,10,,,8,10,,,,,,,,,,,,,8,6,7,8,8,8,9,9,9,8
+18003582156,ANKIT,Atma Ram Sanatan Dharma College,,4,5,6,,5,4,5,,,6,5,,,6,7,,,9,9,,,9,9,,,,,,,,,,,,,7,4,6,6,7,7,8,9,9,9
+18003582157,SACHIN KUMAR,Atma Ram Sanatan Dharma College,,5,6,7,,7,,6,,,5,6,,,6,6,,,8,10,,,9,10,,8,,,,,,,,,,,5,8,5,5,7,6,9,8,9,9
+18003582158,MEHAR SINGH,Atma Ram Sanatan Dharma College,,5,7,7,,6,,6,,,4,5,,,6,5,,,9,10,,,9,10,,8,,,,,,,,,,,4,7,5,4,7,6,9,9,9,9
+18003582159,ARUN PANJIYAR,Atma Ram Sanatan Dharma College,,6,7,7,,5,6,7,,,5,7,,,8,7,,,9,7,,,8,10,,,,,,,,,,,,,5,5,8,6,9,9,9,8,10,8
+18003582161,MOIRANGMAYUM RONALDO,Atma Ram Sanatan Dharma College,,6,8,7,,6,5,7,,,6,6,,,7,8,,,9,10,,,9,10,,,,,,,,,,,,,7,5,7,6,8,8,9,8,10,10
+18003582162,MAYANK BHARDWAJ,Atma Ram Sanatan Dharma College,,7,8,8,,4,4,7,,,4,6,,,6,6,,,5,7,,,6,9,,,,,,,,,,,,,5,5,5,6,7,7,8,8,9,8
+18003582163,SATISH YADAV,Atma Ram Sanatan Dharma College,,4,4,6,,6,,7,,,4,5,,,6,5,,,8,7,,,7,10,,7,,,,,,,,,,,4,8,6,8,7,6,8,8,9,9
+18003582164,VAIBHAV SHARMA,Atma Ram Sanatan Dharma College,,9,10,8,,7,8,8,,,8,9,,,8,9,,,9,8,,,9,9,,,,,,,,,,,,,8,7,9,7,8,9,9,9,9,9
+18003582165,JITENDRA SINGH,Atma Ram Sanatan Dharma College,,6,6,7,,6,6,7,,,5,5,,,6,6,,,8,8,,,8,8,,,,,,,,,,,,,5,4,6,6,7,7,4,5,8,8
+18003582166,HIMANSHU KUMAR,Atma Ram Sanatan Dharma College,,4,7,7,,4,,5,,,7,5,,,6,6,,,10,8,,,9,9,,6,,,,,,,,,,,5,5,5,7,7,7,9,7,9,9
+18003582167,YOGESH KUMAR,Atma Ram Sanatan Dharma College,,5,6,7,,5,,6,,,5,6,,,7,7,,,9,10,,,9,10,,8,,,,,,,,,,,5,8,7,4,8,8,9,8,8,9
+18003582168,FAAIZ ALI,Atma Ram Sanatan Dharma College,,6,6,8,,6,7,7,,,6,7,,,6,7,,,8,10,,,9,10,,,,,,,,,,,,,6,7,8,6,7,8,9,9,8,8
+18003582169,ANSHUL,Atma Ram Sanatan Dharma College,,8,10,8,,7,8,8,,,7,9,,,8,9,,,9,9,,,9,10,,,,,,,,,,,,,6,7,8,7,9,9,9,9,9,9
+18003582170,ABHISHEK KUMAR,Atma Ram Sanatan Dharma College,,6,7,6,,5,4,6,,,4,7,,,6,6,,,8,9,,,9,9,,,,,,,,,,,,,6,4,7,5,7,8,9,9,9,8
+18003582171,SHAURYA BHARDWAJ,Atma Ram Sanatan Dharma College,,6,9,8,,7,8,8,,,7,6,,,8,8,,,9,8,,,9,9,,,,,,,,,,,,,7,7,7,7,8,8,9,8,9,9
+18003582172,ANKIT KUMAR,Atma Ram Sanatan Dharma College,,6,7,7,,5,4,7,,,5,6,,,6,8,,,9,8,,,8,9,,,,,,,,,,,,,6,6,7,6,7,7,8,8,9,8
+18003582173,KSHITIZ DUBEY,Atma Ram Sanatan Dharma College,,6,8,8,,5,5,6,,,5,6,,,6,6,,,9,10,,,9,10,,,,,,,,,,,,,6,6,6,5,7,7,9,9,9,9
+18003582174,ADITYA AGRAWAL,Atma Ram Sanatan Dharma College,,6,7,7,,6,4,7,,,6,6,,,7,7,,,8,9,,,9,10,,,,,,,,,,,,,9,6,8,7,7,7,8,7,9,8
+18003582175,DEVENDRA JOSHI,Atma Ram Sanatan Dharma College,,9,8,9,,7,7,8,,,8,8,,,8,10,,,9,10,,,9,10,,,,,,,,,,,,,8,6,9,9,8,8,9,10,9,9
+18003582176,JAY NARAYAN SINGH,Atma Ram Sanatan Dharma College,,4,5,8,,6,,7,,,6,5,,,6,5,,,9,9,,,8,10,,7,,,,,,,,,,,4,8,6,7,7,6,8,9,8,9
+18003582177,SUBHASH KUMAR,Atma Ram Sanatan Dharma College,4,4,5,6,6,7,,7,8,5,8,8,8,8,8,8,10,10,9,10,8,9,9,10,,9,,,,,,,,,,,,,,,,,,,,
+18003582178,SANJEEV,Atma Ram Sanatan Dharma College,,4,4,5,,4,4,,,,4,6,,,6,6,,,8,6,,,7,9,6,,5,4,8,5,6,4,8,8,9,8,,,,,,,,,,
+18003582179,ROHIT KUMAR,Atma Ram Sanatan Dharma College,,6,8,8,,5,7,7,,,6,5,,,4,7,,,8,9,,,9,8,,,,,,,,,,,,,6,6,5,5,7,6,6,7,8,9
+18003582180,JIGYASA TREHAN,Atma Ram Sanatan Dharma College,5,6,7,9,7,5,7,6,8,8,9,9,9,9,9,10,10,9,10,10,8,10,9,10,,,,,,,,,,,,,,,,,,,,,,

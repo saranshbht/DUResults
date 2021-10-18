@@ -1,58 +1,56 @@
-RollNo,Name,College,"BIODIVERSITY (MICROBES, ALGAE, FUNGI AND ARCHEGONIATAE","ATOMIC STRUCTURE, BONDING, GENERAL ORGANIC CHEMISTRY & ALIPHATIC HYDROCARBONS",ANIMAL DIVERSITY,ENGLISH-A
-20085583001,Aakash,Zakir Husain Delhi College (Day),8,8,9,7
-20085583002,Aazam shakeel,Zakir Husain Delhi College (Day),7,8,8,7
-20085583003,Adeeb Anwar,Zakir Husain Delhi College (Day),8,6,7,7
-20085583004,AHAMMED PV,Zakir Husain Delhi College (Day),7,8,7,8
-20085583005,Akash Yadav,Zakir Husain Delhi College (Day),5,5,5,5
-20085583006,AMAN AWANA,Zakir Husain Delhi College (Day),7,7,7,7
-20085583007,Aman juyal,Zakir Husain Delhi College (Day),7,7,9,8
-20085583008,AMAN KUMAR KHANSLI,Zakir Husain Delhi College (Day),5,7,6,7
-20085583009,Anshul jangid,Zakir Husain Delhi College (Day),7,7,8,7
-20085583011,Arisha,Zakir Husain Delhi College (Day),7,8,9,7
-20085583012,ARSHI ANSARI,Zakir Husain Delhi College (Day),8,8,8,7
-20085583014,Ashish Binjola,Zakir Husain Delhi College (Day),8,8,8,7
-20085583015,Ayushi Pandey,Zakir Husain Delhi College (Day),6,5,6,5
-20085583016,BRHAMJOT SINGH,Zakir Husain Delhi College (Day),8,9,9,9
-20085583017,Bushra,Zakir Husain Delhi College (Day),9,7,7,7
-20085583018,CHITRANSH NAGER,Zakir Husain Delhi College (Day),6,6,5,7
-20085583019,Devender Pal,Zakir Husain Delhi College (Day),7,8,6,7
-20085583020,Dhananjay Yadav,Zakir Husain Delhi College (Day),8,7,8,8
-20085583021,Dhruv jindal,Zakir Husain Delhi College (Day),7,8,7,7
-20085583022,DISHA SHARMA,Zakir Husain Delhi College (Day),9,8,8,8
-20085583023,DIVYANK SHAMI,Zakir Husain Delhi College (Day),9,6,5,8
-20085583024,FIZZA SIDDIQUI,Zakir Husain Delhi College (Day),7,0,7,7
-20085583025,FOUZIA ASIF,Zakir Husain Delhi College (Day),8,7,7,7
-20085583026,Gulshan Verma,Zakir Husain Delhi College (Day),6,6,6,7
-20085583027,Heba Ajmal,Zakir Husain Delhi College (Day),7,8,8,7
-20085583028,KAPIL KATARIA,Zakir Husain Delhi College (Day),6,7,7,7
-20085583029,KAVITA,Zakir Husain Delhi College (Day),7,7,8,7
-20085583031,lokesh kumar,Zakir Husain Delhi College (Day),8,8,8,8
-20085583032,Manav Aggarwal,Zakir Husain Delhi College (Day),8,8,7,9
-20085583033,MEHAK ARIF,Zakir Husain Delhi College (Day),7,7,7,8
-20085583034,Mehreen Ali,Zakir Husain Delhi College (Day),0,0,0,0
-20085583035,Mehvish Siddique,Zakir Husain Delhi College (Day),9,8,8,7
-20085583036,Mohammad Anas,Zakir Husain Delhi College (Day),7,7,8,7
-20085583037,Mohammad Ayan,Zakir Husain Delhi College (Day),6,6,4,7
-20085583038,Muskan Sagar,Zakir Husain Delhi College (Day),7,0,6,8
-20085583039,Nandini sharma,Zakir Husain Delhi College (Day),8,7,5,7
-20085583040,Nitesh dureja,Zakir Husain Delhi College (Day),8,8,8,7
-20085583041,Niyati Gupta,Zakir Husain Delhi College (Day),8,8,9,8
-20085583042,Payal,Zakir Husain Delhi College (Day),7,7,5,7
-20085583043,POOJA,Zakir Husain Delhi College (Day),8,8,8,7
-20085583044,priyanka,Zakir Husain Delhi College (Day),7,8,7,7
-20085583045,Rekha Chaudhary,Zakir Husain Delhi College (Day),7,7,6,6
-20085583046,Ritika Mondal,Zakir Husain Delhi College (Day),7,7,8,7
-20085583047,Sachin,Zakir Husain Delhi College (Day),7,8,6,7
-20085583049,Saliha khatoon,Zakir Husain Delhi College (Day),9,7,8,7
-20085583050,Samoon Mumtaz,Zakir Husain Delhi College (Day),6,7,7,7
-20085583051,Shantanu mudgal,Zakir Husain Delhi College (Day),6,7,4,7
-20085583052,Shreya Dixit,Zakir Husain Delhi College (Day),8,9,8,8
-20085583053,Shubham,Zakir Husain Delhi College (Day),9,8,6,7
-20085583054,SHUBHAM KUMAR,Zakir Husain Delhi College (Day),5,5,6,7
-20085583055,SNEHA CHAUDHARY,Zakir Husain Delhi College (Day),8,8,8,8
-20085583056,soni,Zakir Husain Delhi College (Day),7,8,9,7
-20085583057,Sunny,Zakir Husain Delhi College (Day),6,7,5,5
-20085583058,VAIBHAV NAIR,Zakir Husain Delhi College (Day),8,8,7,8
-20085583059,VIBHAV,Zakir Husain Delhi College (Day),8,8,8,8
-20085583061,vishu tomar,Zakir Husain Delhi College (Day),8,8,7,8
-20085583062,Yashika soni,Zakir Husain Delhi College (Day),8,7,8,8
+RollNo,Name,College,"BIODIVERSITY (MICROBES, ALGAE, FUNGI AND ARCHEGONIATAE","ATOMIC STRUCTURE, BONDING, GENERAL ORGANIC CHEMISTRY & ALIPHATIC HYDROCARBONS",ANIMAL DIVERSITY,ENGLISH-A,PLANT ECOLOGY AND TAXONOMY,"CHEMICAL ENERGETICS, EQUILIBRIA & FUNCTIONAL GROUP ORGANIC",COMPARATIVE ANATOMY AND DEVELOPMENTAL BIOLOGY OF VERTEBRATES,ENVIRONMENTAL SCIENCE
+20085583001,Aakash,Zakir Husain Delhi College (Day),8,8,9,7,7,7,7,8
+20085583002,Aazam shakeel,Zakir Husain Delhi College (Day),7,8,8,7,8,8,8,8
+20085583003,Adeeb Anwar,Zakir Husain Delhi College (Day),8,6,7,7,8,7,7,8
+20085583004,AHAMMED PV,Zakir Husain Delhi College (Day),7,8,7,8,6,5,6,6
+20085583007,Aman juyal,Zakir Husain Delhi College (Day),7,7,9,8,8,8,7,8
+20085583008,AMAN KUMAR KHANSLI,Zakir Husain Delhi College (Day),5,7,6,7,4,5,0,0
+20085583009,Anshul jangid,Zakir Husain Delhi College (Day),7,7,8,7,8,7,5,8
+20085583010,Anwar Hussain,Zakir Husain Delhi College (Day),6,7,6,7,5,4,4,0
+20085583011,Arisha,Zakir Husain Delhi College (Day),7,8,9,7,8,8,7,8
+20085583012,ARSHI ANSARI,Zakir Husain Delhi College (Day),8,8,8,7,9,8,8,8
+20085583013,ARUNA MAVI,Zakir Husain Delhi College (Day),9,8,8,7,9,9,8,9
+20085583014,Ashish Binjola,Zakir Husain Delhi College (Day),8,8,8,7,8,8,7,8
+20085583016,BRHAMJOT SINGH,Zakir Husain Delhi College (Day),8,9,9,9,9,8,8,9
+20085583017,Bushra,Zakir Husain Delhi College (Day),9,7,7,7,8,7,8,8
+20085583019,Devender Pal,Zakir Husain Delhi College (Day),7,8,6,7,7,8,6,7
+20085583020,Dhananjay Yadav,Zakir Husain Delhi College (Day),8,7,8,8,9,8,8,8
+20085583021,Dhruv jindal,Zakir Husain Delhi College (Day),7,8,7,7,8,8,6,8
+20085583022,DISHA SHARMA,Zakir Husain Delhi College (Day),9,8,8,8,9,9,8,9
+20085583023,DIVYANK SHAMI,Zakir Husain Delhi College (Day),9,6,5,8,7,6,6,7
+20085583024,FIZZA SIDDIQUI,Zakir Husain Delhi College (Day),7,8,7,7,8,8,7,8
+20085583025,FOUZIA ASIF,Zakir Husain Delhi College (Day),8,7,7,7,5,6,4,6
+20085583026,Gulshan Verma,Zakir Husain Delhi College (Day),6,6,6,7,4,0,0,0
+20085583027,Heba Ajmal,Zakir Husain Delhi College (Day),7,8,8,7,8,7,7,7
+20085583028,KAPIL KATARIA,Zakir Husain Delhi College (Day),6,7,7,7,5,6,4,6
+20085583029,KAVITA,Zakir Husain Delhi College (Day),7,7,8,7,7,8,8,8
+20085583030,KUSHAL KUMAR SHARMA,Zakir Husain Delhi College (Day),9,9,9,8,9,7,7,9
+20085583031,lokesh kumar,Zakir Husain Delhi College (Day),8,8,8,8,8,8,8,8
+20085583032,Manav Aggarwal,Zakir Husain Delhi College (Day),8,8,7,9,9,8,8,9
+20085583033,MEHAK ARIF,Zakir Husain Delhi College (Day),7,7,7,8,8,8,8,8
+20085583036,Mohammad Anas,Zakir Husain Delhi College (Day),7,7,8,7,8,7,7,7
+20085583037,Mohammad Ayan,Zakir Husain Delhi College (Day),6,6,4,7,8,7,7,7
+20085583038,Muskan Sagar,Zakir Husain Delhi College (Day),7,0,6,8,7,7,7,7
+20085583039,Nandini sharma,Zakir Husain Delhi College (Day),8,7,5,7,8,7,7,7
+20085583040,Nitesh dureja,Zakir Husain Delhi College (Day),8,8,8,7,8,7,7,8
+20085583041,Niyati Gupta,Zakir Husain Delhi College (Day),8,8,9,8,8,8,8,9
+20085583042,Payal,Zakir Husain Delhi College (Day),7,7,5,7,8,6,7,8
+20085583043,POOJA,Zakir Husain Delhi College (Day),8,8,8,7,7,7,8,8
+20085583044,priyanka,Zakir Husain Delhi College (Day),7,8,7,7,8,8,8,8
+20085583045,Rekha Chaudhary,Zakir Husain Delhi College (Day),7,7,6,6,8,8,8,8
+20085583046,Ritika Mondal,Zakir Husain Delhi College (Day),7,7,8,7,7,6,7,5
+20085583047,Sachin,Zakir Husain Delhi College (Day),7,8,6,7,8,7,7,8
+20085583049,Saliha khatoon,Zakir Husain Delhi College (Day),9,7,8,7,8,8,8,9
+20085583050,Samoon Mumtaz,Zakir Husain Delhi College (Day),6,7,7,7,7,6,7,8
+20085583051,Shantanu mudgal,Zakir Husain Delhi College (Day),6,7,4,7,8,6,6,8
+20085583052,Shreya Dixit,Zakir Husain Delhi College (Day),8,9,8,8,9,9,9,9
+20085583053,Shubham,Zakir Husain Delhi College (Day),9,8,6,7,8,6,6,8
+20085583054,SHUBHAM KUMAR,Zakir Husain Delhi College (Day),5,5,6,7,7,4,4,5
+20085583055,SNEHA CHAUDHARY,Zakir Husain Delhi College (Day),8,8,8,8,8,8,8,9
+20085583056,soni,Zakir Husain Delhi College (Day),7,8,9,7,9,8,8,8
+20085583057,Sunny,Zakir Husain Delhi College (Day),6,7,5,5,8,7,7,8
+20085583058,VAIBHAV NAIR,Zakir Husain Delhi College (Day),8,8,7,8,8,7,7,8
+20085583059,VIBHAV,Zakir Husain Delhi College (Day),8,8,8,8,9,8,7,9
+20085583060,vishal singh,Zakir Husain Delhi College (Day),8,6,6,7,8,7,6,8
+20085583061,vishu tomar,Zakir Husain Delhi College (Day),8,8,7,8,9,9,9,9
+20085583062,Yashika soni,Zakir Husain Delhi College (Day),8,7,8,8,9,8,7,8

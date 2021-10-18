@@ -1,65 +1,62 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20024556001,AARUSHI GAUTAM,Gargi College,7.82,7.818
-20024556002,Adithi Rao,Gargi College,9.00,9.000
-20024556003,Akshita Gahlot,Gargi College,7.82,7.818
-20024556004,Amisha Garg,Gargi College,8.00,8.000
-20024556005,Ananya Chamola,Gargi College,9.00,9.000
-20024556006,Anjali,Gargi College,8.82,8.818
-20024556007,Anjali Yadav,Gargi College,8.82,8.818
-20024556008,Ankita Kumari Gupta,Gargi College,8.82,8.818
-20024556009,Arshita Wadhwa,Gargi College,8.36,8.364
-20024556010,Asfiya,Gargi College,9.00,9.000
-20024556011,Deepanshi Singh,Gargi College,8.82,8.818
-20024556012,Devyani Dwivedi,Gargi College,9.00,9.000
-20024556013,DISHA GAUTAM,Gargi College,8.36,8.364
-20024556014,Geetanjali Negi,Gargi College,8.82,8.818
-20024556015,Hansa Wali,Gargi College,8.73,8.727
-20024556016,HIBU PAKU,Gargi College,8.55,8.545
-20024556017,KALPANA JHA,Gargi College,8.00,8.000
-20024556018,Kesang Lhamu Bapu,Gargi College,8.45,8.455
-20024556019,KHWAISH,Gargi College,8.36,8.364
-20024556020,Kirti Sharma,Gargi College,8.82,8.818
-20024556021,Komal Sharma,Gargi College,8.82,8.818
-20024556022,MAITRAYEE PALIWAL,Gargi College,9.00,9.000
-20024556023,Mallika Ghosh,Gargi College,8.82,8.818
-20024556024,Mausam,Gargi College,8.09,8.091
-20024556025,Moumi Mukherjee,Gargi College,8.73,8.727
-20024556026,Nandita Yadav,Gargi College,6.55,6.545
-20024556027,Nidhi,Gargi College,9.45,9.455
-20024556028,Nidhi Yadav,Gargi College,8.82,8.818
-20024556029,Nisha,Gargi College,8.82,8.818
-20024556030,Nishu,Gargi College,9.00,9.000
-20024556031,Padma Deachen,Gargi College,7.36,7.364
-20024556032,Prachi Mahajan,Gargi College,8.73,8.727
-20024556033,PRAGATI DEVI,Gargi College,9.09,9.091
-20024556034,Pragya,Gargi College,8.82,8.818
-20024556035,Pratima Pratim,Gargi College,8.64,8.636
-20024556036,R BHARGAVI,Gargi College,9.09,9.091
-20024556037,Rakhi,Gargi College,9.00,9.000
-20024556038,RIDDHI PAPNAI,Gargi College,7.45,7.455
-20024556039,Ridhima Sharma,Gargi College,9.55,9.545
-20024556040,Rishita,Gargi College,9.27,9.273
-20024556041,Riya Arya,Gargi College,8.82,8.818
-20024556042,Samiksha,Gargi College,8.27,8.273
-20024556043,Shagun Shukla,Gargi College,9.45,9.455
-20024556044,Shalu Yadav,Gargi College,8.18,8.182
-20024556045,Shefali,Gargi College,9.00,9.000
-20024556046,Shikha Jha,Gargi College,8.36,8.364
-20024556047,Shruti Apurva,Gargi College,9.00,9.000
-20024556048,Shruti Jha,Gargi College,9.27,9.273
-20024556049,Shubhi Srivastava,Gargi College,9.00,9.000
-20024556050,Simran Thareja,Gargi College,8.55,8.545
-20024556051,Sneha Baghel,Gargi College,8.82,8.818
-20024556052,Sonal Yadav,Gargi College,8.27,8.273
-20024556053,SONIYA CHANCHAL,Gargi College,5.64,5.636
-20024556054,Sunayna Mahalder,Gargi College,8.27,8.273
-20024556055,Surbhi chaturvedi,Gargi College,9.27,9.273
-20024556056,Swati,Gargi College,8.55,8.545
-20024556057,Tamanna Sharma,Gargi College,8.73,8.727
-20024556058,Tejsevi sharma,Gargi College,8.45,8.455
-20024556059,Vanshita khangarot,Gargi College,9.00,9.000
-20024556060,Vishakha rana,Gargi College,8.82,8.818
-20024556061,YASHASVI SAINI,Gargi College,9.00,9.000
-20024556062,YOGITA,Gargi College,8.36,8.364
-20024556063,SURBHI MENDIRATTA,Gargi College,9.55,9.545
-20024556064,SIYA THAKUR,Gargi College,5.36,5.364
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20024556001,AARUSHI GAUTAM,Gargi College,7.82,8.00,7.909
+20024556002,Adithi Rao,Gargi College,9.00,9.55,9.273
+20024556003,Akshita Gahlot,Gargi College,7.82,8.55,8.182
+20024556004,Amisha Garg,Gargi College,8.00,8.00,8.000
+20024556005,Ananya Chamola,Gargi College,9.00,9.82,9.409
+20024556006,Anjali,Gargi College,8.82,8.27,8.545
+20024556007,Anjali Yadav,Gargi College,8.82,9.27,9.045
+20024556008,Ankita Kumari Gupta,Gargi College,8.82,9.00,8.909
+20024556009,Arshita Wadhwa,Gargi College,8.36,8.00,8.182
+20024556011,Deepanshi Singh,Gargi College,8.82,9.27,9.045
+20024556012,Devyani Dwivedi,Gargi College,9.00,9.00,9.000
+20024556013,DISHA GAUTAM,Gargi College,8.36,8.73,8.545
+20024556014,Geetanjali Negi,Gargi College,8.82,9.00,8.909
+20024556015,Hansa Wali,Gargi College,8.73,9.55,9.136
+20024556016,HIBU PAKU,Gargi College,8.55,9.00,8.773
+20024556017,KALPANA JHA,Gargi College,8.00,9.00,8.500
+20024556018,Kesang Lhamu Bapu,Gargi College,8.45,9.00,8.727
+20024556019,KHWAISH,Gargi College,8.36,8.82,8.591
+20024556020,Kirti Sharma,Gargi College,8.82,9.00,8.909
+20024556021,Komal Sharma,Gargi College,8.82,9.27,9.045
+20024556022,MAITRAYEE PALIWAL,Gargi College,9.00,9.27,9.136
+20024556023,Mallika Ghosh,Gargi College,8.82,9.27,9.045
+20024556024,Mausam,Gargi College,8.09,8.27,8.182
+20024556025,Moumi Mukherjee,Gargi College,8.73,9.27,9.000
+20024556026,Nandita Yadav,Gargi College,8.73,9.00,8.864
+20024556027,Nidhi,Gargi College,9.45,9.55,9.500
+20024556028,Nidhi Yadav,Gargi College,8.82,9.27,9.045
+20024556029,Nisha,Gargi College,8.82,8.73,8.773
+20024556030,Nishu,Gargi College,9.00,9.27,9.136
+20024556031,Padma Deachen,Gargi College,7.36,8.00,7.682
+20024556032,Prachi Mahajan,Gargi College,8.73,9.00,8.864
+20024556033,PRAGATI DEVI,Gargi College,9.09,9.00,9.045
+20024556034,Pragya,Gargi College,8.82,9.00,8.909
+20024556035,Pratima Pratim,Gargi College,8.64,9.00,8.818
+20024556036,R BHARGAVI,Gargi College,9.09,9.27,9.182
+20024556037,Rakhi,Gargi College,9.00,9.27,9.136
+20024556038,RIDDHI PAPNAI,Gargi College,7.45,8.82,8.136
+20024556039,Ridhima Sharma,Gargi College,9.55,9.82,9.682
+20024556040,Rishita,Gargi College,9.27,9.82,9.545
+20024556041,Riya Arya,Gargi College,8.82,9.27,9.045
+20024556042,Samiksha,Gargi College,8.27,9.00,8.636
+20024556043,Shagun Shukla,Gargi College,9.45,9.73,9.591
+20024556044,Shalu Yadav,Gargi College,8.18,8.55,8.364
+20024556045,Shefali,Gargi College,9.00,9.00,9.000
+20024556046,Shikha Jha,Gargi College,8.36,9.00,8.682
+20024556047,Shruti Apurva,Gargi College,9.00,9.27,9.136
+20024556048,Shruti Jha,Gargi College,9.27,10.00,9.636
+20024556049,Shubhi Srivastava,Gargi College,9.00,9.00,9.000
+20024556050,Simran Thareja,Gargi College,8.55,9.27,8.909
+20024556051,Sneha Baghel,Gargi College,8.82,9.27,9.045
+20024556052,Sonal Yadav,Gargi College,8.27,9.00,8.636
+20024556053,SONIYA CHANCHAL,Gargi College,7.55,8.55,8.045
+20024556055,Surbhi chaturvedi,Gargi College,9.27,9.55,9.409
+20024556056,Swati,Gargi College,8.55,9.00,8.773
+20024556057,Tamanna Sharma,Gargi College,8.73,9.27,9.000
+20024556058,Tejsevi sharma,Gargi College,8.45,9.00,8.727
+20024556060,Vishakha rana,Gargi College,8.82,9.27,9.045
+20024556061,YASHASVI SAINI,Gargi College,9.00,9.82,9.409
+20024556062,YOGITA,Gargi College,8.36,9.00,8.682
+20024556063,SURBHI MENDIRATTA,Gargi College,9.55,10.00,9.773
+20024556064,SIYA THAKUR,Gargi College,5.36,8.27,6.818

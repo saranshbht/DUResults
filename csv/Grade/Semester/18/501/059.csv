@@ -2,7 +2,6 @@ RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Sem-VI,Overall CGPA
 18059501001,ANANYA PARIHAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.18,6.09,6.18,5.18,7.55,8.09,6.379
 18059501002,ANUSHKA BHARGAV,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],4.91,5.91,6.91,7.73,7.27,7.64,6.727
 18059501003,HARSHIT CHAUHAN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.18,5.91,5.27,6.55,6.73,7.55,6.364
-18059501004,SOMYA AGGARWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.45,7.82,7.45,8.45,7.18,7.73,7.682
 18059501005,RITESH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],7.18,7.45,7.18,8.00,7.82,7.82,7.576
 18059501006,KHUSHBOO KUMARI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.45,6.45,6.64,7.45,7.27,7.00,6.879
 18059501007,KABIR CHOUDHARY,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],4.55,4.73,4.91,5.55,7.45,8.09,5.879
@@ -17,7 +16,7 @@ RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Sem-VI,Overall CGPA
 18059501016,ARYAN DAHIYA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.73,6.00,7.09,7.00,7.00,7.64,6.742
 18059501017,RISHABH JEPH,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,6.64,6.73,6.73,7.27,7.55,6.939
 18059501018,LANKA NARASIMHA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.45,5.45,5.36,6.27,7.00,7.82,6.227
-18059501019,ATISHE UJJAINWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.45,5.45,5.45,5.73,6.82,5.27,5.697
+18059501019,ATISHE UJJAINWAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.45,5.45,5.45,5.73,6.82,7.18,6.015
 18059501021,SHAHROO JAMAAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.64,5.36,5.18,7.00,7.00,7.82,6.333
 18059501022,UJJWAL DULAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.55,4.91,4.64,6.00,7.27,7.09,5.909
 18059501024,GURMANDEEP,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.45,6.64,6.18,6.73,7.18,7.09,6.712
@@ -25,7 +24,7 @@ RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Sem-VI,Overall CGPA
 18059501026,RITIK,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.91,6.36,6.45,7.73,7.45,8.09,7.167
 18059501027,NEHA KUMARI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.91,6.36,6.45,7.27,8.09,8.91,7.333
 18059501028,SUPRIYA RANI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.91,5.45,5.91,6.73,7.27,7.09,6.394
-18059501029,VIJENDER KUMAR MEENA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,0.00,7.45,,,,4.727
+18059501029,VIJENDER KUMAR MEENA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,0.00,7.45,8.00,,,5.545
 18059501030,CHUNSABA BARIAM,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.73,5.73,5.45,6.73,7.18,7.27,6.515
 18059501031,ANKUR MEENA,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.09,5.36,4.73,6.00,6.73,7.27,5.864
 18059501032,DIKSHA UCHAI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],5.91,5.27,5.82,6.45,7.55,8.36,6.561
@@ -47,6 +46,5 @@ RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Sem-VI,Overall CGPA
 18059501048,UTKARSH SINGHAL,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],4.27,5.18,6.82,6.00,6.55,7.91,6.121
 18059501049,DRISHTI RAJU,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.91,6.91,6.00,6.73,7.27,7.91,6.955
 18059501050,HIMANSHI,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.00,6.45,6.18,6.73,7.27,7.64,6.712
-18059501052,NITIN PANWAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],4.73,5.18,3.64,5.73,6.73,6.82,5.470
-18059501053,NARESH KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.18,6.00,5.36,6.73,7.73,6.82,6.470
+18059501053,NARESH KUMAR,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.18,6.00,5.36,6.73,7.73,7.73,6.621
 18059501054,AAMIR KHAN,Aryabhatta College [Formerly Ram Lal Anand College (Evening)],6.09,5.82,6.45,7.00,7.73,7.91,6.833

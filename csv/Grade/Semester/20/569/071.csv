@@ -1,35 +1,30 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20071569001,AJIT KUMAR,Shivaji College,8.45,8.455
-20071569002,Akash,Shivaji College,8.55,8.545
-20071569003,AMAL MUHAMMED,Shivaji College,9.27,9.273
-20071569004,Ankit,Shivaji College,9.27,9.273
-20071569005,BHARAT KUMAR VERMA,Shivaji College,8.55,8.545
-20071569006,Deepali Ghai,Shivaji College,7.55,7.545
-20071569007,Deepanshi Bansal,Shivaji College,9.00,9.000
-20071569008,Jitesh Kumar,Shivaji College,8.27,8.273
-20071569010,Khushboo Singhal,Shivaji College,9.36,9.364
-20071569011,Lamiya Binth Ahammed OTM,Shivaji College,0.00,0.000
-20071569012,Lamiya Binth Ahammed OTM,Shivaji College,4.91,4.909
-20071569013,Mahak,Shivaji College,4.09,4.091
-20071569014,Mohit Deswal,Shivaji College,9.36,9.364
-20071569015,Muskan Tiwari,Shivaji College,9.27,9.273
-20071569016,NAVYA GOEL,Shivaji College,8.73,8.727
-20071569017,NIPUN SAREEN,Shivaji College,9.27,9.273
-20071569018,Pooja Kumari,Shivaji College,9.55,9.545
-20071569019,Priya,Shivaji College,8.55,8.545
-20071569020,PRIYANKA,Shivaji College,8.27,8.273
-20071569021,RINKU KUMARI,Shivaji College,9.09,9.091
-20071569022,RIYA,Shivaji College,8.00,8.000
-20071569023,Riya Shanker,Shivaji College,8.82,8.818
-20071569024,Riya singh,Shivaji College,8.55,8.545
-20071569025,Rohit Jangid,Shivaji College,9.00,9.000
-20071569026,Sakshi Saini,Shivaji College,9.27,9.273
-20071569027,Sarvagya,Shivaji College,0.00,0.000
-20071569028,Sarvagya,Shivaji College,5.18,5.182
-20071569029,Sarvagya,Shivaji College,0.00,0.000
-20071569030,Shagun,Shivaji College,8.55,8.545
-20071569031,SPARSH GOSWAMI,Shivaji College,8.27,8.273
-20071569032,SUSHANT,Shivaji College,8.27,8.273
-20071569033,Tanvi saxena,Shivaji College,9.27,9.273
-20071569034,Taskeen,Shivaji College,8.27,8.273
-20071569035,Vaibhav,Shivaji College,8.00,8.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20071569001,AJIT KUMAR,Shivaji College,8.45,9.00,8.727
+20071569002,Akash,Shivaji College,8.55,9.00,8.773
+20071569003,AMAL MUHAMMED,Shivaji College,9.27,9.18,9.227
+20071569004,Ankit,Shivaji College,9.27,9.73,9.500
+20071569005,BHARAT KUMAR VERMA,Shivaji College,8.55,9.00,8.773
+20071569007,Deepanshi Bansal,Shivaji College,9.00,10.00,9.500
+20071569008,Jitesh Kumar,Shivaji College,8.27,8.55,8.409
+20071569009,Kajal Jha,Shivaji College,9.27,10.00,9.636
+20071569010,Khushboo Singhal,Shivaji College,9.36,10.00,9.682
+20071569014,Mohit Deswal,Shivaji College,9.36,10.00,9.682
+20071569015,Muskan Tiwari,Shivaji College,9.27,9.82,9.545
+20071569016,NAVYA GOEL,Shivaji College,8.73,10.00,9.364
+20071569017,NIPUN SAREEN,Shivaji College,9.27,10.00,9.636
+20071569018,Pooja Kumari,Shivaji College,9.55,10.00,9.773
+20071569019,Priya,Shivaji College,8.55,9.55,9.045
+20071569020,PRIYANKA,Shivaji College,8.27,9.00,8.636
+20071569021,RINKU KUMARI,Shivaji College,9.09,9.73,9.409
+20071569022,RIYA,Shivaji College,8.00,9.27,8.636
+20071569023,Riya Shanker,Shivaji College,8.82,10.00,9.409
+20071569024,Riya singh,Shivaji College,8.55,9.18,8.864
+20071569025,Rohit Jangid,Shivaji College,9.00,9.27,9.136
+20071569026,Sakshi Saini,Shivaji College,9.27,9.73,9.500
+20071569030,Shagun,Shivaji College,8.55,7.36,7.955
+20071569031,SPARSH GOSWAMI,Shivaji College,8.27,9.00,8.636
+20071569032,SUSHANT,Shivaji College,8.27,9.00,8.636
+20071569033,Tanvi saxena,Shivaji College,9.27,9.55,9.409
+20071569034,Taskeen,Shivaji College,8.27,8.45,8.364
+20071569035,Vaibhav,Shivaji College,8.00,9.00,8.500
+20071569036,YASHIKA SOLANKI,Shivaji College,8.82,10.00,9.409

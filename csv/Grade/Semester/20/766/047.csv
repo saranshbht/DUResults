@@ -1,29 +1,26 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20047766001,Aakriti Singhal,Miranda House,8.27,8.273
-20047766002,ADITI HARSHA,Miranda House,7.45,7.455
-20047766003,Akasmika Priyadarsani,Miranda House,8.27,8.273
-20047766004,APOORVA,Miranda House,7.91,7.909
-20047766005,AUROSHIKHA MOHANTA,Miranda House,8.36,8.364
-20047766006,Ayushi khandelwal,Miranda House,8.36,8.364
-20047766007,Bhawna,Miranda House,7.09,7.091
-20047766008,Devanshee Prakash,Miranda House,8.36,8.364
-20047766009,ISHITA MANUJA,Miranda House,8.18,8.182
-20047766010,Jappreet kaur,Miranda House,7.91,7.909
-20047766011,Kajal Kamboj,Miranda House,7.91,7.909
-20047766012,KRISHMA YADAV,Miranda House,8.18,8.182
-20047766013,Mukta Yadav,Miranda House,8.18,8.182
-20047766014,NANDINI,Miranda House,7.91,7.909
-20047766015,Navnoor Kaur,Miranda House,8.09,8.091
-20047766016,Reena,Miranda House,8.36,8.364
-20047766017,Samta,Miranda House,6.45,6.455
-20047766018,SANJU KUMARI,Miranda House,7.27,7.273
-20047766019,Shivani,Miranda House,6.27,6.273
-20047766020,Shivani,Miranda House,8.18,8.182
-20047766021,Shweta,Miranda House,8.09,8.091
-20047766022,Srishti Chauhan,Miranda House,7.09,7.091
-20047766023,Sushma yadav,Miranda House,7.91,7.909
-20047766024,Victoria Ngangbam,Miranda House,8.55,8.545
-20047766025,VRINDA SHANKAR,Miranda House,8.18,8.182
-20047766026,Pinki,Miranda House,7.27,7.273
-20047766027,G Vishnupriya,Miranda House,5.60,5.600
-20047766028,RAFIA JAMAL,Miranda House,7.73,7.727
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20047766001,Aakriti Singhal,Miranda House,8.27,8.27,8.273
+20047766002,ADITI HARSHA,Miranda House,7.45,8.09,7.773
+20047766003,Akasmika Priyadarsani,Miranda House,8.27,8.55,8.409
+20047766004,APOORVA,Miranda House,7.91,8.27,8.091
+20047766006,Ayushi khandelwal,Miranda House,8.36,8.73,8.545
+20047766007,Bhawna,Miranda House,7.09,7.64,7.364
+20047766008,Devanshee Prakash,Miranda House,8.36,8.27,8.318
+20047766009,ISHITA MANUJA,Miranda House,8.18,8.27,8.227
+20047766010,Jappreet kaur,Miranda House,7.91,7.91,7.909
+20047766011,Kajal Kamboj,Miranda House,7.91,7.64,7.773
+20047766012,KRISHMA YADAV,Miranda House,8.18,7.73,7.955
+20047766013,Mukta Yadav,Miranda House,8.18,7.91,8.045
+20047766014,NANDINI,Miranda House,7.91,8.55,8.227
+20047766015,Navnoor Kaur,Miranda House,8.09,8.09,8.091
+20047766016,Reena,Miranda House,8.36,8.27,8.318
+20047766017,Samta,Miranda House,6.45,6.91,6.682
+20047766018,SANJU KUMARI,Miranda House,7.27,8.18,7.727
+20047766020,Shivani,Miranda House,8.18,7.64,7.909
+20047766021,Shweta,Miranda House,8.09,8.45,8.273
+20047766022,Srishti Chauhan,Miranda House,7.09,6.91,7.000
+20047766023,Sushma yadav,Miranda House,7.91,8.45,8.182
+20047766024,Victoria Ngangbam,Miranda House,8.55,8.18,8.364
+20047766025,VRINDA SHANKAR,Miranda House,8.18,7.91,8.045
+20047766026,Pinki,Miranda House,7.27,7.64,7.455
+20047766028,RAFIA JAMAL,Miranda House,7.73,7.45,7.591

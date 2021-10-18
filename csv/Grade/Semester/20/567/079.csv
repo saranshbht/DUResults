@@ -1,45 +1,40 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20079567001,Aarathi R,Sri Venkateswara College,9.18,9.182
-20079567002,Abishek Rai,Sri Venkateswara College,9.18,9.182
-20079567003,Akshay Yadav,Sri Venkateswara College,8.36,8.364
-20079567004,Anshika Gaira,Sri Venkateswara College,9.36,9.364
-20079567005,Aryan Prakash,Sri Venkateswara College,9.45,9.455
-20079567006,Bunty Kashyap,Sri Venkateswara College,7.27,7.273
-20079567007,Deepak,Sri Venkateswara College,8.91,8.909
-20079567008,Deovrat Singh,Sri Venkateswara College,9.18,9.182
-20079567009,Diksha,Sri Venkateswara College,9.27,9.273
-20079567010,DOLLY GUPTA,Sri Venkateswara College,8.73,8.727
-20079567011,Garima,Sri Venkateswara College,8.82,8.818
-20079567012,Gunjan Jain,Sri Venkateswara College,8.91,8.909
-20079567013,Harsh Vardhan Singh,Sri Venkateswara College,8.91,8.909
-20079567014,Harshita Goyal,Sri Venkateswara College,8.82,8.818
-20079567015,Harsimran Kaur,Sri Venkateswara College,9.09,9.091
-20079567016,Himani,Sri Venkateswara College,8.09,8.091
-20079567017,Honey Jain,Sri Venkateswara College,9.18,9.182
-20079567018,Inderpal Singh Yadav,Sri Venkateswara College,9.36,9.364
-20079567019,Ishant Yadav,Sri Venkateswara College,9.64,9.636
-20079567020,Jaspreet Kaur,Sri Venkateswara College,8.82,8.818
-20079567021,Kartik Joshi,Sri Venkateswara College,9.36,9.364
-20079567022,Kunal Diwakar,Sri Venkateswara College,8.27,8.273
-20079567023,Kunika,Sri Venkateswara College,8.09,8.091
-20079567024,LEKHRAJ MALVIYA,Sri Venkateswara College,8.55,8.545
-20079567025,Manish Jayaswal,Sri Venkateswara College,8.36,8.364
-20079567026,MANSHA AHUJA,Sri Venkateswara College,9.09,9.091
-20079567027,MEEMIK ROY,Sri Venkateswara College,9.55,9.545
-20079567028,Meghna,Sri Venkateswara College,8.82,8.818
-20079567029,MOHAMMED MUSADDIQUE,Sri Venkateswara College,9.18,9.182
-20079567030,Monika Vemala,Sri Venkateswara College,8.73,8.727
-20079567031,Neetika,Sri Venkateswara College,8.82,8.818
-20079567032,NITIN YADAV,Sri Venkateswara College,0.00,0.000
-20079567033,RACHIT KAPOOR,Sri Venkateswara College,8.36,8.364
-20079567034,Riddhi Garg,Sri Venkateswara College,9.09,9.091
-20079567035,RITESH KUMAR GUPTA,Sri Venkateswara College,8.91,8.909
-20079567036,SANGAM,Sri Venkateswara College,8.82,8.818
-20079567037,Shivangi Joshi,Sri Venkateswara College,8.91,8.909
-20079567038,Siddhi Garg,Sri Venkateswara College,9.09,9.091
-20079567039,Sumit Dinkar,Sri Venkateswara College,8.91,8.909
-20079567040,Vidhi Tyagi,Sri Venkateswara College,9.36,9.364
-20079567041,VISHALI,Sri Venkateswara College,9.18,9.182
-20079567043,Vivek Giri,Sri Venkateswara College,9.36,9.364
-20079567044,YOIHENBA NONGTHOMBAM,Sri Venkateswara College,8.64,8.636
-20079567045,SHISHUPAL KUMAR,Sri Venkateswara College,8.09,8.091
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20079567001,Aarathi R,Sri Venkateswara College,9.18,9.00,9.091
+20079567002,Abishek Rai,Sri Venkateswara College,9.18,9.82,9.500
+20079567003,Akshay Yadav,Sri Venkateswara College,8.36,8.55,8.455
+20079567004,Anshika Gaira,Sri Venkateswara College,9.36,10.00,9.682
+20079567006,Bunty Kashyap,Sri Venkateswara College,7.27,5.09,6.182
+20079567007,Deepak,Sri Venkateswara College,8.91,8.55,8.727
+20079567008,Deovrat Singh,Sri Venkateswara College,9.18,9.00,9.091
+20079567009,Diksha,Sri Venkateswara College,9.27,9.00,9.136
+20079567010,DOLLY GUPTA,Sri Venkateswara College,8.73,9.27,9.000
+20079567011,Garima,Sri Venkateswara College,8.82,9.82,9.318
+20079567012,Gunjan Jain,Sri Venkateswara College,8.91,9.00,8.955
+20079567013,Harsh Vardhan Singh,Sri Venkateswara College,8.91,9.27,9.091
+20079567014,Harshita Goyal,Sri Venkateswara College,8.82,9.27,9.045
+20079567015,Harsimran Kaur,Sri Venkateswara College,9.09,9.55,9.318
+20079567017,Honey Jain,Sri Venkateswara College,9.18,9.55,9.364
+20079567018,Inderpal Singh Yadav,Sri Venkateswara College,9.36,9.00,9.182
+20079567019,Ishant Yadav,Sri Venkateswara College,9.64,10.00,9.818
+20079567020,Jaspreet Kaur,Sri Venkateswara College,8.82,9.27,9.045
+20079567021,Kartik Joshi,Sri Venkateswara College,9.36,9.00,9.182
+20079567022,Kunal Diwakar,Sri Venkateswara College,8.27,9.00,8.636
+20079567023,Kunika,Sri Venkateswara College,8.09,8.73,8.409
+20079567024,LEKHRAJ MALVIYA,Sri Venkateswara College,8.55,9.00,8.773
+20079567025,Manish Jayaswal,Sri Venkateswara College,8.36,9.00,8.682
+20079567026,MANSHA AHUJA,Sri Venkateswara College,9.09,10.00,9.545
+20079567028,Meghna,Sri Venkateswara College,8.82,9.55,9.182
+20079567029,MOHAMMED MUSADDIQUE,Sri Venkateswara College,9.18,9.00,9.091
+20079567030,Monika Vemala,Sri Venkateswara College,8.73,9.55,9.136
+20079567031,Neetika,Sri Venkateswara College,8.82,9.00,8.909
+20079567033,Rachit Kapoor,Sri Venkateswara College,8.36,9.82,9.091
+20079567034,Riddhi Garg,Sri Venkateswara College,9.09,9.82,9.455
+20079567035,RITESH KUMAR GUPTA,Sri Venkateswara College,8.91,9.00,8.955
+20079567036,SANGAM,Sri Venkateswara College,8.82,9.27,9.045
+20079567037,Shivangi Joshi,Sri Venkateswara College,8.91,10.00,9.455
+20079567038,Siddhi Garg,Sri Venkateswara College,9.09,9.55,9.318
+20079567040,Vidhi Tyagi,Sri Venkateswara College,9.36,9.00,9.182
+20079567041,VISHALI,Sri Venkateswara College,9.18,9.00,9.091
+20079567043,Vivek Giri,Sri Venkateswara College,9.36,9.55,9.455
+20079567044,YOIHENBA NONGTHOMBAM,Sri Venkateswara College,8.64,9.00,8.818
+20079567045,SHISHUPAL KUMAR,Sri Venkateswara College,8.09,5.91,7.000

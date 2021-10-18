@@ -1,64 +1,63 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20076583001,Aashima Dhingra,Sri Aurobindo College (Day),8.82,8.818
-20076583002,ACHINT KUMAR,Sri Aurobindo College (Day),8.09,8.091
-20076583003,ADITI BURMAN,Sri Aurobindo College (Day),8.82,8.818
-20076583004,ANANYA JAIN,Sri Aurobindo College (Day),8.64,8.636
-20076583005,ANIKA SHARMA,Sri Aurobindo College (Day),7.55,7.545
-20076583006,ANKITA MOHAPATRA,Sri Aurobindo College (Day),9.00,9.000
-20076583007,Ankita Sauran,Sri Aurobindo College (Day),8.27,8.273
-20076583008,ANUPAM,Sri Aurobindo College (Day),8.27,8.273
-20076583009,ARIF HUSSAIN,Sri Aurobindo College (Day),6.36,6.364
-20076583010,ARUSHI VERMA,Sri Aurobindo College (Day),8.45,8.455
-20076583011,AYUSHI PANDEY,Sri Aurobindo College (Day),8.18,8.182
-20076583012,BAKHTAWER NISHA,Sri Aurobindo College (Day),7.91,7.909
-20076583013,D.ELOW,Sri Aurobindo College (Day),6.45,6.455
-20076583014,DIYA,Sri Aurobindo College (Day),8.55,8.545
-20076583015,ESHA SHUKLA,Sri Aurobindo College (Day),8.55,8.545
-20076583016,HARSHITA GAUTAM,Sri Aurobindo College (Day),7.64,7.636
-20076583017,ISHITA SINGH,Sri Aurobindo College (Day),7.27,7.273
-20076583019,KANISHKA SHARMA,Sri Aurobindo College (Day),8.27,8.273
-20076583020,Kapil Sharma,Sri Aurobindo College (Day),8.27,8.273
-20076583021,KAUSHIKI KASHYAP,Sri Aurobindo College (Day),8.27,8.273
-20076583022,KHUSHBOO,Sri Aurobindo College (Day),7.82,7.818
-20076583023,KRITIKA,Sri Aurobindo College (Day),8.82,8.818
-20076583024,KUNAL SINGH MEENA,Sri Aurobindo College (Day),7.64,7.636
-20076583026,Manas Agarwal,Sri Aurobindo College (Day),9.00,9.000
-20076583027,MOUSUMI BARMAN,Sri Aurobindo College (Day),8.36,8.364
-20076583028,MUSHTAQ AHMAD SHAH,Sri Aurobindo College (Day),5.64,5.636
-20076583029,NAMAN SHANKHDHAR,Sri Aurobindo College (Day),7.82,7.818
-20076583030,NEETU,Sri Aurobindo College (Day),7.55,7.545
-20076583031,NEHA,Sri Aurobindo College (Day),8.55,8.545
-20076583032,NISHTHA CHAWLA,Sri Aurobindo College (Day),8.27,8.273
-20076583033,Palak Bhatia,Sri Aurobindo College (Day),8.00,8.000
-20076583034,PALAK KARIR,Sri Aurobindo College (Day),8.36,8.364
-20076583035,PINKI,Sri Aurobindo College (Day),7.82,7.818
-20076583036,PINKY YADAV,Sri Aurobindo College (Day),8.00,8.000
-20076583037,PRABHAT,Sri Aurobindo College (Day),7.55,7.545
-20076583038,PRASHI KALRA,Sri Aurobindo College (Day),0.00,0.000
-20076583039,PRIYA TOMAR,Sri Aurobindo College (Day),8.27,8.273
-20076583041,PRIYAL PASSI,Sri Aurobindo College (Day),8.09,8.091
-20076583042,PRIYANKA,Sri Aurobindo College (Day),8.36,8.364
-20076583043,PRIYANKA,Sri Aurobindo College (Day),8.00,8.000
-20076583044,Priyanka,Sri Aurobindo College (Day),0.00,0.000
-20076583045,Priyanka,Sri Aurobindo College (Day),8.27,8.273
-20076583047,PRIYANSHI KUMARI,Sri Aurobindo College (Day),6.82,6.818
-20076583048,RAJNI SAINI,Sri Aurobindo College (Day),8.27,8.273
-20076583049,Ritik Asthana,Sri Aurobindo College (Day),8.27,8.273
-20076583050,Ritik Yadav,Sri Aurobindo College (Day),0.00,0.000
-20076583051,RITIKA CHAUDHARY,Sri Aurobindo College (Day),8.36,8.364
-20076583052,SAGAR YADAV,Sri Aurobindo College (Day),8.09,8.091
-20076583053,SAMIKSHA SHARMA,Sri Aurobindo College (Day),8.36,8.364
-20076583054,SAROJ,Sri Aurobindo College (Day),8.55,8.545
-20076583055,SHALU,Sri Aurobindo College (Day),8.64,8.636
-20076583056,SHAMBHAVI SAXENA,Sri Aurobindo College (Day),8.73,8.727
-20076583058,SHIVAM GUPTA,Sri Aurobindo College (Day),7.82,7.818
-20076583059,SHRITI BEHURA,Sri Aurobindo College (Day),7.73,7.727
-20076583060,Shubham nain,Sri Aurobindo College (Day),7.64,7.636
-20076583061,SIMARPREET NEGI,Sri Aurobindo College (Day),8.64,8.636
-20076583062,Sneha Tolia,Sri Aurobindo College (Day),8.18,8.182
-20076583063,SONU YADAV,Sri Aurobindo College (Day),8.09,8.091
-20076583064,SURBHI YADAV,Sri Aurobindo College (Day),8.82,8.818
-20076583065,TAMANNA,Sri Aurobindo College (Day),7.64,7.636
-20076583066,VANSHIKA KARNWAL,Sri Aurobindo College (Day),8.00,8.000
-20076583067,VANSHITA YADAV,Sri Aurobindo College (Day),8.55,8.545
-20076583068,VINEETA,Sri Aurobindo College (Day),8.36,8.364
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20076583001,Aashima Dhingra,Sri Aurobindo College (Day),8.82,9.00,8.909
+20076583002,ACHINT KUMAR,Sri Aurobindo College (Day),8.09,8.82,8.455
+20076583003,ADITI BURMAN,Sri Aurobindo College (Day),8.82,9.55,9.182
+20076583004,ANANYA JAIN,Sri Aurobindo College (Day),8.64,8.82,8.727
+20076583005,ANIKA SHARMA,Sri Aurobindo College (Day),7.55,8.00,7.773
+20076583006,ANKITA MOHAPATRA,Sri Aurobindo College (Day),9.00,9.27,9.136
+20076583007,Ankita Sauran,Sri Aurobindo College (Day),8.27,9.09,8.682
+20076583008,ANUPAM,Sri Aurobindo College (Day),8.27,9.00,8.636
+20076583009,ARIF HUSSAIN,Sri Aurobindo College (Day),6.36,5.09,5.727
+20076583010,ARUSHI VERMA,Sri Aurobindo College (Day),8.45,9.00,8.727
+20076583011,AYUSHI PANDEY,Sri Aurobindo College (Day),8.18,9.00,8.591
+20076583012,BAKHTAWER NISHA,Sri Aurobindo College (Day),7.91,8.55,8.227
+20076583014,DIYA,Sri Aurobindo College (Day),8.55,9.00,8.773
+20076583015,ESHA SHUKLA,Sri Aurobindo College (Day),8.55,9.00,8.773
+20076583016,HARSHITA GAUTAM,Sri Aurobindo College (Day),7.64,8.55,8.091
+20076583017,ISHITA SINGH,Sri Aurobindo College (Day),7.27,8.82,8.045
+20076583019,KANISHKA SHARMA,Sri Aurobindo College (Day),8.27,9.00,8.636
+20076583020,Kapil Sharma,Sri Aurobindo College (Day),8.27,9.00,8.636
+20076583021,KAUSHIKI KASHYAP,Sri Aurobindo College (Day),8.27,9.00,8.636
+20076583022,KHUSHBOO,Sri Aurobindo College (Day),7.82,9.00,8.409
+20076583023,KRITIKA,Sri Aurobindo College (Day),8.82,9.27,9.045
+20076583024,KUNAL SINGH MEENA,Sri Aurobindo College (Day),7.64,8.55,8.091
+20076583025,LAKSHAY CHHABRA,Sri Aurobindo College (Day),8.09,8.82,8.455
+20076583026,Manas Agarwal,Sri Aurobindo College (Day),9.00,9.55,9.273
+20076583027,MOUSUMI BARMAN,Sri Aurobindo College (Day),8.36,9.00,8.682
+20076583028,MUSHTAQ AHMAD SHAH,Sri Aurobindo College (Day),7.55,7.55,7.545
+20076583029,NAMAN SHANKHDHAR,Sri Aurobindo College (Day),7.82,8.55,8.182
+20076583030,NEETU,Sri Aurobindo College (Day),7.55,8.82,8.182
+20076583031,NEHA,Sri Aurobindo College (Day),8.55,8.82,8.682
+20076583032,NISHTHA CHAWLA,Sri Aurobindo College (Day),8.27,8.73,8.500
+20076583033,Palak Bhatia,Sri Aurobindo College (Day),8.00,9.00,8.500
+20076583034,PALAK KARIR,Sri Aurobindo College (Day),8.36,9.00,8.682
+20076583035,PINKI,Sri Aurobindo College (Day),7.82,8.55,8.182
+20076583036,PINKY YADAV,Sri Aurobindo College (Day),8.00,9.00,8.500
+20076583037,PRABHAT,Sri Aurobindo College (Day),7.55,8.82,8.182
+20076583039,PRIYA TOMAR,Sri Aurobindo College (Day),8.27,9.00,8.636
+20076583040,PRIYA YADAV,Sri Aurobindo College (Day),8.55,9.27,8.909
+20076583041,PRIYAL PASSI,Sri Aurobindo College (Day),8.09,8.55,8.318
+20076583043,PRIYANKA,Sri Aurobindo College (Day),8.00,8.55,8.273
+20076583045,Priyanka,Sri Aurobindo College (Day),8.27,8.55,8.409
+20076583047,PRIYANSHI KUMARI,Sri Aurobindo College (Day),6.82,8.00,7.409
+20076583048,RAJNI SAINI,Sri Aurobindo College (Day),8.27,8.82,8.545
+20076583049,Ritik Asthana,Sri Aurobindo College (Day),8.27,9.55,8.909
+20076583051,RITIKA CHAUDHARY,Sri Aurobindo College (Day),8.36,9.27,8.818
+20076583052,SAGAR YADAV,Sri Aurobindo College (Day),8.09,8.82,8.455
+20076583053,SAMIKSHA SHARMA,Sri Aurobindo College (Day),8.36,9.00,8.682
+20076583054,SAROJ,Sri Aurobindo College (Day),8.55,9.00,8.773
+20076583055,SHALU,Sri Aurobindo College (Day),8.64,9.00,8.818
+20076583056,SHAMBHAVI SAXENA,Sri Aurobindo College (Day),8.73,9.00,8.864
+20076583057,SHIKHA KUMARI,Sri Aurobindo College (Day),8.27,8.73,8.500
+20076583058,SHIVAM GUPTA,Sri Aurobindo College (Day),7.82,8.27,8.045
+20076583059,SHRITI BEHURA,Sri Aurobindo College (Day),7.73,9.00,8.364
+20076583060,Shubham nain,Sri Aurobindo College (Day),7.64,8.82,8.227
+20076583061,SIMARPREET NEGI,Sri Aurobindo College (Day),8.64,6.18,7.409
+20076583062,Sneha Tolia,Sri Aurobindo College (Day),8.18,8.55,8.364
+20076583063,SONU YADAV,Sri Aurobindo College (Day),8.09,8.73,8.409
+20076583064,SURBHI YADAV,Sri Aurobindo College (Day),8.82,9.27,9.045
+20076583065,TAMANNA,Sri Aurobindo College (Day),7.64,8.27,7.955
+20076583066,VANSHIKA KARNWAL,Sri Aurobindo College (Day),8.00,9.00,8.500
+20076583067,VANSHITA YADAV,Sri Aurobindo College (Day),8.55,9.27,8.909
+20076583068,VINEETA,Sri Aurobindo College (Day),8.36,9.00,8.682
+20076583069,VOLGA SWARGIARY,Sri Aurobindo College (Day),7.82,8.55,8.182

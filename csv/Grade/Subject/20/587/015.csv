@@ -1,39 +1,36 @@
-RollNo,Name,College,PROBLEM SOLVING USING COMPUTER,CALCULUS AND MATRICES,INTRODUCTION TO OPERATIONAL RESEARCH AND LINEAR PROGRAMMING,ENVIRONMENTAL SCIENCE
-20015587001,Abhishek,Deen Dayal Upadhyaya College,8,9,9,9
-20015587002,Abhishek Meena,Deen Dayal Upadhyaya College,8,8,8,9
-20015587003,Ajay Kumar,Deen Dayal Upadhyaya College,8,10,9,10
-20015587004,Ankit Kumar,Deen Dayal Upadhyaya College,8,10,9,9
-20015587005,Ansh,Deen Dayal Upadhyaya College,9,10,9,9
-20015587006,Antra Das,Deen Dayal Upadhyaya College,8,10,8,9
-20015587007,Dibyanshu goswami,Deen Dayal Upadhyaya College,8,9,8,9
-20015587008,DIKSHA YADAV,Deen Dayal Upadhyaya College,8,9,9,10
-20015587009,Disha Pattnaik,Deen Dayal Upadhyaya College,9,10,9,9
-20015587010,Ekta Gandhi,Deen Dayal Upadhyaya College,9,10,10,9
-20015587011,FARHAAN,Deen Dayal Upadhyaya College,9,10,9,10
-20015587012,Ghanshyam Yadav,Deen Dayal Upadhyaya College,8,9,9,9
-20015587014,Hamza Moini,Deen Dayal Upadhyaya College,9,10,9,8
-20015587015,Harsh kansal,Deen Dayal Upadhyaya College,9,10,9,9
-20015587016,HARSH VERMA,Deen Dayal Upadhyaya College,9,10,9,9
-20015587017,JITENDER,Deen Dayal Upadhyaya College,8,9,8,9
-20015587018,Mohit kumar mishra,Deen Dayal Upadhyaya College,9,10,9,9
-20015587019,Neha,Deen Dayal Upadhyaya College,9,10,9,8
-20015587020,NIKHIL KUMAR,Deen Dayal Upadhyaya College,8,9,8,10
-20015587021,Pratiksha,Deen Dayal Upadhyaya College,9,9,9,9
-20015587022,Raghav Sahi,Deen Dayal Upadhyaya College,9,9,9,9
-20015587023,Raja Gola,Deen Dayal Upadhyaya College,9,10,8,8
-20015587024,Rajkumar Yadav,Deen Dayal Upadhyaya College,8,9,8,7
-20015587025,RISHIKESH BARELA,Deen Dayal Upadhyaya College,9,9,9,7
-20015587026,Riva Yadav,Deen Dayal Upadhyaya College,9,10,9,9
-20015587027,RUDRA PRATAP SINGH,Deen Dayal Upadhyaya College,9,8,9,9
-20015587028,Sahil Luthra,Deen Dayal Upadhyaya College,9,10,10,9
-20015587029,SHASHANK KUMAR PRAJAPATI,Deen Dayal Upadhyaya College,9,10,9,9
-20015587031,Shruti Varshneya,Deen Dayal Upadhyaya College,9,10,9,9
-20015587032,sonu,Deen Dayal Upadhyaya College,8,9,8,8
-20015587033,Tanmay Agrawal,Deen Dayal Upadhyaya College,9,9,9,10
-20015587034,Yatharth manroy,Deen Dayal Upadhyaya College,9,10,9,10
-20015587035,Gautam,Deen Dayal Upadhyaya College,8,8,9,10
-20015587036,Shreya Srivastava,Deen Dayal Upadhyaya College,9,10,9,10
-20015587037,Tejashwani Dubey,Deen Dayal Upadhyaya College,10,10,7,10
-20015587038,Shivani Rawat,Deen Dayal Upadhyaya College,9,10,8,10
-20015587039,PRASHANT,Deen Dayal Upadhyaya College,9,9,9,9
-20015587040,Utkarsh Pratap Singh,Deen Dayal Upadhyaya College,5,8,4,8
+RollNo,Name,College,PROBLEM SOLVING USING COMPUTER,CALCULUS AND MATRICES,INTRODUCTION TO OPERATIONAL RESEARCH AND LINEAR PROGRAMMING,ENVIRONMENTAL SCIENCE,DATABASE MANAGEMENT SYSTEM,CALCULUS AND GEOMETRY,INVENTORY AND MARKETING MANAGEMENT,ENGLISH-A
+20015587001,Abhishek,Deen Dayal Upadhyaya College,8,9,9,9,8,8,8,8
+20015587002,Abhishek Meena,Deen Dayal Upadhyaya College,8,8,8,9,8,8,8,8
+20015587003,Ajay Kumar,Deen Dayal Upadhyaya College,8,10,9,10,9,9,9,9
+20015587004,Ankit Kumar,Deen Dayal Upadhyaya College,8,10,9,9,8,8,7,8
+20015587005,Ansh,Deen Dayal Upadhyaya College,9,10,9,9,9,9,8,9
+20015587006,Antra Das,Deen Dayal Upadhyaya College,8,10,8,9,10,10,10,10
+20015587008,DIKSHA YADAV,Deen Dayal Upadhyaya College,8,9,9,10,9,10,9,9
+20015587009,Disha Pattnaik,Deen Dayal Upadhyaya College,9,10,9,9,9,10,10,10
+20015587011,FARHAAN,Deen Dayal Upadhyaya College,9,10,9,10,9,9,8,9
+20015587012,Ghanshyam Yadav,Deen Dayal Upadhyaya College,8,9,9,9,9,8,8,8
+20015587014,Hamza Moini,Deen Dayal Upadhyaya College,9,10,9,8,9,10,9,9
+20015587015,Harsh kansal,Deen Dayal Upadhyaya College,9,10,9,9,9,9,9,9
+20015587016,HARSH VERMA,Deen Dayal Upadhyaya College,9,10,9,9,9,9,9,9
+20015587017,JITENDER,Deen Dayal Upadhyaya College,8,9,8,9,8,7,6,7
+20015587018,Mohit kumar mishra,Deen Dayal Upadhyaya College,9,10,9,9,9,8,9,9
+20015587019,Neha,Deen Dayal Upadhyaya College,9,10,9,8,9,9,9,9
+20015587020,NIKHIL KUMAR,Deen Dayal Upadhyaya College,8,9,8,10,8,6,8,8
+20015587021,Pratiksha,Deen Dayal Upadhyaya College,9,9,9,9,9,9,10,9
+20015587022,Raghav Sahi,Deen Dayal Upadhyaya College,9,9,9,9,9,9,8,9
+20015587023,Raja Gola,Deen Dayal Upadhyaya College,9,10,8,8,9,9,8,9
+20015587024,Rajkumar Yadav,Deen Dayal Upadhyaya College,8,9,8,7,9,9,9,8
+20015587025,RISHIKESH BARELA,Deen Dayal Upadhyaya College,9,9,9,7,9,8,9,9
+20015587026,Riva Yadav,Deen Dayal Upadhyaya College,9,10,9,9,9,9,9,9
+20015587027,RUDRA PRATAP SINGH,Deen Dayal Upadhyaya College,9,8,9,9,9,8,8,9
+20015587028,Sahil Luthra,Deen Dayal Upadhyaya College,9,10,10,9,9,9,10,9
+20015587029,SHASHANK KUMAR PRAJAPATI,Deen Dayal Upadhyaya College,9,10,9,9,9,9,9,9
+20015587031,Shruti Varshneya,Deen Dayal Upadhyaya College,9,10,9,9,9,10,10,10
+20015587032,sonu,Deen Dayal Upadhyaya College,8,9,8,8,8,8,9,8
+20015587033,Tanmay Agrawal,Deen Dayal Upadhyaya College,9,9,9,10,9,9,10,9
+20015587034,Yatharth manroy,Deen Dayal Upadhyaya College,9,10,9,10,9,9,9,9
+20015587035,Gautam,Deen Dayal Upadhyaya College,8,8,9,10,8,8,8,8
+20015587036,Shreya Srivastava,Deen Dayal Upadhyaya College,9,10,9,10,9,10,10,10
+20015587037,Tejashwani Dubey,Deen Dayal Upadhyaya College,10,10,7,10,10,10,10,10
+20015587038,Shivani Rawat,Deen Dayal Upadhyaya College,9,10,8,10,9,9,9,9
+20015587039,PRASHANT,Deen Dayal Upadhyaya College,9,9,9,9,9,9,9,9

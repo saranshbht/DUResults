@@ -1,44 +1,42 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20035567001,ABHIMANYU,Keshav Mahavidyalaya,9.27,9.273
-20035567002,Aditya Kumar Singh,Keshav Mahavidyalaya,9.55,9.545
-20035567003,Ajay Kumar,Keshav Mahavidyalaya,9.09,9.091
-20035567004,Akash tyagi,Keshav Mahavidyalaya,9.00,9.000
-20035567005,ALINA,Keshav Mahavidyalaya,9.00,9.000
-20035567006,Amay Gupta,Keshav Mahavidyalaya,8.27,8.273
-20035567007,ANA,Keshav Mahavidyalaya,8.55,8.545
-20035567008,ANISH KUMAR,Keshav Mahavidyalaya,8.55,8.545
-20035567009,Ansh Bhutani,Keshav Mahavidyalaya,9.27,9.273
-20035567010,ANSHUL KHARE,Keshav Mahavidyalaya,9.09,9.091
-20035567011,Anuj Raghav,Keshav Mahavidyalaya,9.00,9.000
-20035567012,ASHISH YADAV,Keshav Mahavidyalaya,9.09,9.091
-20035567013,Bhairundhra,Keshav Mahavidyalaya,8.73,8.727
-20035567014,Danveer singh,Keshav Mahavidyalaya,9.36,9.364
-20035567015,Gaurav,Keshav Mahavidyalaya,9.45,9.455
-20035567016,Gaurav Kapri,Keshav Mahavidyalaya,9.55,9.545
-20035567017,HARSH KUMAR SOLANKI,Keshav Mahavidyalaya,8.55,8.545
-20035567018,HEMANT KUMAR,Keshav Mahavidyalaya,9.09,9.091
-20035567019,ishaan Sharma,Keshav Mahavidyalaya,5.45,5.455
-20035567020,Jasmeen Singh Berwal,Keshav Mahavidyalaya,9.27,9.273
-20035567021,Joshua,Keshav Mahavidyalaya,9.09,9.091
-20035567022,Karthikeya Kondepudy,Keshav Mahavidyalaya,8.45,8.455
-20035567023,Kritika Sachdeva,Keshav Mahavidyalaya,9.09,9.091
-20035567024,Manish Kumar,Keshav Mahavidyalaya,9.09,9.091
-20035567025,MONA,Keshav Mahavidyalaya,8.82,8.818
-20035567026,Monika,Keshav Mahavidyalaya,8.55,8.545
-20035567027,Nirmal Kumar,Keshav Mahavidyalaya,9.27,9.273
-20035567028,Nisha Roy,Keshav Mahavidyalaya,8.73,8.727
-20035567029,Palak Kumar,Keshav Mahavidyalaya,8.91,8.909
-20035567030,Pradeep Kumar,Keshav Mahavidyalaya,7.82,7.818
-20035567031,Prince,Keshav Mahavidyalaya,8.55,8.545
-20035567032,RAHUL,Keshav Mahavidyalaya,9.27,9.273
-20035567033,Rajnish Raj,Keshav Mahavidyalaya,9.09,9.091
-20035567034,Rishabh Kumar Sharma,Keshav Mahavidyalaya,9.55,9.545
-20035567035,ROHIT KUMAR,Keshav Mahavidyalaya,9.09,9.091
-20035567036,Ruksar,Keshav Mahavidyalaya,9.00,9.000
-20035567037,Sahil Singh Dariya,Keshav Mahavidyalaya,8.18,8.182
-20035567038,Sandeep Chauhan,Keshav Mahavidyalaya,9.27,9.273
-20035567039,Sanju,Keshav Mahavidyalaya,8.82,8.818
-20035567040,SHIVANGI,Keshav Mahavidyalaya,8.36,8.364
-20035567041,SOUMYA SINGH,Keshav Mahavidyalaya,6.55,6.545
-20035567042,Sumit Kumar,Keshav Mahavidyalaya,9.00,9.000
-20035567043,VIVEK PRASAD,Keshav Mahavidyalaya,0.00,0.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20035567001,ABHIMANYU,Keshav Mahavidyalaya,9.27,9.82,9.545
+20035567002,Aditya Kumar Singh,Keshav Mahavidyalaya,9.55,9.82,9.682
+20035567003,Ajay Kumar,Keshav Mahavidyalaya,9.09,8.82,8.955
+20035567004,Akash tyagi,Keshav Mahavidyalaya,9.00,9.55,9.273
+20035567005,ALINA,Keshav Mahavidyalaya,9.00,9.55,9.273
+20035567006,Amay Gupta,Keshav Mahavidyalaya,8.27,9.00,8.636
+20035567007,ANA,Keshav Mahavidyalaya,8.55,9.00,8.773
+20035567008,ANISH KUMAR,Keshav Mahavidyalaya,8.55,8.27,8.409
+20035567009,Ansh Bhutani,Keshav Mahavidyalaya,9.27,9.82,9.545
+20035567010,ANSHUL KHARE,Keshav Mahavidyalaya,9.09,8.82,8.955
+20035567011,Anuj Raghav,Keshav Mahavidyalaya,9.00,9.00,9.000
+20035567012,ASHISH YADAV,Keshav Mahavidyalaya,9.09,8.82,8.955
+20035567013,Bhairundhra,Keshav Mahavidyalaya,8.73,8.82,8.773
+20035567014,Danveer singh,Keshav Mahavidyalaya,9.36,9.55,9.455
+20035567015,Gaurav,Keshav Mahavidyalaya,9.45,9.55,9.500
+20035567016,Gaurav Kapri,Keshav Mahavidyalaya,9.55,9.55,9.545
+20035567017,HARSH KUMAR SOLANKI,Keshav Mahavidyalaya,8.55,7.73,8.136
+20035567018,HEMANT KUMAR,Keshav Mahavidyalaya,9.09,9.27,9.182
+20035567019,ishaan Sharma,Keshav Mahavidyalaya,5.45,8.00,6.727
+20035567021,Joshua,Keshav Mahavidyalaya,9.09,9.27,9.182
+20035567022,Karthikeya Kondepudy,Keshav Mahavidyalaya,8.45,9.00,8.727
+20035567023,Kritika Sachdeva,Keshav Mahavidyalaya,9.09,9.55,9.318
+20035567024,Manish Kumar,Keshav Mahavidyalaya,9.09,9.27,9.182
+20035567025,MONA,Keshav Mahavidyalaya,8.82,9.27,9.045
+20035567026,Monika,Keshav Mahavidyalaya,8.55,9.27,8.909
+20035567027,Nirmal Kumar,Keshav Mahavidyalaya,9.27,9.55,9.409
+20035567028,Nisha Roy,Keshav Mahavidyalaya,8.73,9.00,8.864
+20035567029,Palak Kumar,Keshav Mahavidyalaya,8.91,9.00,8.955
+20035567030,Pradeep Kumar,Keshav Mahavidyalaya,7.82,8.82,8.318
+20035567031,Prince,Keshav Mahavidyalaya,8.55,8.82,8.682
+20035567032,RAHUL,Keshav Mahavidyalaya,9.27,8.82,9.045
+20035567033,Rajnish Raj,Keshav Mahavidyalaya,9.09,9.27,9.182
+20035567034,Rishabh Kumar Sharma,Keshav Mahavidyalaya,9.55,9.82,9.682
+20035567035,ROHIT KUMAR,Keshav Mahavidyalaya,9.09,9.73,9.409
+20035567036,Ruksar,Keshav Mahavidyalaya,9.00,9.55,9.273
+20035567037,Sahil Singh Dariya,Keshav Mahavidyalaya,8.18,8.27,8.227
+20035567038,Sandeep Chauhan,Keshav Mahavidyalaya,9.27,9.00,9.136
+20035567039,Sanju,Keshav Mahavidyalaya,8.82,9.27,9.045
+20035567040,SHIVANGI,Keshav Mahavidyalaya,8.36,8.82,8.591
+20035567041,SOUMYA SINGH,Keshav Mahavidyalaya,9.27,9.55,9.409
+20035567042,Sumit Kumar,Keshav Mahavidyalaya,9.00,8.82,8.909

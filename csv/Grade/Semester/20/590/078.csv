@@ -1,47 +1,46 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20078590001,Ajitabh Rana,,8.18,8.182
-20078590002,AJITESH SINGH,,7.36,7.364
-20078590003,Akshit Chawla,,7.73,7.727
-20078590004,AMANPREET SINGH,,7.64,7.636
-20078590005,Anahat Kaur Thukral,,8.45,8.455
-20078590006,ANGAD SINGH KHURANA,,8.00,8.000
-20078590008,Arshpreet Kaur,,8.18,8.182
-20078590009,ARYAN CHOPRA,,9.00,9.000
-20078590010,Aryan Jain,,7.73,7.727
-20078590011,Dhruvdeep Singh Bakshi,,7.91,7.909
-20078590012,DS Arryaman,,8.00,8.000
-20078590013,Ekamjot Singh,,8.00,8.000
-20078590014,Garv Makan,,7.55,7.545
-20078590015,gurleen kaur,,8.18,8.182
-20078590016,Gursahib Singh,,7.55,7.545
-20078590017,GURVANSH SINGH VARMANI,,8.45,8.455
-20078590018,HARGUN SINGH JUNEJA,,7.27,7.273
-20078590019,HARMEET SINGH,,7.73,7.727
-20078590021,Harshit Pancholi,,8.00,8.000
-20078590022,HEMANT SARAF,,7.73,7.727
-20078590023,Japlin Kaur Arora,,7.91,7.909
-20078590024,Jaskaranpal Singh,,7.73,7.727
-20078590025,Jaskirat singh,,7.45,7.455
-20078590026,KARTIK GOEL,,7.18,7.182
-20078590027,kiyoshi goel,,7.73,7.727
-20078590028,KRISHNA SHARMA,,7.73,7.727
-20078590029,Kushagra Khurana,,8.00,8.000
-20078590030,Mankirat Singh,,8.27,8.273
-20078590031,NAVPREET KAUR,,8.27,8.273
-20078590032,Nishtha Garg,,9.18,9.182
-20078590033,Piyush Kapil,,8.73,8.727
-20078590034,PRABHLEEN SINGH NAGPAL,,7.18,7.182
-20078590035,Rasesh Ranjan,,8.18,8.182
-20078590036,REET KAUR CHADHA,,8.91,8.909
-20078590037,Rhythm jain,,7.91,7.909
-20078590038,Rishi Bansal,,7.55,7.545
-20078590039,Rohan Arora,,8.64,8.636
-20078590040,Ruheen Singh,,9.00,9.000
-20078590041,Samarth Gupta,,8.45,8.455
-20078590042,Samarth Tagra,,8.00,8.000
-20078590043,SANYA BANSAL,,7.91,7.909
-20078590044,SANYAM CHUGH,,8.00,8.000
-20078590045,Shaurya Palit,,8.45,8.455
-20078590047,SHINEPREET KAUR,,8.91,8.909
-20078590048,SHREYA JAIN,,7.91,7.909
-20078590049,sneh kaur matta,,8.18,8.182
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20078590001,Ajitabh Rana,Sri Guru Gobind Singh College Of Commerce,8.18,9.00,8.591
+20078590002,AJITESH SINGH,Sri Guru Gobind Singh College Of Commerce,7.36,8.18,7.773
+20078590003,Akshit Chawla,Sri Guru Gobind Singh College Of Commerce,7.73,9.00,8.364
+20078590004,AMANPREET SINGH,Sri Guru Gobind Singh College Of Commerce,7.64,9.00,8.318
+20078590005,Anahat Kaur Thukral,Sri Guru Gobind Singh College Of Commerce,8.45,9.00,8.727
+20078590006,ANGAD SINGH KHURANA,Sri Guru Gobind Singh College Of Commerce,8.00,9.00,8.500
+20078590007,Anuj Ghai,Sri Guru Gobind Singh College Of Commerce,8.27,8.82,8.545
+20078590010,Aryan Jain,Sri Guru Gobind Singh College Of Commerce,7.73,8.00,7.864
+20078590011,Dhruvdeep Singh Bakshi,Sri Guru Gobind Singh College Of Commerce,7.91,9.00,8.455
+20078590012,DS Arryaman,Sri Guru Gobind Singh College Of Commerce,8.00,8.27,8.136
+20078590013,Ekamjot Singh,Sri Guru Gobind Singh College Of Commerce,8.00,9.00,8.500
+20078590014,Garv Makan,Sri Guru Gobind Singh College Of Commerce,7.55,8.82,8.182
+20078590015,gurleen kaur,Sri Guru Gobind Singh College Of Commerce,8.18,9.00,8.591
+20078590016,Gursahib Singh,Sri Guru Gobind Singh College Of Commerce,7.55,8.18,7.864
+20078590017,GURVANSH SINGH VARMANI,Sri Guru Gobind Singh College Of Commerce,8.45,9.00,8.727
+20078590018,HARGUN SINGH JUNEJA,Sri Guru Gobind Singh College Of Commerce,7.27,9.00,8.136
+20078590019,HARMEET SINGH,Sri Guru Gobind Singh College Of Commerce,7.73,8.18,7.955
+20078590020,HARSHEEN KAUR LAMBA,Sri Guru Gobind Singh College Of Commerce,8.18,9.00,8.591
+20078590021,Harshit Pancholi,Sri Guru Gobind Singh College Of Commerce,8.00,8.27,8.136
+20078590022,HEMANT SARAF,Sri Guru Gobind Singh College Of Commerce,7.73,8.00,7.864
+20078590023,Japlin Kaur Arora,Sri Guru Gobind Singh College Of Commerce,7.91,9.00,8.455
+20078590024,Jaskaranpal Singh,Sri Guru Gobind Singh College Of Commerce,7.73,9.00,8.364
+20078590025,Jaskirat singh,Sri Guru Gobind Singh College Of Commerce,7.45,8.27,7.864
+20078590026,KARTIK GOEL,Sri Guru Gobind Singh College Of Commerce,7.18,8.00,7.591
+20078590027,kiyoshi goel,Sri Guru Gobind Singh College Of Commerce,7.73,8.73,8.227
+20078590028,KRISHNA SHARMA,Sri Guru Gobind Singh College Of Commerce,7.73,7.73,7.727
+20078590029,Kushagra Khurana,Sri Guru Gobind Singh College Of Commerce,8.00,8.82,8.409
+20078590030,Mankirat Singh,Sri Guru Gobind Singh College Of Commerce,8.27,9.00,8.636
+20078590031,NAVPREET KAUR,Sri Guru Gobind Singh College Of Commerce,8.27,9.00,8.636
+20078590033,Piyush Kapil,Sri Guru Gobind Singh College Of Commerce,8.73,9.00,8.864
+20078590034,PRABHLEEN SINGH NAGPAL,Sri Guru Gobind Singh College Of Commerce,7.18,8.73,7.955
+20078590035,Rasesh Ranjan,Sri Guru Gobind Singh College Of Commerce,8.18,8.55,8.364
+20078590036,REET KAUR CHADHA,Sri Guru Gobind Singh College Of Commerce,8.91,9.73,9.318
+20078590037,Rhythm jain,Sri Guru Gobind Singh College Of Commerce,7.91,8.82,8.364
+20078590038,Rishi Bansal,Sri Guru Gobind Singh College Of Commerce,7.55,8.00,7.773
+20078590039,Rohan Arora,Sri Guru Gobind Singh College Of Commerce,8.64,9.00,8.818
+20078590040,Ruheen Singh,Sri Guru Gobind Singh College Of Commerce,9.00,9.27,9.136
+20078590041,Samarth Gupta,Sri Guru Gobind Singh College Of Commerce,8.45,9.00,8.727
+20078590042,Samarth Tagra,Sri Guru Gobind Singh College Of Commerce,8.00,9.00,8.500
+20078590043,SANYA BANSAL,Sri Guru Gobind Singh College Of Commerce,7.91,9.00,8.455
+20078590044,SANYAM CHUGH,Sri Guru Gobind Singh College Of Commerce,8.00,7.73,7.864
+20078590045,Shaurya Palit,Sri Guru Gobind Singh College Of Commerce,8.45,9.00,8.727
+20078590046,Shaurya Sachdeva,Sri Guru Gobind Singh College Of Commerce,8.18,9.00,8.591
+20078590048,SHREYA JAIN,Sri Guru Gobind Singh College Of Commerce,7.91,9.00,8.455
+20078590049,sneh kaur matta,Sri Guru Gobind Singh College Of Commerce,8.18,9.00,8.591

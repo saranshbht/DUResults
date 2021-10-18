@@ -1,40 +1,34 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20062533001,Anam,Satyawati College (Day),4.55,4.545
-20062533002,Anas Chaudhary,Satyawati College (Day),6.45,6.455
-20062533003,ASHU,Satyawati College (Day),6.18,6.182
-20062533004,Attaullah,Satyawati College (Day),4.73,4.727
-20062533005,DANISH,Satyawati College (Day),5.91,5.909
-20062533006,Hamza mohd khan,Satyawati College (Day),6.36,6.364
-20062533007,Kafeel Ahmad,Satyawati College (Day),3.64,3.636
-20062533008,MD MERAJ ANSARI,Satyawati College (Day),6.45,6.455
-20062533009,MD SABDAR HUSSAIN,Satyawati College (Day),6.45,6.455
-20062533010,Mohd Abrar Jan,Satyawati College (Day),6.91,6.909
-20062533011,Mohd aijaz,Satyawati College (Day),7.18,7.182
-20062533012,Mohd Anas Chauhan,Satyawati College (Day),2.27,2.273
-20062533013,Mohd faiz qureshi,Satyawati College (Day),6.45,6.455
-20062533015,Mohd Nazir,Satyawati College (Day),2.00,2.000
-20062533016,Mohd Shanu,Satyawati College (Day),6.73,6.727
-20062533017,Mohd Talib,Satyawati College (Day),1.45,1.455
-20062533018,Mohd zubaid,Satyawati College (Day),6.36,6.364
-20062533019,Nikhat Parveen,Satyawati College (Day),7.00,7.000
-20062533020,RUKHSAR,Satyawati College (Day),7.18,7.182
-20062533021,Samreen,Satyawati College (Day),7.45,7.455
-20062533022,Sanobar khatoon,Satyawati College (Day),8.00,8.000
-20062533023,SARFARAZ,Satyawati College (Day),6.64,6.636
-20062533024,Shahrukh,Satyawati College (Day),0.00,0.000
-20062533025,Sofia Rehman amsari,Satyawati College (Day),7.73,7.727
-20062533026,Suhail ahmed,Satyawati College (Day),6.18,6.182
-20062533027,Tahura Saleem,Satyawati College (Day),7.45,7.455
-20062533028,Tarique Anwar,Satyawati College (Day),3.73,3.727
-20062533030,Zaid raza,Satyawati College (Day),6.82,6.818
-20062533031,Astana,Satyawati College (Day),7.45,7.455
-20062533032,BHASHKAR SINGH,Satyawati College (Day),5.82,5.818
-20062533033,Gulafsha,Satyawati College (Day),7.45,7.455
-20062533034,GULZAR FATMA,Satyawati College (Day),6.91,6.909
-20062533035,Iqra parveen,Satyawati College (Day),0.91,0.909
-20062533037,Muskan,Satyawati College (Day),4.73,4.727
-20062533038,Ramiz sarwar,Satyawati College (Day),2.64,2.636
-20062533039,Umme kulshum,Satyawati College (Day),1.09,1.091
-20062533040,MOHAMMED SHAHIN KS,Satyawati College (Day),3.36,3.364
-20062533041,MUHAMMED SAHAL FAIZ,Satyawati College (Day),0.00,0.000
-20062533042,Mohd Iqbal,Satyawati College (Day),6.36,6.364
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20062533001,Anam,Satyawati College (Day),5.91,6.73,6.318
+20062533002,Anas Chaudhary,Satyawati College (Day),6.45,7.18,6.818
+20062533003,ASHU,Satyawati College (Day),6.18,4.55,5.364
+20062533004,Attaullah,Satyawati College (Day),4.73,6.00,5.364
+20062533005,DANISH,Satyawati College (Day),5.91,6.27,6.091
+20062533006,Hamza mohd khan,Satyawati College (Day),6.36,8.00,7.182
+20062533007,Kafeel Ahmad,Satyawati College (Day),3.64,7.45,5.545
+20062533008,MD MERAJ ANSARI,Satyawati College (Day),6.45,6.73,6.591
+20062533010,Mohd Abrar Jan,Satyawati College (Day),6.91,8.00,7.455
+20062533011,Mohd aijaz,Satyawati College (Day),7.18,7.27,7.227
+20062533013,Mohd faiz qureshi,Satyawati College (Day),6.45,6.18,6.318
+20062533014,Mohd Murtaza,Satyawati College (Day),5.64,6.27,5.955
+20062533016,Mohd Shanu,Satyawati College (Day),6.73,7.55,7.136
+20062533017,Mohd Talib,Satyawati College (Day),6.64,8.00,7.318
+20062533018,Mohd zubaid,Satyawati College (Day),6.36,6.45,6.409
+20062533019,Nikhat Parveen,Satyawati College (Day),7.00,7.73,7.364
+20062533021,Samreen,Satyawati College (Day),7.45,8.18,7.818
+20062533022,Sanobar khatoon,Satyawati College (Day),8.00,7.91,7.955
+20062533023,SARFARAZ,Satyawati College (Day),6.64,8.00,7.318
+20062533025,Sofia Rehman amsari,Satyawati College (Day),7.73,7.73,7.727
+20062533026,Suhail ahmed,Satyawati College (Day),6.18,6.73,6.455
+20062533029,Tayab,Satyawati College (Day),7.18,7.73,7.455
+20062533030,Zaid raza,Satyawati College (Day),6.82,6.18,6.500
+20062533031,Astana,Satyawati College (Day),7.45,7.73,7.591
+20062533032,BHASHKAR SINGH,Satyawati College (Day),5.82,4.91,5.364
+20062533033,Gulafsha,Satyawati College (Day),7.45,7.73,7.591
+20062533034,GULZAR FATMA,Satyawati College (Day),6.91,7.18,7.045
+20062533036,Kahkasha anjum,Satyawati College (Day),0.00,7.73,3.864
+20062533037,Muskan,Satyawati College (Day),4.73,0.91,2.818
+20062533038,Ramiz sarwar,Satyawati College (Day),2.64,7.00,4.818
+20062533040,MOHAMMED SHAHIN KS,Satyawati College (Day),3.36,6.00,4.682
+20062533041,MUHAMMED SAHAL FAIZ,Satyawati College (Day),0.00,0.00,0.000
+20062533042,Mohd Iqbal,Satyawati College (Day),6.36,4.91,5.636

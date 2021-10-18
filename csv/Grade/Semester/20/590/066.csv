@@ -1,58 +1,57 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20066590001,AAYUSHI PURWAR,,8.55,8.545
-20066590002,Amisha Jain,,9.36,9.364
-20066590003,Anshu Singh,,9.09,9.091
-20066590004,Benika,,8.64,8.636
-20066590005,Diya Kameria,,8.55,8.545
-20066590006,Gunjan Aggarwal,,8.27,8.273
-20066590007,Hayena Gupta,,8.18,8.182
-20066590008,Isha Kumari Dhawan,,8.00,8.000
-20066590009,Ishika Jain,,8.36,8.364
-20066590010,Kanchan Chauhan,,8.82,8.818
-20066590011,KASHISH POSWAL,,7.55,7.545
-20066590012,Khushi Bhadana,,8.82,8.818
-20066590013,Khushi Choudhary,,8.00,8.000
-20066590014,Mehak Jain,,7.73,7.727
-20066590015,MUSKAN GUPTA,,7.55,7.545
-20066590016,Naina koli,,8.00,8.000
-20066590017,NANCY,,8.18,8.182
-20066590018,Nandini Chopra,,8.00,8.000
-20066590019,Palak,,8.09,8.091
-20066590020,PALAK JAIN,,9.09,9.091
-20066590021,Pratishtha Shrivastava,,8.73,8.727
-20066590022,Priyansha Sharma,,8.55,8.545
-20066590023,Priyanshi Gupta,,9.00,9.000
-20066590024,Priyanshi Saini,,8.82,8.818
-20066590025,Ravleen Bajaj,,8.55,8.545
-20066590026,Ridhima Jhanginia,,8.45,8.455
-20066590027,RISHBHA ARORA,,9.55,9.545
-20066590028,Sanjoli Saxena,,8.36,8.364
-20066590029,Saumya Gupta,,8.18,8.182
-20066590030,Sonali,,9.00,9.000
-20066590031,STUTI JAIN,,8.00,8.000
-20066590032,SURBHI,,8.82,8.818
-20066590033,Urvashi,,8.27,8.273
-20066590034,Varsha Yadav,,8.00,8.000
-20066590035,YASHI GUPTA,,8.36,8.364
-20066590036,Aditi Khattar,,9.00,9.000
-20066590037,Apoorva,,8.09,8.091
-20066590038,AYUSHI VERMA,,6.45,6.455
-20066590039,Bhoomika kalra,,8.82,8.818
-20066590040,Garima,,8.55,8.545
-20066590041,Isha Arora,,8.00,8.000
-20066590042,Jahantab Azad,,6.36,6.364
-20066590043,Khushi,,8.00,8.000
-20066590044,KHUSHI SAINI,,8.82,8.818
-20066590045,Lakshita gupta,,8.27,8.273
-20066590047,Prachi Gupta,,8.18,8.182
-20066590048,Prerna,,7.82,7.818
-20066590049,Rutuja Vitthalrao Ubale,,8.36,8.364
-20066590050,Shreya Sahu,,8.27,8.273
-20066590051,SHRUTI AGGARWAL,,8.45,8.455
-20066590052,Shruti Kashyap,,7.82,7.818
-20066590053,Sukhdeep kaur,,7.73,7.727
-20066590054,Swati,,7.27,7.273
-20066590055,VANSHIKA ARORA,,8.82,8.818
-20066590056,Vanshika Rattan,,7.73,7.727
-20066590057,Ritul Verma,,8.09,8.091
-20066590058,Vijaya bharti,,7.00,7.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20066590001,AAYUSHI PURWAR,Shaheed Rajguru College of Applied Sciences for Women,8.55,9.00,8.773
+20066590002,Amisha Jain,Shaheed Rajguru College of Applied Sciences for Women,9.36,9.00,9.182
+20066590003,Anshu Singh,Shaheed Rajguru College of Applied Sciences for Women,9.09,9.27,9.182
+20066590004,Benika,Shaheed Rajguru College of Applied Sciences for Women,8.64,9.00,8.818
+20066590005,Diya Kameria,Shaheed Rajguru College of Applied Sciences for Women,8.55,9.00,8.773
+20066590006,Gunjan Aggarwal,Shaheed Rajguru College of Applied Sciences for Women,8.27,9.00,8.636
+20066590007,Hayena Gupta,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.55,8.364
+20066590008,Isha Kumari Dhawan,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.82,8.409
+20066590009,Ishika Jain,Shaheed Rajguru College of Applied Sciences for Women,8.36,8.82,8.591
+20066590010,Kanchan Chauhan,Shaheed Rajguru College of Applied Sciences for Women,8.82,8.55,8.682
+20066590011,KASHISH POSWAL,Shaheed Rajguru College of Applied Sciences for Women,7.55,8.27,7.909
+20066590012,Khushi Bhadana,Shaheed Rajguru College of Applied Sciences for Women,8.82,9.00,8.909
+20066590013,Khushi Choudhary,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.00,8.000
+20066590014,Mehak Jain,Shaheed Rajguru College of Applied Sciences for Women,7.73,8.00,7.864
+20066590015,MUSKAN GUPTA,Shaheed Rajguru College of Applied Sciences for Women,7.55,8.82,8.182
+20066590016,Naina koli,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.00,8.000
+20066590017,NANCY,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.82,8.500
+20066590018,Nandini Chopra,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.55,8.273
+20066590019,Palak,Shaheed Rajguru College of Applied Sciences for Women,8.09,8.00,8.045
+20066590020,PALAK JAIN,Shaheed Rajguru College of Applied Sciences for Women,9.09,8.73,8.909
+20066590021,Pratishtha Shrivastava,Shaheed Rajguru College of Applied Sciences for Women,8.73,9.00,8.864
+20066590022,Priyansha Sharma,Shaheed Rajguru College of Applied Sciences for Women,8.55,8.55,8.545
+20066590023,Priyanshi Gupta,Shaheed Rajguru College of Applied Sciences for Women,9.00,9.00,9.000
+20066590024,Priyanshi Saini,Shaheed Rajguru College of Applied Sciences for Women,8.82,9.00,8.909
+20066590025,Ravleen Bajaj,Shaheed Rajguru College of Applied Sciences for Women,8.55,8.82,8.682
+20066590026,Ridhima Jhanginia,Shaheed Rajguru College of Applied Sciences for Women,8.45,8.27,8.364
+20066590027,RISHBHA ARORA,Shaheed Rajguru College of Applied Sciences for Women,9.55,9.82,9.682
+20066590028,Sanjoli Saxena,Shaheed Rajguru College of Applied Sciences for Women,8.36,8.55,8.455
+20066590029,Saumya Gupta,Shaheed Rajguru College of Applied Sciences for Women,8.18,7.73,7.955
+20066590030,Sonali,Shaheed Rajguru College of Applied Sciences for Women,9.00,9.27,9.136
+20066590031,STUTI JAIN,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.27,8.136
+20066590032,SURBHI,Shaheed Rajguru College of Applied Sciences for Women,8.82,8.64,8.727
+20066590033,Urvashi,Shaheed Rajguru College of Applied Sciences for Women,8.27,8.55,8.409
+20066590034,Varsha Yadav,Shaheed Rajguru College of Applied Sciences for Women,8.00,7.73,7.864
+20066590035,YASHI GUPTA,Shaheed Rajguru College of Applied Sciences for Women,8.36,9.00,8.682
+20066590036,Aditi Khattar,Shaheed Rajguru College of Applied Sciences for Women,9.00,9.00,9.000
+20066590037,Apoorva,Shaheed Rajguru College of Applied Sciences for Women,8.09,8.27,8.182
+20066590039,Bhoomika kalra,Shaheed Rajguru College of Applied Sciences for Women,8.82,8.55,8.682
+20066590040,Garima,Shaheed Rajguru College of Applied Sciences for Women,8.55,9.55,9.045
+20066590041,Isha Arora,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.00,8.000
+20066590042,Jahantab Azad,Shaheed Rajguru College of Applied Sciences for Women,6.36,8.00,7.182
+20066590043,Khushi,Shaheed Rajguru College of Applied Sciences for Women,8.00,8.82,8.409
+20066590044,KHUSHI SAINI,Shaheed Rajguru College of Applied Sciences for Women,8.82,8.82,8.818
+20066590045,Lakshita gupta,Shaheed Rajguru College of Applied Sciences for Women,8.27,8.55,8.409
+20066590046,PALAK JAIN,Shaheed Rajguru College of Applied Sciences for Women,8.64,9.27,8.955
+20066590047,Prachi Gupta,Shaheed Rajguru College of Applied Sciences for Women,8.18,8.82,8.500
+20066590048,Prerna,Shaheed Rajguru College of Applied Sciences for Women,7.82,8.55,8.182
+20066590049,Rutuja Vitthalrao Ubale,Shaheed Rajguru College of Applied Sciences for Women,8.36,8.00,8.182
+20066590050,Shreya Sahu,Shaheed Rajguru College of Applied Sciences for Women,8.27,8.82,8.545
+20066590051,SHRUTI AGGARWAL,Shaheed Rajguru College of Applied Sciences for Women,8.45,8.82,8.636
+20066590052,Shruti Kashyap,Shaheed Rajguru College of Applied Sciences for Women,7.82,7.27,7.545
+20066590053,Sukhdeep kaur,Shaheed Rajguru College of Applied Sciences for Women,7.73,7.55,7.636
+20066590054,Swati,Shaheed Rajguru College of Applied Sciences for Women,7.27,8.27,7.773
+20066590055,VANSHIKA ARORA,Shaheed Rajguru College of Applied Sciences for Women,8.82,8.27,8.545
+20066590056,Vanshika Rattan,Shaheed Rajguru College of Applied Sciences for Women,7.73,8.00,7.864
+20066590057,Ritul Verma,Shaheed Rajguru College of Applied Sciences for Women,8.09,7.82,7.955

@@ -1,13 +1,10 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20225719001,kumar Sambhav Singh Sengar,Department of Adult Education,7.25,7.250
-20225719002,PANKAJ KUMAR,Department of Adult Education,7.25,7.250
-20225719003,PRABHANSHU RANJAN,Department of Adult Education,6.00,6.000
-20225719004,Prapti Chadha,Department of Adult Education,7.75,7.750
-20225719005,PUSHKAR DWIVEDI,Department of Adult Education,0.00,0.000
-20225719006,Pushpendra kumar,Department of Adult Education,0.00,0.000
-20225719007,Rohit kumar,Department of Adult Education,0.00,0.000
-20225719008,Sukanya Bora,Department of Adult Education,7.25,7.250
-20225719009,AAMIR RAZA,Department of Adult Education,6.00,6.000
-20225719010,KOTAPATI ASHOK KUMAR,Department of Adult Education,7.50,7.500
-20225719011,Sumedha sharma,Department of Adult Education,7.75,7.750
-20225719012,VIKAS KUMAR,Department of Adult Education,6.75,6.750
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20225719001,kumar Sambhav Singh Sengar,Department of Adult Education,7.25,6.47,6.872
+20225719002,PANKAJ KUMAR,Department of Adult Education,7.25,7.00,7.128
+20225719003,PRABHANSHU RANJAN,Department of Adult Education,6.00,4.79,5.410
+20225719004,Prapti Chadha,Department of Adult Education,7.75,8.00,7.872
+20225719008,Sukanya Bora,Department of Adult Education,7.25,7.00,7.128
+20225719009,AAMIR RAZA,Department of Adult Education,6.00,7.00,6.487
+20225719010,KOTAPATI ASHOK KUMAR,Department of Adult Education,7.50,7.00,7.256
+20225719011,Sumedha sharma,Department of Adult Education,7.75,0.00,3.974
+20225719012,VIKAS KUMAR,Department of Adult Education,6.75,6.05,6.410

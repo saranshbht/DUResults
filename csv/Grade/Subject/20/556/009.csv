@@ -1,30 +1,26 @@
-RollNo,Name,College,MICROBIOLOGY AND PHYCOLOGY,BIOMOLECULES AND CELL BIOLOGY,"ATOMIC STRUCTURE,BONDING,GENERAL ORGANIC CHEMISTRY & ALIPHATIC HYDROCARBONS",ENVIRONMENTAL SCIENCE
-20009556001,ABHIGYAN SHEKHAR MISHRA,Bhaskaracharya College of Applied Sciences,10,9,9,9
-20009556002,ADWAITHA G,Bhaskaracharya College of Applied Sciences,9,9,8,9
-20009556003,AKANSHA RAJGURU,Bhaskaracharya College of Applied Sciences,9,10,9,8
-20009556004,Akash kumar,Bhaskaracharya College of Applied Sciences,9,9,8,6
-20009556005,Akshay kumar,Bhaskaracharya College of Applied Sciences,7,0,7,8
-20009556006,Aman Mishra,Bhaskaracharya College of Applied Sciences,10,0,10,9
-20009556007,ARDRA SADANAND,Bhaskaracharya College of Applied Sciences,10,10,9,9
-20009556008,Ashmita,Bhaskaracharya College of Applied Sciences,9,9,9,8
-20009556009,Bipasha mehta,Bhaskaracharya College of Applied Sciences,10,0,9,7
-20009556010,Gunjan sood,Bhaskaracharya College of Applied Sciences,0,0,9,9
-20009556011,Jahnvi bagga,Bhaskaracharya College of Applied Sciences,10,0,9,9
-20009556012,Kavita,Bhaskaracharya College of Applied Sciences,9,0,6,8
-20009556013,Lalit Kumar,Bhaskaracharya College of Applied Sciences,9,0,7,7
-20009556014,M Winston Kom,Bhaskaracharya College of Applied Sciences,8,8,7,8
-20009556015,Mayank Verma,Bhaskaracharya College of Applied Sciences,10,9,9,9
-20009556016,NAMAN GAUTAM,Bhaskaracharya College of Applied Sciences,9,9,9,9
-20009556017,Pidathala kalyan kumar,Bhaskaracharya College of Applied Sciences,9,0,7,8
-20009556018,Priyanka Saroj,Bhaskaracharya College of Applied Sciences,9,9,8,8
-20009556019,Rajat Tiwari,Bhaskaracharya College of Applied Sciences,0,9,9,8
-20009556020,RASHI SINGH,Bhaskaracharya College of Applied Sciences,10,9,9,8
-20009556021,Rinky yadav,Bhaskaracharya College of Applied Sciences,8,8,8,8
-20009556022,SALEHA PARVIN,Bhaskaracharya College of Applied Sciences,10,9,9,9
-20009556023,SHIKSHA,Bhaskaracharya College of Applied Sciences,8,8,8,8
-20009556024,SIMRAN SHEORAN,Bhaskaracharya College of Applied Sciences,10,0,8,9
-20009556025,SWETA BHARDWAJ,Bhaskaracharya College of Applied Sciences,10,9,8,8
-20009556026,Tannu,Bhaskaracharya College of Applied Sciences,10,9,8,9
-20009556027,VATSALA,Bhaskaracharya College of Applied Sciences,9,0,9,8
-20009556028,yash kumar,Bhaskaracharya College of Applied Sciences,8,0,8,7
-20009556029,Yash Makkar,Bhaskaracharya College of Applied Sciences,9,0,8,8
+RollNo,Name,College,MICROBIOLOGY AND PHYCOLOGY,BIOMOLECULES AND CELL BIOLOGY,"ATOMIC STRUCTURE,BONDING,GENERAL ORGANIC CHEMISTRY & ALIPHATIC HYDROCARBONS",ENVIRONMENTAL SCIENCE,MYCOLOGY AND PHYTOPATHOLOGY,ARCHEGONIATAE,CONCEPTS IN BIOTECHNOLOGY,ENGLISH-A,PSYCHOLOGY AND MENTAL HEALTH,HUMAN PHYSIOLOGY,PROTEINS AND ENZYMES,FOOD MICROBIOLOGY AND FOOD SAFETY,OBESITY MANAGEMENT,ELEMENTS OF MODERN PHYSICS
+20009556001,ABHIGYAN SHEKHAR MISHRA,Bhaskaracharya College of Applied Sciences,10,9,9,9,10,10,10,10,,,,,,
+20009556002,ADWAITHA G,Bhaskaracharya College of Applied Sciences,9,9,8,9,10,10,,9,10,,,,,
+20009556003,AKANSHA RAJGURU,Bhaskaracharya College of Applied Sciences,9,10,9,8,10,10,9,9,,,,,,
+20009556006,Aman Mishra,Bhaskaracharya College of Applied Sciences,10,9,10,9,10,10,,10,10,,,,,
+20009556007,ARDRA SADANAND,Bhaskaracharya College of Applied Sciences,10,10,9,9,10,10,,9,10,,,,,
+20009556008,Ashmita,Bhaskaracharya College of Applied Sciences,9,9,9,8,9,10,,9,,9,,,,
+20009556009,Bipasha mehta,Bhaskaracharya College of Applied Sciences,10,9,9,7,10,9,9,9,,,,,,
+20009556010,Gunjan sood,Bhaskaracharya College of Applied Sciences,10,9,9,9,10,10,,10,,,10,,,
+20009556011,Jahnvi bagga,Bhaskaracharya College of Applied Sciences,10,9,9,9,10,10,9,9,,,,,,
+20009556012,Kavita,Bhaskaracharya College of Applied Sciences,9,8,6,8,9,9,,9,,,,9,,
+20009556013,Lalit Kumar,Bhaskaracharya College of Applied Sciences,9,8,7,7,9,9,,8,,,,,9,
+20009556014,M Winston Kom,Bhaskaracharya College of Applied Sciences,8,8,7,8,6,7,,6,,,6,,,
+20009556015,Mayank Verma,Bhaskaracharya College of Applied Sciences,10,9,9,9,10,10,,10,,,,10,,
+20009556016,NAMAN GAUTAM,Bhaskaracharya College of Applied Sciences,9,9,9,9,10,10,,10,,,,10,,
+20009556017,Pidathala kalyan kumar,Bhaskaracharya College of Applied Sciences,9,8,7,8,8,8,,8,7,,,,,
+20009556018,Priyanka Saroj,Bhaskaracharya College of Applied Sciences,9,9,8,8,9,9,8,9,,,,,,
+20009556020,RASHI SINGH,Bhaskaracharya College of Applied Sciences,10,9,9,8,10,10,9,9,,,,,,
+20009556021,Rinky yadav,Bhaskaracharya College of Applied Sciences,8,8,8,8,9,9,,9,,8,,,,
+20009556022,SALEHA PARVIN,Bhaskaracharya College of Applied Sciences,10,9,9,9,10,10,9,10,,,,,,
+20009556023,SHIKSHA,Bhaskaracharya College of Applied Sciences,8,8,8,8,9,9,,9,,,,,,8
+20009556024,SIMRAN SHEORAN,Bhaskaracharya College of Applied Sciences,10,9,8,9,9,9,8,9,,,,,,
+20009556025,SWETA BHARDWAJ,Bhaskaracharya College of Applied Sciences,10,9,8,8,9,9,,9,,9,,,,
+20009556026,Tannu,Bhaskaracharya College of Applied Sciences,10,9,8,9,10,10,,9,,,,10,,
+20009556027,VATSALA,Bhaskaracharya College of Applied Sciences,9,9,9,8,9,9,8,9,,,,,,
+20009556029,Yash Makkar,Bhaskaracharya College of Applied Sciences,9,9,8,8,9,9,,9,,,,10,,

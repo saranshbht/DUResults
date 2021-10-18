@@ -1,38 +1,32 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-19204512001,AASTHA BISHT,Department of Germanic and Romance Studies,8.18,8.73,8.455
-19204512002,AKRITI AGARWAL,Department of Germanic and Romance Studies,8.82,9.27,9.045
-19204512003,AMIT,Department of Germanic and Romance Studies,3.36,,3.364
-19204512004,AMIT,Department of Germanic and Romance Studies,7.18,7.73,7.455
-19204512005,ANJALI GUPTA,Department of Germanic and Romance Studies,0.00,,0.000
-19204512006,ASHOK KUMAR,Department of Germanic and Romance Studies,7.18,7.91,7.545
-19204512007,SACHIN,Department of Germanic and Romance Studies,6.18,7.18,6.682
-19204512008,DEEPIKA VERMA,Department of Germanic and Romance Studies,6.45,7.73,7.091
-19204512009,FIDHA TM,Department of Germanic and Romance Studies,6.36,6.91,6.636
-19204512010,GARIMA,Department of Germanic and Romance Studies,6.91,,6.909
-19204512011,HADIYA BACKER,Department of Germanic and Romance Studies,5.36,6.45,5.909
-19204512012,ISHITA GOEL,Department of Germanic and Romance Studies,9.09,9.27,9.182
-19204512013,KANAV SODHI,Department of Germanic and Romance Studies,8.45,8.45,8.455
-19204512014,KARTIK SHRIVASTAVA,Department of Germanic and Romance Studies,8.55,8.73,8.636
-19204512015,MANIKA GUPTA,Department of Germanic and Romance Studies,7.73,7.45,7.591
-19204512016,NIDHI KUMARI,Department of Germanic and Romance Studies,6.55,7.45,7.000
-19204512017,POOJA BHATNAGAR,Department of Germanic and Romance Studies,7.18,7.45,7.318
-19204512018,RASHIKA SOM,Department of Germanic and Romance Studies,9.00,9.27,9.136
-19204512019,RHEA SEHGAL,Department of Germanic and Romance Studies,7.45,7.64,7.545
-19204512020,RITU BULAN,Department of Germanic and Romance Studies,6.18,6.91,6.545
-19204512021,SAGAR NIGAM,Department of Germanic and Romance Studies,7.09,7.73,7.409
-19204512022,SAKSHAM MINGLANI,Department of Germanic and Romance Studies,8.00,8.18,8.091
-19204512023,SHRUTI KHANNA,Department of Germanic and Romance Studies,8.55,9.00,8.773
-19204512024,SONAM CHOTSO,Department of Germanic and Romance Studies,6.27,7.45,6.864
-19204512025,STUTI MUNDA,Department of Germanic and Romance Studies,6.36,7.18,6.773
-19204512026,SWETA KUMARI,Department of Germanic and Romance Studies,7.64,7.45,7.545
-19204512027,TAJKIRATUL AZMI,Department of Germanic and Romance Studies,6.18,6.91,6.545
-19204512028,TANYA SONI,Department of Germanic and Romance Studies,6.00,6.91,6.455
-19204512029,TRISHA HOM ROY,Department of Germanic and Romance Studies,8.55,9.00,8.773
-19204512030,TRISHA KONAR,Department of Germanic and Romance Studies,9.00,8.73,8.864
-19204512031,TUSHAR GAUTAM,Department of Germanic and Romance Studies,9.00,8.73,8.864
-19204512032,VARUN CHAUDHARY,Department of Germanic and Romance Studies,5.00,5.91,5.455
-19204512033,VISHAL KUMAR,Department of Germanic and Romance Studies,7.18,7.45,7.318
-19204512034,VAIBHAV RAJ,Department of Germanic and Romance Studies,7.09,7.45,7.273
-19204512035,DEVENDER,Department of Germanic and Romance Studies,6.64,6.91,6.773
-19204512036,SHAQUIB RAZA,Department of Germanic and Romance Studies,8.55,9.00,8.773
-19204512037,ANAS MANZOOR,Department of Germanic and Romance Studies,7.27,7.73,7.500
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Overall CGPA
+19204512001,AASTHA BISHT,Department of Germanic and Romance Studies,8.18,8.73,8.43,4.64,7.380
+19204512002,AKRITI AGARWAL,Department of Germanic and Romance Studies,8.82,9.27,8.86,6.50,8.280
+19204512004,AMIT,Department of Germanic and Romance Studies,7.18,7.73,7.79,4.50,6.720
+19204512006,ASHOK KUMAR,Department of Germanic and Romance Studies,7.18,7.91,9.21,6.29,7.660
+19204512007,SACHIN,Department of Germanic and Romance Studies,6.18,7.18,7.57,4.50,6.320
+19204512008,DEEPIKA VERMA,Department of Germanic and Romance Studies,6.45,7.73,8.00,5.79,6.980
+19204512011,HADIYA BACKER,Department of Germanic and Romance Studies,5.36,6.45,6.79,4.57,5.780
+19204512012,ISHITA GOEL,Department of Germanic and Romance Studies,9.09,9.27,9.07,6.50,8.400
+19204512013,KANAV SODHI,Department of Germanic and Romance Studies,8.45,8.45,8.79,6.14,7.900
+19204512014,KARTIK SHRIVASTAVA,Department of Germanic and Romance Studies,8.55,8.73,7.36,5.07,7.280
+19204512015,MANIKA GUPTA,Department of Germanic and Romance Studies,7.73,7.45,8.00,6.14,7.300
+19204512016,NIDHI KUMARI,Department of Germanic and Romance Studies,6.55,7.45,7.64,5.71,6.820
+19204512018,RASHIKA SOM,Department of Germanic and Romance Studies,9.00,9.27,8.86,6.50,8.320
+19204512019,RHEA SEHGAL,Department of Germanic and Romance Studies,7.45,7.64,8.43,6.50,7.500
+19204512020,RITU BULAN,Department of Germanic and Romance Studies,6.18,6.91,7.36,4.50,6.200
+19204512021,SAGAR NIGAM,Department of Germanic and Romance Studies,7.09,7.73,7.79,4.50,6.700
+19204512022,SAKSHAM MINGLANI,Department of Germanic and Romance Studies,8.00,8.18,8.43,5.71,7.520
+19204512023,SHRUTI KHANNA,Department of Germanic and Romance Studies,8.55,9.00,8.21,5.71,7.760
+19204512024,SONAM CHOTSO,Department of Germanic and Romance Studies,6.27,7.45,7.79,4.71,6.520
+19204512025,STUTI MUNDA,Department of Germanic and Romance Studies,6.36,7.18,6.00,1.93,5.200
+19204512026,SWETA KUMARI,Department of Germanic and Romance Studies,7.64,7.45,8.64,5.71,7.340
+19204512027,TAJKIRATUL AZMI,Department of Germanic and Romance Studies,6.18,6.91,7.36,5.07,6.360
+19204512028,TANYA SONI,Department of Germanic and Romance Studies,6.00,6.91,7.57,5.07,6.380
+19204512029,TRISHA HOM ROY,Department of Germanic and Romance Studies,8.55,9.00,8.79,5.71,7.920
+19204512030,TRISHA KONAR,Department of Germanic and Romance Studies,9.00,8.73,7.79,5.07,7.500
+19204512031,TUSHAR GAUTAM,Department of Germanic and Romance Studies,9.00,8.73,8.00,5.93,7.800
+19204512032,VARUN CHAUDHARY,Department of Germanic and Romance Studies,5.00,5.91,5.71,2.79,4.780
+19204512034,VAIBHAV RAJ,Department of Germanic and Romance Studies,7.09,7.45,6.00,1.79,5.380
+19204512035,DEVENDER,Department of Germanic and Romance Studies,6.64,6.91,7.00,0.57,5.100
+19204512036,SHAQUIB RAZA,Department of Germanic and Romance Studies,8.55,9.00,8.43,5.93,7.880
+19204512037,ANAS MANZOOR,Department of Germanic and Romance Studies,7.27,7.73,8.00,4.50,6.800

@@ -1,24 +1,24 @@
-RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
-19009569001,ASHISH RAWAT,Bhaskaracharya College of Applied Sciences,8.27,9.00,9.21,8.861
-19009569002,PALLAVI GUPTA,Bhaskaracharya College of Applied Sciences,9.09,9.73,9.79,9.556
-19009569003,SHIVANI PARMAR,Bhaskaracharya College of Applied Sciences,9.00,10.00,9.57,9.528
-19009569004,MEGHA JOSHI,Bhaskaracharya College of Applied Sciences,8.00,9.00,8.79,8.611
-19009569005,HARSH BHADANA,Bhaskaracharya College of Applied Sciences,4.00,0.00,4.50,2.972
-19009569006,PREETI SHARMA,Bhaskaracharya College of Applied Sciences,8.82,9.00,9.14,9.000
-19009569007,NISHIKA CHHIKARA,Bhaskaracharya College of Applied Sciences,7.55,8.55,8.71,8.306
-19009569008,HEMANT  PALIWAL,Bhaskaracharya College of Applied Sciences,8.73,8.73,9.57,9.056
-19009569009,DAIDIPYA SINGH,Bhaskaracharya College of Applied Sciences,8.55,8.82,9.36,8.944
-19009569010,PRACHI,Bhaskaracharya College of Applied Sciences,8.55,9.27,8.93,8.917
-19009569011,KUMARI KRITIKA,Bhaskaracharya College of Applied Sciences,7.45,7.45,7.93,7.639
-19009569012,POOJA BHARDWAJ,Bhaskaracharya College of Applied Sciences,8.00,8.27,9.57,8.694
-19009569013,NAVNEETA  THAKUR,Bhaskaracharya College of Applied Sciences,8.36,8.82,9.57,8.972
-19009569014,JYOTI,Bhaskaracharya College of Applied Sciences,7.73,8.73,9.00,8.528
-19009569015,KULDEEP NAYAK,Bhaskaracharya College of Applied Sciences,6.18,6.45,7.57,6.806
-19009569016,DEEPAKSHI CHANDRA,Bhaskaracharya College of Applied Sciences,7.18,4.36,5.93,5.833
-19009569017,DEEPAK PRATAP,Bhaskaracharya College of Applied Sciences,6.64,7.55,6.93,7.028
-19009569018,ABHISHEK SINGH,Bhaskaracharya College of Applied Sciences,8.00,8.73,8.36,8.361
-19009569019,SRISHTI  KAINTH,Bhaskaracharya College of Applied Sciences,7.73,8.55,8.00,8.083
-19009569020,LOKESH KUMAR,Bhaskaracharya College of Applied Sciences,7.73,8.55,7.43,7.861
-19009569021,AASHIKA MANDAL,Bhaskaracharya College of Applied Sciences,7.45,8.09,9.14,8.306
-19009569022,HEMRUDRA SINGH,Bhaskaracharya College of Applied Sciences,5.55,6.00,8.71,6.917
-19009569024,SHREYA SHAKYA,Bhaskaracharya College of Applied Sciences,6.91,8.73,9.21,8.361
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Overall CGPA
+19009569001,ASHISH RAWAT,Bhaskaracharya College of Applied Sciences,8.27,9.00,9.21,9.36,9.000
+19009569002,PALLAVI GUPTA,Bhaskaracharya College of Applied Sciences,9.09,9.73,9.79,10.00,9.680
+19009569003,SHIVANI PARMAR,Bhaskaracharya College of Applied Sciences,9.00,10.00,9.57,10.00,9.660
+19009569004,MEGHA JOSHI,Bhaskaracharya College of Applied Sciences,8.00,9.00,8.79,9.21,8.780
+19009569005,HARSH BHADANA,Bhaskaracharya College of Applied Sciences,4.00,0.00,4.50,0.86,2.380
+19009569006,PREETI SHARMA,Bhaskaracharya College of Applied Sciences,8.82,9.00,9.14,9.14,9.040
+19009569007,NISHIKA CHHIKARA,Bhaskaracharya College of Applied Sciences,7.55,8.55,8.71,9.57,8.660
+19009569008,HEMANT  PALIWAL,Bhaskaracharya College of Applied Sciences,8.73,8.73,9.57,5.14,7.960
+19009569009,DAIDIPYA SINGH,Bhaskaracharya College of Applied Sciences,8.55,8.82,9.36,9.14,9.000
+19009569010,PRACHI,Bhaskaracharya College of Applied Sciences,8.55,9.27,8.93,9.79,9.160
+19009569011,KUMARI KRITIKA,Bhaskaracharya College of Applied Sciences,7.45,7.45,7.93,8.36,7.840
+19009569012,POOJA BHARDWAJ,Bhaskaracharya College of Applied Sciences,8.00,8.27,9.57,9.79,9.000
+19009569013,NAVNEETA  THAKUR,Bhaskaracharya College of Applied Sciences,8.36,8.82,9.57,9.79,9.200
+19009569014,JYOTI,Bhaskaracharya College of Applied Sciences,7.73,8.73,9.00,9.36,8.760
+19009569015,KULDEEP NAYAK,Bhaskaracharya College of Applied Sciences,6.18,6.45,7.57,5.64,6.480
+19009569016,DEEPAKSHI CHANDRA,Bhaskaracharya College of Applied Sciences,7.18,4.36,5.93,2.71,4.960
+19009569017,DEEPAK PRATAP,Bhaskaracharya College of Applied Sciences,6.64,7.55,6.93,7.36,7.120
+19009569018,ABHISHEK SINGH,Bhaskaracharya College of Applied Sciences,8.00,8.73,8.36,9.00,8.540
+19009569019,SRISHTI  KAINTH,Bhaskaracharya College of Applied Sciences,7.73,8.55,8.00,8.64,8.240
+19009569020,LOKESH KUMAR,Bhaskaracharya College of Applied Sciences,7.73,8.55,7.43,8.36,8.000
+19009569021,AASHIKA MANDAL,Bhaskaracharya College of Applied Sciences,7.45,8.09,9.14,9.79,8.720
+19009569022,HEMRUDRA SINGH,Bhaskaracharya College of Applied Sciences,5.55,6.00,8.71,8.79,7.440
+19009569024,SHREYA SHAKYA,Bhaskaracharya College of Applied Sciences,6.91,8.73,9.21,9.79,8.760

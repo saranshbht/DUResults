@@ -1,54 +1,58 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20026511001,Abhinav Goel,Hindu College,8.00,8.000
-20026511002,ADITYA KUMAR,Hindu College,7.00,7.000
-20026511003,Aditya Singh,Hindu College,6.73,6.727
-20026511004,Ahnas Muhammed,Hindu College,7.18,7.182
-20026511005,Amulya Maurya,Hindu College,7.73,7.727
-20026511006,ANAND P CHANDRAN,Hindu College,7.27,7.273
-20026511007,Anjali Sharma,Hindu College,7.00,7.000
-20026511008,Ankush Kumar Saini,Hindu College,7.00,7.000
-20026511010,Anusha Khan,Hindu College,7.00,7.000
-20026511011,Apeksha Rai,Hindu College,7.45,7.455
-20026511012,Aryan Pandey,Hindu College,7.27,7.273
-20026511013,ASHBI THOMAS OOMMEN,Hindu College,7.27,7.273
-20026511014,AYUSHI SHARMA,Hindu College,7.55,7.545
-20026511015,BALADITHYA A S,Hindu College,7.55,7.545
-20026511016,CHIRAG SHARMA,Hindu College,6.64,6.636
-20026511017,Chiransha Prasad,Hindu College,7.73,7.727
-20026511018,DEEPIKA RAJPUT,Hindu College,7.36,7.364
-20026511019,Frentzel Francis T,Hindu College,6.82,6.818
-20026511021,HANSIKA GOYAL,Hindu College,7.27,7.273
-20026511022,HASIL FAROOQUE O,Hindu College,7.27,7.273
-20026511023,Hena Rani,Hindu College,7.27,7.273
-20026511024,Ishika Mathur,Hindu College,7.73,7.727
-20026511025,Jeet Kumar Chittoria,Hindu College,7.82,7.818
-20026511026,Jeevan Satheesh P,Hindu College,7.45,7.455
-20026511027,JUVERIA ALI,Hindu College,7.27,7.273
-20026511029,Khushi Tak,Hindu College,7.73,7.727
-20026511030,KUNAL,Hindu College,6.73,6.727
-20026511031,Kusum,Hindu College,8.36,8.364
-20026511032,MALAVIKA R DEV,Hindu College,6.73,6.727
-20026511033,Merin Mary Thomas,Hindu College,7.45,7.455
-20026511034,Morup Dolma,Hindu College,6.27,6.273
-20026511035,NANDHANA C AJAY,Hindu College,7.73,7.727
-20026511036,Nathaniel Kynjailari Joseph Thabah,Hindu College,7.82,7.818
-20026511037,Priyanka,Hindu College,7.36,7.364
-20026511038,Puneet kumar,Hindu College,7.27,7.273
-20026511039,Rahul Kaushik,Hindu College,7.00,7.000
-20026511040,Richa Shukla,Hindu College,7.27,7.273
-20026511041,RICHU KRISHNA JS,Hindu College,8.09,8.091
-20026511042,RIDHA C P,Hindu College,7.27,7.273
-20026511043,Rohil Ghosh,Hindu College,7.55,7.545
-20026511044,Saeesha Pandita,Hindu College,7.73,7.727
-20026511045,SATEMNUCHETLA LONGCHARI,Hindu College,7.45,7.455
-20026511046,Saurabh Rajput,Hindu College,7.55,7.545
-20026511047,Shantanu Changmai,Hindu College,8.09,8.091
-20026511048,SHIVAM GOSWAMI,Hindu College,7.73,7.727
-20026511049,Sidra E,Hindu College,7.27,7.273
-20026511051,Srestha Das,Hindu College,7.55,7.545
-20026511052,srijan salui,Hindu College,7.73,7.727
-20026511054,Tsewang dolma,Hindu College,7.00,7.000
-20026511055,Tushar Singh Panwar,Hindu College,7.45,7.455
-20026511056,Yusra Rehman,Hindu College,6.55,6.545
-20026511057,Zoremsangi Khiangte,Hindu College,7.27,7.273
-20026511058,Ameena Hussain,Hindu College,0.00,0.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20026511001,Abhinav Goel,Hindu College,8.00,8.45,8.227
+20026511002,ADITYA KUMAR,Hindu College,7.00,8.18,7.591
+20026511003,Aditya Singh,Hindu College,6.73,8.00,7.364
+20026511004,Ahnas Muhammed,Hindu College,7.18,8.27,7.727
+20026511005,Amulya Maurya,Hindu College,7.73,8.00,7.864
+20026511006,ANAND P CHANDRAN,Hindu College,7.27,8.00,7.636
+20026511007,Anjali Sharma,Hindu College,7.00,8.00,7.500
+20026511008,Ankush Kumar Saini,Hindu College,7.00,8.45,7.727
+20026511009,Anu Deshwal,Hindu College,7.27,8.45,7.864
+20026511010,Anusha Khan,Hindu College,7.00,8.00,7.500
+20026511011,Apeksha Rai,Hindu College,7.45,9.00,8.227
+20026511012,Aryan Pandey,Hindu College,7.27,8.00,7.636
+20026511013,ASHBI THOMAS OOMMEN,Hindu College,7.27,8.27,7.773
+20026511014,AYUSHI SHARMA,Hindu College,7.55,8.45,8.000
+20026511015,BALADITHYA A S,Hindu College,7.55,8.27,7.909
+20026511016,CHIRAG SHARMA,Hindu College,6.64,8.18,7.409
+20026511017,Chiransha Prasad,Hindu College,7.73,8.45,8.091
+20026511018,DEEPIKA RAJPUT,Hindu College,7.36,9.00,8.182
+20026511019,Frentzel Francis T,Hindu College,6.82,7.45,7.136
+20026511020,HANEEN NASEER,Hindu College,7.45,8.18,7.818
+20026511021,HANSIKA GOYAL,Hindu College,7.27,8.18,7.727
+20026511022,HASIL FAROOQUE O,Hindu College,7.27,8.27,7.773
+20026511023,Hena Rani,Hindu College,7.27,8.00,7.636
+20026511024,Ishika Mathur,Hindu College,7.73,8.45,8.091
+20026511025,Jeet Kumar Chittoria,Hindu College,7.82,9.00,8.409
+20026511026,Jeevan Satheesh P,Hindu College,7.45,8.18,7.818
+20026511027,JUVERIA ALI,Hindu College,7.27,8.00,7.636
+20026511028,khushi siddiqui,Hindu College,7.27,8.18,7.727
+20026511029,Khushi Tak,Hindu College,7.73,8.45,8.091
+20026511030,KUNAL,Hindu College,6.73,8.00,7.364
+20026511031,Kusum,Hindu College,8.36,8.45,8.409
+20026511032,MALAVIKA R DEV,Hindu College,6.73,8.00,7.364
+20026511033,Merin Mary Thomas,Hindu College,7.45,8.45,7.955
+20026511034,Morup Dolma,Hindu College,7.00,8.00,7.500
+20026511035,NANDHANA C AJAY,Hindu College,7.73,8.00,7.864
+20026511036,Nathaniel Kynjailari Joseph Thabah,Hindu College,7.82,8.45,8.136
+20026511037,Priyanka,Hindu College,7.36,8.00,7.682
+20026511038,Puneet kumar,Hindu College,7.27,8.45,7.864
+20026511039,Rahul Kaushik,Hindu College,7.00,8.00,7.500
+20026511040,Richa Shukla,Hindu College,7.27,8.00,7.636
+20026511041,RICHU KRISHNA JS,Hindu College,8.09,8.45,8.273
+20026511042,RIDHA C P,Hindu College,7.27,8.00,7.636
+20026511043,Rohil Ghosh,Hindu College,7.55,8.27,7.909
+20026511044,Saeesha Pandita,Hindu College,7.73,8.45,8.091
+20026511045,SATEMNUCHETLA LONGCHARI,Hindu College,7.45,8.45,7.955
+20026511046,Saurabh Rajput,Hindu College,7.55,8.45,8.000
+20026511047,Shantanu Changmai,Hindu College,8.09,8.45,8.273
+20026511048,SHIVAM GOSWAMI,Hindu College,7.73,8.18,7.955
+20026511049,Sidra E,Hindu College,7.27,8.27,7.773
+20026511050,Sohagni Roy,Hindu College,7.55,8.00,7.773
+20026511051,Srestha Das,Hindu College,7.55,8.45,8.000
+20026511052,srijan salui,Hindu College,7.73,8.00,7.864
+20026511053,Thaniya Fathima C A,Hindu College,7.73,8.73,8.227
+20026511054,Tsewang dolma,Hindu College,7.00,7.73,7.364
+20026511055,Tushar Singh Panwar,Hindu College,7.45,8.18,7.818
+20026511056,Yusra Rehman,Hindu College,6.55,5.64,6.091
+20026511057,Zoremsangi Khiangte,Hindu College,7.27,8.27,7.773

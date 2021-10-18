@@ -1,16 +1,16 @@
 const req = require("./requirements");
 
 const links = {
-  // nov_dec: {
-  //   cookie_url:
-  //     "http://durslt.du.ac.in/DURSLT_ND2020/Students/Combine_GradeCard.aspx",
-  //   declared_url:
-  //     "http://durslt.du.ac.in/DURSLT_ND2020/Students/List_Of_Declared_Results.aspx",
-  //   grade_url:
-  //     "http://durslt.du.ac.in/DURSLT_ND2020/Students/Combine_GradeCardReport_CBCS.aspx",
-  //   marks_url:
-  //     "http://durslt.du.ac.in/DURSLT_ND2020/Students/OLD_Sys1_GradeCardReport_Sem_New.aspx",
-  // },
+  nov_dec: {
+    cookie_url:
+      "http://durslt.du.ac.in/DURSLT_ND2020/Students/Combine_GradeCard.aspx",
+    declared_url:
+      "http://durslt.du.ac.in/DURSLT_ND2020/Students/List_Of_Declared_Results.aspx",
+    grade_url:
+      "http://durslt.du.ac.in/DURSLT_ND2020/Students/Combine_GradeCardReport_CBCS.aspx",
+    marks_url:
+      "http://durslt.du.ac.in/DURSLT_ND2020/Students/OLD_Sys1_GradeCardReport_Sem_New.aspx",
+  },
   may_june: {
     cookie_url:
       "http://durslt.du.ac.in/DURSLT_MJ2021/Students/Combine_GradeCard.aspx",
@@ -42,16 +42,13 @@ console.log(new Date().toISOString());
     req.loadFiles(type);
 
     let url = type == "Marks" ? marks_url : grade_url;
-    console.log(declared_url);
     await Promise.all([
       req.getRemaining(declared_url),
       req.setCookie(cookie_url),
     ]).then(async ([remaining]) => {
       console.log("Courses to be downloaded");
       console.log(JSON.stringify(remaining));
-      remaining = {
-        20: ["747", "757"],
-      };
+      remaining["20"] = remaining["20"].slice(0, 50);
       // downloading the new/remaining courses
       await req.downloadHtmls(remaining, type, url, step, source);
 

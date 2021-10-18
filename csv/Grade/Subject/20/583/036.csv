@@ -1,41 +1,40 @@
-RollNo,Name,College,"BIODIVERSITY (MICROBES, ALGAE, FUNGI AND ARCHEGONIATAE","ATOMIC STRUCTURE, BONDING, GENERAL ORGANIC CHEMISTRY & ALIPHATIC HYDROCARBONS",ANIMAL DIVERSITY,ENGLISH-A
-20036583001,ABHISHEK KUMAR,Kirori Mal College,8,9,8,8
-20036583002,Aditi Tomar,Kirori Mal College,10,9,9,9
-20036583003,Ameha Sharma,Kirori Mal College,10,10,9,9
-20036583004,Ananya Singh,Kirori Mal College,8,8,8,9
-20036583005,Anwar Hussain,Kirori Mal College,8,8,7,9
-20036583006,Arjun Singh,Kirori Mal College,8,9,8,8
-20036583007,Ashutosh Sharma,Kirori Mal College,8,9,8,8
-20036583008,AYUSH THAKUR,Kirori Mal College,8,9,8,9
-20036583009,Azmee parvez,Kirori Mal College,10,9,9,9
-20036583010,Bushra Parveen,Kirori Mal College,9,8,8,8
-20036583011,Chaitanya Sharma,Kirori Mal College,10,9,8,9
-20036583012,Deepa Bairi,Kirori Mal College,9,8,8,9
-20036583014,FAHIZ MOHAMMED PP,Kirori Mal College,10,7,8,9
-20036583015,GAURAV KUMAR MEENA,Kirori Mal College,7,8,8,8
-20036583016,Gaurav Negi,Kirori Mal College,8,9,7,9
-20036583017,Himanshi,Kirori Mal College,10,9,9,9
-20036583018,Ishey Chosdon,Kirori Mal College,9,8,8,9
-20036583019,Keshika Dahiya,Kirori Mal College,8,9,9,9
-20036583020,Kunika Soni,Kirori Mal College,9,8,8,9
-20036583021,KUSHANK GANGWAR,Kirori Mal College,9,8,9,9
-20036583022,Lakshay Chaudhary,Kirori Mal College,8,7,7,7
-20036583023,Monika yadav,Kirori Mal College,9,9,9,8
-20036583024,Nitish Gupta,Kirori Mal College,9,9,8,9
-20036583025,Nitisha Thengal,Kirori Mal College,8,9,8,8
-20036583026,POOJA AGGARWAL,Kirori Mal College,9,8,8,9
-20036583027,Prince Haritwal,Kirori Mal College,9,8,9,9
-20036583028,PRIYANSHI,Kirori Mal College,9,9,9,8
-20036583030,Ravi Raj Anand,Kirori Mal College,9,8,7,9
-20036583031,Sahima Khan,Kirori Mal College,10,9,9,9
-20036583032,Sameer Khan,Kirori Mal College,9,9,9,8
-20036583033,Shakti Dwivedi,Kirori Mal College,9,9,9,8
-20036583034,Shaswati Patel,Kirori Mal College,9,9,9,9
-20036583035,Srishti kathuria,Kirori Mal College,10,9,8,9
-20036583036,Tammana,Kirori Mal College,10,9,9,9
-20036583037,Tushar Pandey,Kirori Mal College,9,7,8,9
-20036583038,VANSHIKA GANDHI,Kirori Mal College,10,9,9,9
-20036583040,VINAY,Kirori Mal College,9,9,9,8
-20036583041,Yatin kumar,Kirori Mal College,8,8,9,9
-20036583042,Zahid lqbal Bhatti,Kirori Mal College,9,8,8,9
-20036583043,ZAHID MOHAMED C,Kirori Mal College,9,9,9,9
+RollNo,Name,College,"BIODIVERSITY (MICROBES, ALGAE, FUNGI AND ARCHEGONIATAE","ATOMIC STRUCTURE, BONDING, GENERAL ORGANIC CHEMISTRY & ALIPHATIC HYDROCARBONS",ANIMAL DIVERSITY,ENGLISH-A,PLANT ECOLOGY AND TAXONOMY,"CHEMICAL ENERGETICS, EQUILIBRIA & FUNCTIONAL GROUP ORGANIC",COMPARATIVE ANATOMY AND DEVELOPMENTAL BIOLOGY OF VERTEBRATES,ENVIRONMENTAL SCIENCE
+20036583001,ABHISHEK KUMAR,Kirori Mal College,8,9,8,8,9,9,9,9
+20036583002,Aditi Tomar,Kirori Mal College,10,9,9,9,9,9,9,10
+20036583003,Ameha Sharma,Kirori Mal College,10,10,9,9,10,10,10,10
+20036583004,Ananya Singh,Kirori Mal College,8,8,8,9,9,9,9,9
+20036583005,Anwar Hussain,Kirori Mal College,8,8,7,9,8,7,8,7
+20036583007,Ashutosh Sharma,Kirori Mal College,8,9,8,8,9,9,9,9
+20036583008,AYUSH THAKUR,Kirori Mal College,8,9,8,9,9,9,9,10
+20036583009,Azmee parvez,Kirori Mal College,10,9,9,9,9,9,9,9
+20036583010,Bushra Parveen,Kirori Mal College,9,8,8,8,8,7,9,9
+20036583011,Chaitanya Sharma,Kirori Mal College,10,9,8,9,9,8,9,9
+20036583012,Deepa Bairi,Kirori Mal College,9,8,8,9,8,8,9,9
+20036583013,Diksha Dhariwal,Kirori Mal College,9,9,9,8,10,10,10,10
+20036583014,FAHIZ MOHAMMED PP,Kirori Mal College,10,7,8,9,9,8,9,9
+20036583015,GAURAV KUMAR MEENA,Kirori Mal College,7,8,8,8,9,8,9,9
+20036583016,Gaurav Negi,Kirori Mal College,8,9,7,9,7,5,8,8
+20036583017,Himanshi,Kirori Mal College,10,9,9,9,10,9,10,10
+20036583018,Ishey Chosdon,Kirori Mal College,9,8,8,9,9,9,9,9
+20036583019,Keshika Dahiya,Kirori Mal College,8,9,9,9,9,9,10,9
+20036583021,KUSHANK GANGWAR,Kirori Mal College,9,8,9,9,8,8,9,9
+20036583022,Lakshay Chaudhary,Kirori Mal College,8,7,7,7,7,7,8,7
+20036583023,Monika yadav,Kirori Mal College,9,9,9,8,9,8,9,9
+20036583024,Nitish Gupta,Kirori Mal College,9,9,8,9,9,9,9,9
+20036583025,Nitisha Thengal,Kirori Mal College,8,9,8,8,9,8,9,9
+20036583026,POOJA AGGARWAL,Kirori Mal College,9,8,8,9,9,8,9,9
+20036583027,Prince Haritwal,Kirori Mal College,9,8,9,9,8,8,9,9
+20036583028,PRIYANSHI,Kirori Mal College,9,9,9,8,10,9,9,10
+20036583030,Ravi Raj Anand,Kirori Mal College,9,8,7,9,9,7,9,9
+20036583031,Sahima Khan,Kirori Mal College,10,9,9,9,9,9,10,9
+20036583032,Sameer Khan,Kirori Mal College,9,9,9,8,9,8,9,9
+20036583033,Shakti Dwivedi,Kirori Mal College,9,9,9,8,9,9,9,10
+20036583034,Shaswati Patel,Kirori Mal College,9,9,9,9,10,10,10,10
+20036583035,Srishti kathuria,Kirori Mal College,10,9,8,9,9,8,9,9
+20036583036,Tammana,Kirori Mal College,10,9,9,9,9,9,9,9
+20036583037,Tushar Pandey,Kirori Mal College,9,7,8,9,9,7,9,8
+20036583038,VANSHIKA GANDHI,Kirori Mal College,10,9,9,9,10,9,10,10
+20036583040,VINAY,Kirori Mal College,9,9,9,8,9,9,9,9
+20036583041,Yatin kumar,Kirori Mal College,8,8,9,9,9,9,9,9
+20036583042,Zahid lqbal Bhatti,Kirori Mal College,9,8,8,9,9,9,9,9
+20036583043,ZAHID MOHAMED C,Kirori Mal College,9,9,9,9,10,9,10,10

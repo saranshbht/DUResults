@@ -1,14 +1,15 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20014523001,Deepika Upadhyay,,6.00,6.000
-20014523002,Himanshi Nagpal,,5.82,5.818
-20014523003,Mansi Arora,,4.73,4.727
-20014523004,NANDNI VERMA,,6.27,6.273
-20014523005,Pallavi Gupta,,5.73,5.727
-20014523006,pooja poddar,,6.27,6.273
-20014523007,Shristi Chaudhary,,6.27,6.273
-20014523008,Simran Gupta,,6.27,6.273
-20014523010,Swayambika Katiyar,,4.45,4.455
-20014523011,Tannu Singh,,5.18,5.182
-20014523012,Tanu kumari,,3.91,3.909
-20014523013,Vaishali Upadhyay,,5.00,5.000
-20014523014,VIDHI,,6.45,6.455
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20014523001,Deepika Upadhyay,Daulat Ram College,6.00,7.73,6.864
+20014523002,Himanshi Nagpal,Daulat Ram College,5.82,6.73,6.273
+20014523003,Mansi Arora,Daulat Ram College,4.73,7.18,5.955
+20014523004,NANDNI VERMA,Daulat Ram College,6.27,7.27,6.773
+20014523005,Pallavi Gupta,Daulat Ram College,5.73,6.45,6.091
+20014523006,pooja poddar,Daulat Ram College,6.27,8.00,7.136
+20014523007,Shristi Chaudhary,Daulat Ram College,6.27,8.00,7.136
+20014523008,Simran Gupta,Daulat Ram College,6.27,6.82,6.545
+20014523009,Suhavi Kalsi,Daulat Ram College,5.64,8.00,6.818
+20014523010,Swayambika Katiyar,Daulat Ram College,4.45,7.00,5.727
+20014523011,Tannu Singh,Daulat Ram College,5.18,7.18,6.182
+20014523012,Tanu kumari,Daulat Ram College,3.91,6.45,5.182
+20014523013,Vaishali Upadhyay,Daulat Ram College,5.00,6.91,5.955
+20014523014,VIDHI,Daulat Ram College,6.45,6.82,6.636

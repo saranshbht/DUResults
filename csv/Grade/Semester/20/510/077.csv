@@ -1,55 +1,55 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20077510001,ADITYA PRIYE GAUTAM,Sri Aurobindo College (Eve),7.18,7.182
-20077510002,AMAN SINGH ASWAL,Sri Aurobindo College (Eve),7.00,7.000
-20077510003,ANKUSH NAREDY,Sri Aurobindo College (Eve),8.82,8.818
-20077510004,ANUSHKA BHARTI,Sri Aurobindo College (Eve),8.55,8.545
-20077510006,ASHISH VERMA,Sri Aurobindo College (Eve),7.73,7.727
-20077510007,ASTHA SHARMA,Sri Aurobindo College (Eve),8.82,8.818
-20077510008,BOBY SINGH,Sri Aurobindo College (Eve),7.55,7.545
-20077510009,CHIRAG DAWAR,Sri Aurobindo College (Eve),8.09,8.091
-20077510010,DAKSH SAHNI,Sri Aurobindo College (Eve),8.55,8.545
-20077510011,DEEPANSHI AHUJA,Sri Aurobindo College (Eve),9.00,9.000
-20077510012,DEVANSH GROVER,Sri Aurobindo College (Eve),8.55,8.545
-20077510014,GARVITA DUA,Sri Aurobindo College (Eve),8.27,8.273
-20077510015,IRENGBAM MANGLAL SINGH,Sri Aurobindo College (Eve),8.27,8.273
-20077510017,KABIR JHA,Sri Aurobindo College (Eve),8.27,8.273
-20077510018,KAIF AHMED,Sri Aurobindo College (Eve),8.82,8.818
-20077510019,KHUSHI KHATRI,Sri Aurobindo College (Eve),8.55,8.545
-20077510020,KOYANA DUTTA,Sri Aurobindo College (Eve),8.18,8.182
-20077510021,MADHAV KOHLI,Sri Aurobindo College (Eve),8.27,8.273
-20077510022,MANAN ARORA,Sri Aurobindo College (Eve),9.09,9.091
-20077510023,MANAV GUPTA,Sri Aurobindo College (Eve),8.82,8.818
-20077510024,MAYANK AGGARWAL,Sri Aurobindo College (Eve),8.00,8.000
-20077510025,MAYANK ARORA,Sri Aurobindo College (Eve),8.55,8.545
-20077510027,MUKUND MISHRA,Sri Aurobindo College (Eve),8.82,8.818
-20077510028,MUSKAAN VERMA,Sri Aurobindo College (Eve),9.00,9.000
-20077510029,NANDANI,Sri Aurobindo College (Eve),8.00,8.000
-20077510030,NIPUN BANSAL,Sri Aurobindo College (Eve),8.82,8.818
-20077510031,NISCHAY KUMAR MALIK,Sri Aurobindo College (Eve),8.55,8.545
-20077510032,NITESH SAXENA,Sri Aurobindo College (Eve),8.27,8.273
-20077510033,PRATHAM SHARMA,Sri Aurobindo College (Eve),8.36,8.364
-20077510034,PRATIBHA,Sri Aurobindo College (Eve),9.00,9.000
-20077510035,PRENIKA SINGH,Sri Aurobindo College (Eve),8.82,8.818
-20077510036,REETI BASU,Sri Aurobindo College (Eve),0.00,0.000
-20077510037,RISHABH MAHAJAN,Sri Aurobindo College (Eve),0.00,0.000
-20077510038,SACHIN,Sri Aurobindo College (Eve),8.64,8.636
-20077510039,SAKSHAM MENDIRATTA,Sri Aurobindo College (Eve),8.27,8.273
-20077510040,SARTHAK LADHA,Sri Aurobindo College (Eve),8.82,8.818
-20077510041,SHASHANK SHARMA,Sri Aurobindo College (Eve),8.55,8.545
-20077510042,SHIVANG SHUKLA,Sri Aurobindo College (Eve),8.82,8.818
-20077510043,SHUBHAM GUPTA,Sri Aurobindo College (Eve),8.00,8.000
-20077510044,SUDHANSHU,Sri Aurobindo College (Eve),8.82,8.818
-20077510045,TARUN KUMAR,Sri Aurobindo College (Eve),8.55,8.545
-20077510046,VAIBHAV VIVEK SAHI,Sri Aurobindo College (Eve),9.27,9.273
-20077510047,VANSH GUPTA,Sri Aurobindo College (Eve),7.82,7.818
-20077510048,VARDHAN SAKLANI,Sri Aurobindo College (Eve),8.27,8.273
-20077510049,VIDHI PARMAR,Sri Aurobindo College (Eve),8.27,8.273
-20077510051,VISHAL PANDEY,Sri Aurobindo College (Eve),8.09,8.091
-20077510052,YASH GUPTA,Sri Aurobindo College (Eve),8.27,8.273
-20077510053,YUGANSH SEHRAWAT,Sri Aurobindo College (Eve),8.27,8.273
-20077510054,RAM LAKHAN,Sri Aurobindo College (Eve),8.09,8.091
-20077510055,RITIN SHARMA,Sri Aurobindo College (Eve),8.27,8.273
-20077510056,ARJUN,Sri Aurobindo College (Eve),8.82,8.818
-20077510057,ROHIT KHATUA,Sri Aurobindo College (Eve),7.27,7.273
-20077510058,MANISH SEHRAWAT,Sri Aurobindo College (Eve),7.18,7.182
-20077510059,RAJNISH KUMAR,Sri Aurobindo College (Eve),7.64,7.636
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20077510001,Aditya Priye Gautam,Sri Aurobindo College (Eve),7.18,8.27,7.727
+20077510002,AMAN SINGH ASWAL,Sri Aurobindo College (Eve),7.00,8.27,7.636
+20077510003,ANKUSH NAREDY,Sri Aurobindo College (Eve),8.82,8.82,8.818
+20077510004,Anushka Bharti,Sri Aurobindo College (Eve),8.55,9.00,8.773
+20077510005,ARYAMAN MITTAL,Sri Aurobindo College (Eve),7.91,9.00,8.455
+20077510006,ASHISH VERMA,Sri Aurobindo College (Eve),7.73,8.73,8.227
+20077510007,ASTHA SHARMA,Sri Aurobindo College (Eve),8.82,9.27,9.045
+20077510008,BOBY SINGH,Sri Aurobindo College (Eve),7.55,8.27,7.909
+20077510009,CHIRAG DAWAR,Sri Aurobindo College (Eve),8.09,9.00,8.545
+20077510010,Daksh Sahni,Sri Aurobindo College (Eve),8.55,8.55,8.545
+20077510011,DEEPANSHI AHUJA,Sri Aurobindo College (Eve),9.00,9.00,9.000
+20077510012,DEVANSH GROVER,Sri Aurobindo College (Eve),8.55,9.00,8.773
+20077510013,GARV RAJPUT,Sri Aurobindo College (Eve),6.91,8.27,7.591
+20077510014,Garvita dua,Sri Aurobindo College (Eve),8.27,9.00,8.636
+20077510015,Irengbam Manglal Singh,Sri Aurobindo College (Eve),8.27,9.00,8.636
+20077510017,KABIR JHA,Sri Aurobindo College (Eve),8.27,9.00,8.636
+20077510018,Kaif Ahmed,Sri Aurobindo College (Eve),8.82,9.00,8.909
+20077510019,KHUSHI KHATRI,Sri Aurobindo College (Eve),8.55,8.45,8.500
+20077510020,KOYANA DUTTA,Sri Aurobindo College (Eve),8.18,9.00,8.591
+20077510021,Madhav Kohli,Sri Aurobindo College (Eve),8.27,8.00,8.136
+20077510022,Manan Arora,Sri Aurobindo College (Eve),9.09,9.00,9.045
+20077510023,MANAV GUPTA,Sri Aurobindo College (Eve),8.82,9.00,8.909
+20077510024,MAYANK AGGARWAL,Sri Aurobindo College (Eve),8.00,9.00,8.500
+20077510025,Mayank Arora,Sri Aurobindo College (Eve),8.55,9.00,8.773
+20077510026,Mozaffar Fahim,Sri Aurobindo College (Eve),8.55,9.00,8.773
+20077510027,MUKUND MISHRA,Sri Aurobindo College (Eve),8.82,9.27,9.045
+20077510029,NANDANI,Sri Aurobindo College (Eve),8.00,8.73,8.364
+20077510030,NIPUN BANSAL,Sri Aurobindo College (Eve),8.82,9.00,8.909
+20077510031,NISCHAY KUMAR MALIK,Sri Aurobindo College (Eve),8.55,9.00,8.773
+20077510032,nitesh saxena,Sri Aurobindo College (Eve),8.27,8.27,8.273
+20077510033,PRATHAM SHARMA,Sri Aurobindo College (Eve),8.36,9.00,8.682
+20077510034,Pratibha,Sri Aurobindo College (Eve),9.00,9.00,9.000
+20077510035,PRENIKA SINGH,Sri Aurobindo College (Eve),8.82,9.00,8.909
+20077510036,REETI BASU,Sri Aurobindo College (Eve),0.00,8.27,4.136
+20077510038,SACHIN,Sri Aurobindo College (Eve),8.64,9.00,8.818
+20077510039,Saksham mendiratta,Sri Aurobindo College (Eve),8.27,9.00,8.636
+20077510041,SHASHANK SHARMA,Sri Aurobindo College (Eve),8.55,9.00,8.773
+20077510042,SHIVANG SHUKLA,Sri Aurobindo College (Eve),8.82,9.00,8.909
+20077510043,SHUBHAM GUPTA,Sri Aurobindo College (Eve),8.00,8.27,8.136
+20077510044,SUDHANSHU,Sri Aurobindo College (Eve),8.82,9.00,8.909
+20077510045,TARUN KUMAR,Sri Aurobindo College (Eve),8.55,8.27,8.409
+20077510046,VAIBHAV VIVEK SAHI,Sri Aurobindo College (Eve),9.27,9.55,9.409
+20077510047,VANSH GUPTA,Sri Aurobindo College (Eve),7.82,8.55,8.182
+20077510048,VARDHAN SAKLANI,Sri Aurobindo College (Eve),8.27,9.00,8.636
+20077510050,VINAYAK GAUTAM,Sri Aurobindo College (Eve),8.36,9.00,8.682
+20077510051,VISHAL PANDEY,Sri Aurobindo College (Eve),8.09,9.00,8.545
+20077510052,YASH GUPTA,Sri Aurobindo College (Eve),8.27,8.27,8.273
+20077510053,Yugansh Sehrawat,Sri Aurobindo College (Eve),8.27,9.00,8.636
+20077510054,Ram lakhan,Sri Aurobindo College (Eve),8.09,8.82,8.455
+20077510055,RITIN SHARMA,Sri Aurobindo College (Eve),8.27,9.00,8.636
+20077510056,ARJUN,Sri Aurobindo College (Eve),8.82,8.73,8.773
+20077510057,ROHIT KHATUA,Sri Aurobindo College (Eve),7.27,8.55,7.909
+20077510058,MANISH SEHRAWAT,Sri Aurobindo College (Eve),7.18,8.27,7.727
+20077510059,RAJNISH KUMAR,Sri Aurobindo College (Eve),7.64,8.55,8.091

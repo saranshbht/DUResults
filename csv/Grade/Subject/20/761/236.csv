@@ -1,62 +1,57 @@
-RollNo,Name,College,LINEAR PROGRAMMING AND EXTENSIONS,INVENTORY MANAGEMENT,QUEUEING SYSTEM,STATISTICS,PYTHON PROGRAMMING (THEORY & PRACTICAL)
-20236761001,Aakash Sharma,Department of Operational Research,9,8,8,10,8
-20236761002,Aamir Iqbal,Department of Operational Research,9,9,9,10,8
-20236761003,Abhay Sharma,Department of Operational Research,9,8,9,9,8
-20236761004,ABHISHEK KUMAR YADAV,Department of Operational Research,9,7,7,10,7
-20236761005,Akanksha Tiwari,Department of Operational Research,8,9,8,10,8
-20236761006,AKSHIT GOYAL,Department of Operational Research,9,9,9,10,8
-20236761007,ALKA SAMOTA,Department of Operational Research,8,7,8,10,7
-20236761008,Anamika Kumari,Department of Operational Research,9,8,8,10,8
-20236761009,Anand,Department of Operational Research,8,8,7,9,8
-20236761010,ANIKET KUNDU,Department of Operational Research,8,8,8,10,8
-20236761011,ANJALI BHERON,Department of Operational Research,9,8,8,9,8
-20236761012,Anshika Mittal,Department of Operational Research,7,7,6,9,9
-20236761013,Anshika Sachan,Department of Operational Research,8,8,9,10,8
-20236761014,Dikshant,Department of Operational Research,8,8,8,10,8
-20236761015,ERAM FATIMA,Department of Operational Research,9,8,8,10,9
-20236761016,Garima Yadav,Department of Operational Research,8,8,8,10,7
-20236761017,Harshit Tyagi,Department of Operational Research,7,8,7,10,8
-20236761018,Himanshu,Department of Operational Research,9,8,9,10,8
-20236761019,Himanshu,Department of Operational Research,7,8,7,9,7
-20236761020,Himanshu Garg,Department of Operational Research,9,8,8,10,8
-20236761021,INDAR KUMAR,Department of Operational Research,8,8,8,10,8
-20236761022,Jatin khudania,Department of Operational Research,8,8,8,9,8
-20236761023,Jigyasa,Department of Operational Research,7,7,8,10,7
-20236761024,Jyoti Bisht,Department of Operational Research,9,8,9,9,8
-20236761025,Kartikeya Chitkaria,Department of Operational Research,8,8,8,10,8
-20236761026,Kriti Gupta,Department of Operational Research,9,9,9,9,8
-20236761027,MANOJ,Department of Operational Research,9,8,8,9,8
-20236761028,Medni Aswal,Department of Operational Research,9,8,8,10,8
-20236761029,Mehak,Department of Operational Research,9,8,8,10,8
-20236761030,Mrinal Gupta,Department of Operational Research,9,9,8,10,8
-20236761031,NEHLA SHAJAHAN,Department of Operational Research,8,8,9,10,9
-20236761032,Niharika Sohni,Department of Operational Research,8,9,9,9,8
-20236761033,Nikita Kathuria,Department of Operational Research,9,8,8,10,9
-20236761034,Pawan Kumar,Department of Operational Research,8,8,8,9,8
-20236761035,Prachi Gautam,Department of Operational Research,8,7,8,9,7
-20236761036,Pranay Mitra,Department of Operational Research,8,8,8,9,8
-20236761037,PRANJOL HALDAR,Department of Operational Research,9,9,9,10,8
-20236761038,Rishi Mehdiratta,Department of Operational Research,8,8,7,9,8
-20236761039,Rishi Raj Dhar,Department of Operational Research,8,7,8,9,8
-20236761040,Ritika Chawla,Department of Operational Research,9,8,8,10,9
-20236761041,Sagar,Department of Operational Research,9,9,9,9,8
-20236761042,SAYANTAN BHATTACHARYYA,Department of Operational Research,9,8,8,10,8
-20236761043,Shaily jain,Department of Operational Research,8,9,9,9,8
-20236761044,Shikha Kumari,Department of Operational Research,8,8,8,9,8
-20236761045,Shikha Tomar,Department of Operational Research,9,9,8,10,8
-20236761046,Shreya Bhatnagar,Department of Operational Research,9,8,8,10,8
-20236761047,Shreya Goel,Department of Operational Research,9,8,8,10,8
-20236761048,Shubham Bagga,Department of Operational Research,7,9,8,10,8
-20236761049,Shweta Gupta,Department of Operational Research,8,8,9,10,8
-20236761050,Siddhant Tanwar,Department of Operational Research,8,8,7,9,7
-20236761051,Siddharth Yadav,Department of Operational Research,9,8,8,10,8
-20236761052,SPARSH RAWAT,Department of Operational Research,9,9,8,10,8
-20236761053,SUBHI GUPTA,Department of Operational Research,9,9,8,10,9
-20236761054,Sumita Debnath,Department of Operational Research,8,8,8,10,8
-20236761055,Suyash Kadam,Department of Operational Research,8,8,8,10,8
-20236761056,Umang Maheshwari,Department of Operational Research,8,8,9,9,8
-20236761057,Utkarsh Patel,Department of Operational Research,9,9,9,9,8
-20236761058,Vaibhav Gupta,Department of Operational Research,7,9,8,9,9
-20236761059,Vallari Agarwal,Department of Operational Research,9,9,9,10,9
-20236761060,Vipin Joshi,Department of Operational Research,9,7,8,9,9
-20236761061,VISHANT MOHAN,Department of Operational Research,8,8,7,10,8
+RollNo,Name,College,LINEAR PROGRAMMING AND EXTENSIONS,INVENTORY MANAGEMENT,QUEUEING SYSTEM,STATISTICS,PYTHON PROGRAMMING (THEORY & PRACTICAL),CONVEX AND DISCRETE OPTIMIZATION,SCHEDULING TECHNIQUES,MARKETING MANAGEMENT,ECONOMETRIC MODELING AND FORECASTING,DATABASE MANAGEMENT SYSTEM AND VISUAL PROGRAMMING A & B
+20236761001,Aakash Sharma,Department of Operational Research,9,8,8,10,8,8,9,8,8,9
+20236761002,Aamir Iqbal,Department of Operational Research,9,9,9,10,8,8,9,9,9,9
+20236761003,Abhay Sharma,Department of Operational Research,9,8,9,9,8,9,9,9,9,9
+20236761004,ABHISHEK KUMAR YADAV,Department of Operational Research,9,7,7,10,7,7,8,8,7,8
+20236761005,Akanksha Tiwari,Department of Operational Research,8,9,8,10,8,8,9,8,8,9
+20236761006,AKSHIT GOYAL,Department of Operational Research,9,9,9,10,8,8,8,9,8,9
+20236761007,ALKA SAMOTA,Department of Operational Research,8,7,8,10,7,7,8,8,8,8
+20236761008,Anamika Kumari,Department of Operational Research,9,8,8,10,8,8,9,8,9,9
+20236761010,ANIKET KUNDU,Department of Operational Research,8,8,8,10,8,8,9,8,8,9
+20236761011,ANJALI BHERON,Department of Operational Research,9,8,8,9,8,9,9,9,9,9
+20236761013,Anshika Sachan,Department of Operational Research,8,8,9,10,8,9,9,8,9,9
+20236761014,Dikshant,Department of Operational Research,8,8,8,10,8,8,8,8,8,8
+20236761015,ERAM FATIMA,Department of Operational Research,9,8,8,10,9,9,9,9,9,9
+20236761016,Garima Yadav,Department of Operational Research,8,8,8,10,7,9,9,9,9,9
+20236761017,Harshit Tyagi,Department of Operational Research,7,8,7,10,8,7,8,8,7,7
+20236761018,Himanshu,Department of Operational Research,9,8,9,10,8,9,9,9,9,9
+20236761019,Himanshu,Department of Operational Research,7,8,7,9,7,8,8,8,7,8
+20236761020,Himanshu Garg,Department of Operational Research,9,8,8,10,8,9,9,8,8,9
+20236761021,INDAR KUMAR,Department of Operational Research,8,8,8,10,8,9,9,8,9,9
+20236761022,Jatin khudania,Department of Operational Research,8,8,8,9,8,9,8,9,9,9
+20236761024,Jyoti Bisht,Department of Operational Research,9,8,9,9,8,8,9,8,8,8
+20236761025,Kartikeya Chitkaria,Department of Operational Research,8,8,8,10,8,9,9,9,8,9
+20236761026,Kriti Gupta,Department of Operational Research,9,9,9,9,8,9,9,9,9,9
+20236761027,MANOJ,Department of Operational Research,9,8,8,9,8,9,9,9,9,9
+20236761028,Medni Aswal,Department of Operational Research,9,8,8,10,8,9,9,10,9,10
+20236761029,Mehak,Department of Operational Research,9,8,8,10,8,8,9,8,8,8
+20236761031,NEHLA SHAJAHAN,Department of Operational Research,8,8,9,10,9,9,9,9,9,9
+20236761032,Niharika Sohni,Department of Operational Research,8,9,9,9,8,9,9,9,9,9
+20236761033,Nikita Kathuria,Department of Operational Research,9,8,8,10,9,9,9,9,9,9
+20236761034,Pawan Kumar,Department of Operational Research,8,8,8,9,8,9,9,9,8,9
+20236761035,Prachi Gautam,Department of Operational Research,8,7,8,9,7,7,8,8,7,7
+20236761036,Pranay Mitra,Department of Operational Research,8,8,8,9,8,8,9,8,8,8
+20236761037,PRANJOL HALDAR,Department of Operational Research,9,9,9,10,8,9,9,9,9,9
+20236761038,Rishi Mehdiratta,Department of Operational Research,8,8,7,9,8,8,7,8,7,7
+20236761039,Rishi Raj Dhar,Department of Operational Research,8,7,8,9,8,8,8,8,8,9
+20236761040,Ritika Chawla,Department of Operational Research,9,8,8,10,9,9,9,9,9,9
+20236761041,Sagar,Department of Operational Research,9,9,9,9,8,9,9,9,9,9
+20236761042,SAYANTAN BHATTACHARYYA,Department of Operational Research,9,8,8,10,8,9,9,9,9,9
+20236761043,Shaily jain,Department of Operational Research,8,9,9,9,8,8,9,8,7,8
+20236761044,Shikha Kumari,Department of Operational Research,8,8,8,9,8,8,8,8,8,9
+20236761045,Shikha Tomar,Department of Operational Research,9,9,8,10,8,9,9,9,9,9
+20236761046,Shreya Bhatnagar,Department of Operational Research,9,8,8,10,8,9,9,8,8,9
+20236761047,Shreya Goel,Department of Operational Research,9,8,8,10,8,8,9,8,8,8
+20236761048,Shubham Bagga,Department of Operational Research,7,9,8,10,8,8,8,8,8,8
+20236761049,Shweta Gupta,Department of Operational Research,8,8,9,10,8,9,9,9,9,9
+20236761051,Siddharth Yadav,Department of Operational Research,9,8,8,10,8,9,9,9,9,9
+20236761052,SPARSH RAWAT,Department of Operational Research,9,9,8,10,8,8,9,8,8,8
+20236761053,SUBHI GUPTA,Department of Operational Research,9,9,8,10,9,8,9,8,8,8
+20236761054,Sumita Debnath,Department of Operational Research,8,8,8,10,8,8,8,8,8,8
+20236761055,Suyash Kadam,Department of Operational Research,8,8,8,10,8,7,7,6,6,7
+20236761056,Umang Maheshwari,Department of Operational Research,8,8,9,9,8,8,8,9,9,8
+20236761057,Utkarsh Patel,Department of Operational Research,9,9,9,9,8,8,9,9,8,9
+20236761058,Vaibhav Gupta,Department of Operational Research,7,9,8,9,9,7,8,8,7,8
+20236761059,Vallari Agarwal,Department of Operational Research,9,9,9,10,9,9,10,9,9,10
+20236761060,Vipin Joshi,Department of Operational Research,9,7,8,9,9,7,7,8,7,8
+20236761061,VISHANT MOHAN,Department of Operational Research,8,8,7,10,8,8,8,8,7,8

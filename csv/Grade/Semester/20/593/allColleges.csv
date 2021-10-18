@@ -1,57 +1,57 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20002593001,Vinita chaturvedi,,8.00,8.000
-20002593002,Neha Kumari,,8.00,8.000
-20002593003,Amrita Singh,,8.00,8.000
-20002593004,Nidhi Krishna,,8.27,8.273
-20002593005,Chintu,,7.73,7.727
-20002593006,Ankita Kumari,,6.91,6.909
-20002593007,Srishti Tripathi,,8.09,8.091
-20002593008,Mumtaj,,8.00,8.000
-20002593009,SHRISTI MISHRA,,8.00,8.000
-20002593010,Deepa Tiwari,,7.45,7.455
-20002593011,Sweety,,6.73,6.727
-20002593012,Amisha,,7.27,7.273
-20002593013,Isha Sharma,,8.00,8.000
-20002593014,Gauri Sharma,,7.45,7.455
-20002593015,Vidhi sachdeva,,7.73,7.727
-20002593016,SHIVANI TIWARI,,7.55,7.545
-20002593017,Ayushi shan,,7.55,7.545
-20002593018,Sakshi jha,,8.00,8.000
-20002593020,MUSKAN,,8.00,8.000
-20002593021,NAJNI,,7.00,7.000
-20002593022,NIMISHA SHREE,,7.45,7.455
-20002593023,PRIYA SRIVASTAVA,,7.73,7.727
-20002593024,Nidhi Rani,,7.00,7.000
-20002593025,Vidhi,,7.73,7.727
-20002593026,SHEETAL,,3.27,3.273
-20002593027,Prerna,,7.27,7.273
-20002593028,Rekha sharma,,7.55,7.545
-20002593029,Madhushri,,7.82,7.818
-20002593030,Khushi Shrivastav,,6.73,6.727
-20002593031,Neetu Mondal,,5.45,5.455
-20058593001,Dushyant,,7.45,7.455
-20058593002,NIKHIL KUMAR,,7.36,7.364
-20058593003,Afsana,,7.27,7.273
-20058593004,Amar,,8.27,8.273
-20058593005,Deep shikha,,7.73,7.727
-20058593006,Gracy Arora,,8.00,8.000
-20058593008,Nicky Pathak,,8.27,8.273
-20058593009,Preeti,,7.27,7.273
-20058593010,Rashmi,,7.82,7.818
-20058593011,SAMEERA,,8.36,8.364
-20058593012,SHIVANI MISHRA,,8.00,8.000
-20058593013,Shweta,,7.82,7.818
-20058593014,Ghanshyam,,6.82,6.818
-20058593015,Gunjan,,8.27,8.273
-20058593016,Imran Zafar,,7.55,7.545
-20058593017,Jyoti pandey,,8.00,8.000
-20058593019,Pooja,,8.27,8.273
-20058593020,Raksha rawat,,8.55,8.545
-20058593021,SANDEEP SINGH,,6.55,6.545
-20058593022,Shashi Ranjan,,8.73,8.727
-20058593023,Sumit kumar,,7.91,7.909
-20058593024,Vishnu Kumar Tiwari,,7.55,7.545
-20058593025,PRIYANSHU GAUTAM,,7.09,7.091
-20058593026,Sakshi Bandhani,,8.00,8.000
-20058593027,BHOOMI SINGH,,7.82,7.818
-20058593028,KAJAL,,6.55,6.545
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20002593001,VINITA CHATURVEDI,Aditi Mahavidyalaya,8.00,8.82,8.409
+20002593002,Neha Kumari,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002593003,Amrita Singh,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002593004,Nidhi Krishna,Aditi Mahavidyalaya,8.27,9.00,8.636
+20002593005,Chintu,Aditi Mahavidyalaya,7.73,8.55,8.136
+20002593006,Ankita Kumari,Aditi Mahavidyalaya,6.91,8.00,7.455
+20002593007,Srishti Tripathi,Aditi Mahavidyalaya,8.09,9.00,8.545
+20002593008,Mumtaj,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002593009,SHRISTI MISHRA,Aditi Mahavidyalaya,8.00,8.82,8.409
+20002593010,Deepa Tiwari,Aditi Mahavidyalaya,7.45,9.00,8.227
+20002593011,Sweety,Aditi Mahavidyalaya,6.73,8.00,7.364
+20002593012,Amisha,Aditi Mahavidyalaya,7.27,8.00,7.636
+20002593013,Isha Sharma,Aditi Mahavidyalaya,8.00,9.00,8.500
+20002593014,Gauri Sharma,Aditi Mahavidyalaya,7.45,8.00,7.727
+20002593015,Vidhi sachdeva,Aditi Mahavidyalaya,7.73,8.55,8.136
+20002593016,SHIVANI TIWARI,Aditi Mahavidyalaya,7.55,8.00,7.773
+20002593017,Ayushi shan,Aditi Mahavidyalaya,7.55,8.00,7.773
+20002593019,Sonam Kumari,Aditi Mahavidyalaya,7.27,8.00,7.636
+20002593020,MUSKAN,Aditi Mahavidyalaya,8.00,8.27,8.136
+20002593021,NAJNI,Aditi Mahavidyalaya,7.00,8.00,7.500
+20002593022,NIMISHA SHREE,Aditi Mahavidyalaya,7.45,8.55,8.000
+20002593023,PRIYA SRIVASTAVA,Aditi Mahavidyalaya,7.73,8.73,8.227
+20002593024,Nidhi Rani,Aditi Mahavidyalaya,7.00,7.55,7.273
+20002593025,Vidhi,Aditi Mahavidyalaya,7.73,8.55,8.136
+20002593026,SHEETAL,Aditi Mahavidyalaya,3.27,6.27,4.773
+20002593027,Prerna,Aditi Mahavidyalaya,7.27,8.00,7.636
+20002593028,Rekha sharma,Aditi Mahavidyalaya,7.55,8.55,8.045
+20002593029,Madhushri,Aditi Mahavidyalaya,7.82,8.18,8.000
+20002593030,Khushi Shrivastav,Aditi Mahavidyalaya,6.73,7.82,7.273
+20002593031,Neetu Mondal,Aditi Mahavidyalaya,5.45,4.91,5.182
+20058593001,Dushyant,Ram Lal Anand College (Day),7.45,8.00,7.727
+20058593002,NIKHIL KUMAR,Ram Lal Anand College (Day),7.36,7.00,7.182
+20058593003,Afsana,Ram Lal Anand College (Day),7.27,8.00,7.636
+20058593004,Amar,Ram Lal Anand College (Day),8.27,8.18,8.227
+20058593005,Deep shikha,Ram Lal Anand College (Day),7.73,8.00,7.864
+20058593006,Gracy Arora,Ram Lal Anand College (Day),8.00,8.27,8.136
+20058593008,Nicky Pathak,Ram Lal Anand College (Day),8.27,8.55,8.409
+20058593009,Preeti,Ram Lal Anand College (Day),7.27,8.00,7.636
+20058593010,Rashmi,Ram Lal Anand College (Day),7.82,8.00,7.909
+20058593011,SAMEERA,Ram Lal Anand College (Day),8.36,8.73,8.545
+20058593012,SHIVANI MISHRA,Ram Lal Anand College (Day),8.00,8.82,8.409
+20058593013,Shweta,Ram Lal Anand College (Day),7.82,8.00,7.909
+20058593014,Ghanshyam,Ram Lal Anand College (Day),6.82,8.00,7.409
+20058593015,Gunjan,Ram Lal Anand College (Day),8.27,8.73,8.500
+20058593016,Imran Zafar,Ram Lal Anand College (Day),7.55,8.55,8.045
+20058593017,Jyoti pandey,Ram Lal Anand College (Day),8.00,8.00,8.000
+20058593018,Mantu Kumar,Ram Lal Anand College (Day),8.27,8.18,8.227
+20058593019,Pooja,Ram Lal Anand College (Day),8.27,8.18,8.227
+20058593020,Raksha rawat,Ram Lal Anand College (Day),8.55,9.00,8.773
+20058593021,SANDEEP SINGH,Ram Lal Anand College (Day),6.55,7.73,7.136
+20058593022,Shashi Ranjan,Ram Lal Anand College (Day),8.73,8.27,8.500
+20058593023,Sumit kumar,Ram Lal Anand College (Day),7.91,8.00,7.955
+20058593024,Vishnu Kumar Tiwari,Ram Lal Anand College (Day),7.55,6.73,7.136
+20058593025,PRIYANSHU GAUTAM,Ram Lal Anand College (Day),7.09,8.00,7.545
+20058593027,BHOOMI SINGH,Ram Lal Anand College (Day),7.82,8.27,8.045
+20058593028,KAJAL,Ram Lal Anand College (Day),6.55,8.00,7.273

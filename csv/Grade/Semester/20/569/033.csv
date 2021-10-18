@@ -1,20 +1,20 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20033569001,Anita,Kalindi College,8.36,8.364
-20033569003,DIKSHA,Kalindi College,9.27,9.273
-20033569004,HARSHITA RAI,Kalindi College,8.09,8.091
-20033569005,JAYA,Kalindi College,8.09,8.091
-20033569006,Khushi,Kalindi College,7.09,7.091
-20033569007,Khushi Bokadia,Kalindi College,8.64,8.636
-20033569008,Kumkum Rana,Kalindi College,9.00,9.000
-20033569009,Manjeeta,Kalindi College,8.18,8.182
-20033569010,Manshi sharma,Kalindi College,9.00,9.000
-20033569011,Muskan,Kalindi College,8.82,8.818
-20033569012,Neha Yadav,Kalindi College,9.00,9.000
-20033569013,Palak chandel,Kalindi College,9.00,9.000
-20033569014,Prerna kumari,Kalindi College,8.55,8.545
-20033569015,Priya karn,Kalindi College,8.45,8.455
-20033569016,Ritika,Kalindi College,9.27,9.273
-20033569017,Ritika Srivastav,Kalindi College,8.36,8.364
-20033569018,Sakshi Pandey,Kalindi College,8.82,8.818
-20033569019,Sneha Sharma,Kalindi College,8.82,8.818
-20033569020,Sonu,Kalindi College,6.09,6.091
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20033569001,Anita,Kalindi College,8.36,7.73,8.045
+20033569002,Arushi Gupta,Kalindi College,9.45,9.27,9.364
+20033569003,DIKSHA,Kalindi College,9.27,9.00,9.136
+20033569004,HARSHITA RAI,Kalindi College,8.09,8.18,8.136
+20033569005,JAYA,Kalindi College,8.09,8.00,8.045
+20033569006,Khushi,Kalindi College,8.55,8.55,8.545
+20033569008,Kumkum Rana,Kalindi College,9.00,9.55,9.273
+20033569009,Manjeeta,Kalindi College,8.18,7.73,7.955
+20033569010,Manshi sharma,Kalindi College,9.00,8.73,8.864
+20033569011,Muskan,Kalindi College,8.82,8.45,8.636
+20033569012,Neha Yadav,Kalindi College,9.00,8.00,8.500
+20033569013,Palak chandel,Kalindi College,9.00,8.45,8.727
+20033569014,Prerna kumari,Kalindi College,8.55,8.73,8.636
+20033569015,Priya karn,Kalindi College,8.45,9.55,9.000
+20033569016,Ritika,Kalindi College,9.27,8.73,9.000
+20033569017,Ritika Srivastav,Kalindi College,8.36,9.27,8.818
+20033569018,Sakshi Pandey,Kalindi College,8.82,8.18,8.500
+20033569019,Sneha Sharma,Kalindi College,8.82,9.00,8.909
+20033569020,Sonu,Kalindi College,6.09,9.00,7.545

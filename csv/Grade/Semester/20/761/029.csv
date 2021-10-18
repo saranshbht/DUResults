@@ -1,13 +1,13 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20029761001,Ayushi,I.P.College For Women,9.60,9.600
-20029761002,Divya,I.P.College For Women,8.80,8.800
-20029761003,Garima Batra,I.P.College For Women,8.60,8.600
-20029761004,Kiran,I.P.College For Women,9.00,9.000
-20029761005,Manisha Tanwar,I.P.College For Women,8.80,8.800
-20029761006,Pragati Singh,I.P.College For Women,8.80,8.800
-20029761007,Pranshu Dhingra,I.P.College For Women,9.20,9.200
-20029761008,Settypalli Sai Jyothi,I.P.College For Women,9.20,9.200
-20029761009,Shatakshi Shukla,I.P.College For Women,9.20,9.200
-20029761010,Shweta,I.P.College For Women,9.00,9.000
-20029761011,SONI CHAUHAN,I.P.College For Women,9.00,9.000
-20029761012,SUDHA YADAV,I.P.College For Women,9.00,9.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20029761001,Ayushi,I.P.College For Women,9.60,9.20,9.400
+20029761002,Divya,I.P.College For Women,8.80,8.80,8.800
+20029761003,Garima Batra,I.P.College For Women,8.60,9.00,8.800
+20029761004,Kiran,I.P.College For Women,9.00,8.60,8.800
+20029761005,Manisha Tanwar,I.P.College For Women,8.80,9.00,8.900
+20029761006,Pragati Singh,I.P.College For Women,8.80,9.00,8.900
+20029761007,Pranshu Dhingra,I.P.College For Women,9.20,9.40,9.300
+20029761008,Settypalli Sai Jyothi,I.P.College For Women,9.20,9.20,9.200
+20029761009,Shatakshi Shukla,I.P.College For Women,9.20,9.00,9.100
+20029761010,Shweta,I.P.College For Women,9.00,8.80,8.900
+20029761011,SONI CHAUHAN,I.P.College For Women,9.00,9.40,9.200
+20029761012,SUDHA YADAV,I.P.College For Women,9.00,8.80,8.900

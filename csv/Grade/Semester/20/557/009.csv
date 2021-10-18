@@ -1,24 +1,23 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20009557001,AKHIL SHARMA,Bhaskaracharya College of Applied Sciences,9.82,9.818
-20009557002,ANSAR ALI,Bhaskaracharya College of Applied Sciences,9.09,9.091
-20009557003,Anubhav Sharma,Bhaskaracharya College of Applied Sciences,9.55,9.545
-20009557004,AYUSH SINGH,Bhaskaracharya College of Applied Sciences,9.64,9.636
-20009557005,Divyansh Durgapal,Bhaskaracharya College of Applied Sciences,9.09,9.091
-20009557006,HARSH,Bhaskaracharya College of Applied Sciences,9.27,9.273
-20009557007,Indresh jatav,Bhaskaracharya College of Applied Sciences,8.18,8.182
-20009557008,Kanika,Bhaskaracharya College of Applied Sciences,9.27,9.273
-20009557009,MANISH,Bhaskaracharya College of Applied Sciences,8.64,8.636
-20009557010,MOHD ALTAF,Bhaskaracharya College of Applied Sciences,9.27,9.273
-20009557011,Mujtaba Ahamed Hasan,Bhaskaracharya College of Applied Sciences,9.09,9.091
-20009557012,Nikita,Bhaskaracharya College of Applied Sciences,9.55,9.545
-20009557013,Rana Pratap Singh,Bhaskaracharya College of Applied Sciences,9.27,9.273
-20009557014,Saksham Kumar Singh,Bhaskaracharya College of Applied Sciences,8.55,8.545
-20009557015,Shankar Mishra,Bhaskaracharya College of Applied Sciences,9.09,9.091
-20009557016,Shivam kumar,Bhaskaracharya College of Applied Sciences,9.82,9.818
-20009557017,SHOBHIT KUMAR CHOUDHARY,Bhaskaracharya College of Applied Sciences,9.55,9.545
-20009557018,SUMIT RATHOR,Bhaskaracharya College of Applied Sciences,8.64,8.636
-20009557019,Suraj kumar,Bhaskaracharya College of Applied Sciences,7.73,7.727
-20009557020,Tannu kumari,Bhaskaracharya College of Applied Sciences,8.27,8.273
-20009557021,Vaibhav pandey,Bhaskaracharya College of Applied Sciences,9.55,9.545
-20009557022,VANSHIKA,Bhaskaracharya College of Applied Sciences,9.09,9.091
-20009557023,Yashaswi Sharma,Bhaskaracharya College of Applied Sciences,9.55,9.545
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20009557001,AKHIL SHARMA,Bhaskaracharya College of Applied Sciences,9.82,9.82,9.818
+20009557002,ANSAR ALI,Bhaskaracharya College of Applied Sciences,9.09,7.45,8.273
+20009557003,Anubhav Sharma,Bhaskaracharya College of Applied Sciences,9.55,9.82,9.682
+20009557004,AYUSH SINGH,Bhaskaracharya College of Applied Sciences,9.64,9.82,9.727
+20009557005,Divyansh Durgapal,Bhaskaracharya College of Applied Sciences,9.09,9.00,9.045
+20009557006,HARSH,Bhaskaracharya College of Applied Sciences,9.27,9.45,9.364
+20009557007,Indresh jatav,Bhaskaracharya College of Applied Sciences,8.18,8.27,8.227
+20009557008,Kanika,Bhaskaracharya College of Applied Sciences,9.27,9.82,9.545
+20009557010,MOHD ALTAF,Bhaskaracharya College of Applied Sciences,9.27,9.00,9.136
+20009557011,Mujtaba Ahamed Hasan,Bhaskaracharya College of Applied Sciences,9.09,9.00,9.045
+20009557012,Nikita,Bhaskaracharya College of Applied Sciences,9.55,9.73,9.636
+20009557013,Rana Pratap Singh,Bhaskaracharya College of Applied Sciences,9.27,9.45,9.364
+20009557014,Saksham Kumar Singh,Bhaskaracharya College of Applied Sciences,8.55,7.73,8.136
+20009557015,Shankar Mishra,Bhaskaracharya College of Applied Sciences,9.09,9.27,9.182
+20009557016,Shivam kumar,Bhaskaracharya College of Applied Sciences,9.82,9.27,9.545
+20009557017,SHOBHIT KUMAR CHOUDHARY,Bhaskaracharya College of Applied Sciences,9.55,9.82,9.682
+20009557018,SUMIT RATHOR,Bhaskaracharya College of Applied Sciences,8.64,7.45,8.045
+20009557019,Suraj kumar,Bhaskaracharya College of Applied Sciences,7.73,9.00,8.364
+20009557020,Tannu kumari,Bhaskaracharya College of Applied Sciences,8.27,6.64,7.455
+20009557021,Vaibhav pandey,Bhaskaracharya College of Applied Sciences,9.55,7.64,8.591
+20009557022,VANSHIKA,Bhaskaracharya College of Applied Sciences,9.09,7.73,8.409
+20009557023,Yashaswi Sharma,Bhaskaracharya College of Applied Sciences,9.55,9.82,9.682

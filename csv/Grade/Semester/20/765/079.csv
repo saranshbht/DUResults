@@ -1,27 +1,25 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20079765001,ADITYA KUMAR,Sri Venkateswara College,8.60,8.600
-20079765002,ANUSHI SHARMA,Sri Venkateswara College,9.40,9.400
-20079765003,ARCHITA MUKHOPADHYAY,Sri Venkateswara College,9.40,9.400
-20079765004,ASHUTOSH KUMAR,Sri Venkateswara College,9.20,9.200
-20079765005,ATRAYEE DUTTA CHOWDHURY,Sri Venkateswara College,9.40,9.400
-20079765006,BHANU SHARMA,Sri Venkateswara College,8.80,8.800
-20079765007,CHANDAN LALBABU CHAURASIYA,Sri Venkateswara College,8.20,8.200
-20079765008,HARSHIT MIGLANI,Sri Venkateswara College,8.80,8.800
-20079765009,JATIN YADAV,Sri Venkateswara College,8.80,8.800
-20079765010,KAUSTAV DEB,Sri Venkateswara College,9.60,9.600
-20079765011,KRITIKA KHANDELWAL,Sri Venkateswara College,9.20,9.200
-20079765012,KUNIKA VERMA,Sri Venkateswara College,8.40,8.400
-20079765013,MADHU YADAV,Sri Venkateswara College,9.40,9.400
-20079765014,NEERAJ KUMAR,Sri Venkateswara College,8.00,8.000
-20079765015,PALAK GOYAL,Sri Venkateswara College,9.00,9.000
-20079765016,RANDHEER SINGH,Sri Venkateswara College,8.40,8.400
-20079765017,RICHA SINGH,Sri Venkateswara College,8.20,8.200
-20079765018,RITU MALPANI,Sri Venkateswara College,9.20,9.200
-20079765019,RIYA MISHRA,Sri Venkateswara College,9.20,9.200
-20079765020,SAYAK GIRI,Sri Venkateswara College,9.60,9.600
-20079765021,SAYANTIKA CHAKRAVARTY,Sri Venkateswara College,9.20,9.200
-20079765022,SCHMIDI KHOKHA,Sri Venkateswara College,9.20,9.200
-20079765023,SHANTANU MONDAL,Sri Venkateswara College,7.20,7.200
-20079765024,SHIVANI,Sri Venkateswara College,8.80,8.800
-20079765025,SOUMYA BAHUGUNA,Sri Venkateswara College,8.80,8.800
-20079765026,YASH YADAV,Sri Venkateswara College,8.80,8.800
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20079765001,ADITYA KUMAR,Sri Venkateswara College,8.60,9.20,8.900
+20079765002,Anushi Sharma,Sri Venkateswara College,9.40,9.80,9.600
+20079765003,Archita Mukhopadhyay,Sri Venkateswara College,9.40,10.00,9.700
+20079765004,Ashutosh Kumar,Sri Venkateswara College,9.20,9.60,9.400
+20079765005,ATRAYEE DUTTA CHOWDHURY,Sri Venkateswara College,9.40,10.00,9.700
+20079765006,Bhanu Sharma,Sri Venkateswara College,8.80,9.60,9.200
+20079765007,Chandan Lalbabu Chaurasiya,Sri Venkateswara College,8.20,9.40,8.800
+20079765008,Harshit Miglani,Sri Venkateswara College,8.80,9.60,9.200
+20079765009,Jatin yadav,Sri Venkateswara College,8.80,9.60,9.200
+20079765010,KAUSTAV DEB,Sri Venkateswara College,9.60,10.00,9.800
+20079765011,Kritika Khandelwal,Sri Venkateswara College,9.20,9.40,9.300
+20079765012,Kunika Verma,Sri Venkateswara College,8.40,9.00,8.700
+20079765013,Madhu Yadav,Sri Venkateswara College,9.40,9.80,9.600
+20079765014,neeraj kumar,Sri Venkateswara College,8.00,8.60,8.300
+20079765015,Palak Goyal,Sri Venkateswara College,9.00,9.80,9.400
+20079765016,Randheer Singh,Sri Venkateswara College,8.40,8.80,8.600
+20079765018,Ritu Malpani,Sri Venkateswara College,9.20,9.60,9.400
+20079765019,Riya Mishra,Sri Venkateswara College,9.20,9.40,9.300
+20079765020,Sayak Giri,Sri Venkateswara College,9.60,10.00,9.800
+20079765021,Sayantika Chakravarty,Sri Venkateswara College,9.20,10.00,9.600
+20079765022,Schmidi Khokha,Sri Venkateswara College,9.20,9.80,9.500
+20079765023,Shantanu Mondal,Sri Venkateswara College,7.20,7.20,7.200
+20079765025,Soumya Bahuguna,Sri Venkateswara College,8.80,9.60,9.200
+20079765026,Yash Yadav,Sri Venkateswara College,8.80,9.60,9.200

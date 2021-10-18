@@ -1,33 +1,31 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20036529001,Aakash soni,,8.64,8.636
-20036529002,ABHAY KUMAR,,7.64,7.636
-20036529003,Abhinav Pandey,,7.64,7.636
-20036529004,Aman,,6.91,6.909
-20036529005,Aman tiwari,,8.18,8.182
-20036529006,Ankit Kumar Saurav,,8.18,8.182
-20036529007,ANSH RAJ,,7.64,7.636
-20036529009,Gautam raj,,7.91,7.909
-20036529010,Happy,,8.18,8.182
-20036529011,Hemant kumar Sharma,,8.45,8.455
-20036529012,KAMAL KANT SHARMA,,7.91,7.909
-20036529013,Khushi choudhary,,7.91,7.909
-20036529014,Kunal,,8.00,8.000
-20036529015,Kushal neupane,,8.00,8.000
-20036529016,LOKESH UMARWAL,,7.55,7.545
-20036529017,madhav bhattarai,,0.73,0.727
-20036529018,Madhav Singh Yadav,,7.91,7.909
-20036529019,MANSI KANUJIA,,8.09,8.091
-20036529020,Muskan Aggarwal,,9.00,9.000
-20036529021,Navin Kumar,,8.45,8.455
-20036529022,Prerna Behl,,8.73,8.727
-20036529023,Priyanka,,8.73,8.727
-20036529024,Rahul,,6.91,6.909
-20036529025,Ravi singh,,0.00,0.000
-20036529026,Rohit Kumar,,0.00,0.000
-20036529028,Sanjana,,8.18,8.182
-20036529029,Sarthak nehra,,5.64,5.636
-20036529030,Sarvjeet Kumar Shukla,,8.91,8.909
-20036529031,Vicky mehto,,6.82,6.818
-20036529032,GAURAV GUPTA,,7.00,7.000
-20036529033,PRIYA,,4.18,4.182
-20036529034,SHUBHAM SINGH,,4.09,4.091
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20036529001,Aakash soni,Kirori Mal College,8.64,8.18,8.409
+20036529002,ABHAY KUMAR,Kirori Mal College,7.64,7.27,7.455
+20036529003,Abhinav Pandey,Kirori Mal College,7.64,8.73,8.182
+20036529004,Aman,Kirori Mal College,6.91,8.00,7.455
+20036529005,Aman tiwari,Kirori Mal College,8.18,8.73,8.455
+20036529006,Ankit Kumar Saurav,Kirori Mal College,8.18,8.73,8.455
+20036529007,ANSH RAJ,Kirori Mal College,7.64,8.27,7.955
+20036529008,Divyanshu kumar,Kirori Mal College,7.73,9.00,8.364
+20036529009,Gautam raj,Kirori Mal College,7.91,8.73,8.318
+20036529011,Hemant kumar Sharma,Kirori Mal College,8.45,9.00,8.727
+20036529012,KAMAL KANT SHARMA,Kirori Mal College,7.91,9.00,8.455
+20036529013,Khushi choudhary,Kirori Mal College,7.91,8.45,8.182
+20036529014,Kunal,Kirori Mal College,8.00,8.73,8.364
+20036529015,Kushal neupane,Kirori Mal College,8.00,8.73,8.364
+20036529016,LOKESH UMARWAL,Kirori Mal College,7.55,8.00,7.773
+20036529017,madhav bhattarai,Kirori Mal College,0.73,7.00,3.864
+20036529018,Madhav Singh Yadav,Kirori Mal College,7.91,9.45,8.682
+20036529019,MANSI KANUJIA,Kirori Mal College,8.09,9.00,8.545
+20036529020,Muskan Aggarwal,Kirori Mal College,9.00,9.00,9.000
+20036529021,Navin Kumar,Kirori Mal College,8.45,9.00,8.727
+20036529022,Prerna Behl,Kirori Mal College,8.73,9.00,8.864
+20036529024,Rahul,Kirori Mal College,6.91,8.00,7.455
+20036529027,Sachin Chander Lakhchoura,Kirori Mal College,7.45,8.00,7.727
+20036529028,Sanjana,Kirori Mal College,8.18,9.00,8.591
+20036529029,Sarthak nehra,Kirori Mal College,5.64,7.00,6.318
+20036529030,SARVJEET KUMAR SHUKLA,Kirori Mal College,8.91,10.00,9.455
+20036529031,Vicky mehto,Kirori Mal College,6.82,4.36,5.591
+20036529032,GAURAV GUPTA,Kirori Mal College,7.00,6.73,6.864
+20036529033,PRIYA,Kirori Mal College,4.18,1.09,2.636
+20036529034,SHUBHAM SINGH,Kirori Mal College,4.09,6.27,5.182

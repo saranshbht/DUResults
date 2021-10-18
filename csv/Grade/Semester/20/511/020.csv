@@ -1,52 +1,53 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20020511001,AASHISH VISHNOI,Ramanujan College,7.64,7.636
-20020511002,AISHWARYA RAI,Ramanujan College,7.73,7.727
-20020511003,ANISHA KUMARI,Ramanujan College,7.45,7.455
-20020511004,APARNA S KUMAR,Ramanujan College,7.45,7.455
-20020511005,Arya Tiwari,Ramanujan College,7.64,7.636
-20020511006,CHENAB GOEL,Ramanujan College,7.45,7.455
-20020511007,CHHANDA CHARAN MAJHI,Ramanujan College,7.00,7.000
-20020511008,DEBANGANA BORAH,Ramanujan College,7.64,7.636
-20020511009,DEEPAK MAVAI,Ramanujan College,7.27,7.273
-20020511011,Himani Malhotra,Ramanujan College,7.45,7.455
-20020511012,ISHIKA ANAND,Ramanujan College,7.18,7.182
-20020511013,JANVI SAGAR,Ramanujan College,7.73,7.727
-20020511015,Jaspreet Kaur,Ramanujan College,6.45,6.455
-20020511016,KAJAL YADAV,Ramanujan College,7.27,7.273
-20020511017,Karan Kumar,Ramanujan College,7.00,7.000
-20020511018,KHUSHI VERMA,Ramanujan College,7.45,7.455
-20020511019,KRISHNA VERMA,Ramanujan College,7.45,7.455
-20020511020,LAKSHIKA,Ramanujan College,7.45,7.455
-20020511021,Madhu Jha,Ramanujan College,7.27,7.273
-20020511022,Muskan khan,Ramanujan College,6.64,6.636
-20020511023,Nadeem fayaz,Ramanujan College,6.91,6.909
-20020511024,PRAKRITI VERMA,Ramanujan College,7.45,7.455
-20020511025,Prerit Shankar,Ramanujan College,6.27,6.273
-20020511026,PRERNA,Ramanujan College,6.82,6.818
-20020511027,PRERNA NEGI,Ramanujan College,7.45,7.455
-20020511028,Priya Sachdeva,Ramanujan College,7.64,7.636
-20020511029,RICHA CHAURASIA,Ramanujan College,7.18,7.182
-20020511030,Ritika Dhawan,Ramanujan College,7.45,7.455
-20020511031,SAHIL IJHAR,Ramanujan College,6.36,6.364
-20020511032,Shagun Pathak,Ramanujan College,7.00,7.000
-20020511033,SIMARPREET KAUR,Ramanujan College,8.27,8.273
-20020511034,SNEHA DHAWAN,Ramanujan College,8.18,8.182
-20020511035,Surbhi Gupta,Ramanujan College,7.18,7.182
-20020511036,Tshamta Shiwakoty,Ramanujan College,7.18,7.182
-20020511037,VAIBHAVI,Ramanujan College,7.55,7.545
-20020511038,VANSHIKA PARIHAR,Ramanujan College,7.45,7.455
-20020511039,YAHYA AHMED,Ramanujan College,6.91,6.909
-20020511041,HIYA GHOSH,Ramanujan College,7.45,7.455
-20020511043,NAYSA SHARMA,Ramanujan College,6.91,6.909
-20020511045,REENA MEENA,Ramanujan College,7.27,7.273
-20020511046,Simarjeet Singh,Ramanujan College,6.82,6.818
-20020511047,Aakriti jain,Ramanujan College,7.64,7.636
-20020511048,Aditya kumar,Ramanujan College,6.91,6.909
-20020511049,Ajeetanshu kumar,Ramanujan College,6.91,6.909
-20020511050,Gaurav,Ramanujan College,7.00,7.000
-20020511051,HIMANSHU KUMAR,Ramanujan College,6.27,6.273
-20020511052,Lai Kadyan,Ramanujan College,7.09,7.091
-20020511053,Mohit Chandila,Ramanujan College,6.91,6.909
-20020511054,Swagata Laxmi,Ramanujan College,6.91,6.909
-20020511055,NITIKA MALHOTRA,Ramanujan College,0.00,0.000
-20020511056,MIZOL,Ramanujan College,6.09,6.091
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20020511001,AASHISH VISHNOI,Ramanujan College,7.64,7.27,7.455
+20020511002,AISHWARYA RAI,Ramanujan College,7.73,7.73,7.727
+20020511003,ANISHA KUMARI,Ramanujan College,7.45,7.73,7.591
+20020511004,APARNA S KUMAR,Ramanujan College,7.45,7.00,7.227
+20020511005,Arya Tiwari,Ramanujan College,7.64,8.18,7.909
+20020511006,CHENAB GOEL,Ramanujan College,7.45,7.18,7.318
+20020511007,CHHANDA CHARAN MAJHI,Ramanujan College,7.00,7.18,7.091
+20020511008,DEBANGANA BORAH,Ramanujan College,7.64,8.00,7.818
+20020511009,DEEPAK MAVAI,Ramanujan College,7.27,6.73,7.000
+20020511011,Himani Malhotra,Ramanujan College,7.45,7.00,7.227
+20020511012,ISHIKA ANAND,Ramanujan College,7.18,7.00,7.091
+20020511013,JANVI SAGAR,Ramanujan College,7.73,7.73,7.727
+20020511015,Jaspreet Kaur,Ramanujan College,6.45,6.00,6.227
+20020511016,KAJAL YADAV,Ramanujan College,7.27,7.27,7.273
+20020511017,Karan Kumar,Ramanujan College,7.00,7.00,7.000
+20020511018,KHUSHI VERMA,Ramanujan College,7.45,6.45,6.955
+20020511019,KRISHNA VERMA,Ramanujan College,7.45,7.73,7.591
+20020511020,LAKSHIKA,Ramanujan College,7.45,6.73,7.091
+20020511021,Madhu Jha,Ramanujan College,7.27,7.27,7.273
+20020511022,Muskan khan,Ramanujan College,6.64,6.45,6.545
+20020511023,Nadeem fayaz,Ramanujan College,6.91,7.00,6.955
+20020511024,PRAKRITI VERMA,Ramanujan College,7.45,6.73,7.091
+20020511025,Prerit Shankar,Ramanujan College,6.27,6.45,6.364
+20020511026,PRERNA,Ramanujan College,6.82,7.00,6.909
+20020511027,PRERNA NEGI,Ramanujan College,7.45,8.00,7.727
+20020511028,Priya Sachdeva,Ramanujan College,7.64,7.45,7.545
+20020511029,RICHA CHAURASIA,Ramanujan College,7.18,7.00,7.091
+20020511030,Ritika Dhawan,Ramanujan College,7.45,7.00,7.227
+20020511031,SAHIL IJHAR,Ramanujan College,6.36,5.18,5.773
+20020511032,Shagun Pathak,Ramanujan College,7.00,7.00,7.000
+20020511033,SIMARPREET KAUR,Ramanujan College,8.27,8.00,8.136
+20020511034,SNEHA DHAWAN,Ramanujan College,8.18,8.27,8.227
+20020511035,Surbhi Gupta,Ramanujan College,7.18,7.00,7.091
+20020511036,Tshamta Shiwakoty,Ramanujan College,7.18,7.00,7.091
+20020511037,VAIBHAVI,Ramanujan College,7.55,7.27,7.409
+20020511038,VANSHIKA PARIHAR,Ramanujan College,7.45,7.00,7.227
+20020511039,YAHYA AHMED,Ramanujan College,6.91,7.00,6.955
+20020511040,FALGUNI KAUSHIK,Ramanujan College,7.18,8.00,7.591
+20020511041,HIYA GHOSH,Ramanujan College,7.45,7.45,7.455
+20020511043,NAYSA SHARMA,Ramanujan College,6.91,6.82,6.864
+20020511044,Ankita,Ramanujan College,7.18,7.00,7.091
+20020511045,REENA MEENA,Ramanujan College,7.27,7.27,7.273
+20020511046,Simarjeet Singh,Ramanujan College,6.82,5.00,5.909
+20020511047,Aakriti jain,Ramanujan College,7.64,8.00,7.818
+20020511048,Aditya kumar,Ramanujan College,6.91,6.18,6.545
+20020511049,Ajeetanshu kumar,Ramanujan College,6.91,6.45,6.682
+20020511050,Gaurav,Ramanujan College,7.00,7.00,7.000
+20020511051,HIMANSHU KUMAR,Ramanujan College,6.27,6.00,6.136
+20020511052,Lai Kadyan,Ramanujan College,7.09,6.73,6.909
+20020511053,Mohit Chandila,Ramanujan College,6.91,6.45,6.682
+20020511054,Swagata Laxmi,Ramanujan College,6.91,7.00,6.955
+20020511056,MIZOL,Ramanujan College,6.09,6.00,6.045

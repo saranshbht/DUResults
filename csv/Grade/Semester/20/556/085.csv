@@ -1,31 +1,27 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20085556001,Abrez Israil,Zakir Husain Delhi College (Day),3.73,3.727
-20085556002,Afiya Rayyan,Zakir Husain Delhi College (Day),7.27,7.273
-20085556003,ARYAN,Zakir Husain Delhi College (Day),5.00,5.000
-20085556004,ASNA KHAN,Zakir Husain Delhi College (Day),8.82,8.818
-20085556005,Bharti,Zakir Husain Delhi College (Day),7.91,7.909
-20085556006,CHANDRA SHEKHAR YADAV,Zakir Husain Delhi College (Day),8.55,8.545
-20085556007,Diya Baburaj,Zakir Husain Delhi College (Day),8.55,8.545
-20085556008,Harinandan P B,Zakir Husain Delhi College (Day),8.18,8.182
-20085556009,Himanshi,Zakir Husain Delhi College (Day),6.64,6.636
-20085556010,Himanshu Kardam,Zakir Husain Delhi College (Day),8.55,8.545
-20085556011,Javed,Zakir Husain Delhi College (Day),7.00,7.000
-20085556012,JEEVANSHU YADAV,Zakir Husain Delhi College (Day),6.73,6.727
-20085556013,JITENDRA BISHNOI,Zakir Husain Delhi College (Day),8.55,8.545
-20085556014,Jweria Alam,Zakir Husain Delhi College (Day),8.36,8.364
-20085556015,Khushi pandey,Zakir Husain Delhi College (Day),8.09,8.091
-20085556016,MAYANGLAMBAM TAMPHA DEVI,Zakir Husain Delhi College (Day),7.55,7.545
-20085556017,Md saba zafar,Zakir Husain Delhi College (Day),8.27,8.273
-20085556018,MIRANDA THOUDAM,Zakir Husain Delhi College (Day),8.82,8.818
-20085556019,MOHAMMAD ASRAR,Zakir Husain Delhi College (Day),7.82,7.818
-20085556020,NARESH KUMAR PRASAD,Zakir Husain Delhi College (Day),7.73,7.727
-20085556021,Prabhat Sahu,Zakir Husain Delhi College (Day),8.27,8.273
-20085556022,PRAGATI,Zakir Husain Delhi College (Day),8.55,8.545
-20085556023,Preeti Mathpal,Zakir Husain Delhi College (Day),8.82,8.818
-20085556024,PRIYAVART BIDAWAT,Zakir Husain Delhi College (Day),7.27,7.273
-20085556025,Ritu Dhillon,Zakir Husain Delhi College (Day),8.64,8.636
-20085556026,Shreya Ghanghas,Zakir Husain Delhi College (Day),8.27,8.273
-20085556027,SUNWEET SINGH,Zakir Husain Delhi College (Day),0.00,0.000
-20085556028,TANNU,Zakir Husain Delhi College (Day),8.09,8.091
-20085556029,VARIA,Zakir Husain Delhi College (Day),8.00,8.000
-20085556030,VIKAS PAL,Zakir Husain Delhi College (Day),5.36,5.364
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20085556001,ABREZ ISRAIL,Zakir Husain Delhi College (Day),3.73,0.00,1.864
+20085556002,AFIYA RAYYAN,Zakir Husain Delhi College (Day),7.27,5.09,6.182
+20085556003,ARYAN,Zakir Husain Delhi College (Day),5.00,0.00,2.500
+20085556004,ASNA KHAN,Zakir Husain Delhi College (Day),8.82,10.00,9.409
+20085556005,BHARTI,Zakir Husain Delhi College (Day),7.91,5.36,6.636
+20085556006,CHANDRA SHEKHAR YADAV,Zakir Husain Delhi College (Day),8.55,9.27,8.909
+20085556007,DIYA BABURAJ,Zakir Husain Delhi College (Day),8.55,9.00,8.773
+20085556008,HARINANDAN P B,Zakir Husain Delhi College (Day),8.18,8.45,8.318
+20085556009,HIMANSHI,Zakir Husain Delhi College (Day),6.64,8.00,7.318
+20085556011,JAVED,Zakir Husain Delhi College (Day),7.00,7.45,7.227
+20085556012,JEEVANSHU YADAV,Zakir Husain Delhi College (Day),6.73,0.00,3.364
+20085556013,JITENDRA BISHNOI,Zakir Husain Delhi College (Day),8.55,8.73,8.636
+20085556014,JWERIA ALAM,Zakir Husain Delhi College (Day),8.36,8.73,8.545
+20085556015,KHUSHI PANDEY,Zakir Husain Delhi College (Day),8.09,7.91,8.000
+20085556016,MAYANGLAMBAM TAMPHA DEVI,Zakir Husain Delhi College (Day),7.55,8.00,7.773
+20085556017,MD SABA ZAFAR,Zakir Husain Delhi College (Day),8.27,8.45,8.364
+20085556018,MIRANDA THOUDAM,Zakir Husain Delhi College (Day),8.82,9.55,9.182
+20085556019,MOHAMMAD ASRAR,Zakir Husain Delhi College (Day),7.82,8.73,8.273
+20085556021,PRABHAT SAHU,Zakir Husain Delhi College (Day),8.27,8.73,8.500
+20085556022,PRAGATI,Zakir Husain Delhi College (Day),8.55,9.00,8.773
+20085556023,PREETI MATHPAL,Zakir Husain Delhi College (Day),8.82,9.00,8.909
+20085556024,PRIYAVART BIDAWAT,Zakir Husain Delhi College (Day),7.27,4.00,5.636
+20085556025,RITU DHILLON,Zakir Husain Delhi College (Day),8.64,9.00,8.818
+20085556026,SHREYA GHANGHAS,Zakir Husain Delhi College (Day),8.27,9.00,8.636
+20085556028,TANNU,Zakir Husain Delhi College (Day),8.09,8.73,8.409
+20085556030,VIKAS PAL,Zakir Husain Delhi College (Day),5.36,0.00,2.682

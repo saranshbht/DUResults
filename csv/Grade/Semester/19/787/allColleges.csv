@@ -1,95 +1,92 @@
-RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
-19307787001,AAKANKSHA GUPTA,Non Collegiate Women Education Board (NCWEB),5.75,4.04,6.00,5.188
-19307787002,AARUSHI UTREJA,Non Collegiate Women Education Board (NCWEB),6.00,6.54,6.00,6.203
-19307787003,AAYUSHI LAVANIA,Non Collegiate Women Education Board (NCWEB),6.75,7.79,6.25,6.984
-19307787004,AMANPREET KAUR,Non Collegiate Women Education Board (NCWEB),5.75,7.13,5.75,6.266
-19307787005,AMISHA SHARMA,Non Collegiate Women Education Board (NCWEB),6.50,7.75,6.00,6.813
-19307787006,ANUKRITI GUPTA,Non Collegiate Women Education Board (NCWEB),6.75,7.13,6.00,6.656
-19307787007,ARCHITA,Non Collegiate Women Education Board (NCWEB),5.25,7.17,5.75,6.125
-19307787008,AREEBA KHAN,Non Collegiate Women Education Board (NCWEB),5.75,6.96,6.00,6.281
-19307787009,ARUSHI GUPTA,Non Collegiate Women Education Board (NCWEB),6.25,7.13,6.00,6.500
-19307787010,AYUSHI JAIN,Non Collegiate Women Education Board (NCWEB),7.00,7.54,6.00,6.891
-19307787011,CHETNA VERMA,Non Collegiate Women Education Board (NCWEB),5.75,7.13,6.00,6.344
-19307787012,CHHAVI,Non Collegiate Women Education Board (NCWEB),5.25,6.92,5.50,5.953
-19307787013,DEEKSHA SHARMA,Non Collegiate Women Education Board (NCWEB),5.75,6.96,5.75,6.203
-19307787014,DEEPANSHI AILAWADI,Non Collegiate Women Education Board (NCWEB),6.25,7.96,6.00,6.813
-19307787015,DHANVI WADHWA,Non Collegiate Women Education Board (NCWEB),6.75,6.96,5.75,6.516
-19307787016,DIKSHA SINGLA,Non Collegiate Women Education Board (NCWEB),6.25,7.13,6.00,6.500
-19307787017,GURANJAN KAUR,Non Collegiate Women Education Board (NCWEB),6.00,6.38,6.00,6.141
-19307787018,GURDEEP KAUR,Non Collegiate Women Education Board (NCWEB),6.00,7.75,6.00,6.656
-19307787020,HARSHA,Non Collegiate Women Education Board (NCWEB),6.50,6.75,6.00,6.438
-19307787021,HARSHA JAISINGHANI,Non Collegiate Women Education Board (NCWEB),6.75,7.38,6.00,6.750
-19307787022,HIMANSHI,Non Collegiate Women Education Board (NCWEB),4.50,0.00,5.75,3.203
-19307787023,HIMANSHI GARG,Non Collegiate Women Education Board (NCWEB),6.50,7.42,6.00,6.688
-19307787024,HIMANSHI PARCHA,Non Collegiate Women Education Board (NCWEB),5.00,6.75,5.50,5.813
-19307787025,IFRA KHANAM,Non Collegiate Women Education Board (NCWEB),5.25,6.33,6.25,5.969
-19307787026,IRTIQA,Non Collegiate Women Education Board (NCWEB),7.00,8.38,6.00,7.203
-19307787027,ISHA BHATNAGAR,Non Collegiate Women Education Board (NCWEB),5.75,7.17,6.50,6.516
-19307787029,JYOTI MEENA,Non Collegiate Women Education Board (NCWEB),4.50,6.33,6.00,5.656
-19307787030,KARISHMA TIRTHANI,Non Collegiate Women Education Board (NCWEB),6.00,6.92,6.00,6.344
-19307787031,KIRTI,Non Collegiate Women Education Board (NCWEB),6.00,7.33,6.25,6.578
-19307787032,KOMAL,Non Collegiate Women Education Board (NCWEB),6.00,6.33,6.00,6.125
-19307787033,KRITI KANSAL,Non Collegiate Women Education Board (NCWEB),6.00,1.33,5.50,4.094
-19307787034,KRITI NAYYAR,Non Collegiate Women Education Board (NCWEB),6.50,5.50,0.00,4.094
-19307787035,KRITIKA SINGH,Non Collegiate Women Education Board (NCWEB),5.50,6.50,5.75,5.953
-19307787036,MANSI,Non Collegiate Women Education Board (NCWEB),6.00,6.29,6.25,6.188
-19307787037,MANSI JAIN,Non Collegiate Women Education Board (NCWEB),5.25,6.50,5.75,5.875
-19307787038,MANSI TYAGI,Non Collegiate Women Education Board (NCWEB),6.50,6.13,6.00,6.203
-19307787039,MEDHA RAI,Non Collegiate Women Education Board (NCWEB),5.75,7.17,6.25,6.438
-19307787040,MEENU,Non Collegiate Women Education Board (NCWEB),4.75,5.92,5.50,5.422
-19307787041,MEGHNA SINGH,Non Collegiate Women Education Board (NCWEB),6.00,7.13,6.25,6.500
-19307787042,MUSKAN CHHIKARA,Non Collegiate Women Education Board (NCWEB),5.75,6.96,6.00,6.281
-19307787043,NEETU,Non Collegiate Women Education Board (NCWEB),4.75,6.50,6.00,5.797
-19307787044,NEHA,Non Collegiate Women Education Board (NCWEB),4.50,6.50,6.00,5.719
-19307787045,POOJA RAI,Non Collegiate Women Education Board (NCWEB),6.00,7.54,6.25,6.656
-19307787047,PRAGATI SHUKLA,Non Collegiate Women Education Board (NCWEB),5.50,5.21,6.25,5.625
-19307787048,PREETI YADAV,Non Collegiate Women Education Board (NCWEB),5.00,4.67,5.75,5.109
-19307787050,PRIYAMWADA,Non Collegiate Women Education Board (NCWEB),5.00,6.13,5.00,5.422
-19307787053,RASHI RAJESHWARI,Non Collegiate Women Education Board (NCWEB),4.75,6.54,5.50,5.656
-19307787054,RASHMI SHAJU,Non Collegiate Women Education Board (NCWEB),6.75,0.00,6.75,4.219
-19307787055,RIA SHARMA,Non Collegiate Women Education Board (NCWEB),5.75,7.17,6.00,6.359
-19307787056,ROSHNI,Non Collegiate Women Education Board (NCWEB),6.00,6.96,6.00,6.359
-19307787057,RUPAL SACHDEVA,Non Collegiate Women Education Board (NCWEB),5.75,7.13,6.25,6.422
-19307787058,SAKSHI GUPTA,Non Collegiate Women Education Board (NCWEB),6.25,6.54,6.00,6.281
-19307787059,SAKSHI SINGLA,Non Collegiate Women Education Board (NCWEB),5.75,6.50,6.00,6.109
-19307787060,SAMIRAH KHAN,Non Collegiate Women Education Board (NCWEB),6.25,7.33,6.25,6.656
-19307787061,SARABJYOT KAUR,Non Collegiate Women Education Board (NCWEB),6.00,6.33,6.00,6.125
-19307787062,SHAMBHAVI KUMARI,Non Collegiate Women Education Board (NCWEB),5.50,6.33,5.75,5.891
-19307787063,SHAURYA VERMA,Non Collegiate Women Education Board (NCWEB),7.00,7.13,6.25,6.813
-19307787064,SHELLY SHARMA,Non Collegiate Women Education Board (NCWEB),6.25,6.96,6.00,6.438
-19307787065,SHIVANI,Non Collegiate Women Education Board (NCWEB),5.50,6.08,6.25,5.953
-19307787066,SHRIMANSI KAUSHIK,Non Collegiate Women Education Board (NCWEB),5.25,7.50,6.50,6.484
-19307787067,SHRUTI TIWARI,Non Collegiate Women Education Board (NCWEB),6.75,7.33,6.25,6.813
-19307787068,SHUBHRA SINGH,Non Collegiate Women Education Board (NCWEB),6.75,6.50,6.00,6.422
-19307787069,SHWETA,Non Collegiate Women Education Board (NCWEB),5.00,6.75,6.00,5.969
-19307787070,SHWETA,Non Collegiate Women Education Board (NCWEB),4.75,6.96,5.75,5.891
-19307787071,SONAL JAIN,Non Collegiate Women Education Board (NCWEB),6.00,6.33,6.00,6.125
-19307787072,JIGYASA KAKWANI,Non Collegiate Women Education Board (NCWEB),6.25,8.17,6.25,6.969
-19307787073,SONALI BANGIA,Non Collegiate Women Education Board (NCWEB),6.25,7.13,6.25,6.578
-19307787074,SONAM,Non Collegiate Women Education Board (NCWEB),6.00,6.71,6.00,6.266
-19307787075,SONIA,Non Collegiate Women Education Board (NCWEB),5.50,6.38,6.00,5.984
-19307787076,SRISHTI RAWAT,Non Collegiate Women Education Board (NCWEB),6.25,7.13,6.25,6.578
-19307787077,SRISHTY BHARDWAJ,Non Collegiate Women Education Board (NCWEB),6.00,7.17,6.25,6.516
-19307787078,SUMAN KUMARI DAS,Non Collegiate Women Education Board (NCWEB),4.00,0.00,0.00,1.250
-19307787079,SWARNIKA,Non Collegiate Women Education Board (NCWEB),6.00,6.96,6.75,6.594
-19307787080,SWATI,Non Collegiate Women Education Board (NCWEB),5.75,6.50,6.25,6.188
-19307787081,TANNYA,Non Collegiate Women Education Board (NCWEB),5.75,6.50,6.00,6.109
-19307787082,TANYA JAIN,Non Collegiate Women Education Board (NCWEB),6.50,6.75,6.00,6.438
-19307787083,TANYA THUKRAL,Non Collegiate Women Education Board (NCWEB),6.00,7.17,5.75,6.359
-19307787084,URVASHI RANJAN,Non Collegiate Women Education Board (NCWEB),5.75,6.50,6.00,6.109
-19307787085,VAISHALI BIDHURI,Non Collegiate Women Education Board (NCWEB),5.50,6.50,6.00,6.031
-19307787086,VAISHALI CHHETRI,Non Collegiate Women Education Board (NCWEB),6.50,7.75,6.00,6.813
-19307787087,VANSHIKA VERMA,Non Collegiate Women Education Board (NCWEB),5.75,6.71,6.75,6.422
-19307787088,VARSHA,Non Collegiate Women Education Board (NCWEB),6.75,6.92,6.25,6.656
-19307787089,VARSHA SONI,Non Collegiate Women Education Board (NCWEB),5.25,6.08,5.75,5.719
-19307787090,VISHRUTA KOHAR,Non Collegiate Women Education Board (NCWEB),5.75,6.75,6.00,6.203
-19307787091,YASHITA TYAGI,Non Collegiate Women Education Board (NCWEB),6.00,6.54,5.75,6.125
-19307787092,AISHWARYA SIKRI,Non Collegiate Women Education Board (NCWEB),6.25,5.92,6.00,6.047
-19307787093,KASHISH,Non Collegiate Women Education Board (NCWEB),6.00,6.29,5.75,6.031
-19307787094,SURBHI SACHDEVA,Non Collegiate Women Education Board (NCWEB),6.25,6.71,5.50,6.188
-19307787095,POOJA,Non Collegiate Women Education Board (NCWEB),6.00,6.33,6.00,6.125
-19307787097,SHIVANI TANWAR,Non Collegiate Women Education Board (NCWEB),4.75,5.08,6.00,5.266
-19307787098,BHAVYA SHARMA,Non Collegiate Women Education Board (NCWEB),6.75,7.13,6.25,6.734
-19307787099,BABITA MEENA,Non Collegiate Women Education Board (NCWEB),5.50,6.33,5.75,5.891
-19307787100,VANDANA,Non Collegiate Women Education Board (NCWEB),5.25,6.50,5.75,5.875
-19307787101,ADITI WADHWA,Non Collegiate Women Education Board (NCWEB),5.75,6.50,5.75,6.031
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Overall CGPA
+19307787001,AAKANKSHA GUPTA,Non Collegiate Women Education Board (NCWEB),5.75,6.75,6.00,5.74,6.096
+19307787002,AARUSHI UTREJA,Non Collegiate Women Education Board (NCWEB),6.00,6.54,6.00,6.21,6.205
+19307787003,AAYUSHI LAVANIA,Non Collegiate Women Education Board (NCWEB),6.75,7.79,6.25,6.00,6.759
+19307787004,AMANPREET KAUR,Non Collegiate Women Education Board (NCWEB),5.75,7.13,5.75,5.79,6.157
+19307787005,AMISHA SHARMA,Non Collegiate Women Education Board (NCWEB),6.50,7.75,6.00,5.68,6.554
+19307787006,ANUKRITI GUPTA,Non Collegiate Women Education Board (NCWEB),6.75,7.13,6.00,6.26,6.566
+19307787007,ARCHITA,Non Collegiate Women Education Board (NCWEB),5.25,7.17,5.75,5.21,5.916
+19307787008,AREEBA KHAN,Non Collegiate Women Education Board (NCWEB),5.75,6.96,6.00,5.68,6.145
+19307787009,ARUSHI GUPTA,Non Collegiate Women Education Board (NCWEB),6.25,7.13,6.00,6.21,6.434
+19307787010,AYUSHI JAIN,Non Collegiate Women Education Board (NCWEB),7.00,7.54,6.00,5.68,6.614
+19307787011,CHETNA VERMA,Non Collegiate Women Education Board (NCWEB),5.75,7.13,6.00,5.74,6.205
+19307787012,CHHAVI,Non Collegiate Women Education Board (NCWEB),5.25,6.92,5.50,5.47,5.843
+19307787013,DEEKSHA SHARMA,Non Collegiate Women Education Board (NCWEB),5.75,6.96,5.75,5.74,6.096
+19307787014,DEEPANSHI AILAWADI,Non Collegiate Women Education Board (NCWEB),6.25,7.96,6.00,5.74,6.566
+19307787015,DHANVI WADHWA,Non Collegiate Women Education Board (NCWEB),6.75,6.96,5.75,5.74,6.337
+19307787016,DIKSHA SINGLA,Non Collegiate Women Education Board (NCWEB),6.25,7.13,6.00,5.74,6.325
+19307787017,GURANJAN KAUR,Non Collegiate Women Education Board (NCWEB),6.00,6.58,6.00,5.74,6.108
+19307787018,GURDEEP KAUR,Non Collegiate Women Education Board (NCWEB),6.00,7.75,6.00,5.68,6.434
+19307787020,HARSHA,Non Collegiate Women Education Board (NCWEB),6.50,6.75,6.00,5.74,6.277
+19307787021,HARSHA JAISINGHANI,Non Collegiate Women Education Board (NCWEB),6.75,7.38,6.00,5.74,6.518
+19307787022,HIMANSHI,Non Collegiate Women Education Board (NCWEB),4.50,5.83,5.75,5.47,5.410
+19307787023,HIMANSHI GARG,Non Collegiate Women Education Board (NCWEB),6.50,7.42,6.00,5.63,6.446
+19307787024,HIMANSHI PARCHA,Non Collegiate Women Education Board (NCWEB),5.00,6.75,5.50,5.26,5.687
+19307787025,IFRA KHANAM,Non Collegiate Women Education Board (NCWEB),5.25,6.33,6.25,5.95,5.964
+19307787026,IRTIQA,Non Collegiate Women Education Board (NCWEB),7.00,8.38,6.00,6.16,6.964
+19307787027,ISHA BHATNAGAR,Non Collegiate Women Education Board (NCWEB),5.75,7.17,6.50,5.68,6.325
+19307787029,JYOTI MEENA,Non Collegiate Women Education Board (NCWEB),4.50,6.33,6.00,5.47,5.614
+19307787030,KARISHMA TIRTHANI,Non Collegiate Women Education Board (NCWEB),6.00,6.92,6.00,5.74,6.205
+19307787031,KIRTI,Non Collegiate Women Education Board (NCWEB),6.00,7.33,6.25,5.68,6.373
+19307787032,KOMAL,Non Collegiate Women Education Board (NCWEB),6.00,6.33,6.00,6.21,6.145
+19307787033,KRITI KANSAL,Non Collegiate Women Education Board (NCWEB),6.00,6.75,5.50,5.74,6.036
+19307787035,KRITIKA SINGH,Non Collegiate Women Education Board (NCWEB),5.50,6.50,5.75,6.00,5.964
+19307787036,MANSI,Non Collegiate Women Education Board (NCWEB),6.00,6.29,6.25,5.95,6.133
+19307787037,MANSI JAIN,Non Collegiate Women Education Board (NCWEB),5.25,6.50,5.75,5.47,5.783
+19307787038,MANSI TYAGI,Non Collegiate Women Education Board (NCWEB),6.50,6.13,6.00,5.95,6.145
+19307787039,MEDHA RAI,Non Collegiate Women Education Board (NCWEB),5.75,7.17,6.25,6.00,6.337
+19307787040,MEENU,Non Collegiate Women Education Board (NCWEB),4.75,5.92,5.50,5.74,5.494
+19307787041,MEGHNA SINGH,Non Collegiate Women Education Board (NCWEB),6.00,7.13,6.25,5.68,6.313
+19307787042,MUSKAN CHHIKARA,Non Collegiate Women Education Board (NCWEB),5.75,6.96,6.00,5.74,6.157
+19307787043,NEETU,Non Collegiate Women Education Board (NCWEB),4.75,6.50,6.00,5.68,5.771
+19307787044,NEHA,Non Collegiate Women Education Board (NCWEB),4.50,6.50,6.00,5.47,5.663
+19307787045,POOJA RAI,Non Collegiate Women Education Board (NCWEB),6.00,7.54,6.25,5.74,6.446
+19307787047,PRAGATI SHUKLA,Non Collegiate Women Education Board (NCWEB),5.50,5.21,6.25,5.21,5.530
+19307787048,PREETI YADAV,Non Collegiate Women Education Board (NCWEB),5.00,6.13,5.75,5.74,5.675
+19307787050,PRIYAMWADA,Non Collegiate Women Education Board (NCWEB),5.00,6.13,5.00,5.47,5.434
+19307787053,RASHI RAJESHWARI,Non Collegiate Women Education Board (NCWEB),4.75,6.54,5.50,5.47,5.614
+19307787054,RASHMI SHAJU,Non Collegiate Women Education Board (NCWEB),6.75,6.96,6.75,6.00,6.639
+19307787055,RIA SHARMA,Non Collegiate Women Education Board (NCWEB),5.75,7.17,6.00,5.74,6.217
+19307787056,ROSHNI,Non Collegiate Women Education Board (NCWEB),6.00,6.96,6.00,6.00,6.277
+19307787057,RUPAL SACHDEVA,Non Collegiate Women Education Board (NCWEB),5.75,7.13,6.25,5.95,6.313
+19307787058,SAKSHI GUPTA,Non Collegiate Women Education Board (NCWEB),6.25,6.54,6.00,5.95,6.205
+19307787059,SAKSHI SINGLA,Non Collegiate Women Education Board (NCWEB),5.75,6.50,6.00,5.74,6.024
+19307787060,SAMIRAH KHAN,Non Collegiate Women Education Board (NCWEB),6.25,7.33,6.25,5.53,6.398
+19307787061,SARABJYOT KAUR,Non Collegiate Women Education Board (NCWEB),6.00,6.75,6.00,5.74,6.157
+19307787062,SHAMBHAVI KUMARI,Non Collegiate Women Education Board (NCWEB),5.50,6.33,5.75,5.74,5.855
+19307787063,SHAURYA VERMA,Non Collegiate Women Education Board (NCWEB),7.00,7.13,6.25,6.21,6.675
+19307787064,SHELLY SHARMA,Non Collegiate Women Education Board (NCWEB),6.25,6.96,6.00,5.95,6.325
+19307787065,SHIVANI,Non Collegiate Women Education Board (NCWEB),5.50,6.08,6.25,5.74,5.904
+19307787066,SHRIMANSI KAUSHIK,Non Collegiate Women Education Board (NCWEB),5.25,7.50,6.50,6.00,6.373
+19307787067,SHRUTI TIWARI,Non Collegiate Women Education Board (NCWEB),6.75,7.33,6.25,5.95,6.614
+19307787068,SHUBHRA SINGH,Non Collegiate Women Education Board (NCWEB),6.75,6.50,6.00,5.74,6.265
+19307787069,SHWETA,Non Collegiate Women Education Board (NCWEB),5.00,6.75,6.00,6.16,6.012
+19307787070,SHWETA,Non Collegiate Women Education Board (NCWEB),4.75,6.96,5.75,6.21,5.964
+19307787071,SONAL JAIN,Non Collegiate Women Education Board (NCWEB),6.00,6.33,6.00,6.21,6.145
+19307787072,JIGYASA KAKWANI,Non Collegiate Women Education Board (NCWEB),6.25,8.17,6.25,6.47,6.855
+19307787073,SONALI BANGIA,Non Collegiate Women Education Board (NCWEB),6.25,7.13,6.25,6.53,6.566
+19307787074,SONAM,Non Collegiate Women Education Board (NCWEB),6.00,6.71,6.00,6.00,6.205
+19307787076,SRISHTI RAWAT,Non Collegiate Women Education Board (NCWEB),6.25,7.13,6.25,6.26,6.506
+19307787077,SRISHTY BHARDWAJ,Non Collegiate Women Education Board (NCWEB),6.00,7.17,6.25,6.16,6.434
+19307787079,SWARNIKA,Non Collegiate Women Education Board (NCWEB),6.00,6.96,6.75,5.95,6.446
+19307787080,SWATI,Non Collegiate Women Education Board (NCWEB),5.75,6.50,6.25,5.58,6.048
+19307787081,TANNYA,Non Collegiate Women Education Board (NCWEB),5.75,6.50,6.00,6.47,6.193
+19307787082,TANYA JAIN,Non Collegiate Women Education Board (NCWEB),6.50,6.75,6.00,5.74,6.277
+19307787083,TANYA THUKRAL,Non Collegiate Women Education Board (NCWEB),6.00,7.17,5.75,5.95,6.265
+19307787084,URVASHI RANJAN,Non Collegiate Women Education Board (NCWEB),5.75,6.50,6.00,6.00,6.084
+19307787085,VAISHALI BIDHURI,Non Collegiate Women Education Board (NCWEB),5.50,6.50,6.00,5.74,5.964
+19307787086,VAISHALI CHHETRI,Non Collegiate Women Education Board (NCWEB),6.50,7.75,6.00,5.74,6.566
+19307787088,VARSHA,Non Collegiate Women Education Board (NCWEB),6.75,6.92,6.25,5.95,6.494
+19307787089,VARSHA SONI,Non Collegiate Women Education Board (NCWEB),5.25,6.08,5.75,6.00,5.783
+19307787090,VISHRUTA KOHAR,Non Collegiate Women Education Board (NCWEB),5.75,6.75,6.00,5.74,6.096
+19307787091,YASHITA TYAGI,Non Collegiate Women Education Board (NCWEB),6.00,6.54,5.75,6.74,6.265
+19307787092,AISHWARYA SIKRI,Non Collegiate Women Education Board (NCWEB),6.25,5.92,6.00,5.47,5.916
+19307787093,KASHISH,Non Collegiate Women Education Board (NCWEB),6.00,6.29,5.75,6.42,6.120
+19307787094,SURBHI SACHDEVA,Non Collegiate Women Education Board (NCWEB),6.25,6.71,5.50,5.53,6.036
+19307787095,POOJA,Non Collegiate Women Education Board (NCWEB),6.00,6.33,6.00,5.74,6.036
+19307787096,RASHI KHARI,Non Collegiate Women Education Board (NCWEB),5.50,6.33,5.75,5.74,5.855
+19307787097,SHIVANI TANWAR,Non Collegiate Women Education Board (NCWEB),4.75,6.54,6.00,5.74,5.795
+19307787098,BHAVYA SHARMA,Non Collegiate Women Education Board (NCWEB),6.75,7.13,6.25,6.21,6.614
+19307787099,BABITA MEENA,Non Collegiate Women Education Board (NCWEB),5.50,6.33,5.75,6.05,5.928
+19307787100,VANDANA,Non Collegiate Women Education Board (NCWEB),5.25,6.50,5.75,5.74,5.843
+19307787101,ADITI WADHWA,Non Collegiate Women Education Board (NCWEB),5.75,6.50,5.75,6.21,6.072

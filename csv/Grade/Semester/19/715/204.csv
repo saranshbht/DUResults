@@ -1,14 +1,13 @@
-RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
-19204715001,AKANKSHA SHARMA,Department of Germanic and Romance Studies,5.00,6.00,6.75,5.915
-19204715002,AKASH TIRKEY,Department of Germanic and Romance Studies,5.50,6.79,7.50,6.593
-19204715003,AMISHA,Department of Germanic and Romance Studies,5.50,6.26,7.25,6.339
-19204715004,ARPIT MAHANTI,Department of Germanic and Romance Studies,8.25,8.79,9.00,8.678
-19204715005,HARSHITA DUBEY,Department of Germanic and Romance Studies,7.25,7.00,7.50,7.254
-19204715006,ISHITA VERMA,Department of Germanic and Romance Studies,4.50,5.21,4.50,4.729
-19204715007,MANPREET JAGGI,Department of Germanic and Romance Studies,5.75,6.74,7.50,6.661
-19204715008,PAYAL,Department of Germanic and Romance Studies,7.75,8.00,7.75,7.831
-19204715009,PUSHPREEN KAUR,Department of Germanic and Romance Studies,5.75,6.26,7.25,6.424
-19204715010,SAMRIDDHI VASHISHTH,Department of Germanic and Romance Studies,8.25,8.53,8.00,8.254
-19204715011,SHERIN GUPTA,Department of Germanic and Romance Studies,8.25,8.53,8.25,8.339
-19204715012,SHREYA DUREJA,Department of Germanic and Romance Studies,7.00,7.26,8.75,7.678
-19204715013,VARTIKA SHARMA,Department of Germanic and Romance Studies,6.50,7.26,7.50,7.085
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Overall CGPA
+19204715001,AKANKSHA SHARMA,Department of Germanic and Romance Studies,5.00,6.00,6.75,6.95,6.198
+19204715002,AKASH TIRKEY,Department of Germanic and Romance Studies,5.50,6.79,7.50,8.00,6.975
+19204715003,AMISHA,Department of Germanic and Romance Studies,5.50,6.26,7.25,6.36,6.346
+19204715004,ARPIT MAHANTI,Department of Germanic and Romance Studies,8.25,8.79,9.00,8.05,8.506
+19204715006,ISHITA VERMA,Department of Germanic and Romance Studies,4.50,5.21,4.50,4.68,4.716
+19204715007,MANPREET JAGGI,Department of Germanic and Romance Studies,5.75,6.74,7.50,7.55,6.901
+19204715008,PAYAL,Department of Germanic and Romance Studies,7.75,8.00,7.75,7.05,7.617
+19204715009,PUSHPREEN KAUR,Department of Germanic and Romance Studies,5.75,6.26,7.25,4.18,5.815
+19204715010,SAMRIDDHI VASHISHTH,Department of Germanic and Romance Studies,8.25,8.53,8.00,7.59,8.074
+19204715011,SHERIN GUPTA,Department of Germanic and Romance Studies,8.25,8.53,8.25,7.82,8.198
+19204715012,SHREYA DUREJA,Department of Germanic and Romance Studies,7.00,7.26,8.75,8.77,7.975
+19204715013,VARTIKA SHARMA,Department of Germanic and Romance Studies,6.50,7.26,7.50,7.23,7.123

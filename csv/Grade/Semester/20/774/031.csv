@@ -1,16 +1,16 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20031774001,ADHITHYA P S,Janki Devi Memorial College,8.80,8.800
-20031774002,Barkha Jain,Janki Devi Memorial College,9.00,9.000
-20031774003,Khushboo,Janki Devi Memorial College,8.80,8.800
-20031774004,KUMARI MEGHA,Janki Devi Memorial College,8.60,8.600
-20031774005,Lalita kumari,Janki Devi Memorial College,8.80,8.800
-20031774006,Monika,Janki Devi Memorial College,7.40,7.400
-20031774007,Monika joshi,Janki Devi Memorial College,8.60,8.600
-20031774008,Mridul Narain Singhani,Janki Devi Memorial College,9.20,9.200
-20031774009,NEHA PRASAD,Janki Devi Memorial College,9.20,9.200
-20031774010,NITIKA GUPTA,Janki Devi Memorial College,8.80,8.800
-20031774011,Priyanshi Jain,Janki Devi Memorial College,9.00,9.000
-20031774012,Ritu,Janki Devi Memorial College,8.60,8.600
-20031774013,Riya Garg,Janki Devi Memorial College,9.60,9.600
-20031774014,Ruchi,Janki Devi Memorial College,8.60,8.600
-20031774015,Tisha,Janki Devi Memorial College,9.40,9.400
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20031774001,ADHITHYA P S,Janki Devi Memorial College,8.80,10.00,9.400
+20031774002,Barkha Jain,Janki Devi Memorial College,9.00,9.80,9.400
+20031774003,Khushboo,Janki Devi Memorial College,8.80,9.80,9.300
+20031774004,KUMARI MEGHA,Janki Devi Memorial College,8.60,9.80,9.200
+20031774005,Lalita kumari,Janki Devi Memorial College,8.80,9.00,8.900
+20031774006,Monika,Janki Devi Memorial College,7.40,8.80,8.100
+20031774007,Monika joshi,Janki Devi Memorial College,8.60,10.00,9.300
+20031774008,Mridul Narain Singhani,Janki Devi Memorial College,9.20,10.00,9.600
+20031774009,NEHA PRASAD,Janki Devi Memorial College,9.20,9.80,9.500
+20031774010,NITIKA GUPTA,Janki Devi Memorial College,8.80,9.60,9.200
+20031774011,Priyanshi Jain,Janki Devi Memorial College,9.00,9.80,9.400
+20031774012,Ritu,Janki Devi Memorial College,8.60,9.20,8.900
+20031774013,Riya Garg,Janki Devi Memorial College,9.60,10.00,9.800
+20031774014,Ruchi,Janki Devi Memorial College,8.60,9.00,8.800
+20031774015,Tisha,Janki Devi Memorial College,9.40,10.00,9.700

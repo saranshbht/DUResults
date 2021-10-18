@@ -1,61 +1,64 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20035590001,ABDUL ZISHAN,,9.00,9.000
-20035590002,Aditi Yadav,,8.73,8.727
-20035590003,Aditya Verma,,8.73,8.727
-20035590004,Akhilesh Goyal,,8.55,8.545
-20035590005,Akshay Sehgal,,8.45,8.455
-20035590007,Alex,,8.82,8.818
-20035590008,Ankit Patel,,9.00,9.000
-20035590009,Anshuman Bag,,8.73,8.727
-20035590010,AVYA GARG,,9.00,9.000
-20035590011,Ayush Malik,,9.00,9.000
-20035590012,Deepak Yadav,,8.73,8.727
-20035590013,DEEPALI GUPTA,,9.00,9.000
-20035590014,DEVANSHI SRIVASTAVA,,9.27,9.273
-20035590015,DIKSHA YADAV,,8.73,8.727
-20035590016,Garv Vasudeva,,8.73,8.727
-20035590017,Gaurav Kumar,,8.55,8.545
-20035590018,GAUTAM,,8.45,8.455
-20035590019,Hardika Arora,,9.18,9.182
-20035590020,Harsh Tomar,,8.45,8.455
-20035590021,Hunny,,8.45,8.455
-20035590022,ISHA YADAV,,8.18,8.182
-20035590023,Ishika Seth,,8.73,8.727
-20035590024,jayant jain,,8.45,8.455
-20035590025,Kamya Singh,,8.73,8.727
-20035590026,Krish Middha,,8.45,8.455
-20035590027,KUNAL AGARWAL,,8.73,8.727
-20035590028,Lakshay Bhatt,,8.45,8.455
-20035590029,Loein Attri,,8.45,8.455
-20035590030,Manish Kokila,,8.00,8.000
-20035590031,Mukti Yadav,,8.45,8.455
-20035590032,NAYAN RAJ JHA,,8.73,8.727
-20035590033,Parikshit Khandelwal,,8.45,8.455
-20035590034,Pearl Christelle Laure Valmont,,8.45,8.455
-20035590035,Pema Dechen,,9.00,9.000
-20035590036,Prashansa Gupta,,8.45,8.455
-20035590037,Pratham Mittal,,8.73,8.727
-20035590038,Praveen,,8.55,8.545
-20035590039,Raman Kumar,,8.09,8.091
-20035590040,RHEA GUPTA,,8.73,8.727
-20035590041,Rishabh Goyal,,8.45,8.455
-20035590042,ROHAN AKHRIA,,8.55,8.545
-20035590043,Rohit kumar,,8.18,8.182
-20035590044,SANYA KHANDELWAL,,8.45,8.455
-20035590045,Satvik Yadav,,8.18,8.182
-20035590046,Satyam Utkarsh,,8.91,8.909
-20035590048,Shobhit Gupta,,8.73,8.727
-20035590049,SHRESTHA PRANAY,,8.45,8.455
-20035590050,Shrutika,,8.73,8.727
-20035590051,Shubham Kumar,,8.82,8.818
-20035590052,siddharth jangra,,8.73,8.727
-20035590053,SUPREET KAUR,,8.45,8.455
-20035590054,VAIBHAV KAPOOR,,9.00,9.000
-20035590055,Vaibhav Kumar,,9.09,9.091
-20035590056,Vaibhav Thakur,,8.09,8.091
-20035590058,Vishesh Garg,,9.18,9.182
-20035590059,Vishesh Jain,,9.00,9.000
-20035590060,Yogesh Arora,,8.73,8.727
-20035590061,DEEKSHA VISHNOI,,9.27,9.273
-20035590062,Tushar Seth,,8.45,8.455
-20035590063,Vedankshu Mazumder,,8.45,8.455
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20035590001,ABDUL ZISHAN,Keshav Mahavidyalaya,9.00,9.73,9.364
+20035590002,Aditi Yadav,Keshav Mahavidyalaya,8.73,9.00,8.864
+20035590003,Aditya Verma,Keshav Mahavidyalaya,8.73,9.00,8.864
+20035590004,Akhilesh Goyal,Keshav Mahavidyalaya,8.55,9.45,9.000
+20035590005,Akshay Sehgal,Keshav Mahavidyalaya,8.45,9.00,8.727
+20035590006,Akshit bansal,Keshav Mahavidyalaya,8.18,9.27,8.727
+20035590007,Alex,Keshav Mahavidyalaya,8.82,9.00,8.909
+20035590008,Ankit Patel,Keshav Mahavidyalaya,9.00,9.00,9.000
+20035590009,Anshuman Bag,Keshav Mahavidyalaya,8.73,9.00,8.864
+20035590010,AVYA GARG,Keshav Mahavidyalaya,9.00,9.00,9.000
+20035590011,Ayush Malik,Keshav Mahavidyalaya,9.00,9.18,9.091
+20035590012,Deepak Yadav,Keshav Mahavidyalaya,8.73,9.00,8.864
+20035590013,DEEPALI GUPTA,Keshav Mahavidyalaya,9.00,9.45,9.227
+20035590014,DEVANSHI SRIVASTAVA,Keshav Mahavidyalaya,9.27,9.55,9.409
+20035590015,DIKSHA YADAV,Keshav Mahavidyalaya,8.73,9.00,8.864
+20035590016,Garv Vasudeva,Keshav Mahavidyalaya,8.73,9.27,9.000
+20035590017,Gaurav Kumar,Keshav Mahavidyalaya,8.55,9.00,8.773
+20035590018,GAUTAM,Keshav Mahavidyalaya,8.45,8.45,8.455
+20035590019,Hardika Arora,Keshav Mahavidyalaya,9.18,9.73,9.455
+20035590020,Harsh Tomar,Keshav Mahavidyalaya,8.45,9.18,8.818
+20035590021,Hunny,Keshav Mahavidyalaya,8.45,9.00,8.727
+20035590022,ISHA YADAV,Keshav Mahavidyalaya,8.18,8.18,8.182
+20035590023,Ishika Seth,Keshav Mahavidyalaya,8.73,9.73,9.227
+20035590024,jayant jain,Keshav Mahavidyalaya,8.45,9.00,8.727
+20035590025,Kamya Singh,Keshav Mahavidyalaya,8.73,9.00,8.864
+20035590026,Krish Middha,Keshav Mahavidyalaya,8.45,9.73,9.091
+20035590027,KUNAL AGARWAL,Keshav Mahavidyalaya,8.73,9.73,9.227
+20035590028,Lakshay Bhatt,Keshav Mahavidyalaya,8.45,9.00,8.727
+20035590029,Loein Attri,Keshav Mahavidyalaya,8.45,9.00,8.727
+20035590030,Manish Kokila,Keshav Mahavidyalaya,8.00,8.73,8.364
+20035590031,Mukti Yadav,Keshav Mahavidyalaya,8.45,9.00,8.727
+20035590032,NAYAN RAJ JHA,Keshav Mahavidyalaya,8.73,9.00,8.864
+20035590033,Parikshit Khandelwal,Keshav Mahavidyalaya,8.45,9.00,8.727
+20035590034,Pearl Christelle Laure Valmont,Keshav Mahavidyalaya,8.45,9.00,8.727
+20035590035,Pema Dechen,Keshav Mahavidyalaya,9.00,9.45,9.227
+20035590036,Prashansa Gupta,Keshav Mahavidyalaya,8.45,9.00,8.727
+20035590037,Pratham Mittal,Keshav Mahavidyalaya,8.73,9.18,8.955
+20035590038,Praveen,Keshav Mahavidyalaya,8.55,9.00,8.773
+20035590039,Raman Kumar,Keshav Mahavidyalaya,8.09,9.00,8.545
+20035590040,RHEA GUPTA,Keshav Mahavidyalaya,8.73,9.73,9.227
+20035590041,Rishabh Goyal,Keshav Mahavidyalaya,8.45,9.00,8.727
+20035590042,ROHAN AKHRIA,Keshav Mahavidyalaya,8.55,9.00,8.773
+20035590043,Rohit kumar,Keshav Mahavidyalaya,8.18,8.18,8.182
+20035590044,SANYA KHANDELWAL,Keshav Mahavidyalaya,8.45,9.45,8.955
+20035590045,Satvik Yadav,Keshav Mahavidyalaya,8.18,9.00,8.591
+20035590046,Satyam Utkarsh,Keshav Mahavidyalaya,8.91,9.00,8.955
+20035590047,Shivam surya nirwan,Keshav Mahavidyalaya,8.18,9.00,8.591
+20035590048,Shobhit Gupta,Keshav Mahavidyalaya,8.73,9.00,8.864
+20035590049,SHRESTHA PRANAY,Keshav Mahavidyalaya,8.45,9.00,8.727
+20035590050,Shrutika,Keshav Mahavidyalaya,8.73,9.00,8.864
+20035590051,Shubham Kumar,Keshav Mahavidyalaya,8.82,9.00,8.909
+20035590052,siddharth jangra,Keshav Mahavidyalaya,8.73,9.00,8.864
+20035590053,SUPREET KAUR,Keshav Mahavidyalaya,8.45,8.73,8.591
+20035590054,VAIBHAV KAPOOR,Keshav Mahavidyalaya,9.00,9.00,9.000
+20035590055,Vaibhav Kumar,Keshav Mahavidyalaya,9.09,8.73,8.909
+20035590056,Vaibhav Thakur,Keshav Mahavidyalaya,8.09,7.45,7.773
+20035590057,VANSH BHATNAGAR,Keshav Mahavidyalaya,8.55,9.00,8.773
+20035590058,Vishesh Garg,Keshav Mahavidyalaya,9.18,9.73,9.455
+20035590059,Vishesh Jain,Keshav Mahavidyalaya,9.00,9.00,9.000
+20035590060,Yogesh Arora,Keshav Mahavidyalaya,8.73,9.00,8.864
+20035590061,DEEKSHA VISHNOI,Keshav Mahavidyalaya,9.27,9.45,9.364
+20035590062,Tushar Seth,Keshav Mahavidyalaya,8.45,9.00,8.727
+20035590063,Vedankshu Mazumder,Keshav Mahavidyalaya,8.45,8.27,8.364

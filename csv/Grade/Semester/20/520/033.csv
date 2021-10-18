@@ -1,51 +1,48 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20033520001,Somi,Kalindi College,8.00,8.000
-20033520002,vinshi jain,Kalindi College,8.00,8.000
-20033520003,naaz parveen,Kalindi College,7.45,7.455
-20033520004,Gulshan,Kalindi College,7.82,7.818
-20033520005,ANSHUL RANI,Kalindi College,7.45,7.455
-20033520006,Namya jain,Kalindi College,8.00,8.000
-20033520007,BHAWNA,Kalindi College,7.82,7.818
-20033520008,NIDHI MATHUR,Kalindi College,8.27,8.273
-20033520009,Mansi jain,Kalindi College,7.82,7.818
-20033520010,Priya bhatnagar,Kalindi College,7.64,7.636
-20033520011,Khushi mishra,Kalindi College,7.73,7.727
-20033520012,Apexa Rai,Kalindi College,8.73,8.727
-20033520013,Gungun Mishra,Kalindi College,8.18,8.182
-20033520014,Tanushree Rathaur,Kalindi College,8.00,8.000
-20033520015,Tanisha Ghildiyal,Kalindi College,8.00,8.000
-20033520016,NISTHA GOEL,Kalindi College,8.00,8.000
-20033520017,Mudita Gupta,Kalindi College,7.73,7.727
-20033520018,AKANKSHA DIXIT,Kalindi College,8.27,8.273
-20033520019,Jyoti,Kalindi College,8.55,8.545
-20033520020,Vanshika Singh,Kalindi College,8.27,8.273
-20033520021,DIVYA RUPAM,Kalindi College,9.00,9.000
-20033520022,mansi bhandari,Kalindi College,8.27,8.273
-20033520023,Simran,Kalindi College,7.73,7.727
-20033520024,Vidhushi Trikha,Kalindi College,8.18,8.182
-20033520025,Anshvi Singh,Kalindi College,8.00,8.000
-20033520026,KRITI SARAIYA,Kalindi College,8.27,8.273
-20033520027,Shraddha Yadav,Kalindi College,7.45,7.455
-20033520028,saloni gupta,Kalindi College,7.73,7.727
-20033520029,Aditi Joshi,Kalindi College,7.45,7.455
-20033520031,Anushka Kogta,Kalindi College,8.27,8.273
-20033520032,SAKSHI RAJ,Kalindi College,8.00,8.000
-20033520033,Rose Negi,Kalindi College,7.73,7.727
-20033520034,Vishakha sharma,Kalindi College,7.82,7.818
-20033520035,Ishika Raj,Kalindi College,8.00,8.000
-20033520036,Adhya,Kalindi College,7.45,7.455
-20033520037,Preeti,Kalindi College,7.73,7.727
-20033520038,Akriti Tiwari,Kalindi College,7.73,7.727
-20033520039,Smirti Panchal,Kalindi College,7.73,7.727
-20033520040,Shriya Gupta,Kalindi College,7.82,7.818
-20033520041,Pooja Saini,Kalindi College,7.27,7.273
-20033520042,Shweta milan,Kalindi College,8.00,8.000
-20033520043,ISHITA GARGI,Kalindi College,7.27,7.273
-20033520044,Tenzin lhadon,Kalindi College,8.00,8.000
-20033520045,DILNASHI ZEHRA,Kalindi College,0.00,0.000
-20033520046,Aakansha kumari,Kalindi College,8.00,8.000
-20033520047,Radhika chauhan,Kalindi College,7.64,7.636
-20033520048,KANAK,Kalindi College,8.00,8.000
-20033520049,SANDHYA KUNTAL,Kalindi College,7.82,7.818
-20033520050,RITIKA GUPTA,Kalindi College,8.00,8.000
-20033520051,ANZHU TRIVEDI,Kalindi College,6.27,6.273
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20033520001,Somi,Kalindi College,8.00,8.27,8.136
+20033520002,vinshi jain,Kalindi College,8.00,9.00,8.500
+20033520003,naaz parveen,Kalindi College,7.45,8.00,7.727
+20033520004,Gulshan,Kalindi College,7.82,8.55,8.182
+20033520005,ANSHUL RANI,Kalindi College,7.45,8.27,7.864
+20033520006,Namya jain,Kalindi College,8.00,9.00,8.500
+20033520008,NIDHI MATHUR,Kalindi College,8.27,9.00,8.636
+20033520009,Mansi jain,Kalindi College,7.82,7.27,7.545
+20033520010,Priya bhatnagar,Kalindi College,7.64,8.00,7.818
+20033520011,Khushi mishra,Kalindi College,7.73,8.27,8.000
+20033520012,Apexa Rai,Kalindi College,8.73,9.00,8.864
+20033520013,Gungun Mishra,Kalindi College,8.18,9.00,8.591
+20033520014,Tanushree Rathaur,Kalindi College,8.00,9.00,8.500
+20033520015,Tanisha Ghildiyal,Kalindi College,8.00,9.00,8.500
+20033520016,NISTHA GOEL,Kalindi College,8.00,8.73,8.364
+20033520017,Mudita Gupta,Kalindi College,7.73,8.00,7.864
+20033520018,AKANKSHA DIXIT,Kalindi College,8.27,9.00,8.636
+20033520019,Jyoti,Kalindi College,8.55,9.27,8.909
+20033520021,DIVYA RUPAM,Kalindi College,9.00,9.00,9.000
+20033520022,mansi bhandari,Kalindi College,8.27,9.00,8.636
+20033520023,Simran,Kalindi College,7.73,8.27,8.000
+20033520024,Vidhushi Trikha,Kalindi College,8.18,8.73,8.455
+20033520025,Anshvi Singh,Kalindi College,8.00,8.82,8.409
+20033520026,KRITI SARAIYA,Kalindi College,8.27,9.00,8.636
+20033520027,Shraddha Yadav,Kalindi College,7.45,8.00,7.727
+20033520028,saloni gupta,Kalindi College,7.73,8.00,7.864
+20033520029,Aditi Joshi,Kalindi College,7.45,8.27,7.864
+20033520031,Anushka Kogta,Kalindi College,8.27,9.00,8.636
+20033520032,SAKSHI RAJ,Kalindi College,8.00,8.55,8.273
+20033520033,Rose Negi,Kalindi College,7.73,8.00,7.864
+20033520034,Vishakha sharma,Kalindi College,7.82,8.73,8.273
+20033520035,Ishika Raj,Kalindi College,8.00,8.73,8.364
+20033520036,Adhya,Kalindi College,7.45,8.00,7.727
+20033520037,Preeti,Kalindi College,7.73,8.00,7.864
+20033520038,Akriti Tiwari,Kalindi College,7.73,8.00,7.864
+20033520039,Smirti Panchal,Kalindi College,7.73,8.27,8.000
+20033520041,Pooja Saini,Kalindi College,7.27,8.00,7.636
+20033520042,Shweta milan,Kalindi College,8.00,8.00,8.000
+20033520043,ISHITA GARGI,Kalindi College,7.27,8.27,7.773
+20033520044,Tenzin lhadon,Kalindi College,8.00,8.55,8.273
+20033520045,DILNASHI ZEHRA,Kalindi College,0.00,9.00,4.500
+20033520046,Aakansha kumari,Kalindi College,8.00,9.00,8.500
+20033520047,Radhika chauhan,Kalindi College,7.64,8.00,7.818
+20033520048,KANAK,Kalindi College,8.00,9.00,8.500
+20033520049,SANDHYA KUNTAL,Kalindi College,7.82,8.00,7.909
+20033520050,RITIKA GUPTA,Kalindi College,8.00,8.27,8.136
+20033520051,ANZHU TRIVEDI,Kalindi College,6.27,6.27,6.273

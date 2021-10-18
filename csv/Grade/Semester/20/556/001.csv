@@ -1,47 +1,43 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20001556001,AAKIL KHAN,Acharya Narendra Dev College,8.09,8.091
-20001556002,AISHWARY KUMAR CHATURVEDI,Acharya Narendra Dev College,8.73,8.727
-20001556003,Akanksha singh,Acharya Narendra Dev College,7.82,7.818
-20001556004,Ananya Das,Acharya Narendra Dev College,8.73,8.727
-20001556005,Anjali,Acharya Narendra Dev College,9.00,9.000
-20001556006,ANUPRIYA SHARMA,Acharya Narendra Dev College,6.45,6.455
-20001556007,Anuradha Tomar,Acharya Narendra Dev College,4.91,4.909
-20001556008,AYAN CHANDRA,Acharya Narendra Dev College,7.27,7.273
-20001556009,Darshit Singh Rawat,Acharya Narendra Dev College,8.73,8.727
-20001556010,DEEPALI SINGH,Acharya Narendra Dev College,8.45,8.455
-20001556011,Geetika Joshi,Acharya Narendra Dev College,9.00,9.000
-20001556012,JAY KUMAR SIRMORIA,Acharya Narendra Dev College,8.91,8.909
-20001556013,KANCHAN,Acharya Narendra Dev College,8.45,8.455
-20001556014,Kanishka,Acharya Narendra Dev College,8.00,8.000
-20001556015,LALIT PAL,Acharya Narendra Dev College,8.45,8.455
-20001556016,MANIKET CHAUHAN,Acharya Narendra Dev College,9.45,9.455
-20001556017,Mayank Yadav,Acharya Narendra Dev College,8.73,8.727
-20001556018,Mohd Afham,Acharya Narendra Dev College,8.18,8.182
-20001556019,Mridula Rani,Acharya Narendra Dev College,9.00,9.000
-20001556020,MRITYUNJOY CHAKRABORTY,Acharya Narendra Dev College,7.00,7.000
-20001556021,NEERAJ,Acharya Narendra Dev College,7.00,7.000
-20001556022,Nidhi,Acharya Narendra Dev College,7.45,7.455
-20001556023,Nikhil Mehar,Acharya Narendra Dev College,7.55,7.545
-20001556024,Paarth Bhatnagar,Acharya Narendra Dev College,7.91,7.909
-20001556025,Pratap,Acharya Narendra Dev College,8.73,8.727
-20001556026,Pratham singh chauhan,Acharya Narendra Dev College,8.09,8.091
-20001556027,Pratibha,Acharya Narendra Dev College,7.91,7.909
-20001556028,RAMGANESH PANDEY,Acharya Narendra Dev College,4.73,4.727
-20001556029,Rekha,Acharya Narendra Dev College,8.55,8.545
-20001556030,Rinki,Acharya Narendra Dev College,8.00,8.000
-20001556031,Riya Dayal,Acharya Narendra Dev College,8.73,8.727
-20001556032,ROHIT,Acharya Narendra Dev College,8.55,8.545
-20001556033,Roopal Jha,Acharya Narendra Dev College,9.00,9.000
-20001556034,SANIDHYA PANDEY,Acharya Narendra Dev College,8.27,8.273
-20001556035,Satyavrat,Acharya Narendra Dev College,6.00,6.000
-20001556036,Saurabh sharma,Acharya Narendra Dev College,7.82,7.818
-20001556037,Seema,Acharya Narendra Dev College,4.64,4.636
-20001556038,Shankar Lal Yadav,Acharya Narendra Dev College,6.27,6.273
-20001556039,Shreya singh,Acharya Narendra Dev College,9.00,9.000
-20001556040,Shubham Karawasra,Acharya Narendra Dev College,6.18,6.182
-20001556041,Shubhanshu Krishna,Acharya Narendra Dev College,7.55,7.545
-20001556042,SRUTHI S. KUMAR,Acharya Narendra Dev College,9.00,9.000
-20001556043,Stanzin Gurmey,Acharya Narendra Dev College,8.27,8.273
-20001556044,VRIDHI SINGH,Acharya Narendra Dev College,9.55,9.545
-20001556045,Wasim Akram,Acharya Narendra Dev College,8.27,8.273
-20001556046,Yashraj Aditya,Acharya Narendra Dev College,8.91,8.909
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20001556001,AAKIL KHAN,Acharya Narendra Dev College,8.09,8.18,8.136
+20001556002,AISHWARY KUMAR CHATURVEDI,Acharya Narendra Dev College,8.73,9.45,9.091
+20001556003,Akanksha singh,Acharya Narendra Dev College,7.82,8.00,7.909
+20001556004,Ananya Das,Acharya Narendra Dev College,8.73,9.00,8.864
+20001556005,Anjali,Acharya Narendra Dev College,9.00,8.73,8.864
+20001556006,ANUPRIYA SHARMA,Acharya Narendra Dev College,6.45,7.45,6.955
+20001556008,AYAN CHANDRA,Acharya Narendra Dev College,7.27,5.64,6.455
+20001556009,Darshit Singh Rawat,Acharya Narendra Dev College,8.73,8.45,8.591
+20001556010,DEEPALI SINGH,Acharya Narendra Dev College,8.45,8.73,8.591
+20001556011,Geetika Joshi,Acharya Narendra Dev College,9.00,9.00,9.000
+20001556013,Kanchan,Acharya Narendra Dev College,8.45,8.18,8.318
+20001556014,Kanishka,Acharya Narendra Dev College,8.00,8.00,8.000
+20001556015,LALIT PAL,Acharya Narendra Dev College,8.45,8.18,8.318
+20001556016,MANIKET CHAUHAN,Acharya Narendra Dev College,9.45,9.00,9.227
+20001556017,Mayank Yadav,Acharya Narendra Dev College,8.73,9.18,8.955
+20001556018,Mohd Afham,Acharya Narendra Dev College,8.18,8.18,8.182
+20001556019,Mridula Rani,Acharya Narendra Dev College,9.00,9.18,9.091
+20001556020,MRITYUNJOY CHAKRABORTY,Acharya Narendra Dev College,7.00,7.73,7.364
+20001556021,NEERAJ,Acharya Narendra Dev College,7.00,7.18,7.091
+20001556022,Nidhi,Acharya Narendra Dev College,7.45,8.00,7.727
+20001556023,Nikhil Mehar,Acharya Narendra Dev College,7.55,7.45,7.500
+20001556024,Paarth Bhatnagar,Acharya Narendra Dev College,7.91,8.18,8.045
+20001556025,Pratap,Acharya Narendra Dev College,8.73,8.45,8.591
+20001556026,Pratham singh chauhan,Acharya Narendra Dev College,8.09,6.91,7.500
+20001556027,Pratibha,Acharya Narendra Dev College,7.91,8.18,8.045
+20001556028,RAMGANESH PANDEY,Acharya Narendra Dev College,4.73,6.91,5.818
+20001556029,Rekha,Acharya Narendra Dev College,8.55,7.91,8.227
+20001556030,Rinki,Acharya Narendra Dev College,8.00,7.91,7.955
+20001556031,Riya Dayal,Acharya Narendra Dev College,8.73,8.73,8.727
+20001556032,ROHIT,Acharya Narendra Dev College,8.55,8.18,8.364
+20001556033,Roopal Jha,Acharya Narendra Dev College,9.00,8.18,8.591
+20001556034,SANIDHYA PANDEY,Acharya Narendra Dev College,8.27,8.73,8.500
+20001556037,Seema,Acharya Narendra Dev College,4.64,6.18,5.409
+20001556038,Shankar Lal Yadav,Acharya Narendra Dev College,6.27,1.09,3.682
+20001556039,Shreya singh,Acharya Narendra Dev College,9.00,9.00,9.000
+20001556040,Shubham Karawasra,Acharya Narendra Dev College,6.18,5.91,6.045
+20001556041,Shubhanshu Krishna,Acharya Narendra Dev College,7.55,6.18,6.864
+20001556042,SRUTHI S. KUMAR,Acharya Narendra Dev College,9.00,9.00,9.000
+20001556043,Stanzin Gurmey,Acharya Narendra Dev College,8.27,7.73,8.000
+20001556044,VRIDHI SINGH,Acharya Narendra Dev College,9.55,9.73,9.636
+20001556045,Wasim Akram,Acharya Narendra Dev College,8.27,7.18,7.727
+20001556046,Yashraj Aditya,Acharya Narendra Dev College,8.91,9.00,8.955

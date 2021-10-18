@@ -1,44 +1,43 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20058568001,ADISHI AGRAWAL,Ram Lal Anand College (Day),9.55,9.545
-20058568002,ARCHIT ARORA,Ram Lal Anand College (Day),9.00,9.000
-20058568003,ISHAAN GARG,Ram Lal Anand College (Day),8.45,8.455
-20058568004,KHUSHI GELERA,Ram Lal Anand College (Day),9.73,9.727
-20058568005,KHUSHI VARMA,Ram Lal Anand College (Day),9.27,9.273
-20058568006,MOHAMMAD OWAIS BHAT,Ram Lal Anand College (Day),7.64,7.636
-20058568007,NAVYA JAIN,Ram Lal Anand College (Day),9.55,9.545
-20058568008,NISHANT KUMAR,Ram Lal Anand College (Day),8.64,8.636
-20058568009,PRABHJYOT KAUR,Ram Lal Anand College (Day),9.45,9.455
-20058568010,RADHIKA GUPTA,Ram Lal Anand College (Day),9.45,9.455
-20058568011,RUCHIKA,Ram Lal Anand College (Day),10.00,10.000
-20058568012,SAKSHAM TIWARI,Ram Lal Anand College (Day),9.00,9.000
-20058568013,SAKSHITA CHAUDHARY,Ram Lal Anand College (Day),9.27,9.273
-20058568014,SAUMYA KUMARI,Ram Lal Anand College (Day),9.09,9.091
-20058568015,SMRITI CHHABRA,Ram Lal Anand College (Day),9.73,9.727
-20058568016,SRISHTI SUNEHRA,Ram Lal Anand College (Day),9.73,9.727
-20058568017,YATISH,Ram Lal Anand College (Day),8.73,8.727
-20058568018,YOGITA KUMARI,Ram Lal Anand College (Day),10.00,10.000
-20058568019,AJAY KUMAR,Ram Lal Anand College (Day),9.55,9.545
-20058568020,AKSHITA SHARMA,Ram Lal Anand College (Day),9.00,9.000
-20058568021,KARTIKEY PARASHAR,Ram Lal Anand College (Day),9.27,9.273
-20058568022,MUSKAAN ARORA,Ram Lal Anand College (Day),9.73,9.727
-20058568023,MUSKAN,Ram Lal Anand College (Day),9.55,9.545
-20058568024,RIYA WASON,Ram Lal Anand College (Day),10.00,10.000
-20058568025,SAUMYA GROVER,Ram Lal Anand College (Day),9.45,9.455
-20058568026,YUKTI KALRA,Ram Lal Anand College (Day),9.55,9.545
-20058568027,BHAVAY AHUJA,Ram Lal Anand College (Day),9.27,9.273
-20058568028,BHAVYA MISHRA,Ram Lal Anand College (Day),10.00,10.000
-20058568029,DEEPANSH CHAUDHARY,Ram Lal Anand College (Day),9.55,9.545
-20058568030,KRITI CHOPRA,Ram Lal Anand College (Day),9.73,9.727
-20058568031,NAMAN MANCHANDA,Ram Lal Anand College (Day),8.73,8.727
-20058568032,SHASHANK,Ram Lal Anand College (Day),10.00,10.000
-20058568033,SNEHA.B,Ram Lal Anand College (Day),8.18,8.182
-20058568034,SUCHETA,Ram Lal Anand College (Day),9.27,9.273
-20058568035,TANISHKA JAISWAL,Ram Lal Anand College (Day),8.73,8.727
-20058568036,TISNOOR SINGH CHADHA,Ram Lal Anand College (Day),9.36,9.364
-20058568037,VAIBHAV UMRAVAL,Ram Lal Anand College (Day),9.55,9.545
-20058568038,VARSHA,Ram Lal Anand College (Day),9.45,9.455
-20058568039,AKSHAT SHARMA,Ram Lal Anand College (Day),8.45,8.455
-20058568040,ANISHA GUPTA,Ram Lal Anand College (Day),8.55,8.545
-20058568041,BHAVNEET SINGH,Ram Lal Anand College (Day),8.36,8.364
-20058568042,VAIBHAW NATH,Ram Lal Anand College (Day),9.00,9.000
-20058568043,DIPANSHU,Ram Lal Anand College (Day),9.00,9.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20058568001,Adishi Agrawal,Ram Lal Anand College (Day),9.55,9.27,9.409
+20058568002,Archit Arora,Ram Lal Anand College (Day),9.00,9.82,9.409
+20058568003,Ishaan Garg,Ram Lal Anand College (Day),8.45,8.45,8.455
+20058568004,Khushi Gelera,Ram Lal Anand College (Day),9.73,10.00,9.864
+20058568005,Khushi Varma,Ram Lal Anand College (Day),9.27,9.27,9.273
+20058568006,MOHAMMAD OWAIS BHAT,Ram Lal Anand College (Day),7.64,5.91,6.773
+20058568007,Navya Jain,Ram Lal Anand College (Day),9.55,9.82,9.682
+20058568008,Nishant Kumar,Ram Lal Anand College (Day),8.64,9.27,8.955
+20058568009,Prabhjyot Kaur,Ram Lal Anand College (Day),9.45,9.82,9.636
+20058568010,Radhika Gupta,Ram Lal Anand College (Day),9.45,9.55,9.500
+20058568011,Ruchika,Ram Lal Anand College (Day),10.00,9.55,9.773
+20058568012,Saksham Tiwari,Ram Lal Anand College (Day),9.00,9.27,9.136
+20058568013,Sakshita Chaudhary,Ram Lal Anand College (Day),9.27,9.55,9.409
+20058568014,SAUMYA KUMARI,Ram Lal Anand College (Day),9.09,9.27,9.182
+20058568015,SMRITI CHHABRA,Ram Lal Anand College (Day),9.73,9.82,9.773
+20058568016,Srishti Sunehra,Ram Lal Anand College (Day),9.73,9.00,9.364
+20058568017,Yatish,Ram Lal Anand College (Day),8.73,8.73,8.727
+20058568018,Yogita Kumari,Ram Lal Anand College (Day),10.00,10.00,10.000
+20058568019,Ajay kumar,Ram Lal Anand College (Day),9.55,7.18,8.364
+20058568020,Akshita Sharma,Ram Lal Anand College (Day),9.00,9.00,9.000
+20058568021,KARTIKEY PARASHAR,Ram Lal Anand College (Day),9.27,9.27,9.273
+20058568022,MUSKAAN ARORA,Ram Lal Anand College (Day),9.73,10.00,9.864
+20058568023,MUSKAN,Ram Lal Anand College (Day),9.55,9.82,9.682
+20058568024,Riya Wason,Ram Lal Anand College (Day),10.00,10.00,10.000
+20058568025,SAUMYA GROVER,Ram Lal Anand College (Day),9.45,9.82,9.636
+20058568026,Yukti Kalra,Ram Lal Anand College (Day),9.55,9.27,9.409
+20058568027,Bhavay Ahuja,Ram Lal Anand College (Day),9.27,9.55,9.409
+20058568029,Deepansh Chaudhary,Ram Lal Anand College (Day),9.55,8.45,9.000
+20058568030,Kriti Chopra,Ram Lal Anand College (Day),9.73,10.00,9.864
+20058568031,Naman Manchanda,Ram Lal Anand College (Day),8.73,9.82,9.273
+20058568032,Shashank,Ram Lal Anand College (Day),10.00,9.27,9.636
+20058568033,Sneha.B,Ram Lal Anand College (Day),8.18,8.45,8.318
+20058568034,Sucheta,Ram Lal Anand College (Day),9.27,10.00,9.636
+20058568035,Tanishka Jaiswal,Ram Lal Anand College (Day),8.73,8.73,8.727
+20058568036,Tisnoor Singh Chadha,Ram Lal Anand College (Day),9.36,9.55,9.455
+20058568037,VAIBHAV UMRAVAL,Ram Lal Anand College (Day),9.55,9.00,9.273
+20058568038,Varsha,Ram Lal Anand College (Day),9.45,9.27,9.364
+20058568039,Akshat Sharma,Ram Lal Anand College (Day),8.45,7.27,7.864
+20058568040,ANISHA GUPTA,Ram Lal Anand College (Day),8.55,9.00,8.773
+20058568041,BHAVNEET SINGH,Ram Lal Anand College (Day),8.36,8.55,8.455
+20058568042,VAIBHAW NATH,Ram Lal Anand College (Day),9.00,9.27,9.136
+20058568043,Dipanshu,Ram Lal Anand College (Day),9.00,7.73,8.364

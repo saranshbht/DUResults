@@ -1,42 +1,41 @@
-RollNo,Name,College,INTRODUCTION TO THE ENVIRONMENT STUDIES,SOCIAL PERSPECTIVES OF THE ENVIRONMENT,"ENVIRONMENT, DEVELOPMENT & SUSTAINABILITY",METHODOLOGIES FOR ENVIRONMENTAL STUDIES
-20218750001,ABHISHEK KUMAR RAO,Department of Environmental Studies,8,8,7,8
-20218750002,AKANKSHA SENGUPTA,Department of Environmental Studies,8,8,8,8
-20218750003,ALEENA THOMAS,Department of Environmental Studies,8,9,8,8
-20218750004,AMBILI K,Department of Environmental Studies,8,8,6,8
-20218750005,ANJALI RANA,Department of Environmental Studies,7,8,8,8
-20218750006,BHAWANA CHOUDHARY,Department of Environmental Studies,8,9,8,8
-20218750007,CHAITANYA RAJ,Department of Environmental Studies,8,7,7,9
-20218750008,ERA STUTI SHARMA,Department of Environmental Studies,8,8,8,8
-20218750009,HITESH,Department of Environmental Studies,8,8,7,8
-20218750010,ISHA MANJKHOLA,Department of Environmental Studies,8,9,8,7
-20218750011,K.P.RAMTEJ.M.RAVINDRAN,Department of Environmental Studies,9,8,7,8
-20218750012,KHUSHBOO,Department of Environmental Studies,8,9,8,8
-20218750013,KUHLE MONGI HLOPHE,Department of Environmental Studies,8,8,7,8
-20218750014,MEENU,Department of Environmental Studies,8,9,8,9
-20218750015,MUKUL,Department of Environmental Studies,7,8,8,7
-20218750016,NEHA,Department of Environmental Studies,8,8,7,8
-20218750017,NIKHIL,Department of Environmental Studies,7,8,8,8
-20218750018,NONITA RANA,Department of Environmental Studies,8,8,8,8
-20218750019,PAWAN KUMAR,Department of Environmental Studies,5,5,4,5
-20218750020,PRAGATI YADAV,Department of Environmental Studies,8,9,8,8
-20218750021,PRANJAL AGRAWAL,Department of Environmental Studies,8,9,8,9
-20218750022,PREETI,Department of Environmental Studies,8,9,8,9
-20218750023,R BHARAT,Department of Environmental Studies,8,7,8,8
-20218750024,RADHIKA,Department of Environmental Studies,8,8,8,8
-20218750025,RADHIKA,Department of Environmental Studies,0,0,0,0
-20218750026,RAHUL KAUSHIK,Department of Environmental Studies,5,6,5,6
-20218750027,RAHUL KUMAR,Department of Environmental Studies,8,8,8,9
-20218750028,RIKITA MONDAL,Department of Environmental Studies,8,8,8,8
-20218750029,RIYA,Department of Environmental Studies,9,8,8,9
-20218750030,RIYA RATHEE,Department of Environmental Studies,8,8,7,8
-20218750031,RIYA YADAV,Department of Environmental Studies,8,8,8,9
-20218750032,SAGNIK DAS,Department of Environmental Studies,9,9,9,9
-20218750033,SAHIBA,Department of Environmental Studies,7,8,6,6
-20218750034,SHIKHA BALAYAN,Department of Environmental Studies,8,9,8,8
-20218750035,SHIVANI RANJHA,Department of Environmental Studies,8,9,8,9
-20218750036,SHWETA,Department of Environmental Studies,8,8,8,8
-20218750037,SHWETA MANN,Department of Environmental Studies,5,6,5,5
-20218750038,SOUMYA MALLICK,Department of Environmental Studies,8,8,8,8
-20218750039,TABA PIJA,Department of Environmental Studies,7,8,7,7
-20218750040,URJA VASHISHTH,Department of Environmental Studies,8,8,8,8
-20218750041,VISHNU THULASI,Department of Environmental Studies,8,8,7,7
+RollNo,Name,College,INTRODUCTION TO THE ENVIRONMENT STUDIES,SOCIAL PERSPECTIVES OF THE ENVIRONMENT,"ENVIRONMENT, DEVELOPMENT & SUSTAINABILITY",METHODOLOGIES FOR ENVIRONMENTAL STUDIES,ENVIRONMENT IMPACT & RISK ASSESSMEN,POLLUTION AND HEALTH,URBAN ECOSYSTEMS,NATURAL RESOURCES: CONSERVATION & MANAGEMEN
+20218750001,ABHISHEK KUMAR RAO,Department of Environmental Studies,8,8,7,8,8,8,8,8
+20218750002,Akanksha Sengupta,Department of Environmental Studies,8,8,8,8,8,9,9,9
+20218750003,Aleena Thomas,Department of Environmental Studies,8,9,8,8,8,9,8,9
+20218750004,Ambili K,Department of Environmental Studies,8,8,6,8,8,8,8,8
+20218750005,Anjali Rana,Department of Environmental Studies,7,8,8,8,7,8,8,8
+20218750006,BHAWANA CHOUDHARY,Department of Environmental Studies,8,9,8,8,8,8,8,8
+20218750007,Chaitanya Raj,Department of Environmental Studies,8,7,7,9,8,8,8,8
+20218750008,Era Stuti Sharma,Department of Environmental Studies,8,8,8,8,8,8,8,8
+20218750009,Hitesh,Department of Environmental Studies,8,8,7,8,8,8,8,8
+20218750010,ISHA MANJKHOLA,Department of Environmental Studies,8,9,8,7,7,8,8,8
+20218750011,K.P.Ramtej.M.Ravindran,Department of Environmental Studies,9,8,7,8,8,9,9,9
+20218750012,KHUSHBOO,Department of Environmental Studies,8,9,8,8,8,9,9,9
+20218750013,Kuhle Mongi Hlophe,Department of Environmental Studies,8,8,7,8,8,8,8,8
+20218750014,Meenu,Department of Environmental Studies,8,9,8,9,8,9,9,9
+20218750015,Mukul,Department of Environmental Studies,7,8,8,7,7,8,8,8
+20218750016,Neha,Department of Environmental Studies,8,8,7,8,7,8,8,8
+20218750017,NIKHIL,Department of Environmental Studies,7,8,8,8,7,8,8,8
+20218750018,Nonita Rana,Department of Environmental Studies,8,8,8,8,8,8,8,8
+20218750019,PAWAN KUMAR,Department of Environmental Studies,5,5,4,5,0,0,0,0
+20218750020,Pragati Yadav,Department of Environmental Studies,8,9,8,8,8,9,9,9
+20218750021,Pranjal Agrawal,Department of Environmental Studies,8,9,8,9,8,8,8,8
+20218750022,Preeti,Department of Environmental Studies,8,9,8,9,7,8,8,8
+20218750023,R Bharat,Department of Environmental Studies,8,7,8,8,8,8,8,8
+20218750024,Radhika,Department of Environmental Studies,8,8,8,8,8,9,9,9
+20218750027,Rahul Kumar,Department of Environmental Studies,8,8,8,9,8,8,8,8
+20218750028,Rikita Mondal,Department of Environmental Studies,8,8,8,8,7,8,8,8
+20218750029,Riya,Department of Environmental Studies,9,8,8,9,8,9,9,9
+20218750030,Riya rathee,Department of Environmental Studies,8,8,7,8,7,8,8,7
+20218750031,Riya Yadav,Department of Environmental Studies,8,8,8,9,8,9,9,9
+20218750032,Sagnik Das,Department of Environmental Studies,9,9,9,9,8,9,9,9
+20218750033,Sahiba,Department of Environmental Studies,7,8,6,6,7,7,7,7
+20218750034,Shikha Balayan,Department of Environmental Studies,8,9,8,8,8,8,8,8
+20218750035,Shivani Ranjha,Department of Environmental Studies,8,9,8,9,8,9,9,8
+20218750036,Shweta,Department of Environmental Studies,8,8,8,8,7,8,8,8
+20218750037,Shweta Mann,Department of Environmental Studies,5,6,5,5,6,7,7,6
+20218750038,Soumya Mallick,Department of Environmental Studies,8,8,8,8,8,8,8,8
+20218750039,Taba Pija,Department of Environmental Studies,7,8,7,7,6,7,7,7
+20218750040,Urja Vashishth,Department of Environmental Studies,8,8,8,8,8,8,8,8
+20218750041,VISHNU THULASI,Department of Environmental Studies,8,8,7,7,8,8,8,8
+20218750042,KANISHKA BAISOYA,Department of Environmental Studies,8,8,8,8,8,8,8,8

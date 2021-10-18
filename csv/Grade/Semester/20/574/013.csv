@@ -1,54 +1,52 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20013574001,ABHAY CHANDNA,College Of Vocational Studies,6.73,6.727
-20013574002,ABHINAV NAGAR,College Of Vocational Studies,7.36,7.364
-20013574003,Abhishek Kumar Ray,College Of Vocational Studies,8.55,8.545
-20013574004,Aiman Dhall,College Of Vocational Studies,7.18,7.182
-20013574005,Akanksha Singh,College Of Vocational Studies,8.55,8.545
-20013574006,AKASH AWANA,College Of Vocational Studies,8.55,8.545
-20013574007,Ashish sajona,College Of Vocational Studies,7.09,7.091
-20013574008,ATUL KUMAR PAL,College Of Vocational Studies,6.64,6.636
-20013574009,Daksh Goyal,College Of Vocational Studies,6.91,6.909
-20013574012,Deeksha gera,College Of Vocational Studies,8.00,8.000
-20013574013,FAIZAN QUADRI,College Of Vocational Studies,8.00,8.000
-20013574015,HARJAS KAUR,College Of Vocational Studies,7.45,7.455
-20013574016,KAPIL TANWAR,College Of Vocational Studies,5.73,5.727
-20013574017,KUNAL KUMAR,College Of Vocational Studies,3.82,3.818
-20013574018,Mitali Agarwal,College Of Vocational Studies,8.00,8.000
-20013574019,Mohammad Azam,College Of Vocational Studies,7.73,7.727
-20013574022,Mohammad Saqib,College Of Vocational Studies,7.45,7.455
-20013574023,Nirbhay Singh,College Of Vocational Studies,7.73,7.727
-20013574024,NITIN MANCHANDA,College Of Vocational Studies,6.91,6.909
-20013574025,Paras,College Of Vocational Studies,8.00,8.000
-20013574026,Priyanshu Raheja,College Of Vocational Studies,8.82,8.818
-20013574027,Priyanshu Tanwar,College Of Vocational Studies,7.73,7.727
-20013574028,Punarvasu sharma,College Of Vocational Studies,7.45,7.455
-20013574029,RAJ SINGH,College Of Vocational Studies,8.00,8.000
-20013574030,RITISH DHIMAN,College Of Vocational Studies,6.91,6.909
-20013574032,SACHIN BARANWAL,College Of Vocational Studies,7.18,7.182
-20013574033,Shashwat Srivastava,College Of Vocational Studies,8.82,8.818
-20013574035,Shreyaa Sharma,College Of Vocational Studies,8.00,8.000
-20013574036,SHWETA,College Of Vocational Studies,8.00,8.000
-20013574037,Sudhanshu Dwivedi,College Of Vocational Studies,7.73,7.727
-20013574038,Suraj Kumar,College Of Vocational Studies,8.55,8.545
-20013574039,Tanisha Tyagi,College Of Vocational Studies,8.18,8.182
-20013574040,Vikrant,College Of Vocational Studies,5.45,5.455
-20013574041,YASH CHAUHAN,College Of Vocational Studies,0.00,0.000
-20013574042,Khushi Gupta,College Of Vocational Studies,7.18,7.182
-20013574043,LAVANYA VASHIST,College Of Vocational Studies,8.00,8.000
-20013574044,REHANSHU VERMA,College Of Vocational Studies,7.73,7.727
-20013574045,Deepansh Parcha,College Of Vocational Studies,7.18,7.182
-20013574046,Gautam Sharma,College Of Vocational Studies,7.18,7.182
-20013574047,Sameer Ahmed,College Of Vocational Studies,6.27,6.273
-20013574048,DIVYANSH BHARDWAJ,College Of Vocational Studies,7.73,7.727
-20013574049,Geetika,College Of Vocational Studies,8.27,8.273
-20013574050,Himanshu Anand,College Of Vocational Studies,8.27,8.273
-20013574051,Lavish Chutani,College Of Vocational Studies,6.91,6.909
-20013574052,Aditya kalra,College Of Vocational Studies,7.18,7.182
-20013574053,B P Aparajith,College Of Vocational Studies,7.45,7.455
-20013574054,Deepa,College Of Vocational Studies,7.91,7.909
-20013574055,Hamdan Nesar,College Of Vocational Studies,7.73,7.727
-20013574056,Keshav Goel,College Of Vocational Studies,7.45,7.455
-20013574057,Koushal vishwakarma,College Of Vocational Studies,8.55,8.545
-20013574058,Narayan Agrawal,College Of Vocational Studies,5.82,5.818
-20013574059,Pravallika Ganji,College Of Vocational Studies,6.91,6.909
-20013574060,Vaibhav Singh,College Of Vocational Studies,8.00,8.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20013574001,ABHAY CHANDNA,College Of Vocational Studies,6.73,8.00,7.364
+20013574002,ABHINAV NAGAR,College Of Vocational Studies,7.36,8.00,7.682
+20013574003,Abhishek Kumar Ray,College Of Vocational Studies,8.55,9.00,8.773
+20013574004,Aiman Dhall,College Of Vocational Studies,7.18,8.27,7.727
+20013574005,Akanksha Singh,College Of Vocational Studies,8.55,8.55,8.545
+20013574006,AKASH AWANA,College Of Vocational Studies,8.55,8.27,8.409
+20013574007,Ashish sajona,College Of Vocational Studies,7.09,7.73,7.409
+20013574008,ATUL KUMAR PAL,College Of Vocational Studies,6.64,4.91,5.773
+20013574009,Daksh Goyal,College Of Vocational Studies,6.91,6.18,6.545
+20013574012,Deeksha gera,College Of Vocational Studies,8.00,8.00,8.000
+20013574013,FAIZAN QUADRI,College Of Vocational Studies,8.00,8.27,8.136
+20013574015,HARJAS KAUR,College Of Vocational Studies,7.45,8.45,7.955
+20013574016,KAPIL TANWAR,College Of Vocational Studies,5.73,4.64,5.182
+20013574017,KUNAL KUMAR,College Of Vocational Studies,3.82,5.45,4.636
+20013574018,Mitali Agarwal,College Of Vocational Studies,8.00,8.45,8.227
+20013574019,Mohammad Azam,College Of Vocational Studies,7.73,8.27,8.000
+20013574022,Mohammad Saqib,College Of Vocational Studies,7.45,8.27,7.864
+20013574023,Nirbhay Singh,College Of Vocational Studies,7.73,8.00,7.864
+20013574024,NITIN MANCHANDA,College Of Vocational Studies,6.91,7.27,7.091
+20013574025,Paras,College Of Vocational Studies,8.00,8.00,8.000
+20013574026,Priyanshu Raheja,College Of Vocational Studies,8.82,9.45,9.136
+20013574027,Priyanshu Tanwar,College Of Vocational Studies,7.73,7.45,7.591
+20013574028,Punarvasu sharma,College Of Vocational Studies,7.45,8.27,7.864
+20013574029,RAJ SINGH,College Of Vocational Studies,8.00,8.00,8.000
+20013574030,RITISH DHIMAN,College Of Vocational Studies,6.91,7.45,7.182
+20013574032,SACHIN BARANWAL,College Of Vocational Studies,7.18,8.00,7.591
+20013574033,Shashwat Srivastava,College Of Vocational Studies,8.82,8.73,8.773
+20013574035,Shreyaa Sharma,College Of Vocational Studies,8.00,8.73,8.364
+20013574036,SHWETA,College Of Vocational Studies,8.00,8.45,8.227
+20013574037,Sudhanshu Dwivedi,College Of Vocational Studies,7.73,6.45,7.091
+20013574038,Suraj Kumar,College Of Vocational Studies,8.55,9.27,8.909
+20013574040,Vikrant,College Of Vocational Studies,5.45,7.45,6.455
+20013574042,Khushi Gupta,College Of Vocational Studies,7.18,7.45,7.318
+20013574043,LAVANYA VASHIST,College Of Vocational Studies,8.00,9.00,8.500
+20013574044,REHANSHU VERMA,College Of Vocational Studies,7.73,8.00,7.864
+20013574045,Deepansh Parcha,College Of Vocational Studies,7.18,7.73,7.455
+20013574046,Gautam Sharma,College Of Vocational Studies,7.18,6.18,6.682
+20013574047,Sameer Ahmed,College Of Vocational Studies,6.27,4.91,5.591
+20013574048,DIVYANSH BHARDWAJ,College Of Vocational Studies,7.73,8.27,8.000
+20013574049,Geetika,College Of Vocational Studies,8.27,8.27,8.273
+20013574050,Himanshu Anand,College Of Vocational Studies,8.27,8.73,8.500
+20013574051,Lavish Chutani,College Of Vocational Studies,6.91,5.36,6.136
+20013574052,Aditya kalra,College Of Vocational Studies,7.18,8.00,7.591
+20013574053,B P Aparajith,College Of Vocational Studies,7.45,7.82,7.636
+20013574054,Deepa,College Of Vocational Studies,7.91,8.00,7.955
+20013574055,Hamdan Nesar,College Of Vocational Studies,7.73,8.00,7.864
+20013574056,Keshav Goel,College Of Vocational Studies,7.45,6.18,6.818
+20013574057,Koushal vishwakarma,College Of Vocational Studies,8.55,8.45,8.500
+20013574058,Narayan Agrawal,College Of Vocational Studies,5.82,6.45,6.136
+20013574059,Pravallika Ganji,College Of Vocational Studies,6.91,7.73,7.318
+20013574060,Vaibhav Singh,College Of Vocational Studies,8.00,8.27,8.136

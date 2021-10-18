@@ -1,14 +1,14 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20039765001,ANNAPURNA VERMA,Lady Shri Ram College for Women,9.20,9.200
-20039765002,CHHAYA KAMRA,Lady Shri Ram College for Women,9.80,9.800
-20039765003,KOYAL MALLICK,Lady Shri Ram College for Women,9.20,9.200
-20039765004,OIENDRILA BASAK,Lady Shri Ram College for Women,9.40,9.400
-20039765005,RAJANI SINGH,Lady Shri Ram College for Women,9.00,9.000
-20039765006,RAKTIMA DEY,Lady Shri Ram College for Women,9.40,9.400
-20039765007,RISHU JAIN,Lady Shri Ram College for Women,9.60,9.600
-20039765008,SALONI AGGARWAL,Lady Shri Ram College for Women,9.80,9.800
-20039765009,SIMRAN GOSWAMI,Lady Shri Ram College for Women,9.00,9.000
-20039765010,SWATI SHIVHARE,Lady Shri Ram College for Women,8.40,8.400
-20039765011,USHA DEVI,Lady Shri Ram College for Women,9.20,9.200
-20039765012,DURGA ANUSHA P,Lady Shri Ram College for Women,8.80,8.800
-20039765013,NAMITA AHUJA,Lady Shri Ram College for Women,9.00,9.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20039765001,Annapurna Verma,Lady Shri Ram College for Women,9.20,9.40,9.300
+20039765002,Chhaya Kamra,Lady Shri Ram College for Women,9.80,9.80,9.800
+20039765003,KOYAL MALLICK,Lady Shri Ram College for Women,9.20,10.00,9.600
+20039765004,OIENDRILA BASAK,Lady Shri Ram College for Women,9.40,7.80,8.600
+20039765005,Rajani Singh,Lady Shri Ram College for Women,9.00,9.00,9.000
+20039765006,Raktima Dey,Lady Shri Ram College for Women,9.40,9.80,9.600
+20039765007,Rishu Jain,Lady Shri Ram College for Women,9.60,10.00,9.800
+20039765008,Saloni Aggarwal,Lady Shri Ram College for Women,9.80,9.80,9.800
+20039765009,Simran Goswami,Lady Shri Ram College for Women,9.00,9.60,9.300
+20039765010,Swati Shivhare,Lady Shri Ram College for Women,8.40,7.20,7.800
+20039765011,Usha Devi,Lady Shri Ram College for Women,9.20,9.60,9.400
+20039765012,Durga Anusha P,Lady Shri Ram College for Women,8.80,9.40,9.100
+20039765013,Namita Ahuja,Lady Shri Ram College for Women,9.00,9.60,9.300

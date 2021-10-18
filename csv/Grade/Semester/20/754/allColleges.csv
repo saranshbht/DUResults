@@ -1,44 +1,40 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20025754002,Atul kumar,Hans Raj College,8.04,8.042
-20025754003,Ayushi Tripathi,Hans Raj College,8.42,8.417
-20025754004,CHANCHAL,Hans Raj College,6.79,6.792
-20025754005,Debasish Purohit,Hans Raj College,8.17,8.167
-20025754006,Deepanshi,Hans Raj College,8.38,8.375
-20025754007,Deepshikha Jena,Hans Raj College,8.25,8.250
-20025754008,Devendra Pratap Maurya,Hans Raj College,8.17,8.167
-20025754009,Drishti,Hans Raj College,9.04,9.042
-20025754010,Gauraang Sonkar,Hans Raj College,8.21,8.208
-20025754011,HAKIM ALAM,Hans Raj College,6.96,6.958
-20025754012,HARSH KUMAR,Hans Raj College,8.42,8.417
-20025754013,Kriti,Hans Raj College,8.21,8.208
-20025754014,MANIK SINGH THAKUR,Hans Raj College,8.58,8.583
-20025754015,Mukul Dahiya,Hans Raj College,7.96,7.958
-20025754016,Neethukrishna J,Hans Raj College,8.04,8.042
-20025754017,NGANGBAM BIDYALUXMI,Hans Raj College,8.63,8.625
-20025754018,PALLAVI TIRKEY,Hans Raj College,8.83,8.833
-20025754019,Prakriti,Hans Raj College,8.21,8.208
-20025754020,Pranisha Rajkhowa,Hans Raj College,9.21,9.208
-20025754021,PRERNA,Hans Raj College,8.79,8.792
-20025754022,Ranjit  Bansod,Hans Raj College,8.00,8.000
-20025754023,RIDDHIMAN GHOSH,Hans Raj College,8.79,8.792
-20025754024,Ritik Rangari,Hans Raj College,8.00,8.000
-20025754025,RUCHI YADAV,Hans Raj College,9.21,9.208
-20025754026,S ABINASH,Hans Raj College,8.00,8.000
-20025754027,SAGAR SAHOO,Hans Raj College,8.63,8.625
-20025754028,SHIVANGI RAWAT,Hans Raj College,8.83,8.833
-20025754029,SHIVVRAT RAI,Hans Raj College,7.42,7.417
-20025754030,SHUBHAM KUMAR MAURYA,Hans Raj College,8.25,8.250
-20025754031,Sreehari S,Hans Raj College,7.83,7.833
-20025754032,Sujata pandey,Hans Raj College,9.00,9.000
-20025754033,SUMIT KUMAR TIWARI,Hans Raj College,8.83,8.833
-20025754034,Swapnil Mukhopadhyay,Hans Raj College,8.21,8.208
-20025754035,Tanmay Kumar Behera,Hans Raj College,7.17,7.167
-20025754036,TRIDEEP HAZARIKA,Hans Raj College,7.79,7.792
-20025754037,Utkarsh Singh,Hans Raj College,9.00,9.000
-20025754038,Vipul Singh Rathaur,Hans Raj College,8.63,8.625
-20025754039,VIVEK DIWAKAR,Hans Raj College,8.21,8.208
-20025754040,ABHIRAMI AJITH,Hans Raj College,8.21,8.208
-20025754041,Chandni Nagesia,Hans Raj College,8.17,8.167
-20025754042,JAIDEEP SHARMA,Hans Raj College,8.42,8.417
-20025754043,Oluremi Success ODEBODE,Hans Raj College,7.75,7.750
-20025754044,Prerana Dey,Hans Raj College,7.79,7.792
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20025754001,ANKEETA MOHANTY,Hans Raj College,9.21,9.00,9.114
+20025754002,Atul kumar,Hans Raj College,8.04,7.75,7.909
+20025754003,Ayushi Tripathi,Hans Raj College,8.42,9.00,8.682
+20025754004,CHANCHAL,Hans Raj College,6.79,7.50,7.114
+20025754005,Debasish Purohit,Hans Raj College,8.17,8.50,8.318
+20025754006,Deepanshi,Hans Raj College,8.38,8.75,8.545
+20025754008,Devendra Pratap Maurya,Hans Raj College,8.17,8.50,8.318
+20025754009,Drishti,Hans Raj College,9.04,9.00,9.023
+20025754010,Gauraang Sonkar,Hans Raj College,8.21,8.25,8.227
+20025754011,HAKIM ALAM,Hans Raj College,6.96,7.50,7.205
+20025754012,HARSH KUMAR,Hans Raj College,8.42,8.00,8.227
+20025754013,Kriti,Hans Raj College,8.21,9.00,8.568
+20025754014,MANIK SINGH THAKUR,Hans Raj College,8.58,8.00,8.318
+20025754015,Mukul Dahiya,Hans Raj College,7.96,8.00,7.977
+20025754016,Neethukrishna J,Hans Raj College,8.04,8.75,8.364
+20025754017,NGANGBAM BIDYALUXMI,Hans Raj College,8.63,9.75,9.136
+20025754019,Prakriti,Hans Raj College,8.21,8.50,8.341
+20025754020,Pranisha Rajkhowa,Hans Raj College,9.21,9.25,9.227
+20025754021,PRERNA,Hans Raj College,8.79,8.75,8.773
+20025754022,Ranjit  Bansod,Hans Raj College,8.00,8.75,8.341
+20025754023,RIDDHIMAN GHOSH,Hans Raj College,8.79,8.50,8.659
+20025754024,Ritik Rangari,Hans Raj College,8.00,8.50,8.227
+20025754025,RUCHI YADAV,Hans Raj College,9.21,9.75,9.455
+20025754026,S ABINASH,Hans Raj College,8.00,8.50,8.227
+20025754027,SAGAR SAHOO,Hans Raj College,8.63,9.00,8.795
+20025754028,SHIVANGI RAWAT,Hans Raj College,8.83,8.75,8.795
+20025754029,SHIVVRAT RAI,Hans Raj College,7.42,7.75,7.568
+20025754030,SHUBHAM KUMAR MAURYA,Hans Raj College,8.25,8.75,8.477
+20025754031,Sreehari S,Hans Raj College,7.83,8.00,7.909
+20025754032,Sujata pandey,Hans Raj College,9.00,8.75,8.886
+20025754034,Swapnil Mukhopadhyay,Hans Raj College,8.21,8.75,8.455
+20025754036,TRIDEEP HAZARIKA,Hans Raj College,7.79,8.75,8.227
+20025754037,Utkarsh Singh,Hans Raj College,9.00,9.75,9.341
+20025754039,VIVEK DIWAKAR,Hans Raj College,8.21,9.00,8.568
+20025754040,ABHIRAMI AJITH,Hans Raj College,8.21,8.50,8.341
+20025754041,Chandni Nagesia,Hans Raj College,8.17,8.75,8.432
+20025754042,JAIDEEP SHARMA,Hans Raj College,8.42,8.75,8.568
+20025754043,Oluremi Success ODEBODE,Hans Raj College,7.75,8.75,8.205
+20025754044,Prerana Dey,Hans Raj College,7.79,8.75,8.227

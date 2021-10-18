@@ -1,53 +1,51 @@
-RollNo,Name,College,BUSINESS STATISTICS,ADVANCED MANAGEMENT ACCOUNTING,MANAGERIAL ECONOMICS,FINANCIAL PLANNING,ORGANIZATIONAL BEHAVIOUR
-20072774001,Aarti,Sri Ram College Of Commerce,10,10,8,10,9
-20072774002,AAYUSHI DHUPAR,Sri Ram College Of Commerce,10,9,8,7,8
-20072774003,Abhijeet jaiswal,Sri Ram College Of Commerce,9,9,7,8,8
-20072774004,ALEYA RAY,Sri Ram College Of Commerce,10,10,9,9,9
-20072774005,Aman Dev,Sri Ram College Of Commerce,9,9,9,9,8
-20072774006,Aman Kumar Gupta,Sri Ram College Of Commerce,10,9,8,9,8
-20072774007,AMRITA,Sri Ram College Of Commerce,10,9,8,8,9
-20072774008,Anjali,Sri Ram College Of Commerce,7,6,6,5,6
-20072774009,ARPITA SARKAR,Sri Ram College Of Commerce,9,9,8,9,9
-20072774010,Ayushi,Sri Ram College Of Commerce,9,10,8,8,9
-20072774011,AYUSHI GUPTA,Sri Ram College Of Commerce,10,9,9,9,8
-20072774012,Bharat khaneja,Sri Ram College Of Commerce,10,9,9,8,8
-20072774013,Bhawana Rani,Sri Ram College Of Commerce,10,8,8,7,8
-20072774014,DAAMAN SUNEJA,Sri Ram College Of Commerce,9,10,8,8,8
-20072774015,Diksha Arora,Sri Ram College Of Commerce,10,10,8,9,9
-20072774016,Disha Kumar,Sri Ram College Of Commerce,10,10,9,9,9
-20072774017,Harpreet kaur,Sri Ram College Of Commerce,10,9,9,8,9
-20072774018,HEMANT KUMAR,Sri Ram College Of Commerce,10,10,9,9,8
-20072774020,Ishmeet Kaur,Sri Ram College Of Commerce,10,9,9,9,9
-20072774021,Iti Choudhary,Sri Ram College Of Commerce,0,0,0,0,0
-20072774022,Kajal,Sri Ram College Of Commerce,10,9,9,8,9
-20072774023,Kanika Gupta,Sri Ram College Of Commerce,10,10,9,9,9
-20072774024,Kapil Dagar,Sri Ram College Of Commerce,9,9,9,9,8
-20072774025,KHUSHBOO ARORA,Sri Ram College Of Commerce,9,9,8,9,8
-20072774026,manisha,Sri Ram College Of Commerce,10,10,8,9,9
-20072774027,MANSI PANWAR,Sri Ram College Of Commerce,10,9,9,8,9
-20072774028,Meenal Munjal,Sri Ram College Of Commerce,10,10,9,8,9
-20072774029,Monika,Sri Ram College Of Commerce,9,10,8,8,9
-20072774031,Nancy Sinha,Sri Ram College Of Commerce,10,10,8,8,9
-20072774032,NITESH HANS,Sri Ram College Of Commerce,9,8,9,8,9
-20072774033,PRINCE KANSAL,Sri Ram College Of Commerce,10,10,9,9,9
-20072774035,PRIYA,Sri Ram College Of Commerce,10,9,9,9,9
-20072774036,PRIYANKA,Sri Ram College Of Commerce,9,8,9,8,9
-20072774037,RADHIKA SARDANA,Sri Ram College Of Commerce,8,9,7,7,8
-20072774038,RASHMI MITALI,Sri Ram College Of Commerce,9,9,9,7,9
-20072774039,Reshika Narula,Sri Ram College Of Commerce,8,9,8,6,6
-20072774040,Rishu kumar,Sri Ram College Of Commerce,9,9,8,10,7
-20072774041,Sachin,Sri Ram College Of Commerce,8,9,8,9,9
-20072774042,Shelly chawla,Sri Ram College Of Commerce,9,9,8,8,8
-20072774043,SHIVAM VERMA,Sri Ram College Of Commerce,9,9,9,9,8
-20072774044,Shivani Sharma,Sri Ram College Of Commerce,9,10,8,8,8
-20072774045,Shubham Kumar,Sri Ram College Of Commerce,10,9,8,7,8
-20072774047,Siddharth Pratap Singh,Sri Ram College Of Commerce,9,9,8,9,9
-20072774048,Simran Yadav,Sri Ram College Of Commerce,10,9,8,7,8
-20072774049,Sonali Jawa,Sri Ram College Of Commerce,10,10,9,10,9
-20072774050,Surabhi Gupta,Sri Ram College Of Commerce,9,9,9,8,9
-20072774051,TARUN MEENA,Sri Ram College Of Commerce,9,9,8,10,8
-20072774052,VAANI TOMAR,Sri Ram College Of Commerce,10,10,8,9,9
-20072774053,Vinit Gupta,Sri Ram College Of Commerce,9,9,9,9,9
-20072774054,YOGESH YADAV,Sri Ram College Of Commerce,10,10,9,9,8
-20072774055,Aarti,Sri Ram College Of Commerce,6,6,4,7,6
-20072774056,ADITHYA VISHVESHWARAN M,Sri Ram College Of Commerce,9,7,8,9,7
+RollNo,Name,College,BUSINESS STATISTICS,ADVANCED MANAGEMENT ACCOUNTING,MANAGERIAL ECONOMICS,FINANCIAL PLANNING,ORGANIZATIONAL BEHAVIOUR,OPERATIONS RESEARCH,INTERNATIONAL BUSINESS,MARKETING MANAGEMENT,ADVANCED FINANCIAL MANAGEMENT AND POLICY,"ETHICS, CORPORATE GOVERNANCE AND SUSTAINABILITY"
+20072774001,Aarti,Sri Ram College Of Commerce,10,10,8,10,9,9,10,10,9,9
+20072774002,AAYUSHI DHUPAR,Sri Ram College Of Commerce,10,9,8,7,8,9,10,10,9,10
+20072774003,Abhijeet jaiswal,Sri Ram College Of Commerce,9,9,7,8,8,9,9,9,9,9
+20072774004,ALEYA RAY,Sri Ram College Of Commerce,10,10,9,9,9,9,9,10,9,9
+20072774005,Aman Dev,Sri Ram College Of Commerce,9,9,9,9,8,9,9,9,9,9
+20072774006,Aman Kumar Gupta,Sri Ram College Of Commerce,10,9,8,9,8,9,9,10,9,9
+20072774007,AMRITA,Sri Ram College Of Commerce,10,9,8,8,9,9,10,10,9,10
+20072774008,Anjali,Sri Ram College Of Commerce,7,6,6,5,6,8,9,9,8,8
+20072774009,ARPITA SARKAR,Sri Ram College Of Commerce,9,9,8,9,9,9,10,9,9,9
+20072774010,Ayushi,Sri Ram College Of Commerce,9,10,8,8,9,9,10,10,9,9
+20072774011,AYUSHI GUPTA,Sri Ram College Of Commerce,10,9,9,9,8,9,10,9,9,9
+20072774012,Bharat khaneja,Sri Ram College Of Commerce,10,9,9,8,8,9,9,9,9,9
+20072774013,Bhawana Rani,Sri Ram College Of Commerce,10,8,8,7,8,9,10,9,9,9
+20072774014,DAAMAN SUNEJA,Sri Ram College Of Commerce,9,10,8,8,8,9,9,9,9,9
+20072774015,Diksha Arora,Sri Ram College Of Commerce,10,10,8,9,9,9,10,9,9,9
+20072774016,Disha Kumar,Sri Ram College Of Commerce,10,10,9,9,9,10,10,9,10,9
+20072774017,Harpreet kaur,Sri Ram College Of Commerce,10,9,9,8,9,10,10,10,10,10
+20072774018,HEMANT KUMAR,Sri Ram College Of Commerce,10,10,9,9,8,9,10,10,10,10
+20072774020,Ishmeet Kaur,Sri Ram College Of Commerce,10,9,9,9,9,10,10,10,10,10
+20072774022,Kajal,Sri Ram College Of Commerce,10,9,9,8,9,10,10,10,10,10
+20072774023,Kanika Gupta,Sri Ram College Of Commerce,10,10,9,9,9,9,9,10,10,10
+20072774024,Kapil Dagar,Sri Ram College Of Commerce,9,9,9,9,8,10,10,10,10,10
+20072774025,KHUSHBOO ARORA,Sri Ram College Of Commerce,9,9,8,9,8,9,9,9,8,9
+20072774026,manisha,Sri Ram College Of Commerce,10,10,8,9,9,9,10,10,10,9
+20072774027,MANSI PANWAR,Sri Ram College Of Commerce,10,9,9,8,9,10,10,10,10,10
+20072774028,Meenal Munjal,Sri Ram College Of Commerce,10,10,9,8,9,9,10,10,9,10
+20072774029,Monika,Sri Ram College Of Commerce,9,10,8,8,9,10,10,10,10,10
+20072774031,Nancy Sinha,Sri Ram College Of Commerce,10,10,8,8,9,9,10,10,9,10
+20072774032,NITESH HANS,Sri Ram College Of Commerce,9,8,9,8,9,9,9,10,9,9
+20072774033,PRINCE KANSAL,Sri Ram College Of Commerce,10,10,9,9,9,10,10,10,10,10
+20072774035,PRIYA,Sri Ram College Of Commerce,10,9,9,9,9,10,10,10,10,10
+20072774036,PRIYANKA,Sri Ram College Of Commerce,9,8,9,8,9,9,9,9,9,9
+20072774037,RADHIKA SARDANA,Sri Ram College Of Commerce,8,9,7,7,8,9,9,9,9,9
+20072774038,RASHMI MITALI,Sri Ram College Of Commerce,9,9,9,7,9,9,10,10,10,10
+20072774039,Reshika Narula,Sri Ram College Of Commerce,8,9,8,6,6,9,9,9,9,9
+20072774040,Rishu kumar,Sri Ram College Of Commerce,9,9,8,10,7,9,9,9,10,9
+20072774041,Sachin,Sri Ram College Of Commerce,8,9,8,9,9,9,9,9,9,9
+20072774042,Shelly chawla,Sri Ram College Of Commerce,9,9,8,8,8,9,9,9,9,9
+20072774043,SHIVAM VERMA,Sri Ram College Of Commerce,9,9,9,9,8,9,9,9,10,9
+20072774044,Shivani Sharma,Sri Ram College Of Commerce,9,10,8,8,8,9,9,9,9,9
+20072774045,Shubham Kumar,Sri Ram College Of Commerce,10,9,8,7,8,9,9,9,9,9
+20072774047,Siddharth Pratap Singh,Sri Ram College Of Commerce,9,9,8,9,9,9,9,9,9,9
+20072774048,Simran Yadav,Sri Ram College Of Commerce,10,9,8,7,8,9,9,9,9,9
+20072774049,Sonali Jawa,Sri Ram College Of Commerce,10,10,9,10,9,10,10,10,10,10
+20072774050,Surabhi Gupta,Sri Ram College Of Commerce,9,9,9,8,9,9,10,10,9,10
+20072774051,TARUN MEENA,Sri Ram College Of Commerce,9,9,8,10,8,9,9,9,9,9
+20072774052,VAANI TOMAR,Sri Ram College Of Commerce,10,10,8,9,9,9,10,10,10,10
+20072774053,Vinit Gupta,Sri Ram College Of Commerce,9,9,9,9,9,10,10,10,10,10
+20072774054,YOGESH YADAV,Sri Ram College Of Commerce,10,10,9,9,8,9,10,9,9,9
+20072774056,ADITHYA VISHVESHWARAN M,Sri Ram College Of Commerce,9,7,8,9,7,9,9,8,9,8

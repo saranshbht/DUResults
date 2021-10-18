@@ -1,48 +1,49 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20043511001,Aayushi Singh,Maitreyi College,7.73,7.727
-20043511002,AMISHA TOMAR,Maitreyi College,7.91,7.909
-20043511003,ANSHIKA AVANI,Maitreyi College,7.91,7.909
-20043511004,Aruna Kujur,Maitreyi College,7.64,7.636
-20043511006,AVANTIKA,Maitreyi College,7.09,7.091
-20043511007,BHAVYA SEHGAL,Maitreyi College,7.73,7.727
-20043511008,Bhawna Chauhan,Maitreyi College,7.64,7.636
-20043511009,Bhoomi Yadav,Maitreyi College,7.64,7.636
-20043511010,Diksha,Maitreyi College,6.64,6.636
-20043511011,Diya Bhardwaj,Maitreyi College,7.73,7.727
-20043511012,Diya Kaiser,Maitreyi College,7.36,7.364
-20043511013,GUDIYA,Maitreyi College,7.73,7.727
-20043511014,Gunjan gangotri,Maitreyi College,7.36,7.364
-20043511015,Khushi Chhabra,Maitreyi College,7.91,7.909
-20043511016,Khushi Kr. Grover,Maitreyi College,7.91,7.909
-20043511017,Khushi Raj,Maitreyi College,7.09,7.091
-20043511018,Khushi Ramawat,Maitreyi College,7.09,7.091
-20043511019,Madhulika Madhukar,Maitreyi College,7.64,7.636
-20043511020,MALAVIKA,Maitreyi College,7.45,7.455
-20043511021,Moksha Raj Yadav,Maitreyi College,6.18,6.182
-20043511022,Muskan,Maitreyi College,6.91,6.909
-20043511023,Nikhat jahan,Maitreyi College,6.82,6.818
-20043511024,Nishtha Rawat,Maitreyi College,5.91,5.909
-20043511025,Noor Jahan Khatun,Maitreyi College,7.36,7.364
-20043511026,Poonam,Maitreyi College,7.36,7.364
-20043511027,priya bhuker,Maitreyi College,7.36,7.364
-20043511028,Priyamvada Sharma,Maitreyi College,7.64,7.636
-20043511029,Rakshita,Maitreyi College,7.36,7.364
-20043511030,Riya rao,Maitreyi College,8.00,8.000
-20043511031,SAMVITI MISHRA,Maitreyi College,2.91,2.909
-20043511032,Sandhya,Maitreyi College,7.91,7.909
-20043511033,Sehajvir Kaur,Maitreyi College,6.27,6.273
-20043511034,Sejal Pahariya,Maitreyi College,7.91,7.909
-20043511035,Sharanya Bose,Maitreyi College,7.45,7.455
-20043511036,SHRISHTI JAIN,Maitreyi College,6.91,6.909
-20043511037,Shruti Dhaka,Maitreyi College,7.36,7.364
-20043511038,Shubhangi Yadav,Maitreyi College,6.09,6.091
-20043511039,Suzen,Maitreyi College,7.64,7.636
-20043511041,Tanvi Kalia,Maitreyi College,6.64,6.636
-20043511042,Tarasha Khandelwal,Maitreyi College,8.18,8.182
-20043511043,Ummey Kulsoom Shah,Maitreyi College,7.18,7.182
-20043511044,Vaishnavi Singh,Maitreyi College,7.45,7.455
-20043511045,vanika yadav,Maitreyi College,6.36,6.364
-20043511046,vanshika,Maitreyi College,8.18,8.182
-20043511047,Vishakha Kumari,Maitreyi College,7.73,7.727
-20043511049,Bhavya Ahuja,Maitreyi College,6.91,6.909
-20043511050,SANJANA JHA,Maitreyi College,6.91,6.909
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20043511001,Aayushi Singh,Maitreyi College,7.73,9.00,8.364
+20043511002,AMISHA TOMAR,Maitreyi College,7.91,8.00,7.955
+20043511003,ANSHIKA AVANI,Maitreyi College,7.91,9.00,8.455
+20043511004,Aruna Kujur,Maitreyi College,7.64,8.27,7.955
+20043511005,Arunima Bourai,Maitreyi College,7.36,9.00,8.182
+20043511006,AVANTIKA,Maitreyi College,7.09,8.00,7.545
+20043511007,BHAVYA SEHGAL,Maitreyi College,7.73,8.73,8.227
+20043511008,Bhawna Chauhan,Maitreyi College,7.64,8.00,7.818
+20043511009,Bhoomi Yadav,Maitreyi College,7.64,8.73,8.182
+20043511011,Diya Bhardwaj,Maitreyi College,7.73,8.45,8.091
+20043511012,Diya Kaiser,Maitreyi College,7.36,8.00,7.682
+20043511013,GUDIYA,Maitreyi College,7.73,8.27,8.000
+20043511014,Gunjan gangotri,Maitreyi College,7.36,8.00,7.682
+20043511015,Khushi Chhabra,Maitreyi College,7.91,8.00,7.955
+20043511016,Khushi Kr. Grover,Maitreyi College,7.91,9.00,8.455
+20043511017,Khushi Raj,Maitreyi College,7.09,8.00,7.545
+20043511018,Khushi Ramawat,Maitreyi College,7.09,8.18,7.636
+20043511019,Madhulika Madhukar,Maitreyi College,7.64,8.73,8.182
+20043511020,MALAVIKA,Maitreyi College,7.45,8.45,7.955
+20043511021,Moksha Raj Yadav,Maitreyi College,6.18,4.91,5.545
+20043511022,Muskan,Maitreyi College,6.91,8.00,7.455
+20043511023,Nikhat jahan,Maitreyi College,6.82,8.00,7.409
+20043511024,Nishtha Rawat,Maitreyi College,5.91,7.45,6.682
+20043511025,Noor Jahan Khatun,Maitreyi College,7.36,8.45,7.909
+20043511026,Poonam,Maitreyi College,7.36,8.00,7.682
+20043511027,priya bhuker,Maitreyi College,7.36,8.00,7.682
+20043511028,Priyamvada Sharma,Maitreyi College,7.64,9.00,8.318
+20043511029,Rakshita,Maitreyi College,7.36,8.00,7.682
+20043511030,Riya rao,Maitreyi College,8.00,8.45,8.227
+20043511031,SAMVITI MISHRA,Maitreyi College,2.91,5.18,4.045
+20043511032,Sandhya,Maitreyi College,7.91,8.27,8.091
+20043511033,Sehajvir Kaur,Maitreyi College,6.27,7.27,6.773
+20043511034,Sejal Pahariya,Maitreyi College,7.91,9.00,8.455
+20043511035,Sharanya Bose,Maitreyi College,7.45,8.00,7.727
+20043511036,SHRISHTI JAIN,Maitreyi College,6.91,8.00,7.455
+20043511037,Shruti Dhaka,Maitreyi College,7.36,8.73,8.045
+20043511038,Shubhangi Yadav,Maitreyi College,6.09,8.00,7.045
+20043511039,Suzen,Maitreyi College,7.64,8.73,8.182
+20043511040,Swati,Maitreyi College,6.91,7.27,7.091
+20043511041,Tanvi Kalia,Maitreyi College,6.64,8.00,7.318
+20043511043,Ummey Kulsoom Shah,Maitreyi College,7.18,8.00,7.591
+20043511044,Vaishnavi Singh,Maitreyi College,7.45,8.73,8.091
+20043511045,vanika yadav,Maitreyi College,6.36,8.00,7.182
+20043511046,vanshika,Maitreyi College,8.18,9.00,8.591
+20043511047,Vishakha Kumari,Maitreyi College,7.73,8.27,8.000
+20043511048,Yashika,Maitreyi College,7.36,8.00,7.682
+20043511049,Bhavya Ahuja,Maitreyi College,6.91,8.00,7.455
+20043511050,SANJANA JHA,Maitreyi College,6.91,5.36,6.136

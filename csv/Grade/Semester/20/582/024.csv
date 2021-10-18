@@ -1,47 +1,49 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20024582001,AAUSHI RAWAT,Gargi College,9.55,9.545
-20024582002,Aditi chauhan,Gargi College,10.00,10.000
-20024582003,Aditi Singh,Gargi College,9.73,9.727
-20024582004,Anushka sharma,Gargi College,9.73,9.727
-20024582005,Arti,Gargi College,9.73,9.727
-20024582006,Arya Suresh,Gargi College,9.82,9.818
-20024582007,Divya,Gargi College,9.36,9.364
-20024582008,DIVYA,Gargi College,9.55,9.545
-20024582009,Eshika gupta,Gargi College,9.64,9.636
-20024582011,Harshita,Gargi College,9.73,9.727
-20024582012,Jyotsana rawat,Gargi College,9.36,9.364
-20024582013,Kajal Deshwal,Gargi College,9.73,9.727
-20024582014,kajal Kaloni,Gargi College,9.55,9.545
-20024582015,Kavita,Gargi College,9.55,9.545
-20024582016,Khushi Yadav,Gargi College,9.55,9.545
-20024582018,Kiran yadav,Gargi College,9.82,9.818
-20024582019,Komal yadav,Gargi College,9.55,9.545
-20024582020,Mansi Rana,Gargi College,9.82,9.818
-20024582021,Nandini Singh,Gargi College,9.18,9.182
-20024582022,Neer Gangani,Gargi College,0.00,0.000
-20024582023,Nikita,Gargi College,10.00,10.000
-20024582024,palak pandey,Gargi College,10.00,10.000
-20024582025,Pooja,Gargi College,9.73,9.727
-20024582026,Pooja bhatt,Gargi College,9.36,9.364
-20024582027,Pracheta Chauhan,Gargi College,9.64,9.636
-20024582028,Pragati Tiwari,Gargi College,10.00,10.000
-20024582029,Praveen,Gargi College,9.55,9.545
-20024582031,Priya,Gargi College,9.18,9.182
-20024582032,PRIYA KUMARI,Gargi College,4.09,4.091
-20024582033,Priya Sharma,Gargi College,9.27,9.273
-20024582034,Saakshee Pandey,Gargi College,10.00,10.000
-20024582035,Sakshi Rahangdale,Gargi College,9.55,9.545
-20024582036,Samridhi,Gargi College,9.45,9.455
-20024582037,Santosh Yadav,Gargi College,9.82,9.818
-20024582038,SAPNA,Gargi College,9.82,9.818
-20024582040,SHOBHA,Gargi College,9.73,9.727
-20024582041,SUGANDHA KHURANA,Gargi College,10.00,10.000
-20024582042,Suruchi,Gargi College,9.73,9.727
-20024582043,Tannu,Gargi College,9.73,9.727
-20024582044,TANUJA YADAV,Gargi College,8.91,8.909
-20024582045,Tanya Sharma,Gargi College,9.45,9.455
-20024582046,Tishya,Gargi College,10.00,10.000
-20024582047,Utkarsha Verma,Gargi College,10.00,10.000
-20024582048,Vidhi,Gargi College,9.09,9.091
-20024582049,Vinita,Gargi College,9.73,9.727
-20024582051,UPASANA YADAV,Gargi College,6.18,6.182
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20024582001,AAUSHI RAWAT,Gargi College,9.55,9.55,9.545
+20024582002,Aditi chauhan,Gargi College,10.00,10.00,10.000
+20024582003,Aditi Singh,Gargi College,9.73,10.00,9.864
+20024582004,Anushka sharma,Gargi College,9.73,10.00,9.864
+20024582005,Arti,Gargi College,9.73,9.82,9.773
+20024582007,Divya,Gargi College,9.36,10.00,9.682
+20024582008,DIVYA,Gargi College,9.55,10.00,9.773
+20024582009,Eshika gupta,Gargi College,9.64,10.00,9.818
+20024582010,Ghanishtha Choudhary,Gargi College,9.55,9.82,9.682
+20024582011,Harshita,Gargi College,9.73,10.00,9.864
+20024582012,Jyotsana rawat,Gargi College,9.36,10.00,9.682
+20024582013,Kajal Deshwal,Gargi College,9.73,10.00,9.864
+20024582014,kajal Kaloni,Gargi College,9.55,10.00,9.773
+20024582015,Kavita,Gargi College,9.55,10.00,9.773
+20024582016,Khushi Yadav,Gargi College,9.55,10.00,9.773
+20024582017,Kiran,Gargi College,9.82,9.82,9.818
+20024582018,Kiran yadav,Gargi College,9.82,9.82,9.818
+20024582019,Komal yadav,Gargi College,9.55,9.55,9.545
+20024582020,Mansi Rana,Gargi College,9.82,10.00,9.909
+20024582021,Nandini Singh,Gargi College,9.18,9.82,9.500
+20024582022,Neer Gangani,Gargi College,9.18,10.00,9.591
+20024582023,Nikita,Gargi College,10.00,10.00,10.000
+20024582024,palak pandey,Gargi College,10.00,10.00,10.000
+20024582025,Pooja,Gargi College,9.73,10.00,9.864
+20024582027,Pracheta Chauhan,Gargi College,9.64,10.00,9.818
+20024582028,Pragati Tiwari,Gargi College,10.00,10.00,10.000
+20024582029,Praveen,Gargi College,9.55,10.00,9.773
+20024582030,Preeti,Gargi College,9.82,10.00,9.909
+20024582031,Priya,Gargi College,9.18,9.82,9.500
+20024582032,PRIYA KUMARI,Gargi College,8.45,9.00,8.727
+20024582033,Priya Sharma,Gargi College,9.27,10.00,9.636
+20024582034,Saakshee Pandey,Gargi College,10.00,10.00,10.000
+20024582035,Sakshi Rahangdale,Gargi College,9.55,9.82,9.682
+20024582036,Samridhi,Gargi College,9.45,9.73,9.591
+20024582037,Santosh Yadav,Gargi College,9.82,10.00,9.909
+20024582038,SAPNA,Gargi College,9.82,9.82,9.818
+20024582039,Shadika Sharma,Gargi College,9.82,10.00,9.909
+20024582040,SHOBHA,Gargi College,9.73,9.82,9.773
+20024582041,SUGANDHA KHURANA,Gargi College,10.00,9.73,9.864
+20024582042,Suruchi,Gargi College,9.73,10.00,9.864
+20024582043,Tannu,Gargi College,9.73,10.00,9.864
+20024582044,TANUJA YADAV,Gargi College,8.91,9.55,9.227
+20024582045,Tanya Sharma,Gargi College,9.45,10.00,9.727
+20024582046,Tishya,Gargi College,10.00,10.00,10.000
+20024582047,Utkarsha Verma,Gargi College,10.00,10.00,10.000
+20024582049,Vinita,Gargi College,9.73,10.00,9.864
+20024582050,DIVYANSHI,Gargi College,9.27,8.45,8.864
+20024582051,UPASANA YADAV,Gargi College,8.64,9.00,8.818

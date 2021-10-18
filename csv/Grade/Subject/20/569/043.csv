@@ -1,40 +1,42 @@
-RollNo,Name,College,"BIODIVERSITY (MICROBES, ALGAE,FUNGI AND ARCHEGONIATAE)",NON-CHORDATES I:  PROTISTA TO PSEUDOCOELOMATES,PERSPECTIVES IN ECOLOGY,ENVIRONMENTAL SCIENCE
-20043569001,Aditi,Maitreyi College,8,9,8,7
-20043569002,Bhawana,Maitreyi College,8,9,8,5
-20043569003,Chirag,Maitreyi College,8,9,8,7
-20043569004,Deepika,Maitreyi College,9,9,10,8
-20043569005,Deepika Wadhwa,Maitreyi College,8,9,8,7
-20043569006,Deepika Yadav,Maitreyi College,8,9,9,8
-20043569007,Geetika Yadav,Maitreyi College,8,9,8,7
-20043569008,Gunjan,Maitreyi College,8,9,10,9
-20043569009,Gunjan Yadav,Maitreyi College,9,10,9,9
-20043569010,Jyoti,Maitreyi College,8,9,9,7
-20043569011,Kashish,Maitreyi College,7,9,8,8
-20043569012,khushboo,Maitreyi College,9,9,9,8
-20043569013,Kishika Magan,Maitreyi College,10,10,9,8
-20043569014,kriti,Maitreyi College,9,9,9,8
-20043569015,L.Niharika,Maitreyi College,7,7,8,6
-20043569016,MANVI SHARMA,Maitreyi College,8,10,8,7
-20043569017,MUSKAN SHARMA,Maitreyi College,9,9,9,7
-20043569018,Nangini Dkhar,Maitreyi College,8,9,8,7
-20043569020,OJASHIVANI SINGH,Maitreyi College,9,10,9,8
-20043569021,Om Prabha,Maitreyi College,9,9,8,8
-20043569022,Pallavi Kumari,Maitreyi College,8,9,9,8
-20043569023,PRAGATI DWIVEDI,Maitreyi College,9,10,9,8
-20043569024,PRASHANSA,Maitreyi College,9,10,9,8
-20043569025,Preeti Kumari,Maitreyi College,9,10,8,8
-20043569026,Ritika,Maitreyi College,9,9,8,8
-20043569027,Ritika pali,Maitreyi College,8,8,8,8
-20043569028,SARVEEN NEGI,Maitreyi College,8,9,8,6
-20043569029,Shalini,Maitreyi College,7,9,9,7
-20043569031,Shivani bansal,Maitreyi College,6,7,7,5
-20043569032,Shivani Yadav,Maitreyi College,9,10,9,9
-20043569033,SOMYA,Maitreyi College,9,9,8,9
-20043569034,Subhanjana Mukherjee,Maitreyi College,8,10,9,8
-20043569035,TIYA CHIKARA,Maitreyi College,9,10,9,8
-20043569036,Versha Aggarwal,Maitreyi College,9,10,10,9
-20043569037,Vidhi Pathak,Maitreyi College,8,9,9,9
-20043569038,Yuvika,Maitreyi College,9,9,9,7
-20043569039,ANUJA SHARMA,Maitreyi College,6,7,6,5
-20043569041,POOJA GUTTE,Maitreyi College,6,7,7,8
-20043569042,YANA SINGH,Maitreyi College,5,6,5,6
+RollNo,Name,College,"BIODIVERSITY (MICROBES, ALGAE,FUNGI AND ARCHEGONIATAE)",NON-CHORDATES I:  PROTISTA TO PSEUDOCOELOMATES,PERSPECTIVES IN ECOLOGY,ENVIRONMENTAL SCIENCE,PLANT ECOLOGY AND TAXONOMY,NON-CHORDATES II: COELOMATES,CELL BIOLOGY,ENGLISH-A
+20043569001,Aditi,Maitreyi College,8,9,8,7,9,8,8,8
+20043569002,Bhawana,Maitreyi College,8,9,8,5,8,9,8,8
+20043569003,Chirag,Maitreyi College,8,9,8,7,8,9,8,8
+20043569004,Deepika,Maitreyi College,9,9,10,8,9,10,10,9
+20043569005,Deepika Wadhwa,Maitreyi College,8,9,8,7,9,9,9,9
+20043569006,Deepika Yadav,Maitreyi College,8,9,9,8,9,9,9,9
+20043569007,Geetika Yadav,Maitreyi College,8,9,8,7,8,8,8,8
+20043569008,Gunjan,Maitreyi College,8,9,10,9,9,9,9,9
+20043569009,Gunjan Yadav,Maitreyi College,9,10,9,9,10,10,10,9
+20043569010,Jyoti,Maitreyi College,8,9,9,7,9,10,9,9
+20043569011,Kashish,Maitreyi College,7,9,8,8,8,8,8,8
+20043569012,khushboo,Maitreyi College,9,9,9,8,9,9,8,9
+20043569013,Kishika Magan,Maitreyi College,10,10,9,8,10,10,9,9
+20043569014,kriti,Maitreyi College,9,9,9,8,9,9,9,9
+20043569015,L.Niharika,Maitreyi College,7,7,8,6,8,8,8,8
+20043569016,MANVI SHARMA,Maitreyi College,8,10,8,7,9,9,9,9
+20043569017,MUSKAN SHARMA,Maitreyi College,9,9,9,7,8,9,9,9
+20043569018,Nangini Dkhar,Maitreyi College,8,9,8,7,8,8,8,8
+20043569019,Nishika Sharma,Maitreyi College,9,9,9,8,9,9,9,9
+20043569020,OJASHIVANI SINGH,Maitreyi College,9,10,9,8,9,9,9,9
+20043569021,Om Prabha,Maitreyi College,9,9,8,8,9,9,9,9
+20043569022,Pallavi Kumari,Maitreyi College,8,9,9,8,9,9,9,9
+20043569023,PRAGATI DWIVEDI,Maitreyi College,9,10,9,8,10,10,9,9
+20043569024,PRASHANSA,Maitreyi College,9,10,9,8,10,10,9,9
+20043569025,Preeti Kumari,Maitreyi College,9,10,8,8,9,9,9,9
+20043569026,Ritika,Maitreyi College,9,9,8,8,9,9,9,9
+20043569027,Ritika pali,Maitreyi College,8,8,8,8,8,8,7,8
+20043569028,SARVEEN NEGI,Maitreyi College,8,9,8,6,8,9,8,8
+20043569029,Shalini,Maitreyi College,7,9,9,7,8,8,8,8
+20043569030,SHEENU,Maitreyi College,8,9,8,6,8,9,8,8
+20043569031,Shivani bansal,Maitreyi College,6,7,7,5,7,7,7,7
+20043569032,Shivani Yadav,Maitreyi College,9,10,9,9,9,9,9,9
+20043569033,SOMYA,Maitreyi College,9,9,8,9,9,9,9,9
+20043569034,Subhanjana Mukherjee,Maitreyi College,8,10,9,8,9,10,9,9
+20043569035,TIYA CHIKARA,Maitreyi College,9,10,9,8,10,10,9,9
+20043569036,Versha Aggarwal,Maitreyi College,9,10,10,9,10,10,10,9
+20043569037,Vidhi Pathak,Maitreyi College,8,9,9,9,9,10,10,9
+20043569038,Yuvika,Maitreyi College,9,9,9,7,9,9,8,9
+20043569039,ANUJA SHARMA,Maitreyi College,6,7,6,5,8,7,7,7
+20043569041,POOJA GUTTE,Maitreyi College,6,7,7,8,8,7,7,7
+20043569042,YANA SINGH,Maitreyi College,5,6,5,6,4,0,0,0

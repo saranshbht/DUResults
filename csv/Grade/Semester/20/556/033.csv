@@ -1,31 +1,28 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20033556001,AASTHA CHAUHAN,Kalindi College,5.91,5.909
-20033556002,Aastha Mehta,Kalindi College,5.36,5.364
-20033556003,Aisha Bhatt,Kalindi College,8.36,8.364
-20033556004,Anjali Tyagi,Kalindi College,5.91,5.909
-20033556005,Ankita Sahoo,Kalindi College,7.82,7.818
-20033556006,Anshika Mishra,Kalindi College,5.64,5.636
-20033556007,Ashu,Kalindi College,8.82,8.818
-20033556008,Bhavya Gautam,Kalindi College,8.09,8.091
-20033556009,Himanshi,Kalindi College,4.36,4.364
-20033556010,Isha Rani,Kalindi College,4.36,4.364
-20033556011,Janvi,Kalindi College,5.45,5.455
-20033556012,KANUPRIYA CHAUDHARY,Kalindi College,6.36,6.364
-20033556013,KM ANJALI,Kalindi College,5.45,5.455
-20033556014,Mahima,Kalindi College,8.64,8.636
-20033556015,MANASVI SOLANKI,Kalindi College,8.09,8.091
-20033556016,Nancy,Kalindi College,5.91,5.909
-20033556017,Neha kumari,Kalindi College,6.36,6.364
-20033556018,NISHU,Kalindi College,7.82,7.818
-20033556019,SADIYA,Kalindi College,7.91,7.909
-20033556020,Sakina,Kalindi College,8.09,8.091
-20033556021,Samridhi Negi,Kalindi College,3.27,3.273
-20033556022,Sneha,Kalindi College,3.73,3.727
-20033556023,SOMYA JAIN,Kalindi College,7.27,7.273
-20033556024,Srishti Sharma,Kalindi College,3.36,3.364
-20033556025,Surbhi kumari,Kalindi College,5.64,5.636
-20033556026,Tamanna Kumari,Kalindi College,8.91,8.909
-20033556027,Tannu,Kalindi College,8.27,8.273
-20033556028,Tasneem Hussain Siddiqui,Kalindi College,8.64,8.636
-20033556029,Vishakha,Kalindi College,5.91,5.909
-20033556030,Jyoti Yadav,Kalindi College,5.55,5.545
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20033556001,AASTHA CHAUHAN,Kalindi College,8.64,8.82,8.727
+20033556002,Aastha Mehta,Kalindi College,7.82,7.55,7.682
+20033556004,Anjali Tyagi,Kalindi College,8.64,8.82,8.727
+20033556005,Ankita Sahoo,Kalindi College,7.82,8.00,7.909
+20033556006,Anshika Mishra,Kalindi College,8.36,8.82,8.591
+20033556007,Ashu,Kalindi College,8.82,8.82,8.818
+20033556008,Bhavya Gautam,Kalindi College,8.09,8.82,8.455
+20033556009,Himanshi,Kalindi College,7.91,8.27,8.091
+20033556010,Isha Rani,Kalindi College,8.09,8.82,8.455
+20033556011,Janvi,Kalindi College,7.64,9.00,8.318
+20033556012,KANUPRIYA CHAUDHARY,Kalindi College,8.82,9.27,9.045
+20033556013,KM ANJALI,Kalindi College,7.91,4.00,5.955
+20033556014,Mahima,Kalindi College,8.64,8.82,8.727
+20033556016,Nancy,Kalindi College,8.36,9.27,8.818
+20033556017,Neha kumari,Kalindi College,9.09,9.27,9.182
+20033556018,NISHU,Kalindi College,7.82,8.55,8.182
+20033556020,Sakina,Kalindi College,8.09,8.55,8.318
+20033556021,Samridhi Negi,Kalindi College,7.64,8.55,8.091
+20033556022,Sneha,Kalindi College,6.18,8.82,7.500
+20033556023,SOMYA JAIN,Kalindi College,7.27,8.00,7.636
+20033556024,Srishti Sharma,Kalindi College,5.27,0.73,3.000
+20033556025,Surbhi kumari,Kalindi College,8.09,8.82,8.455
+20033556026,Tamanna Kumari,Kalindi College,8.91,8.82,8.864
+20033556027,Tannu,Kalindi College,8.27,8.82,8.545
+20033556028,Tasneem Hussain Siddiqui,Kalindi College,8.64,9.00,8.818
+20033556029,Vishakha,Kalindi College,8.36,8.82,8.591
+20033556030,Jyoti Yadav,Kalindi College,8.27,7.82,8.045

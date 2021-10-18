@@ -1,47 +1,45 @@
-RollNo,Name,College,"BIODIVERSITY (MICROBES, ALGAE, FUNGI AND ARCHEGONIATAE","ATOMIC STRUCTURE, BONDING, GENERAL ORGANIC CHEMISTRY & ALIPHATIC HYDROCARBONS",ANIMAL DIVERSITY,ENVIRONMENTAL SCIENCE
-20001583001,Aashi Gupta,Acharya Narendra Dev College,8,8,9,9
-20001583002,Aastha Srivastava,Acharya Narendra Dev College,9,9,10,9
-20001583003,Abhishek Kumar yadav,Acharya Narendra Dev College,8,6,9,8
-20001583004,Aditi Sharma,Acharya Narendra Dev College,9,8,9,9
-20001583006,Amal Naseer,Acharya Narendra Dev College,8,8,9,9
-20001583007,Anchal Tomar,Acharya Narendra Dev College,8,0,0,8
-20001583008,Anuj Singh,Acharya Narendra Dev College,5,5,7,6
-20001583009,Arnav Bhatt,Acharya Narendra Dev College,8,8,9,9
-20001583010,ARUNIMA DEY,Acharya Narendra Dev College,9,9,10,8
-20001583011,DEEPANSHU KUMAR,Acharya Narendra Dev College,9,8,9,9
-20001583012,devanshi saini,Acharya Narendra Dev College,9,9,10,9
-20001583013,Dikshant jangra,Acharya Narendra Dev College,9,8,9,7
-20001583014,Eniya Tapo,Acharya Narendra Dev College,8,7,8,9
-20001583015,Geni Yao,Acharya Narendra Dev College,8,8,9,8
-20001583016,Harshika Dewangan,Acharya Narendra Dev College,8,9,9,8
-20001583017,Heena Parveen,Acharya Narendra Dev College,8,8,10,9
-20001583018,Himanshu Kumar,Acharya Narendra Dev College,9,0,10,9
-20001583019,Ishika,Acharya Narendra Dev College,8,7,9,9
-20001583020,KANISHK BAISOYA,Acharya Narendra Dev College,0,0,0,0
-20001583021,Kanishka Chhatrawal,Acharya Narendra Dev College,8,8,9,9
-20001583022,KARTIK,Acharya Narendra Dev College,7,7,7,7
-20001583023,LUCKY SINGH,Acharya Narendra Dev College,7,7,8,8
-20001583024,Manish Kumar,Acharya Narendra Dev College,9,8,9,8
-20001583025,Mansi Parkash,Acharya Narendra Dev College,9,7,8,9
-20001583027,Nikita,Acharya Narendra Dev College,9,9,9,9
-20001583028,Parul Sharma,Acharya Narendra Dev College,8,8,9,7
-20001583029,Raina Gupta,Acharya Narendra Dev College,9,8,10,7
-20001583030,Sachin Rao,Acharya Narendra Dev College,6,6,8,8
-20001583031,SAHIL CHAUHAN,Acharya Narendra Dev College,9,8,10,9
-20001583032,Saloni,Acharya Narendra Dev College,8,7,8,8
-20001583033,Sandeep G,Acharya Narendra Dev College,8,8,8,9
-20001583034,Sarthak Chaudhary,Acharya Narendra Dev College,8,9,9,9
-20001583035,Shakshi,Acharya Narendra Dev College,9,8,9,9
-20001583036,Shruti,Acharya Narendra Dev College,8,9,9,8
-20001583037,Shruti Jha,Acharya Narendra Dev College,9,9,9,9
-20001583038,Somya Pandey,Acharya Narendra Dev College,9,8,9,8
-20001583039,SONAM WANGMO,Acharya Narendra Dev College,10,8,9,0
-20001583040,Spalzes Dolker,Acharya Narendra Dev College,9,9,9,0
-20001583041,Srashti Nirala,Acharya Narendra Dev College,9,6,7,8
-20001583042,Subham,Acharya Narendra Dev College,8,8,9,8
-20001583043,swati,Acharya Narendra Dev College,8,8,8,8
-20001583044,Vandana,Acharya Narendra Dev College,8,8,9,8
-20001583045,Vibha Shukla,Acharya Narendra Dev College,8,9,9,9
-20001583046,VIJAY KUMAR YADAV,Acharya Narendra Dev College,8,7,8,8
-20001583047,Vishakha,Acharya Narendra Dev College,9,8,9,9
-20001583049,ANKITA SINGH,Acharya Narendra Dev College,7,7,7,9
+RollNo,Name,College,"BIODIVERSITY (MICROBES, ALGAE, FUNGI AND ARCHEGONIATAE","ATOMIC STRUCTURE, BONDING, GENERAL ORGANIC CHEMISTRY & ALIPHATIC HYDROCARBONS",ANIMAL DIVERSITY,ENVIRONMENTAL SCIENCE,PLANT ECOLOGY AND TAXONOMY,"CHEMICAL ENERGETICS, EQUILIBRIA & FUNCTIONAL GROUP ORGANIC",COMPARATIVE ANATOMY AND DEVELOPMENTAL BIOLOGY OF VERTEBRATES,ENGLISH-A
+20001583001,Aashi Gupta,Acharya Narendra Dev College,8,8,9,9,9,9,9,9
+20001583002,Aastha Srivastava,Acharya Narendra Dev College,9,9,10,9,9,9,9,9
+20001583003,Abhishek Kumar yadav,Acharya Narendra Dev College,8,6,9,8,7,5,6,6
+20001583004,Aditi Sharma,Acharya Narendra Dev College,9,8,9,9,9,8,9,9
+20001583005,Akshita mahendra parate,Acharya Narendra Dev College,8,8,10,9,9,9,9,9
+20001583006,Amal Naseer,Acharya Narendra Dev College,8,8,9,9,9,9,10,9
+20001583007,Anchal Tomar,Acharya Narendra Dev College,8,0,0,8,8,8,7,8
+20001583008,Anuj Singh,Acharya Narendra Dev College,5,5,7,6,0,0,0,0
+20001583009,Arnav Bhatt,Acharya Narendra Dev College,8,8,9,9,9,9,9,9
+20001583010,ARUNIMA DEY,Acharya Narendra Dev College,9,9,10,8,10,10,10,10
+20001583011,DEEPANSHU KUMAR,Acharya Narendra Dev College,9,8,9,9,9,9,9,9
+20001583012,devanshi saini,Acharya Narendra Dev College,9,9,10,9,9,9,9,9
+20001583013,Dikshant jangra,Acharya Narendra Dev College,9,8,9,7,9,9,9,9
+20001583014,Eniya Tapo,Acharya Narendra Dev College,8,7,8,9,9,8,8,9
+20001583015,Geni Yao,Acharya Narendra Dev College,8,8,9,8,9,9,9,9
+20001583016,Harshika Dewangan,Acharya Narendra Dev College,8,9,9,8,9,9,10,9
+20001583017,Heena Parveen,Acharya Narendra Dev College,8,8,10,9,9,9,9,9
+20001583019,Ishika,Acharya Narendra Dev College,8,7,9,9,8,8,9,9
+20001583021,Kanishka Chhatrawal,Acharya Narendra Dev College,8,8,9,9,8,8,8,8
+20001583022,KARTIK,Acharya Narendra Dev College,7,7,7,7,8,8,8,8
+20001583023,LUCKY SINGH,Acharya Narendra Dev College,7,7,8,8,8,8,8,8
+20001583024,Manish Kumar,Acharya Narendra Dev College,9,8,9,8,8,8,9,9
+20001583026,Nancy,Acharya Narendra Dev College,9,9,9,9,9,8,9,9
+20001583027,Nikita,Acharya Narendra Dev College,9,9,9,9,8,8,8,8
+20001583028,Parul Sharma,Acharya Narendra Dev College,8,8,9,7,8,9,9,9
+20001583029,Raina Gupta,Acharya Narendra Dev College,9,8,10,7,9,9,9,9
+20001583030,Sachin Rao,Acharya Narendra Dev College,6,6,8,8,7,6,7,8
+20001583031,SAHIL CHAUHAN,Acharya Narendra Dev College,9,8,10,9,9,9,9,9
+20001583032,Saloni,Acharya Narendra Dev College,8,7,8,8,6,6,5,7
+20001583033,Sandeep G,Acharya Narendra Dev College,8,8,8,9,9,9,9,9
+20001583034,Sarthak Chaudhary,Acharya Narendra Dev College,8,9,9,9,9,7,9,9
+20001583035,Shakshi,Acharya Narendra Dev College,9,8,9,9,9,9,9,9
+20001583036,Shruti,Acharya Narendra Dev College,8,9,9,8,9,9,10,9
+20001583037,Shruti Jha,Acharya Narendra Dev College,9,9,9,9,9,8,9,9
+20001583038,Somya Pandey,Acharya Narendra Dev College,9,8,9,8,9,9,10,9
+20001583040,Spalzes Dolker,Acharya Narendra Dev College,9,9,9,0,8,8,8,8
+20001583041,Srashti Nirala,Acharya Narendra Dev College,9,6,7,8,7,6,8,8
+20001583042,Subham,Acharya Narendra Dev College,8,8,9,8,9,9,9,9
+20001583043,swati,Acharya Narendra Dev College,8,8,8,8,8,8,9,8
+20001583044,Vandana,Acharya Narendra Dev College,8,8,9,8,9,8,9,9
+20001583045,Vibha Shukla,Acharya Narendra Dev College,8,9,9,9,9,9,9,9
+20001583046,VIJAY KUMAR YADAV,Acharya Narendra Dev College,8,7,8,8,8,8,7,8
+20001583047,Vishakha,Acharya Narendra Dev College,9,8,9,9,9,9,9,9
+20001583048,Yukta,Acharya Narendra Dev College,9,8,9,8,9,9,9,9

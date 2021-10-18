@@ -1,36 +1,35 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20251749001,ANUPAMA,Department of Electronic Science,9.00,9.000
-20251749002,ANMOL GUPTA,Department of Electronic Science,9.25,9.250
-20251749003,LALIT UPRETI,Department of Electronic Science,7.75,7.750
-20251749004,PARAS BHAMBRI,Department of Electronic Science,6.50,6.500
-20251749005,HEROK JYOTI BONIA,Department of Electronic Science,9.25,9.250
-20251749006,TARUN SOUDA,Department of Electronic Science,8.50,8.500
-20251749007,AMIT GHOSH,Department of Electronic Science,8.50,8.500
-20251749008,VANSHIKA,Department of Electronic Science,9.50,9.500
-20251749009,SALONI GUPTA,Department of Electronic Science,8.75,8.750
-20251749010,REJAUL,Department of Electronic Science,9.50,9.500
-20251749011,AKASH,Department of Electronic Science,9.50,9.500
-20251749012,RITU MISHRA,Department of Electronic Science,9.00,9.000
-20251749013,ASHAR AHMAD,Department of Electronic Science,4.75,4.750
-20251749014,PRATIBHA MISHRA,Department of Electronic Science,9.75,9.750
-20251749015,LAKSHMI GAYATHRI,Department of Electronic Science,10.00,10.000
-20251749016,VASVI GAUTAM,Department of Electronic Science,9.50,9.500
-20251749017,DEVPRIYA  MONDAL,Department of Electronic Science,9.00,9.000
-20251749018,TRISHA AGRAWAL,Department of Electronic Science,9.50,9.500
-20251749019,PRIYANKA SINGH,Department of Electronic Science,9.25,9.250
-20251749020,ASHRAF ANSARI,Department of Electronic Science,8.75,8.750
-20251749021,ISHMEET KAUR,Department of Electronic Science,9.50,9.500
-20251749022,SIMRAN PARVEEN,Department of Electronic Science,9.75,9.750
-20251749023,ASHUTOSH PANDEY,Department of Electronic Science,9.25,9.250
-20251749024,KARTIK,Department of Electronic Science,8.75,8.750
-20251749025,TSETAN NAMGYAL,Department of Electronic Science,7.50,7.500
-20251749026,KESHAV,Department of Electronic Science,9.25,9.250
-20251749027,MANISH SINGH,Department of Electronic Science,7.75,7.750
-20251749028,HARDIK MINOCHA,Department of Electronic Science,9.00,9.000
-20251749029,ANIKESH MAURYA,Department of Electronic Science,7.50,7.500
-20251749030,ADITYA RAJ SINGH,Department of Electronic Science,7.75,7.750
-20251749031,CHETAN KUMAR,Department of Electronic Science,8.50,8.500
-20251749032,NITIN,Department of Electronic Science,8.50,8.500
-20251749033,NIDHI GOYAL,Department of Electronic Science,9.00,9.000
-20251749034,SHASHANK SINGH RAWAT,Department of Electronic Science,9.50,9.500
-20251749035,ADITYA KUMAR,Department of Electronic Science,6.25,6.250
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20251749001,Anupama,Department of Electronic Science,9.00,9.00,9.000
+20251749002,Anmol Gupta,Department of Electronic Science,9.25,9.75,9.500
+20251749003,LALIT UPRETI,Department of Electronic Science,7.75,7.67,7.708
+20251749004,Paras Bhambri,Department of Electronic Science,6.50,0.00,3.250
+20251749006,Tarun Souda,Department of Electronic Science,8.50,6.75,7.625
+20251749007,AMIT GHOSH,Department of Electronic Science,8.50,7.42,7.958
+20251749008,VANSHIKA,Department of Electronic Science,9.50,9.58,9.542
+20251749009,SALONI GUPTA,Department of Electronic Science,8.75,9.00,8.875
+20251749010,Rejaul,Department of Electronic Science,9.50,9.83,9.667
+20251749011,Akash,Department of Electronic Science,9.50,9.00,9.250
+20251749012,Ritu Mishra,Department of Electronic Science,9.00,8.00,8.500
+20251749013,Ashar Ahmad,Department of Electronic Science,4.75,4.00,4.375
+20251749014,Pratibha Mishra,Department of Electronic Science,9.75,9.83,9.792
+20251749015,LAKSHMI GAYATHRI,Department of Electronic Science,10.00,9.75,9.875
+20251749016,Vasvi Gautam,Department of Electronic Science,9.50,10.00,9.750
+20251749017,DEVPRIYA  MONDAL,Department of Electronic Science,9.00,9.17,9.083
+20251749018,TRISHA AGRAWAL,Department of Electronic Science,9.50,10.00,9.750
+20251749019,Priyanka Singh,Department of Electronic Science,9.25,9.00,9.125
+20251749020,Ashraf Ansari,Department of Electronic Science,8.75,8.33,8.542
+20251749021,ISHMEET KAUR,Department of Electronic Science,9.50,9.83,9.667
+20251749022,Simran parveen,Department of Electronic Science,9.75,9.00,9.375
+20251749023,ASHUTOSH PANDEY,Department of Electronic Science,9.25,9.00,9.125
+20251749024,Kartik,Department of Electronic Science,8.75,8.58,8.667
+20251749025,Tsetan Namgyal,Department of Electronic Science,7.50,2.50,5.000
+20251749026,Keshav,Department of Electronic Science,9.25,9.00,9.125
+20251749027,Manish Singh,Department of Electronic Science,7.75,6.92,7.333
+20251749028,Hardik Minocha,Department of Electronic Science,9.00,8.67,8.833
+20251749029,Anikesh maurya,Department of Electronic Science,7.50,5.67,6.583
+20251749030,ADITYA RAJ SINGH,Department of Electronic Science,7.75,7.17,7.458
+20251749031,Chetan Kumar,Department of Electronic Science,8.50,7.75,8.125
+20251749032,Nitin,Department of Electronic Science,8.50,8.17,8.333
+20251749033,NIDHI goyal,Department of Electronic Science,9.00,8.17,8.583
+20251749034,Shashank Singh Rawat,Department of Electronic Science,9.50,9.75,9.625
+20251749035,aditya kumar,Department of Electronic Science,6.25,1.00,3.625

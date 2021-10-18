@@ -1,68 +1,63 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20079557001,Aashna Priyadarshini,Sri Venkateswara College,8.73,8.727
-20079557002,Amlan Dalbehera,Sri Venkateswara College,9.27,9.273
-20079557003,Anish Kumar,Sri Venkateswara College,9.27,9.273
-20079557005,Ankul Chauhan,Sri Venkateswara College,8.45,8.455
-20079557006,ANN SUNNY,Sri Venkateswara College,8.18,8.182
-20079557007,Ansuman Aditya Sahoo,Sri Venkateswara College,9.00,9.000
-20079557008,Arikta Baul,Sri Venkateswara College,9.00,9.000
-20079557009,ARJUN SINGH KARAKOTI,Sri Venkateswara College,9.00,9.000
-20079557010,Asmita soni,Sri Venkateswara College,9.55,9.545
-20079557011,BABITA PANDEY,Sri Venkateswara College,9.27,9.273
-20079557012,BHARATH HARIKUMAR P,Sri Venkateswara College,9.55,9.545
-20079557013,CHANDER,Sri Venkateswara College,9.00,9.000
-20079557014,Deepak,Sri Venkateswara College,9.27,9.273
-20079557015,DIVYA,Sri Venkateswara College,9.55,9.545
-20079557016,Fardeen,Sri Venkateswara College,9.27,9.273
-20079557017,Garima Sapra,Sri Venkateswara College,9.00,9.000
-20079557018,Gaurav,Sri Venkateswara College,9.27,9.273
-20079557019,GAURAV,Sri Venkateswara College,9.00,9.000
-20079557020,Harish Neela Lingam B,Sri Venkateswara College,9.55,9.545
-20079557021,Harsh Dubey,Sri Venkateswara College,9.00,9.000
-20079557022,KASHISH KHAGWAL,Sri Venkateswara College,9.55,9.545
-20079557023,KUSUM,Sri Venkateswara College,9.27,9.273
-20079557024,LOKESH TEWATIA,Sri Venkateswara College,8.00,8.000
-20079557025,Manisha yadav,Sri Venkateswara College,9.27,9.273
-20079557026,Mansi,Sri Venkateswara College,9.55,9.545
-20079557027,MAYANK DHAWAL,Sri Venkateswara College,9.27,9.273
-20079557028,Mohammad Anas Qureshi,Sri Venkateswara College,8.73,8.727
-20079557029,Mohit Kumar,Sri Venkateswara College,9.27,9.273
-20079557030,Mouli Srivastava,Sri Venkateswara College,9.27,9.273
-20079557031,Navya Malik,Sri Venkateswara College,9.55,9.545
-20079557032,NIKITA TUWANI,Sri Venkateswara College,8.45,8.455
-20079557033,POOJA,Sri Venkateswara College,8.73,8.727
-20079557034,PRANJAL JAISWAL,Sri Venkateswara College,9.55,9.545
-20079557035,Prapti Chowdhury,Sri Venkateswara College,8.45,8.455
-20079557036,Pratham,Sri Venkateswara College,9.55,9.545
-20079557037,Praveen Kumar Singh,Sri Venkateswara College,9.00,9.000
-20079557038,Rachit Wadhwa,Sri Venkateswara College,9.27,9.273
-20079557039,Rahul Kumar,Sri Venkateswara College,9.00,9.000
-20079557040,Rahul Rastogi,Sri Venkateswara College,9.00,9.000
-20079557041,Rohan Pushpwan,Sri Venkateswara College,8.55,8.545
-20079557042,Sachidanand,Sri Venkateswara College,8.45,8.455
-20079557043,Sagar,Sri Venkateswara College,9.00,9.000
-20079557044,Sahid Ansari,Sri Venkateswara College,9.27,9.273
-20079557045,SANDEEP CHARAN,Sri Venkateswara College,8.27,8.273
-20079557046,Sanjana,Sri Venkateswara College,9.00,9.000
-20079557047,Saurav Kumar,Sri Venkateswara College,7.82,7.818
-20079557048,Shahrukh Khan,Sri Venkateswara College,9.00,9.000
-20079557049,Shashank chauhan,Sri Venkateswara College,9.00,9.000
-20079557050,Shashwat Dwivedi,Sri Venkateswara College,9.27,9.273
-20079557051,Shikha,Sri Venkateswara College,9.82,9.818
-20079557052,Shivam,Sri Venkateswara College,8.73,8.727
-20079557053,Shivani,Sri Venkateswara College,7.36,7.364
-20079557054,Shweta Lamba,Sri Venkateswara College,9.55,9.545
-20079557055,Sneha Vijayan,Sri Venkateswara College,9.27,9.273
-20079557056,Sohit,Sri Venkateswara College,9.55,9.545
-20079557057,Srishti Yadav,Sri Venkateswara College,9.00,9.000
-20079557058,Sunny,Sri Venkateswara College,9.55,9.545
-20079557059,SUNNY SAURABH PANDEY,Sri Venkateswara College,9.00,9.000
-20079557060,sweta kumari,Sri Venkateswara College,9.00,9.000
-20079557061,Varsha,Sri Venkateswara College,9.27,9.273
-20079557062,VISHAKHA UPPAL,Sri Venkateswara College,9.55,9.545
-20079557063,Vivek Yadav,Sri Venkateswara College,9.27,9.273
-20079557064,Yash,Sri Venkateswara College,9.00,9.000
-20079557065,PALLAVEE,Sri Venkateswara College,8.73,8.727
-20079557066,BIKASH ARUKH,Sri Venkateswara College,8.73,8.727
-20079557067,GEETANJALI PARASHAR,Sri Venkateswara College,7.91,7.909
-20079557068,SAHIL,Sri Venkateswara College,0.00,0.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20079557001,Aashna Priyadarshini,Sri Venkateswara College,8.73,9.73,9.227
+20079557002,Amlan Dalbehera,Sri Venkateswara College,9.27,9.18,9.227
+20079557003,Anish Kumar,Sri Venkateswara College,9.27,9.00,9.136
+20079557004,Ankita Kumari,Sri Venkateswara College,9.55,10.00,9.773
+20079557005,Ankul Chauhan,Sri Venkateswara College,8.45,9.18,8.818
+20079557006,ANN SUNNY,Sri Venkateswara College,8.18,8.82,8.500
+20079557008,Arikta Baul,Sri Venkateswara College,9.00,10.00,9.500
+20079557009,ARJUN SINGH KARAKOTI,Sri Venkateswara College,9.00,9.73,9.364
+20079557010,Asmita soni,Sri Venkateswara College,9.55,9.73,9.636
+20079557011,BABITA PANDEY,Sri Venkateswara College,9.27,9.00,9.136
+20079557012,BHARATH HARIKUMAR P,Sri Venkateswara College,9.55,10.00,9.773
+20079557013,CHANDER,Sri Venkateswara College,9.00,9.45,9.227
+20079557014,Deepak,Sri Venkateswara College,9.27,9.73,9.500
+20079557015,DIVYA,Sri Venkateswara College,9.55,9.45,9.500
+20079557016,Fardeen,Sri Venkateswara College,9.27,9.27,9.273
+20079557017,Garima Sapra,Sri Venkateswara College,9.00,10.00,9.500
+20079557018,Gaurav,Sri Venkateswara College,9.27,9.00,9.136
+20079557020,Harish Neela Lingam B,Sri Venkateswara College,9.55,9.45,9.500
+20079557021,Harsh Dubey,Sri Venkateswara College,9.00,9.18,9.091
+20079557022,KASHISH KHAGWAL,Sri Venkateswara College,9.55,10.00,9.773
+20079557023,KUSUM,Sri Venkateswara College,9.27,9.45,9.364
+20079557024,LOKESH TEWATIA,Sri Venkateswara College,8.00,8.36,8.182
+20079557025,Manisha yadav,Sri Venkateswara College,9.27,9.00,9.136
+20079557026,Mansi,Sri Venkateswara College,9.55,10.00,9.773
+20079557027,MAYANK DHAWAL,Sri Venkateswara College,9.27,10.00,9.636
+20079557028,Mohammad Anas Qureshi,Sri Venkateswara College,8.73,9.18,8.955
+20079557030,Mouli Srivastava,Sri Venkateswara College,9.27,9.45,9.364
+20079557031,Navya Malik,Sri Venkateswara College,9.55,9.73,9.636
+20079557032,NIKITA TUWANI,Sri Venkateswara College,8.45,9.73,9.091
+20079557033,POOJA,Sri Venkateswara College,8.73,9.00,8.864
+20079557034,PRANJAL JAISWAL,Sri Venkateswara College,9.55,9.73,9.636
+20079557035,Prapti Chowdhury,Sri Venkateswara College,8.45,9.18,8.818
+20079557036,Pratham,Sri Venkateswara College,9.55,10.00,9.773
+20079557037,Praveen Kumar Singh,Sri Venkateswara College,9.00,9.00,9.000
+20079557038,Rachit Wadhwa,Sri Venkateswara College,9.27,9.73,9.500
+20079557039,Rahul Kumar,Sri Venkateswara College,9.00,9.18,9.091
+20079557040,Rahul Rastogi,Sri Venkateswara College,9.00,9.18,9.091
+20079557041,Rohan Pushpwan,Sri Venkateswara College,8.55,8.27,8.409
+20079557042,Sachidanand,Sri Venkateswara College,8.45,9.00,8.727
+20079557043,Sagar,Sri Venkateswara College,9.00,9.00,9.000
+20079557044,Sahid Ansari,Sri Venkateswara College,9.27,8.82,9.045
+20079557045,SANDEEP CHARAN,Sri Venkateswara College,8.27,9.00,8.636
+20079557046,Sanjana,Sri Venkateswara College,9.00,9.00,9.000
+20079557048,Shahrukh Khan,Sri Venkateswara College,9.00,8.82,8.909
+20079557049,Shashank chauhan,Sri Venkateswara College,9.00,9.55,9.273
+20079557050,Shashwat Dwivedi,Sri Venkateswara College,9.27,10.00,9.636
+20079557051,Shikha,Sri Venkateswara College,9.82,10.00,9.909
+20079557052,Shivam,Sri Venkateswara College,8.73,9.18,8.955
+20079557053,Shivani,Sri Venkateswara College,7.36,9.00,8.182
+20079557055,Sneha Vijayan,Sri Venkateswara College,9.27,10.00,9.636
+20079557056,Sohit,Sri Venkateswara College,9.55,9.00,9.273
+20079557057,SRISHTI YADAV,Sri Venkateswara College,9.00,9.73,9.364
+20079557058,Sunny,Sri Venkateswara College,9.55,8.82,9.182
+20079557059,SUNNY SAURABH PANDEY,Sri Venkateswara College,9.00,9.00,9.000
+20079557060,sweta kumari,Sri Venkateswara College,9.00,9.73,9.364
+20079557061,Varsha,Sri Venkateswara College,9.27,9.45,9.364
+20079557062,VISHAKHA UPPAL,Sri Venkateswara College,9.55,9.73,9.636
+20079557063,Vivek Yadav,Sri Venkateswara College,9.27,9.00,9.136
+20079557064,Yash,Sri Venkateswara College,9.00,9.00,9.000
+20079557065,PALLAVEE,Sri Venkateswara College,8.73,9.73,9.227
+20079557066,BIKASH ARUKH,Sri Venkateswara College,8.73,9.45,9.091
+20079557067,GEETANJALI PARASHAR,Sri Venkateswara College,7.91,9.00,8.455

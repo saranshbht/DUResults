@@ -1,13 +1,15 @@
-RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
-19039708001,AKANKSHYA SUBUDHI,Lady Shri Ram College for Women,6.75,7.58,7.00,7.141
-19039708004,KOMAL YADAV,Lady Shri Ram College for Women,5.75,6.58,6.50,6.297
-19039708005,KHUSHBU,Lady Shri Ram College for Women,6.50,7.00,7.00,6.844
-19039708006,PRATYAKSHA,Lady Shri Ram College for Women,7.00,7.17,7.00,7.063
-19039708007,RUPAL BANSAL,Lady Shri Ram College for Women,7.00,7.38,7.25,7.219
-19039708008,RUSALI DAIBOT SHIRA,Lady Shri Ram College for Women,6.00,6.79,6.25,6.375
-19039708009,SANCHI MEHTA,Lady Shri Ram College for Women,6.75,7.17,7.25,7.063
-19039708010,SHUCHI KUMAR,Lady Shri Ram College for Women,6.50,6.21,6.50,6.391
-19039708011,SNEHA ROY,Lady Shri Ram College for Women,6.50,7.00,6.75,6.766
-19039708012,TRIVARNA HARIHARAN,Lady Shri Ram College for Women,6.75,7.21,7.00,7.000
-19039708013,VANI MITTAL,Lady Shri Ram College for Women,6.25,5.42,6.50,6.016
-19039708014,VARSHA,Lady Shri Ram College for Women,6.25,7.17,6.75,6.750
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Overall CGPA
+19039708001,AKANKSHYA SUBUDHI,Lady Shri Ram College for Women,6.75,7.58,7.00,7.74,7.277
+19039708002,ANKITA ADAK,Lady Shri Ram College for Women,6.25,7.00,6.75,7.74,6.928
+19039708003,FATHIMA M S,Lady Shri Ram College for Women,6.00,6.96,6.75,7.21,6.735
+19039708004,KOMAL YADAV,Lady Shri Ram College for Women,5.75,6.58,6.50,7.16,6.494
+19039708005,KHUSHBU,Lady Shri Ram College for Women,6.50,7.00,7.00,7.63,7.024
+19039708006,PRATYAKSHA,Lady Shri Ram College for Women,7.00,7.17,7.00,7.00,7.048
+19039708007,RUPAL BANSAL,Lady Shri Ram College for Women,7.00,7.38,7.25,7.89,7.373
+19039708008,RUSALI DALBOT SHIRA,Lady Shri Ram College for Women,6.00,6.79,6.25,6.74,6.458
+19039708009,SANCHI MEHTA,Lady Shri Ram College for Women,6.75,7.17,7.25,7.00,7.048
+19039708010,SHUCHI KUMAR,Lady Shri Ram College for Women,6.50,6.21,6.50,5.95,6.289
+19039708011,SNEHA ROY,Lady Shri Ram College for Women,6.50,7.00,6.75,6.74,6.759
+19039708012,TRIVARNA HARIHARAN,Lady Shri Ram College for Women,6.75,7.21,7.00,7.53,7.120
+19039708013,VANI MITTAL,Lady Shri Ram College for Women,6.25,6.08,6.50,6.74,6.373
+19039708014,VARSHA,Lady Shri Ram College for Women,6.25,7.17,6.75,7.37,6.892

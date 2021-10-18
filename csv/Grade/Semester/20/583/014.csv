@@ -1,60 +1,59 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20014583001,AASHI,Daulat Ram College,9.27,9.273
-20014583002,AAYUSHI SAINI,Daulat Ram College,9.27,9.273
-20014583003,Aditi jain,Daulat Ram College,9.00,9.000
-20014583005,Amisha,Daulat Ram College,9.00,9.000
-20014583006,Anisha,Daulat Ram College,8.73,8.727
-20014583007,Anita,Daulat Ram College,9.27,9.273
-20014583008,Anushka,Daulat Ram College,9.55,9.545
-20014583009,Apurva,Daulat Ram College,9.00,9.000
-20014583010,Archisa Srivastava,Daulat Ram College,8.55,8.545
-20014583011,AYUSHI,Daulat Ram College,8.18,8.182
-20014583012,Ayushi Singh,Daulat Ram College,8.73,8.727
-20014583014,BHUMIKA SHARMA,Daulat Ram College,8.73,8.727
-20014583015,Deepika,Daulat Ram College,8.27,8.273
-20014583016,DIVYA PORIA,Daulat Ram College,8.64,8.636
-20014583017,Divya Yadav,Daulat Ram College,8.73,8.727
-20014583018,Ema Bharti,Daulat Ram College,8.73,8.727
-20014583019,Harshna,Daulat Ram College,8.36,8.364
-20014583020,Henu,Daulat Ram College,8.73,8.727
-20014583021,Jahanvi Sharma,Daulat Ram College,8.55,8.545
-20014583022,Jiya,Daulat Ram College,8.82,8.818
-20014583023,Kajal,Daulat Ram College,8.73,8.727
-20014583024,KASHISH,Daulat Ram College,9.00,9.000
-20014583025,Khushboo,Daulat Ram College,8.27,8.273
-20014583026,Khushi,Daulat Ram College,8.73,8.727
-20014583027,Khushi Goel,Daulat Ram College,9.18,9.182
-20014583028,KIRTI KUMARI,Daulat Ram College,7.18,7.182
-20014583029,Kumari Ayushi,Daulat Ram College,8.73,8.727
-20014583030,Meenal Gupta,Daulat Ram College,8.73,8.727
-20014583031,Minal Yadav,Daulat Ram College,8.73,8.727
-20014583032,Muskan,Daulat Ram College,8.45,8.455
-20014583033,Muskan,Daulat Ram College,8.36,8.364
-20014583034,Muskan Chauhan,Daulat Ram College,9.27,9.273
-20014583035,NANCY,Daulat Ram College,8.64,8.636
-20014583036,Nisha,Daulat Ram College,8.73,8.727
-20014583037,Prachi Tomar,Daulat Ram College,8.55,8.545
-20014583038,Preeti,Daulat Ram College,8.64,8.636
-20014583039,Priyanjali Singh,Daulat Ram College,8.45,8.455
-20014583040,Priyanka,Daulat Ram College,8.82,8.818
-20014583041,Radhika,Daulat Ram College,8.73,8.727
-20014583042,RITUL YADAV,Daulat Ram College,8.45,8.455
-20014583043,Sakshi Chaudhary,Daulat Ram College,6.00,6.000
-20014583044,Samiksha,Daulat Ram College,7.82,7.818
-20014583045,SHAFAQ,Daulat Ram College,9.27,9.273
-20014583046,SHRAMANA GUCHHAIT,Daulat Ram College,9.27,9.273
-20014583047,Shreya Pant,Daulat Ram College,6.27,6.273
-20014583048,Shristi Singh,Daulat Ram College,8.45,8.455
-20014583049,Somya Paliwal,Daulat Ram College,8.91,8.909
-20014583050,Sonia gorkhya,Daulat Ram College,7.18,7.182
-20014583051,SUPRIYA KUMARI,Daulat Ram College,8.55,8.545
-20014583052,Swathi Rajeev,Daulat Ram College,9.27,9.273
-20014583053,Swati,Daulat Ram College,8.27,8.273
-20014583054,Tanu Malik,Daulat Ram College,8.55,8.545
-20014583055,UMANG,Daulat Ram College,9.00,9.000
-20014583056,VAISHALI PANT,Daulat Ram College,9.27,9.273
-20014583057,Vidhi,Daulat Ram College,0.00,0.000
-20014583058,Yashashvi Yadav,Daulat Ram College,8.73,8.727
-20014583059,Yogita sharma,Daulat Ram College,8.73,8.727
-20014583060,ISHA,Daulat Ram College,8.18,8.182
-20014583061,SAKSHI,Daulat Ram College,4.64,4.636
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20014583001,AASHI,Daulat Ram College,9.27,10.00,9.636
+20014583002,AAYUSHI SAINI,Daulat Ram College,9.27,10.00,9.636
+20014583003,Aditi jain,Daulat Ram College,9.00,9.27,9.136
+20014583004,Akshi Mavi,Daulat Ram College,8.73,9.27,9.000
+20014583005,Amisha,Daulat Ram College,9.00,10.00,9.500
+20014583006,Anisha,Daulat Ram College,8.73,9.73,9.227
+20014583007,Anita,Daulat Ram College,9.27,9.27,9.273
+20014583008,Anushka,Daulat Ram College,9.55,10.00,9.773
+20014583009,Apurva,Daulat Ram College,9.00,9.55,9.273
+20014583010,Archisa Srivastava,Daulat Ram College,8.55,8.73,8.636
+20014583011,AYUSHI,Daulat Ram College,8.18,5.27,6.727
+20014583012,Ayushi Singh,Daulat Ram College,8.73,10.00,9.364
+20014583013,Bhavya Baswal,Daulat Ram College,0.00,7.18,3.591
+20014583014,BHUMIKA SHARMA,Daulat Ram College,8.73,9.27,9.000
+20014583015,Deepika,Daulat Ram College,8.27,8.27,8.273
+20014583016,DIVYA PORIA,Daulat Ram College,8.64,9.27,8.955
+20014583017,Divya Yadav,Daulat Ram College,8.73,9.73,9.227
+20014583018,Ema Bharti,Daulat Ram College,8.73,9.00,8.864
+20014583019,Harshna,Daulat Ram College,8.36,8.27,8.318
+20014583021,Jahanvi Sharma,Daulat Ram College,8.55,9.00,8.773
+20014583022,Jiya,Daulat Ram College,8.82,9.00,8.909
+20014583023,Kajal,Daulat Ram College,8.73,8.73,8.727
+20014583024,KASHISH,Daulat Ram College,9.00,8.73,8.864
+20014583025,Khushboo,Daulat Ram College,8.27,9.00,8.636
+20014583026,Khushi,Daulat Ram College,8.73,9.27,9.000
+20014583027,Khushi Goel,Daulat Ram College,9.18,10.00,9.591
+20014583028,KIRTI KUMARI,Daulat Ram College,7.18,6.91,7.045
+20014583029,Kumari Ayushi,Daulat Ram College,8.73,9.45,9.091
+20014583030,Meenal Gupta,Daulat Ram College,8.73,9.27,9.000
+20014583031,Minal Yadav,Daulat Ram College,8.73,9.00,8.864
+20014583032,Muskan,Daulat Ram College,8.45,9.27,8.864
+20014583033,Muskan,Daulat Ram College,8.36,8.45,8.409
+20014583034,Muskan Chauhan,Daulat Ram College,9.27,9.45,9.364
+20014583035,NANCY,Daulat Ram College,8.64,8.45,8.545
+20014583036,Nisha,Daulat Ram College,8.73,9.00,8.864
+20014583037,Prachi Tomar,Daulat Ram College,8.55,9.27,8.909
+20014583038,Preeti,Daulat Ram College,8.64,9.27,8.955
+20014583039,Priyanjali Singh,Daulat Ram College,8.45,9.00,8.727
+20014583040,Priyanka,Daulat Ram College,8.82,9.27,9.045
+20014583041,Radhika,Daulat Ram College,8.73,9.00,8.864
+20014583042,RITUL YADAV,Daulat Ram College,8.45,9.27,8.864
+20014583043,Sakshi Chaudhary,Daulat Ram College,8.45,8.18,8.318
+20014583045,SHAFAQ,Daulat Ram College,9.27,9.00,9.136
+20014583046,SHRAMANA GUCHHAIT,Daulat Ram College,9.27,10.00,9.636
+20014583047,Shreya Pant,Daulat Ram College,9.00,8.73,8.864
+20014583048,Shristi Singh,Daulat Ram College,8.45,6.64,7.545
+20014583049,Somya Paliwal,Daulat Ram College,8.91,9.27,9.091
+20014583050,Sonia gorkhya,Daulat Ram College,7.18,8.73,7.955
+20014583051,SUPRIYA KUMARI,Daulat Ram College,8.55,9.27,8.909
+20014583052,Swathi Rajeev,Daulat Ram College,9.27,10.00,9.636
+20014583053,Swati,Daulat Ram College,8.27,9.27,8.773
+20014583054,Tanu Malik,Daulat Ram College,8.55,9.27,8.909
+20014583055,UMANG,Daulat Ram College,9.00,10.00,9.500
+20014583056,VAISHALI PANT,Daulat Ram College,9.27,10.00,9.636
+20014583058,Yashashvi Yadav,Daulat Ram College,8.73,9.00,8.864
+20014583059,Yogita sharma,Daulat Ram College,8.73,9.27,9.000
+20014583060,ISHA,Daulat Ram College,8.18,8.45,8.318
+20014583061,SAKSHI,Daulat Ram College,4.64,6.18,5.409

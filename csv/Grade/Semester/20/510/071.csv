@@ -1,51 +1,52 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20071510001,AAMIR HAMID SHIEKH,Shivaji College,7.73,7.727
-20071510002,Abhishek Raj,Shivaji College,8.00,8.000
-20071510003,Aditya Mishra,Shivaji College,7.45,7.455
-20071510004,Akanksha Srivastava,Shivaji College,8.45,8.455
-20071510005,Anshika Taneja,Shivaji College,9.27,9.273
-20071510006,Anshul Kumar,Shivaji College,8.55,8.545
-20071510007,aparna rana,Shivaji College,9.00,9.000
-20071510008,Arsh Nayak,Shivaji College,7.91,7.909
-20071510009,Arushi Sehra,Shivaji College,8.18,8.182
-20071510010,Bhavika,Shivaji College,8.73,8.727
-20071510011,Chhavi Goel,Shivaji College,7.91,7.909
-20071510012,Devanshi Thakur,Shivaji College,8.45,8.455
-20071510013,Divyaa Gupta,Shivaji College,9.27,9.273
-20071510014,GUNJAN YADAV,Shivaji College,8.27,8.273
-20071510015,Himanshu Nath,Shivaji College,7.45,7.455
-20071510016,ISHANI NARANG,Shivaji College,9.27,9.273
-20071510018,Keshav Khaitan,Shivaji College,8.73,8.727
-20071510019,Khushi Bhatia,Shivaji College,8.45,8.455
-20071510020,Kinshuk Taneja,Shivaji College,8.45,8.455
-20071510021,Laksh Verma,Shivaji College,8.82,8.818
-20071510022,Mansi,Shivaji College,9.00,9.000
-20071510023,Meheranshi Vats,Shivaji College,8.18,8.182
-20071510024,MOHAMMED ARIF SIYAN,Shivaji College,7.91,7.909
-20071510025,Nipun Sharma,Shivaji College,7.64,7.636
-20071510026,Palak upadhyay,Shivaji College,8.73,8.727
-20071510027,PARTH JAIN,Shivaji College,9.27,9.273
-20071510028,Priyal Aggarwal,Shivaji College,8.45,8.455
-20071510029,Priyansha Chaudhary,Shivaji College,7.91,7.909
-20071510031,Rahul,Shivaji College,8.18,8.182
-20071510032,RASHI GUPTA,Shivaji College,8.45,8.455
-20071510033,rashi kaushik,Shivaji College,8.45,8.455
-20071510034,Riya ujjwal,Shivaji College,8.18,8.182
-20071510035,Sahil,Shivaji College,6.82,6.818
-20071510036,SALONI AGARWAL,Shivaji College,9.18,9.182
-20071510037,SAMEER JAISWAL,Shivaji College,8.27,8.273
-20071510038,Shaily Sengar,Shivaji College,9.55,9.545
-20071510039,Shreya Maheshwari,Shivaji College,8.73,8.727
-20071510040,Shriya Vohra,Shivaji College,7.18,7.182
-20071510041,Shubh arora,Shivaji College,8.45,8.455
-20071510042,Somya Tomar,Shivaji College,8.73,8.727
-20071510043,SRISHTI TALWAR,Shivaji College,9.27,9.273
-20071510044,Srishty jindal,Shivaji College,8.64,8.636
-20071510045,Tanisha Goyal,Shivaji College,8.45,8.455
-20071510046,Tenzin Youden,Shivaji College,7.91,7.909
-20071510048,Vaidant Jain,Shivaji College,8.18,8.182
-20071510049,VANSHITA BAJAJ,Shivaji College,8.45,8.455
-20071510050,Vasu Bansal,Shivaji College,8.82,8.818
-20071510051,Vineet Kumar,Shivaji College,7.91,7.909
-20071510052,Divyanshi Pathak,Shivaji College,8.27,8.273
-20071510053,Mahi Gupta,Shivaji College,9.27,9.273
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20071510001,AAMIR HAMID SHIEKH,Shivaji College,7.73,8.18,7.955
+20071510002,Abhishek Raj,Shivaji College,8.00,9.55,8.773
+20071510003,Aditya Mishra,Shivaji College,7.45,8.45,7.955
+20071510004,Akanksha Srivastava,Shivaji College,8.45,9.00,8.727
+20071510005,Anshika Taneja,Shivaji College,9.27,9.27,9.273
+20071510006,Anshul Kumar,Shivaji College,8.55,9.00,8.773
+20071510007,aparna rana,Shivaji College,9.00,9.00,9.000
+20071510008,Arsh Nayak,Shivaji College,7.91,8.73,8.318
+20071510009,Arushi Sehra,Shivaji College,8.18,9.00,8.591
+20071510010,Bhavika,Shivaji College,8.73,9.00,8.864
+20071510011,Chhavi Goel,Shivaji College,7.91,9.00,8.455
+20071510012,Devanshi Thakur,Shivaji College,9.00,9.55,9.273
+20071510013,Divyaa Gupta,Shivaji College,9.27,9.73,9.500
+20071510014,GUNJAN YADAV,Shivaji College,8.27,9.00,8.636
+20071510015,Himanshu Nath,Shivaji College,7.45,8.45,7.955
+20071510016,ISHANI NARANG,Shivaji College,9.27,9.00,9.136
+20071510017,ISHITA JAIN,Shivaji College,9.00,9.00,9.000
+20071510018,Keshav Khaitan,Shivaji College,8.73,9.55,9.136
+20071510019,Khushi Bhatia,Shivaji College,8.45,9.27,8.864
+20071510020,Kinshuk Taneja,Shivaji College,8.45,9.00,8.727
+20071510021,Laksh Verma,Shivaji College,8.82,9.00,8.909
+20071510022,Mansi,Shivaji College,9.00,9.00,9.000
+20071510023,Meheranshi Vats,Shivaji College,8.18,9.00,8.591
+20071510024,MOHAMMED ARIF SIYAN,Shivaji College,7.91,8.73,8.318
+20071510026,Palak upadhyay,Shivaji College,8.73,9.00,8.864
+20071510027,PARTH JAIN,Shivaji College,9.27,10.00,9.636
+20071510028,Priyal Aggarwal,Shivaji College,8.45,9.00,8.727
+20071510029,Priyansha Chaudhary,Shivaji College,7.91,9.00,8.455
+20071510030,Raghu Raj,Shivaji College,8.18,9.00,8.591
+20071510031,Rahul,Shivaji College,8.18,9.00,8.591
+20071510032,RASHI GUPTA,Shivaji College,8.45,9.00,8.727
+20071510033,rashi kaushik,Shivaji College,8.45,9.27,8.864
+20071510035,Sahil,Shivaji College,6.82,8.00,7.409
+20071510036,SALONI AGARWAL,Shivaji College,9.18,10.00,9.591
+20071510037,SAMEER JAISWAL,Shivaji College,8.27,9.00,8.636
+20071510038,Shaily Sengar,Shivaji College,9.55,10.00,9.773
+20071510039,Shreya Maheshwari,Shivaji College,8.73,9.27,9.000
+20071510040,Shriya Vohra,Shivaji College,7.18,8.00,7.591
+20071510041,Shubh arora,Shivaji College,8.45,9.00,8.727
+20071510042,Somya Tomar,Shivaji College,8.73,9.00,8.864
+20071510043,SRISHTI TALWAR,Shivaji College,9.27,9.00,9.136
+20071510044,Srishty jindal,Shivaji College,8.64,9.00,8.818
+20071510045,Tanisha Goyal,Shivaji College,8.45,9.00,8.727
+20071510046,Tenzin Youden,Shivaji College,7.91,9.00,8.455
+20071510047,Tushar Sethi,Shivaji College,9.00,9.00,9.000
+20071510048,Vaidant Jain,Shivaji College,8.18,9.00,8.591
+20071510049,VANSHITA BAJAJ,Shivaji College,8.45,9.00,8.727
+20071510050,Vasu Bansal,Shivaji College,8.82,9.00,8.909
+20071510051,Vineet Kumar,Shivaji College,7.91,8.73,8.318
+20071510052,Divyanshi Pathak,Shivaji College,8.27,9.00,8.636
+20071510053,Mahi Gupta,Shivaji College,9.27,7.91,8.591

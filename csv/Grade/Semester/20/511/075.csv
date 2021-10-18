@@ -1,44 +1,44 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20075511001,Aditi Garg,Shyama Prasad Mukherji College for Women,7.91,7.909
-20075511002,Anshika,Shyama Prasad Mukherji College for Women,7.18,7.182
-20075511003,Anshika Jain,Shyama Prasad Mukherji College for Women,7.64,7.636
-20075511004,Anshu,Shyama Prasad Mukherji College for Women,7.73,7.727
-20075511006,Bazillah Jahangir,Shyama Prasad Mukherji College for Women,0.00,0.000
-20075511007,Chanchal,Shyama Prasad Mukherji College for Women,7.45,7.455
-20075511008,Dimple,Shyama Prasad Mukherji College for Women,6.73,6.727
-20075511009,Eeya Yadav,Shyama Prasad Mukherji College for Women,7.55,7.545
-20075511010,Fatima ansari,Shyama Prasad Mukherji College for Women,7.18,7.182
-20075511011,GIRIKA SHARMA,Shyama Prasad Mukherji College for Women,7.00,7.000
-20075511012,HARSHA SHARMA,Shyama Prasad Mukherji College for Women,7.73,7.727
-20075511013,HEMA,Shyama Prasad Mukherji College for Women,6.73,6.727
-20075511014,Isha Sharma,Shyama Prasad Mukherji College for Women,7.18,7.182
-20075511015,KAJAL KUMARI YADAV,Shyama Prasad Mukherji College for Women,7.09,7.091
-20075511016,KANIKA,Shyama Prasad Mukherji College for Women,7.18,7.182
-20075511017,Kavita,Shyama Prasad Mukherji College for Women,7.18,7.182
-20075511018,Kavita kushwaha,Shyama Prasad Mukherji College for Women,6.09,6.091
-20075511020,Kushal,Shyama Prasad Mukherji College for Women,5.82,5.818
-20075511021,Mahima,Shyama Prasad Mukherji College for Women,6.73,6.727
-20075511022,Mehak chhabra,Shyama Prasad Mukherji College for Women,6.91,6.909
-20075511023,Mehak Sharma,Shyama Prasad Mukherji College for Women,7.18,7.182
-20075511024,Nidhi,Shyama Prasad Mukherji College for Women,6.91,6.909
-20075511025,NIKITA GUPTA,Shyama Prasad Mukherji College for Women,6.64,6.636
-20075511026,Pallavi,Shyama Prasad Mukherji College for Women,6.64,6.636
-20075511027,Princi Rai,Shyama Prasad Mukherji College for Women,6.73,6.727
-20075511028,Puhup Kumari,Shyama Prasad Mukherji College for Women,7.18,7.182
-20075511029,Purnima,Shyama Prasad Mukherji College for Women,7.18,7.182
-20075511030,Ratn Priya,Shyama Prasad Mukherji College for Women,6.82,6.818
-20075511031,Sakshi Tripathi,Shyama Prasad Mukherji College for Women,6.91,6.909
-20075511032,Sameeksha Kumar laswai,Shyama Prasad Mukherji College for Women,6.91,6.909
-20075511033,Samridhi Khanduja,Shyama Prasad Mukherji College for Women,7.36,7.364
-20075511034,Sandhya,Shyama Prasad Mukherji College for Women,5.09,5.091
-20075511035,Sanjana Ghorui,Shyama Prasad Mukherji College for Women,6.64,6.636
-20075511036,SHEFALI,Shyama Prasad Mukherji College for Women,7.18,7.182
-20075511037,shruti,Shyama Prasad Mukherji College for Women,7.18,7.182
-20075511038,Shruti jha,Shyama Prasad Mukherji College for Women,6.91,6.909
-20075511039,SIMRAN KHARI,Shyama Prasad Mukherji College for Women,6.45,6.455
-20075511040,SUMATI CHAWLA,Shyama Prasad Mukherji College for Women,7.45,7.455
-20075511041,Tashi Palmo,Shyama Prasad Mukherji College for Women,6.27,6.273
-20075511042,Twinkle,Shyama Prasad Mukherji College for Women,6.73,6.727
-20075511043,VAISHALI,Shyama Prasad Mukherji College for Women,7.00,7.000
-20075511044,Yashita Madan,Shyama Prasad Mukherji College for Women,7.18,7.182
-20075511045,Salony Priya,Shyama Prasad Mukherji College for Women,5.91,5.909
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20075511001,Aditi Garg,Shyama Prasad Mukherji College for Women,7.91,8.00,7.955
+20075511002,Anshika,Shyama Prasad Mukherji College for Women,7.18,7.00,7.091
+20075511003,Anshika Jain,Shyama Prasad Mukherji College for Women,7.64,7.00,7.318
+20075511004,Anshu,Shyama Prasad Mukherji College for Women,7.73,7.27,7.500
+20075511005,ANUSHKA ANIRUDHA KUMAR,Shyama Prasad Mukherji College for Women,6.45,7.00,6.727
+20075511007,Chanchal,Shyama Prasad Mukherji College for Women,7.45,7.27,7.364
+20075511008,Dimple,Shyama Prasad Mukherji College for Women,6.73,7.27,7.000
+20075511009,Eeya Yadav,Shyama Prasad Mukherji College for Women,7.55,7.55,7.545
+20075511010,Fatima ansari,Shyama Prasad Mukherji College for Women,7.18,7.00,7.091
+20075511011,GIRIKA SHARMA,Shyama Prasad Mukherji College for Women,7.00,7.55,7.273
+20075511012,HARSHA SHARMA,Shyama Prasad Mukherji College for Women,7.73,8.27,8.000
+20075511013,HEMA,Shyama Prasad Mukherji College for Women,6.73,7.27,7.000
+20075511014,Isha Sharma,Shyama Prasad Mukherji College for Women,7.18,7.27,7.227
+20075511015,KAJAL KUMARI YADAV,Shyama Prasad Mukherji College for Women,7.09,7.27,7.182
+20075511016,KANIKA,Shyama Prasad Mukherji College for Women,7.18,7.27,7.227
+20075511017,Kavita,Shyama Prasad Mukherji College for Women,7.18,7.27,7.227
+20075511018,Kavita kushwaha,Shyama Prasad Mukherji College for Women,6.09,5.45,5.773
+20075511019,Khushi Sharma,Shyama Prasad Mukherji College for Women,6.64,7.45,7.045
+20075511021,Mahima,Shyama Prasad Mukherji College for Women,6.73,7.45,7.091
+20075511022,Mehak chhabra,Shyama Prasad Mukherji College for Women,6.91,7.27,7.091
+20075511023,Mehak Sharma,Shyama Prasad Mukherji College for Women,7.18,7.00,7.091
+20075511024,Nidhi,Shyama Prasad Mukherji College for Women,6.91,7.00,6.955
+20075511025,NIKITA GUPTA,Shyama Prasad Mukherji College for Women,6.64,7.00,6.818
+20075511026,Pallavi,Shyama Prasad Mukherji College for Women,6.64,6.55,6.591
+20075511027,Princi Rai,Shyama Prasad Mukherji College for Women,6.73,7.00,6.864
+20075511028,Puhup Kumari,Shyama Prasad Mukherji College for Women,7.18,8.27,7.727
+20075511029,Purnima,Shyama Prasad Mukherji College for Women,7.18,7.00,7.091
+20075511030,Ratn Priya,Shyama Prasad Mukherji College for Women,6.82,7.00,6.909
+20075511031,Sakshi Tripathi,Shyama Prasad Mukherji College for Women,6.91,7.00,6.955
+20075511032,Sameeksha Kumar laswai,Shyama Prasad Mukherji College for Women,6.91,7.00,6.955
+20075511033,Samridhi Khanduja,Shyama Prasad Mukherji College for Women,7.36,8.55,7.955
+20075511034,Sandhya,Shyama Prasad Mukherji College for Women,5.09,6.55,5.818
+20075511035,Sanjana Ghorui,Shyama Prasad Mukherji College for Women,6.64,7.00,6.818
+20075511036,SHEFALI,Shyama Prasad Mukherji College for Women,7.18,7.00,7.091
+20075511037,shruti,Shyama Prasad Mukherji College for Women,7.18,8.00,7.591
+20075511038,Shruti jha,Shyama Prasad Mukherji College for Women,6.91,7.00,6.955
+20075511039,SIMRAN KHARI,Shyama Prasad Mukherji College for Women,6.45,6.73,6.591
+20075511040,SUMATI CHAWLA,Shyama Prasad Mukherji College for Women,7.45,7.27,7.364
+20075511041,Tashi Palmo,Shyama Prasad Mukherji College for Women,6.27,6.55,6.409
+20075511042,Twinkle,Shyama Prasad Mukherji College for Women,6.73,7.00,6.864
+20075511043,VAISHALI,Shyama Prasad Mukherji College for Women,7.00,7.27,7.136
+20075511044,Yashita Madan,Shyama Prasad Mukherji College for Women,7.18,8.00,7.591
+20075511045,Salony Priya,Shyama Prasad Mukherji College for Women,5.91,7.00,6.455

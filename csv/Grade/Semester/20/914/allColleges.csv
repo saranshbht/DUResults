@@ -1,47 +1,47 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20312914001,Abhishek Singh,Cluster Innovation Centre (C.I.C.),7.09,7.091
-20312914002,Aditi Shah Kunjam,Cluster Innovation Centre (C.I.C.),7.91,7.909
-20312914003,ADITYA BHUSHAN,Cluster Innovation Centre (C.I.C.),7.45,7.455
-20312914004,AHAMMED RIZWAN U,Cluster Innovation Centre (C.I.C.),7.09,7.091
-20312914005,Akash Anand,Cluster Innovation Centre (C.I.C.),7.91,7.909
-20312914006,Akriti,Cluster Innovation Centre (C.I.C.),7.18,7.182
-20312914007,Anit kumar,Cluster Innovation Centre (C.I.C.),7.00,7.000
-20312914009,Atul Shukla,Cluster Innovation Centre (C.I.C.),7.09,7.091
-20312914010,Chhavi Julka,Cluster Innovation Centre (C.I.C.),6.27,6.273
-20312914011,DHARMENDRE YADAV,Cluster Innovation Centre (C.I.C.),5.55,5.545
-20312914012,Divij Kumar,Cluster Innovation Centre (C.I.C.),6.82,6.818
-20312914013,Gautam,Cluster Innovation Centre (C.I.C.),7.09,7.091
-20312914014,Himanshu,Cluster Innovation Centre (C.I.C.),6.36,6.364
-20312914015,Kailash Agarwal,Cluster Innovation Centre (C.I.C.),7.00,7.000
-20312914016,Kumar Saurabh,Cluster Innovation Centre (C.I.C.),6.82,6.818
-20312914017,Lakshay Solanki,Cluster Innovation Centre (C.I.C.),7.36,7.364
-20312914018,MANISHEKHAR PASWAN,Cluster Innovation Centre (C.I.C.),6.36,6.364
-20312914020,NIVEDITA KUMARI,Cluster Innovation Centre (C.I.C.),8.82,8.818
-20312914021,Prabhat Kumar,Cluster Innovation Centre (C.I.C.),0.00,0.000
-20312914022,Prabhat Kumar,Cluster Innovation Centre (C.I.C.),7.27,7.273
-20312914023,Prince Kumar Tiwary,Cluster Innovation Centre (C.I.C.),5.73,5.727
-20312914024,PRIYANSHU GUPTA,Cluster Innovation Centre (C.I.C.),7.00,7.000
-20312914025,RISHAV KUMAR,Cluster Innovation Centre (C.I.C.),0.00,0.000
-20312914026,RISHIRAJ ANAND,Cluster Innovation Centre (C.I.C.),6.45,6.455
-20312914027,Robin Chandra,Cluster Innovation Centre (C.I.C.),7.27,7.273
-20312914028,Sajal Shankar,Cluster Innovation Centre (C.I.C.),6.55,6.545
-20312914029,SANJAY KIRTANIYA,Cluster Innovation Centre (C.I.C.),6.82,6.818
-20312914030,SAURABH YADAV,Cluster Innovation Centre (C.I.C.),6.82,6.818
-20312914031,Sayanti Majumdar,Cluster Innovation Centre (C.I.C.),7.09,7.091
-20312914032,Sharad Sonker,Cluster Innovation Centre (C.I.C.),6.18,6.182
-20312914033,Shivam Anand,Cluster Innovation Centre (C.I.C.),5.18,5.182
-20312914034,Shreevardhan kaushik,Cluster Innovation Centre (C.I.C.),6.91,6.909
-20312914036,SIDDHARTHA SHREE KAUSHIK,Cluster Innovation Centre (C.I.C.),7.09,7.091
-20312914037,Sreyash Kumar Singh,Cluster Innovation Centre (C.I.C.),4.36,4.364
-20312914038,Sunil Kumar,Cluster Innovation Centre (C.I.C.),7.36,7.364
-20312914039,Suraj Kumar,Cluster Innovation Centre (C.I.C.),8.27,8.273
-20312914040,Suraj yadav,Cluster Innovation Centre (C.I.C.),4.36,4.364
-20312914041,Suyash Jit,Cluster Innovation Centre (C.I.C.),7.27,7.273
-20312914042,Tejas Yadav,Cluster Innovation Centre (C.I.C.),3.64,3.636
-20312914043,Tribhuwan Rai,Cluster Innovation Centre (C.I.C.),5.91,5.909
-20312914044,Tshering Chodon Gurung,Cluster Innovation Centre (C.I.C.),6.73,6.727
-20312914045,Vishal Vyas Chaudhary,Cluster Innovation Centre (C.I.C.),7.73,7.727
-20312914046,Vishwajeet Kumar,Cluster Innovation Centre (C.I.C.),6.45,6.455
-20312914047,Vivek Kumar,Cluster Innovation Centre (C.I.C.),7.18,7.182
-20312914048,Yapan Sharon,Cluster Innovation Centre (C.I.C.),4.64,4.636
-20312914049,Zaara Mehr Ali,Cluster Innovation Centre (C.I.C.),9.00,9.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20312914001,Abhishek Singh,Cluster Innovation Centre (C.I.C.),7.09,4.64,5.864
+20312914002,Aditi Shah Kunjam,Cluster Innovation Centre (C.I.C.),7.91,4.00,5.955
+20312914003,ADITYA BHUSHAN,Cluster Innovation Centre (C.I.C.),7.45,4.91,6.182
+20312914004,AHAMMED RIZWAN U,Cluster Innovation Centre (C.I.C.),7.09,8.00,7.545
+20312914005,Akash Anand,Cluster Innovation Centre (C.I.C.),7.91,5.82,6.864
+20312914006,Akriti,Cluster Innovation Centre (C.I.C.),7.18,5.09,6.136
+20312914007,Anit kumar,Cluster Innovation Centre (C.I.C.),7.00,2.91,4.955
+20312914008,Anshu,Cluster Innovation Centre (C.I.C.),6.55,3.55,5.045
+20312914009,Atul Shukla,Cluster Innovation Centre (C.I.C.),7.09,4.64,5.864
+20312914010,Chhavi Julka,Cluster Innovation Centre (C.I.C.),6.27,3.55,4.909
+20312914012,Divij Kumar,Cluster Innovation Centre (C.I.C.),6.82,4.64,5.727
+20312914013,Gautam,Cluster Innovation Centre (C.I.C.),7.09,8.18,7.636
+20312914014,Himanshu,Cluster Innovation Centre (C.I.C.),6.36,8.00,7.182
+20312914015,Kailash Agarwal,Cluster Innovation Centre (C.I.C.),7.00,4.64,5.818
+20312914016,Kumar Saurabh,Cluster Innovation Centre (C.I.C.),6.82,4.64,5.727
+20312914017,Lakshay Solanki,Cluster Innovation Centre (C.I.C.),7.36,4.64,6.000
+20312914018,MANISHEKHAR PASWAN,Cluster Innovation Centre (C.I.C.),6.36,4.64,5.500
+20312914019,Nitin Tushir,Cluster Innovation Centre (C.I.C.),6.18,4.64,5.409
+20312914020,NIVEDITA KUMARI,Cluster Innovation Centre (C.I.C.),8.82,5.82,7.318
+20312914022,Prabhat Kumar,Cluster Innovation Centre (C.I.C.),7.27,5.09,6.182
+20312914023,Prince Kumar Tiwary,Cluster Innovation Centre (C.I.C.),6.82,5.09,5.955
+20312914024,PRIYANSHU GUPTA,Cluster Innovation Centre (C.I.C.),7.00,8.45,7.727
+20312914026,RISHIRAJ ANAND,Cluster Innovation Centre (C.I.C.),6.45,4.82,5.636
+20312914027,Robin Chandra,Cluster Innovation Centre (C.I.C.),7.27,8.55,7.909
+20312914028,Sajal Shankar,Cluster Innovation Centre (C.I.C.),6.55,4.64,5.591
+20312914029,SANJAY KIRTANIYA,Cluster Innovation Centre (C.I.C.),6.82,8.00,7.409
+20312914030,SAURABH YADAV,Cluster Innovation Centre (C.I.C.),6.82,4.64,5.727
+20312914031,Sayanti Majumdar,Cluster Innovation Centre (C.I.C.),7.09,5.64,6.364
+20312914032,Sharad Sonker,Cluster Innovation Centre (C.I.C.),6.18,4.82,5.500
+20312914034,Shreevardhan kaushik,Cluster Innovation Centre (C.I.C.),6.91,8.18,7.545
+20312914035,SHUBHASHISH RANJAN,Cluster Innovation Centre (C.I.C.),7.18,3.55,5.364
+20312914036,SIDDHARTHA SHREE KAUSHIK,Cluster Innovation Centre (C.I.C.),7.09,8.18,7.636
+20312914037,Sreyash Kumar Singh,Cluster Innovation Centre (C.I.C.),4.36,4.82,4.591
+20312914038,Sunil Kumar,Cluster Innovation Centre (C.I.C.),7.36,8.45,7.909
+20312914039,Suraj Kumar,Cluster Innovation Centre (C.I.C.),8.27,5.64,6.955
+20312914040,Suraj yadav,Cluster Innovation Centre (C.I.C.),6.00,4.64,5.318
+20312914041,Suyash Jit,Cluster Innovation Centre (C.I.C.),7.27,5.09,6.182
+20312914042,Tejas Yadav,Cluster Innovation Centre (C.I.C.),3.64,2.36,3.000
+20312914043,Tribhuwan Rai,Cluster Innovation Centre (C.I.C.),5.91,7.73,6.818
+20312914044,Tshering Chodon Gurung,Cluster Innovation Centre (C.I.C.),6.73,4.64,5.682
+20312914045,Vishal Vyas Chaudhary,Cluster Innovation Centre (C.I.C.),7.73,5.82,6.773
+20312914046,Vishwajeet Kumar,Cluster Innovation Centre (C.I.C.),6.45,4.64,5.545
+20312914047,Vivek Kumar,Cluster Innovation Centre (C.I.C.),7.18,4.00,5.591
+20312914048,Yapan Sharon,Cluster Innovation Centre (C.I.C.),4.64,2.18,3.409
+20312914049,Zaara Mehr Ali,Cluster Innovation Centre (C.I.C.),9.00,6.09,7.545
+20312914050,ANVESHA TEOTIA,Cluster Innovation Centre (C.I.C.),6.09,4.64,5.364

@@ -1,24 +1,23 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20020596001,Ambneesh,Ramanujan College,7.55,7.545
-20020596002,Anusha,Ramanujan College,7.18,7.182
-20020596003,Dennis Baby,Ramanujan College,8.27,8.273
-20020596004,Harshita Yaduvanshi,Ramanujan College,8.00,8.000
-20020596005,Jashanjeet Singh,Ramanujan College,8.82,8.818
-20020596006,MANI DEEP SHARMA,Ramanujan College,7.55,7.545
-20020596007,MOHAMMAD IZHAR ALAM,Ramanujan College,8.36,8.364
-20020596008,Nandini Arora,Ramanujan College,9.27,9.273
-20020596009,Nandini Deb Singha,Ramanujan College,0.00,0.000
-20020596011,Neha Bhandari,Ramanujan College,8.55,8.545
-20020596012,Nishant Chaudhary,Ramanujan College,7.55,7.545
-20020596013,Pavit Pahwa,Ramanujan College,8.55,8.545
-20020596014,Pranay Mathur,Ramanujan College,7.55,7.545
-20020596015,Pranit,Ramanujan College,8.09,8.091
-20020596016,PRASHANT,Ramanujan College,7.55,7.545
-20020596018,Ritika Bhatia,Ramanujan College,8.27,8.273
-20020596019,Riya Sahni,Ramanujan College,3.91,3.909
-20020596020,Samanshi Rohilla,Ramanujan College,7.55,7.545
-20020596021,Sejal Rani,Ramanujan College,8.00,8.000
-20020596022,Shikha mishra,Ramanujan College,7.55,7.545
-20020596023,Yash Rastogi,Ramanujan College,8.00,8.000
-20020596024,Zarka malik,Ramanujan College,8.55,8.545
-20020596025,PRATHAM CHHABRA,Ramanujan College,1.09,1.091
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20020596001,Ambneesh,Ramanujan College,7.55,7.18,7.364
+20020596002,Anusha,Ramanujan College,7.18,7.18,7.182
+20020596003,Dennis Baby,Ramanujan College,8.27,9.00,8.636
+20020596004,Harshita Yaduvanshi,Ramanujan College,8.00,7.45,7.727
+20020596005,Jashanjeet Singh,Ramanujan College,8.82,9.00,8.909
+20020596006,MANI DEEP SHARMA,Ramanujan College,7.55,7.18,7.364
+20020596007,MOHAMMAD IZHAR ALAM,Ramanujan College,8.36,7.73,8.045
+20020596008,Nandini Arora,Ramanujan College,9.27,9.00,9.136
+20020596011,Neha Bhandari,Ramanujan College,8.55,8.45,8.500
+20020596012,Nishant Chaudhary,Ramanujan College,7.55,7.73,7.636
+20020596013,Pavit Pahwa,Ramanujan College,8.55,8.73,8.636
+20020596014,Pranay Mathur,Ramanujan College,7.55,8.00,7.773
+20020596015,Pranit,Ramanujan College,8.09,8.18,8.136
+20020596016,PRASHANT,Ramanujan College,7.55,7.73,7.636
+20020596017,Rahma Saroor,Ramanujan College,8.55,8.73,8.636
+20020596018,Ritika Bhatia,Ramanujan College,8.27,9.00,8.636
+20020596019,Riya Sahni,Ramanujan College,8.00,7.73,7.864
+20020596020,Samanshi Rohilla,Ramanujan College,7.55,8.18,7.864
+20020596021,Sejal Rani,Ramanujan College,8.00,8.45,8.227
+20020596022,Shikha mishra,Ramanujan College,7.55,7.18,7.364
+20020596023,Yash Rastogi,Ramanujan College,8.00,9.00,8.500
+20020596024,Zarka malik,Ramanujan College,8.55,8.18,8.364

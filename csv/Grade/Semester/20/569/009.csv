@@ -1,30 +1,32 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20009569001,Abhishek Kumar,Bhaskaracharya College of Applied Sciences,7.73,7.727
-20009569002,Akash prasad,Bhaskaracharya College of Applied Sciences,7.91,7.909
-20009569003,Arif Ilyas,Bhaskaracharya College of Applied Sciences,8.18,8.182
-20009569004,Ashok Raj,Bhaskaracharya College of Applied Sciences,8.18,8.182
-20009569005,Avinash sharma,Bhaskaracharya College of Applied Sciences,7.64,7.636
-20009569006,AYUSHI UPADHYAY,Bhaskaracharya College of Applied Sciences,7.73,7.727
-20009569007,DEEPAK LAKRA,Bhaskaracharya College of Applied Sciences,9.00,9.000
-20009569008,Dishu,Bhaskaracharya College of Applied Sciences,9.55,9.545
-20009569009,Gurujit Mandal,Bhaskaracharya College of Applied Sciences,7.18,7.182
-20009569011,Jyoti Kushwaha,Bhaskaracharya College of Applied Sciences,8.18,8.182
-20009569012,Kaustav Biswas,Bhaskaracharya College of Applied Sciences,9.00,9.000
-20009569013,KHUSHBOO,Bhaskaracharya College of Applied Sciences,9.00,9.000
-20009569014,Kirti kumari,Bhaskaracharya College of Applied Sciences,7.45,7.455
-20009569015,Krishna sah,Bhaskaracharya College of Applied Sciences,7.91,7.909
-20009569016,MADHUSMITA MISHRA,Bhaskaracharya College of Applied Sciences,9.00,9.000
-20009569017,MAYANK VERMA,Bhaskaracharya College of Applied Sciences,8.73,8.727
-20009569019,Pallavi jha,Bhaskaracharya College of Applied Sciences,7.73,7.727
-20009569020,PRADUMN,Bhaskaracharya College of Applied Sciences,9.45,9.455
-20009569021,Rahul Singh,Bhaskaracharya College of Applied Sciences,9.45,9.455
-20009569022,rohit raushan,Bhaskaracharya College of Applied Sciences,6.09,6.091
-20009569023,ROUNAK JAISWAL,Bhaskaracharya College of Applied Sciences,6.91,6.909
-20009569024,Saksham Shree,Bhaskaracharya College of Applied Sciences,8.91,8.909
-20009569025,SHASHANK PRASAD,Bhaskaracharya College of Applied Sciences,8.73,8.727
-20009569026,Shashikant,Bhaskaracharya College of Applied Sciences,4.36,4.364
-20009569027,Shibshankar Laha,Bhaskaracharya College of Applied Sciences,6.82,6.818
-20009569028,Stanzin Dolma,Bhaskaracharya College of Applied Sciences,7.45,7.455
-20009569029,SUMIT SINHA,Bhaskaracharya College of Applied Sciences,7.18,7.182
-20009569031,Varsha,Bhaskaracharya College of Applied Sciences,7.91,7.909
-20009569032,Virendra Mishra,Bhaskaracharya College of Applied Sciences,7.91,7.909
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20009569001,Abhishek Kumar,Bhaskaracharya College of Applied Sciences,7.73,8.45,8.091
+20009569002,Akash prasad,Bhaskaracharya College of Applied Sciences,7.91,9.00,8.455
+20009569003,Arif Ilyas,Bhaskaracharya College of Applied Sciences,8.18,9.00,8.591
+20009569004,Ashok Raj,Bhaskaracharya College of Applied Sciences,8.18,8.73,8.455
+20009569005,Avinash sharma,Bhaskaracharya College of Applied Sciences,7.64,7.55,7.591
+20009569006,AYUSHI UPADHYAY,Bhaskaracharya College of Applied Sciences,7.73,6.64,7.182
+20009569007,DEEPAK LAKRA,Bhaskaracharya College of Applied Sciences,9.00,9.00,9.000
+20009569008,Dishu,Bhaskaracharya College of Applied Sciences,9.55,9.73,9.636
+20009569009,Gurujit Mandal,Bhaskaracharya College of Applied Sciences,7.18,7.27,7.227
+20009569010,HARIPRIYA,Bhaskaracharya College of Applied Sciences,9.00,10.00,9.500
+20009569011,Jyoti Kushwaha,Bhaskaracharya College of Applied Sciences,8.18,9.00,8.591
+20009569012,Kaustav Biswas,Bhaskaracharya College of Applied Sciences,9.00,9.00,9.000
+20009569013,KHUSHBOO,Bhaskaracharya College of Applied Sciences,9.00,9.27,9.136
+20009569014,Kirti kumari,Bhaskaracharya College of Applied Sciences,7.45,8.55,8.000
+20009569015,Krishna sah,Bhaskaracharya College of Applied Sciences,7.91,9.00,8.455
+20009569016,MADHUSMITA MISHRA,Bhaskaracharya College of Applied Sciences,9.00,8.45,8.727
+20009569018,NITIN V,Bhaskaracharya College of Applied Sciences,9.73,10.00,9.864
+20009569019,Pallavi jha,Bhaskaracharya College of Applied Sciences,7.73,8.55,8.136
+20009569020,PRADUMN,Bhaskaracharya College of Applied Sciences,9.45,10.00,9.727
+20009569021,Rahul Singh,Bhaskaracharya College of Applied Sciences,9.45,9.73,9.591
+20009569022,rohit raushan,Bhaskaracharya College of Applied Sciences,6.09,4.45,5.273
+20009569023,ROUNAK JAISWAL,Bhaskaracharya College of Applied Sciences,6.91,8.73,7.818
+20009569024,Saksham Shree,Bhaskaracharya College of Applied Sciences,8.91,9.73,9.318
+20009569025,SHASHANK PRASAD,Bhaskaracharya College of Applied Sciences,8.73,9.00,8.864
+20009569026,Shashikant,Bhaskaracharya College of Applied Sciences,4.36,6.73,5.545
+20009569027,Shibshankar Laha,Bhaskaracharya College of Applied Sciences,8.45,9.27,8.864
+20009569028,Stanzin Dolma,Bhaskaracharya College of Applied Sciences,7.45,7.73,7.591
+20009569029,SUMIT SINHA,Bhaskaracharya College of Applied Sciences,7.18,0.91,4.045
+20009569030,Tanmay Anand,Bhaskaracharya College of Applied Sciences,8.73,9.73,9.227
+20009569031,Varsha,Bhaskaracharya College of Applied Sciences,7.91,8.73,8.318
+20009569032,Virendra Mishra,Bhaskaracharya College of Applied Sciences,7.91,8.27,8.091

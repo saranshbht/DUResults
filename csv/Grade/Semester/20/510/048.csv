@@ -1,43 +1,40 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20048510001,ADARSH KUMAR,Moti Lal Nehru College (Day),7.82,7.818
-20048510002,AKHILESH RANJAN JHA,Moti Lal Nehru College (Day),8.45,8.455
-20048510003,ANANYA ANEJA,Moti Lal Nehru College (Day),8.36,8.364
-20048510004,Anuradha Maurya,Moti Lal Nehru College (Day),8.45,8.455
-20048510005,Archit Rungta,Moti Lal Nehru College (Day),8.45,8.455
-20048510006,AYUSH CHAUDHARY,Moti Lal Nehru College (Day),7.09,7.091
-20048510007,Bhavaya kapil,Moti Lal Nehru College (Day),8.09,8.091
-20048510008,Deepanshu Madan,Moti Lal Nehru College (Day),9.82,9.818
-20048510009,Dipanshu Kain,Moti Lal Nehru College (Day),8.82,8.818
-20048510010,Divyanshu Negi,Moti Lal Nehru College (Day),7.45,7.455
-20048510011,Dushyant Rana,Moti Lal Nehru College (Day),8.00,8.000
-20048510012,Harsh yadav,Moti Lal Nehru College (Day),7.36,7.364
-20048510013,Himanshu soni,Moti Lal Nehru College (Day),8.55,8.545
-20048510014,Kritika Mann,Moti Lal Nehru College (Day),7.18,7.182
-20048510015,Kumar Ujjwal,Moti Lal Nehru College (Day),8.55,8.545
-20048510016,MANAN AGGARWAL,Moti Lal Nehru College (Day),8.82,8.818
-20048510017,Nadeem Ahmed Choudhary,Moti Lal Nehru College (Day),9.09,9.091
-20048510018,NAZAR AHSAN,Moti Lal Nehru College (Day),7.36,7.364
-20048510019,Ojasvi sood,Moti Lal Nehru College (Day),7.09,7.091
-20048510020,PRADYUMNA IYER,Moti Lal Nehru College (Day),8.36,8.364
-20048510021,Priyanshu fuloria,Moti Lal Nehru College (Day),9.27,9.273
-20048510022,Priyanshu Sharma,Moti Lal Nehru College (Day),8.64,8.636
-20048510023,Priyanshu tripathi,Moti Lal Nehru College (Day),8.09,8.091
-20048510024,Priyesh Kumar,Moti Lal Nehru College (Day),0.00,0.000
-20048510025,R Sri Rusat,Moti Lal Nehru College (Day),7.91,7.909
-20048510026,Rahul Mundhra,Moti Lal Nehru College (Day),9.55,9.545
-20048510027,Ravi Singh,Moti Lal Nehru College (Day),8.55,8.545
-20048510028,Shivam Sharma,Moti Lal Nehru College (Day),6.55,6.545
-20048510029,Somay Handa,Moti Lal Nehru College (Day),8.27,8.273
-20048510030,Sudhanshu Ranjan,Moti Lal Nehru College (Day),8.00,8.000
-20048510031,Talinn Arora,Moti Lal Nehru College (Day),9.55,9.545
-20048510032,VAIBHAV JAIN,Moti Lal Nehru College (Day),8.00,8.000
-20048510033,Vaibhav Tyagi,Moti Lal Nehru College (Day),7.45,7.455
-20048510034,Yash Singh,Moti Lal Nehru College (Day),8.82,8.818
-20048510035,Piyush yadav,Moti Lal Nehru College (Day),8.64,8.636
-20048510036,Shivanand Jha,Moti Lal Nehru College (Day),7.45,7.455
-20048510037,AKANKSHA AGARWAL,Moti Lal Nehru College (Day),8.18,8.182
-20048510038,Rahul Kumarr,Moti Lal Nehru College (Day),7.64,7.636
-20048510039,Konika,Moti Lal Nehru College (Day),7.00,7.000
-20048510040,RANYA SHARMA,Moti Lal Nehru College (Day),8.27,8.273
-20048510042,ARYAMAN RAWAT,Moti Lal Nehru College (Day),8.36,8.364
-20048510043,VEDANT,Moti Lal Nehru College (Day),8.18,8.182
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20048510001,ADARSH KUMAR,Moti Lal Nehru College (Day),7.82,8.45,8.136
+20048510002,AKHILESH RANJAN JHA,Moti Lal Nehru College (Day),8.45,9.55,9.000
+20048510003,ANANYA ANEJA,Moti Lal Nehru College (Day),8.36,8.73,8.545
+20048510004,Anuradha Maurya,Moti Lal Nehru College (Day),8.45,9.00,8.727
+20048510005,Archit Rungta,Moti Lal Nehru College (Day),8.45,8.73,8.591
+20048510006,AYUSH CHAUDHARY,Moti Lal Nehru College (Day),7.09,8.00,7.545
+20048510007,Bhavaya kapil,Moti Lal Nehru College (Day),8.09,8.00,8.045
+20048510008,Deepanshu Madan,Moti Lal Nehru College (Day),9.82,10.00,9.909
+20048510009,Dipanshu Kain,Moti Lal Nehru College (Day),8.82,9.27,9.045
+20048510010,Divyanshu Negi,Moti Lal Nehru College (Day),7.45,8.27,7.864
+20048510011,Dushyant Rana,Moti Lal Nehru College (Day),8.00,8.73,8.364
+20048510012,Harsh yadav,Moti Lal Nehru College (Day),7.36,8.55,7.955
+20048510013,Himanshu soni,Moti Lal Nehru College (Day),8.55,9.00,8.773
+20048510014,Kritika Mann,Moti Lal Nehru College (Day),7.18,6.45,6.818
+20048510015,Kumar Ujjwal,Moti Lal Nehru College (Day),8.55,9.00,8.773
+20048510016,MANAN AGGARWAL,Moti Lal Nehru College (Day),8.82,8.73,8.773
+20048510018,NAZAR AHSAN,Moti Lal Nehru College (Day),7.36,5.91,6.636
+20048510019,Ojasvi sood,Moti Lal Nehru College (Day),7.09,5.36,6.227
+20048510020,PRADYUMNA IYER,Moti Lal Nehru College (Day),8.36,8.45,8.409
+20048510021,Priyanshu fuloria,Moti Lal Nehru College (Day),9.27,9.27,9.273
+20048510022,Priyanshu Sharma,Moti Lal Nehru College (Day),8.64,9.00,8.818
+20048510023,Priyanshu tripathi,Moti Lal Nehru College (Day),8.09,8.73,8.409
+20048510025,R Sri Rusat,Moti Lal Nehru College (Day),7.91,9.00,8.455
+20048510026,Rahul Mundhra,Moti Lal Nehru College (Day),9.55,10.00,9.773
+20048510027,Ravi Singh,Moti Lal Nehru College (Day),8.55,8.73,8.636
+20048510028,Shivam Sharma,Moti Lal Nehru College (Day),6.55,7.45,7.000
+20048510029,Somay Handa,Moti Lal Nehru College (Day),8.27,8.73,8.500
+20048510030,Sudhanshu Ranjan,Moti Lal Nehru College (Day),8.00,6.64,7.318
+20048510031,Talinn Arora,Moti Lal Nehru College (Day),9.55,9.55,9.545
+20048510032,VAIBHAV JAIN,Moti Lal Nehru College (Day),8.00,8.00,8.000
+20048510034,Yash Singh,Moti Lal Nehru College (Day),8.82,8.45,8.636
+20048510035,Piyush yadav,Moti Lal Nehru College (Day),8.64,8.00,8.318
+20048510036,Shivanand Jha,Moti Lal Nehru College (Day),7.45,8.00,7.727
+20048510037,AKANKSHA AGARWAL,Moti Lal Nehru College (Day),8.18,9.00,8.591
+20048510038,Rahul Kumarr,Moti Lal Nehru College (Day),7.64,8.55,8.091
+20048510039,Konika,Moti Lal Nehru College (Day),7.00,8.27,7.636
+20048510040,RANYA SHARMA,Moti Lal Nehru College (Day),8.27,7.36,7.818
+20048510042,ARYAMAN RAWAT,Moti Lal Nehru College (Day),8.36,9.00,8.682
+20048510043,VEDANT,Moti Lal Nehru College (Day),8.18,8.00,8.091

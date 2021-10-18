@@ -1,185 +1,171 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20053587001,ABHISHEK KUMAR,P.G.D.A.V. College (Day),8.91,8.909
-20053587004,Aadil Ansari,P.G.D.A.V. College (Day),8.91,8.909
-20053587005,ADITIA SHARMA,P.G.D.A.V. College (Day),8.91,8.909
-20053587006,Aditya Khandelwal,P.G.D.A.V. College (Day),8.91,8.909
-20053587007,AKSHAT SUKHIJA,P.G.D.A.V. College (Day),8.64,8.636
-20053587008,ALANKRIT MAURYA,P.G.D.A.V. College (Day),9.36,9.364
-20053587009,ANSHUL KUMAR PRAJAPATI,P.G.D.A.V. College (Day),9.18,9.182
-20053587011,AVINASH JHA,P.G.D.A.V. College (Day),9.36,9.364
-20053587012,BHAVESH CHAUDHARY,P.G.D.A.V. College (Day),8.36,8.364
-20053587013,DEVANSHU MALIK,P.G.D.A.V. College (Day),7.91,7.909
-20053587014,HARSHIT BUDAKOTI,P.G.D.A.V. College (Day),9.09,9.091
-20053587015,HIMANSHU SHARMA,P.G.D.A.V. College (Day),9.64,9.636
-20053587016,Himanshu tiwari,P.G.D.A.V. College (Day),8.64,8.636
-20053587017,MOHIT KUMAR SHARMA,P.G.D.A.V. College (Day),9.18,9.182
-20053587018,NIKITA ADHANA,P.G.D.A.V. College (Day),8.09,8.091
-20053587019,PUNEET PACHORY,P.G.D.A.V. College (Day),7.73,7.727
-20053587020,RAVIKANT,P.G.D.A.V. College (Day),9.18,9.182
-20053587021,RITIK KUMAR,P.G.D.A.V. College (Day),9.18,9.182
-20053587022,SACHIN,P.G.D.A.V. College (Day),8.36,8.364
-20053587023,Srishti Joshi,P.G.D.A.V. College (Day),9.45,9.455
-20053587025,SUBHANSHU RAHANGDALE,P.G.D.A.V. College (Day),9.18,9.182
-20053587026,SUPRIYA,P.G.D.A.V. College (Day),9.09,9.091
-20053587027,UMA KUMARI,P.G.D.A.V. College (Day),5.73,5.727
-20053587028,VINEET,P.G.D.A.V. College (Day),9.36,9.364
-20053587029,VINEETA YADAV,P.G.D.A.V. College (Day),9.09,9.091
-20053587030,VIRAJ BHAMBRI,P.G.D.A.V. College (Day),9.09,9.091
-20053587031,YASH CHHIMWAL,P.G.D.A.V. College (Day),8.27,8.273
-20053587032,YATHARTH AGARWAL,P.G.D.A.V. College (Day),9.36,9.364
-20053587033,ARYAN DEV CHAUHAN,P.G.D.A.V. College (Day),9.36,9.364
-20053587034,JATIN BAJAJ,P.G.D.A.V. College (Day),9.36,9.364
-20053587035,KANIKA BISHT,P.G.D.A.V. College (Day),9.64,9.636
-20053587036,NAVAL KISHOR RAY,P.G.D.A.V. College (Day),9.36,9.364
-20053587037,RAHUL,P.G.D.A.V. College (Day),8.91,8.909
-20053587038,RAHUL SETHI,P.G.D.A.V. College (Day),8.82,8.818
-20053587039,RENUKA MATHE,P.G.D.A.V. College (Day),8.91,8.909
-20053587040,LAKSHAY ARYA,P.G.D.A.V. College (Day),8.91,8.909
-20053587041,PRATHAM NEGI,P.G.D.A.V. College (Day),0.00,0.000
-20053587042,ANSH SINDHWANI,P.G.D.A.V. College (Day),0.00,0.000
-20053587043,HITESH BHANDARI,P.G.D.A.V. College (Day),0.00,0.000
-20053587044,MOHD FAHAD,P.G.D.A.V. College (Day),0.00,0.000
-20053587045,RITIK RAJPUT,P.G.D.A.V. College (Day),0.00,0.000
-20035587001,Abhinav Jain,Keshav Mahavidyalaya,9.45,9.455
-20035587002,ABHISHEK GUPTA,Keshav Mahavidyalaya,9.82,9.818
-20035587003,ABHISHEK KUMAR YADAV,Keshav Mahavidyalaya,9.27,9.273
-20035587004,ADYA GOSWAMI,Keshav Mahavidyalaya,8.82,8.818
-20035587005,Akshita Gupta,Keshav Mahavidyalaya,9.45,9.455
-20035587006,ARYA PODDAR,Keshav Mahavidyalaya,9.00,9.000
-20035587007,Ashish Sahni,Keshav Mahavidyalaya,9.55,9.545
-20035587008,Ayush,Keshav Mahavidyalaya,8.82,8.818
-20035587009,Ayush Goyal,Keshav Mahavidyalaya,9.55,9.545
-20035587010,Ayush Rai,Keshav Mahavidyalaya,9.73,9.727
-20035587011,DEEPANSHU YADAV,Keshav Mahavidyalaya,9.82,9.818
-20035587012,DEVANSHU BHANOT,Keshav Mahavidyalaya,9.27,9.273
-20035587013,DIVYA DEWAN,Keshav Mahavidyalaya,9.00,9.000
-20035587014,DIWAKAR,Keshav Mahavidyalaya,9.55,9.545
-20035587015,Harbeer,Keshav Mahavidyalaya,9.55,9.545
-20035587016,HARDIK JAIN,Keshav Mahavidyalaya,9.73,9.727
-20035587017,HIMANSHU SAINI,Keshav Mahavidyalaya,8.91,8.909
-20035587018,Himanshu Sharma,Keshav Mahavidyalaya,9.55,9.545
-20035587019,Isha Aggarwal,Keshav Mahavidyalaya,9.55,9.545
-20035587020,Ishika Minocha,Keshav Mahavidyalaya,9.55,9.545
-20035587021,Kartik Aggarwal,Keshav Mahavidyalaya,9.00,9.000
-20035587022,Kirti Sharma,Keshav Mahavidyalaya,9.55,9.545
-20035587023,MOH SHOAIB,Keshav Mahavidyalaya,9.27,9.273
-20035587024,Nischay Vij,Keshav Mahavidyalaya,9.73,9.727
-20035587025,Nishant,Keshav Mahavidyalaya,9.45,9.455
-20035587026,NITIN,Keshav Mahavidyalaya,8.73,8.727
-20035587027,Parkhi Jain,Keshav Mahavidyalaya,9.73,9.727
-20035587028,piyush singh,Keshav Mahavidyalaya,9.55,9.545
-20035587029,Prateek yadav,Keshav Mahavidyalaya,9.00,9.000
-20035587030,Preeti Solanki,Keshav Mahavidyalaya,9.00,9.000
-20035587031,Rahul Singh Rawat,Keshav Mahavidyalaya,9.55,9.545
-20035587032,Ram Sharma,Keshav Mahavidyalaya,9.55,9.545
-20035587033,Rishika,Keshav Mahavidyalaya,9.73,9.727
-20035587034,Sachin Kumar,Keshav Mahavidyalaya,8.73,8.727
-20035587035,Sahil,Keshav Mahavidyalaya,9.36,9.364
-20035587036,Sahil kumar,Keshav Mahavidyalaya,9.00,9.000
-20035587037,Samraddh Garg,Keshav Mahavidyalaya,9.45,9.455
-20035587038,Sarthak Arora,Keshav Mahavidyalaya,8.73,8.727
-20035587039,Somesh kajla,Keshav Mahavidyalaya,9.55,9.545
-20035587040,SUSHIL KUMAR,Keshav Mahavidyalaya,8.91,8.909
-20035587041,Tanay Maurya,Keshav Mahavidyalaya,9.82,9.818
-20035587042,VICKY,Keshav Mahavidyalaya,9.00,9.000
-20035587043,WASIM BHATI,Keshav Mahavidyalaya,9.27,9.273
-20035587044,UTKARSH RANA,Keshav Mahavidyalaya,8.18,8.182
-20041587001,ABHIJEET,Maharaja Agrasen College,8.64,8.636
-20041587002,Amit Chauhan,Maharaja Agrasen College,7.64,7.636
-20041587003,Anand Kumar,Maharaja Agrasen College,9.18,9.182
-20041587004,APOORV TRIPATHI,Maharaja Agrasen College,9.18,9.182
-20041587005,Ashwini Kumar,Maharaja Agrasen College,8.55,8.545
-20041587006,Ayush Singh,Maharaja Agrasen College,9.18,9.182
-20041587007,Babu raj soren,Maharaja Agrasen College,8.18,8.182
-20041587008,Bhawna Singh,Maharaja Agrasen College,8.73,8.727
-20041587009,BHUVAN KAPOOR,Maharaja Agrasen College,9.45,9.455
-20041587010,Deepak jangid,Maharaja Agrasen College,8.73,8.727
-20041587011,Deoansh Deo,Maharaja Agrasen College,0.00,0.000
-20041587012,Devesh Pratap Singh Rathore,Maharaja Agrasen College,9.18,9.182
-20041587013,Divyanshu Fulara,Maharaja Agrasen College,9.18,9.182
-20041587014,George Thomas,Maharaja Agrasen College,8.45,8.455
-20041587015,GIRISH KUMAR,Maharaja Agrasen College,8.45,8.455
-20041587016,Harish Kumar,Maharaja Agrasen College,8.18,8.182
-20041587017,Harshvardhan,Maharaja Agrasen College,9.55,9.545
-20041587018,HIMANSHU,Maharaja Agrasen College,8.73,8.727
-20041587019,KARTIK,Maharaja Agrasen College,8.18,8.182
-20041587020,Lakshay,Maharaja Agrasen College,8.73,8.727
-20041587021,Maharaj,Maharaja Agrasen College,8.55,8.545
-20041587022,Manish Kumar Paswan,Maharaja Agrasen College,8.73,8.727
-20041587023,Manish Sattavan,Maharaja Agrasen College,8.73,8.727
-20041587024,Manish yadav,Maharaja Agrasen College,6.00,6.000
-20041587025,Mayank dandriyal,Maharaja Agrasen College,8.91,8.909
-20041587026,Mayank yadav,Maharaja Agrasen College,9.00,9.000
-20041587027,Naman Garg,Maharaja Agrasen College,9.27,9.273
-20041587028,Neha,Maharaja Agrasen College,9.00,9.000
-20041587029,Neha,Maharaja Agrasen College,0.00,0.000
-20041587030,Pinki sevda,Maharaja Agrasen College,9.45,9.455
-20041587031,Piyush Yadav,Maharaja Agrasen College,9.64,9.636
-20041587032,Pragati Pandey,Maharaja Agrasen College,8.36,8.364
-20041587033,PRIKSHIT,Maharaja Agrasen College,9.36,9.364
-20041587034,Priyanka saraswat,Maharaja Agrasen College,8.64,8.636
-20041587035,Rohan Maurya,Maharaja Agrasen College,7.45,7.455
-20041587036,Rupesh Kumar,Maharaja Agrasen College,8.45,8.455
-20041587037,Saurabh yadav,Maharaja Agrasen College,9.27,9.273
-20041587038,Shipra das,Maharaja Agrasen College,9.45,9.455
-20041587039,Shivam,Maharaja Agrasen College,8.73,8.727
-20041587040,Shobhit Dhaundiyal,Maharaja Agrasen College,8.73,8.727
-20041587041,Shrish Kamboj,Maharaja Agrasen College,8.73,8.727
-20041587042,Sidharth Nambiar,Maharaja Agrasen College,8.45,8.455
-20041587043,Simran thakur,Maharaja Agrasen College,9.45,9.455
-20041587044,SONALI JOSHIA,Maharaja Agrasen College,9.45,9.455
-20041587045,Sourabh,Maharaja Agrasen College,9.27,9.273
-20041587046,Sumit,Maharaja Agrasen College,8.18,8.182
-20041587047,Sushil Kumar,Maharaja Agrasen College,9.00,9.000
-20041587048,Tannu singh,Maharaja Agrasen College,9.00,9.000
-20041587049,UJJWAL RAGHUVANSHI,Maharaja Agrasen College,9.45,9.455
-20041587050,Varun rathor,Maharaja Agrasen College,8.45,8.455
-20041587051,Vikash Kumar Singh,Maharaja Agrasen College,7.09,7.091
-20041587052,vineet parashar,Maharaja Agrasen College,9.18,9.182
-20041587053,Vishal Kumar,Maharaja Agrasen College,8.55,8.545
-20041587054,VISHESH SAUNTHWAL,Maharaja Agrasen College,8.82,8.818
-20041587055,Vivek Kumar Bharati,Maharaja Agrasen College,9.00,9.000
-20041587056,Yashika,Maharaja Agrasen College,8.82,8.818
-20041587057,Yashika,Maharaja Agrasen College,9.45,9.455
-20041587058,Yashpal Singh,Maharaja Agrasen College,8.73,8.727
-20041587059,Yesmin Jamatia,Maharaja Agrasen College,8.45,8.455
-20041587060,YOGESH,Maharaja Agrasen College,8.45,8.455
-20041587061,GEORGE THOMAS,Maharaja Agrasen College,0.00,0.000
-20015587001,Abhishek,Deen Dayal Upadhyaya College,8.73,8.727
-20015587002,Abhishek Meena,Deen Dayal Upadhyaya College,8.18,8.182
-20015587003,Ajay Kumar,Deen Dayal Upadhyaya College,9.18,9.182
-20015587004,Ankit Kumar,Deen Dayal Upadhyaya College,9.00,9.000
-20015587005,Ansh,Deen Dayal Upadhyaya College,9.27,9.273
-20015587006,Antra Das,Deen Dayal Upadhyaya College,8.73,8.727
-20015587007,Dibyanshu goswami,Deen Dayal Upadhyaya College,8.45,8.455
-20015587008,DIKSHA YADAV,Deen Dayal Upadhyaya College,8.91,8.909
-20015587009,Disha Pattnaik,Deen Dayal Upadhyaya College,9.27,9.273
-20015587010,Ekta Gandhi,Deen Dayal Upadhyaya College,9.55,9.545
-20015587011,FARHAAN,Deen Dayal Upadhyaya College,9.45,9.455
-20015587012,Ghanshyam Yadav,Deen Dayal Upadhyaya College,8.73,8.727
-20015587014,Hamza Moini,Deen Dayal Upadhyaya College,9.09,9.091
-20015587015,Harsh kansal,Deen Dayal Upadhyaya College,9.27,9.273
-20015587016,HARSH VERMA,Deen Dayal Upadhyaya College,9.27,9.273
-20015587017,JITENDER,Deen Dayal Upadhyaya College,8.45,8.455
-20015587018,Mohit kumar mishra,Deen Dayal Upadhyaya College,9.27,9.273
-20015587019,Neha,Deen Dayal Upadhyaya College,9.09,9.091
-20015587020,NIKHIL KUMAR,Deen Dayal Upadhyaya College,8.64,8.636
-20015587021,Pratiksha,Deen Dayal Upadhyaya College,9.00,9.000
-20015587022,Raghav Sahi,Deen Dayal Upadhyaya College,9.00,9.000
-20015587023,Raja Gola,Deen Dayal Upadhyaya College,8.82,8.818
-20015587024,Rajkumar Yadav,Deen Dayal Upadhyaya College,8.09,8.091
-20015587025,RISHIKESH BARELA,Deen Dayal Upadhyaya College,8.64,8.636
-20015587026,Riva Yadav,Deen Dayal Upadhyaya College,9.27,9.273
-20015587027,RUDRA PRATAP SINGH,Deen Dayal Upadhyaya College,8.73,8.727
-20015587028,Sahil Luthra,Deen Dayal Upadhyaya College,9.55,9.545
-20015587029,SHASHANK KUMAR PRAJAPATI,Deen Dayal Upadhyaya College,9.27,9.273
-20015587031,Shruti Varshneya,Deen Dayal Upadhyaya College,9.27,9.273
-20015587032,sonu,Deen Dayal Upadhyaya College,8.27,8.273
-20015587033,Tanmay Agrawal,Deen Dayal Upadhyaya College,9.18,9.182
-20015587034,Yatharth manroy,Deen Dayal Upadhyaya College,9.45,9.455
-20015587035,Gautam,Deen Dayal Upadhyaya College,8.64,8.636
-20015587036,Shreya Srivastava,Deen Dayal Upadhyaya College,9.45,9.455
-20015587037,Tejashwani Dubey,Deen Dayal Upadhyaya College,9.18,9.182
-20015587038,Shivani Rawat,Deen Dayal Upadhyaya College,9.18,9.182
-20015587039,PRASHANT,Deen Dayal Upadhyaya College,9.00,9.000
-20015587040,Utkarsh Pratap Singh,Deen Dayal Upadhyaya College,6.09,6.091
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20053587001,ABHISHEK KUMAR,P.G.D.A.V. College (Day),8.91,9.00,8.955
+20053587004,Aadil Ansari,P.G.D.A.V. College (Day),8.91,8.82,8.864
+20053587005,ADITIA SHARMA,P.G.D.A.V. College (Day),8.91,9.55,9.227
+20053587006,Aditya Khandelwal,P.G.D.A.V. College (Day),8.91,9.27,9.091
+20053587007,AKSHAT SUKHIJA,P.G.D.A.V. College (Day),8.64,9.00,8.818
+20053587008,ALANKRIT MAURYA,P.G.D.A.V. College (Day),9.36,9.73,9.545
+20053587009,ANSHUL KUMAR PRAJAPATI,P.G.D.A.V. College (Day),9.18,9.27,9.227
+20053587011,AVINASH JHA,P.G.D.A.V. College (Day),9.36,10.00,9.682
+20053587012,BHAVESH CHAUDHARY,P.G.D.A.V. College (Day),8.36,8.82,8.591
+20053587013,DEVANSHU MALIK,P.G.D.A.V. College (Day),7.91,9.00,8.455
+20053587014,HARSHIT BUDAKOTI,P.G.D.A.V. College (Day),9.09,10.00,9.545
+20053587015,HIMANSHU SHARMA,P.G.D.A.V. College (Day),9.64,10.00,9.818
+20053587016,HIMANSHU TIWARI,P.G.D.A.V. College (Day),8.64,9.27,8.955
+20053587017,MOHIT KUMAR SHARMA,P.G.D.A.V. College (Day),9.18,9.45,9.318
+20053587018,NIKITA ADHANA,P.G.D.A.V. College (Day),8.09,9.00,8.545
+20053587019,PUNEET PACHORY,P.G.D.A.V. College (Day),7.73,8.55,8.136
+20053587020,RAVIKANT,P.G.D.A.V. College (Day),9.18,9.18,9.182
+20053587021,RITIK KUMAR,P.G.D.A.V. College (Day),9.18,9.00,9.091
+20053587022,SACHIN,P.G.D.A.V. College (Day),8.36,8.55,8.455
+20053587023,Srishti Joshi,P.G.D.A.V. College (Day),9.45,9.55,9.500
+20053587025,SUBHANSHU RAHANGDALE,P.G.D.A.V. College (Day),9.18,9.27,9.227
+20053587026,SUPRIYA,P.G.D.A.V. College (Day),9.09,10.00,9.545
+20053587027,UMA KUMARI,P.G.D.A.V. College (Day),7.18,8.55,7.864
+20053587028,VINEET,P.G.D.A.V. College (Day),9.36,9.27,9.318
+20053587029,VINEETA YADAV,P.G.D.A.V. College (Day),9.09,9.27,9.182
+20053587030,VIRAJ BHAMBRI,P.G.D.A.V. College (Day),9.09,9.00,9.045
+20053587031,YASH CHHIMWAL,P.G.D.A.V. College (Day),8.27,9.00,8.636
+20053587032,YATHARTH AGARWAL,P.G.D.A.V. College (Day),9.36,9.55,9.455
+20053587033,ARYAN DEV CHAUHAN,P.G.D.A.V. College (Day),9.36,9.73,9.545
+20053587035,KANIKA BISHT,P.G.D.A.V. College (Day),9.64,9.82,9.727
+20053587036,NAVAL KISHOR RAY,P.G.D.A.V. College (Day),9.36,9.27,9.318
+20053587037,RAHUL,P.G.D.A.V. College (Day),8.91,8.45,8.682
+20053587038,RAHUL SETHI,P.G.D.A.V. College (Day),8.82,9.73,9.273
+20053587039,RENUKA MATHE,P.G.D.A.V. College (Day),8.91,9.00,8.955
+20053587040,LAKSHAY ARYA,P.G.D.A.V. College (Day),8.91,8.27,8.591
+20035587001,Abhinav Jain,Keshav Mahavidyalaya,9.45,9.00,9.227
+20035587002,ABHISHEK GUPTA,Keshav Mahavidyalaya,9.82,9.18,9.500
+20035587003,ABHISHEK KUMAR YADAV,Keshav Mahavidyalaya,9.27,9.00,9.136
+20035587004,ADYA GOSWAMI,Keshav Mahavidyalaya,8.82,9.00,8.909
+20035587005,Akshita Gupta,Keshav Mahavidyalaya,9.45,10.00,9.727
+20035587006,ARYA PODDAR,Keshav Mahavidyalaya,9.00,9.27,9.136
+20035587007,Ashish Sahni,Keshav Mahavidyalaya,9.55,9.45,9.500
+20035587008,Ayush,Keshav Mahavidyalaya,8.82,9.27,9.045
+20035587009,Ayush Goyal,Keshav Mahavidyalaya,9.55,9.45,9.500
+20035587010,Ayush Rai,Keshav Mahavidyalaya,9.73,9.45,9.591
+20035587011,DEEPANSHU YADAV,Keshav Mahavidyalaya,9.82,9.27,9.545
+20035587012,DEVANSHU BHANOT,Keshav Mahavidyalaya,9.27,9.27,9.273
+20035587013,DIVYA DEWAN,Keshav Mahavidyalaya,9.00,9.00,9.000
+20035587014,DIWAKAR,Keshav Mahavidyalaya,9.55,8.73,9.136
+20035587015,Harbeer,Keshav Mahavidyalaya,9.55,9.27,9.409
+20035587016,HARDIK JAIN,Keshav Mahavidyalaya,9.73,10.00,9.864
+20035587017,HIMANSHU SAINI,Keshav Mahavidyalaya,8.91,9.00,8.955
+20035587018,Himanshu Sharma,Keshav Mahavidyalaya,9.55,9.27,9.409
+20035587019,Isha Aggarwal,Keshav Mahavidyalaya,9.55,9.82,9.682
+20035587020,Ishika Minocha,Keshav Mahavidyalaya,9.55,9.45,9.500
+20035587021,Kartik Aggarwal,Keshav Mahavidyalaya,9.00,9.27,9.136
+20035587022,Kirti Sharma,Keshav Mahavidyalaya,9.55,10.00,9.773
+20035587024,Nischay Vij,Keshav Mahavidyalaya,9.73,9.27,9.500
+20035587025,Nishant,Keshav Mahavidyalaya,9.45,9.73,9.591
+20035587026,NITIN,Keshav Mahavidyalaya,8.73,7.73,8.227
+20035587027,Parkhi Jain,Keshav Mahavidyalaya,9.73,10.00,9.864
+20035587028,piyush singh,Keshav Mahavidyalaya,9.55,9.18,9.364
+20035587029,Prateek yadav,Keshav Mahavidyalaya,9.00,8.73,8.864
+20035587030,Preeti Solanki,Keshav Mahavidyalaya,9.00,8.73,8.864
+20035587031,Rahul Singh Rawat,Keshav Mahavidyalaya,9.55,9.00,9.273
+20035587032,Ram Sharma,Keshav Mahavidyalaya,9.55,9.18,9.364
+20035587033,Rishika,Keshav Mahavidyalaya,9.73,9.73,9.727
+20035587034,Sachin Kumar,Keshav Mahavidyalaya,8.73,8.45,8.591
+20035587035,Sahil,Keshav Mahavidyalaya,9.36,7.73,8.545
+20035587036,Sahil kumar,Keshav Mahavidyalaya,9.00,8.45,8.727
+20035587037,Samraddh Garg,Keshav Mahavidyalaya,9.45,8.45,8.955
+20035587038,Sarthak Arora,Keshav Mahavidyalaya,8.73,8.45,8.591
+20035587039,Somesh kajla,Keshav Mahavidyalaya,9.55,9.00,9.273
+20035587040,SUSHIL KUMAR,Keshav Mahavidyalaya,8.91,9.00,8.955
+20035587041,Tanay Maurya,Keshav Mahavidyalaya,9.82,9.73,9.773
+20035587042,VICKY,Keshav Mahavidyalaya,9.00,8.00,8.500
+20035587043,WASIM BHATI,Keshav Mahavidyalaya,9.27,9.73,9.500
+20035587044,UTKARSH RANA,Keshav Mahavidyalaya,8.18,7.00,7.591
+20041587001,ABHIJEET,Maharaja Agrasen College,8.64,9.00,8.818
+20041587002,Amit Chauhan,Maharaja Agrasen College,7.64,8.00,7.818
+20041587003,Anand Kumar,Maharaja Agrasen College,9.18,9.55,9.364
+20041587004,APOORV TRIPATHI,Maharaja Agrasen College,9.18,9.55,9.364
+20041587005,Ashwini Kumar,Maharaja Agrasen College,8.55,8.00,8.273
+20041587006,Ayush Singh,Maharaja Agrasen College,9.18,9.82,9.500
+20041587007,Babu raj soren,Maharaja Agrasen College,8.18,8.55,8.364
+20041587008,Bhawna Singh,Maharaja Agrasen College,8.73,9.00,8.864
+20041587009,BHUVAN KAPOOR,Maharaja Agrasen College,9.45,9.55,9.500
+20041587010,Deepak jangid,Maharaja Agrasen College,8.73,9.27,9.000
+20041587012,Devesh Pratap Singh Rathore,Maharaja Agrasen College,9.18,9.27,9.227
+20041587013,Divyanshu Fulara,Maharaja Agrasen College,9.18,9.27,9.227
+20041587014,George Thomas,Maharaja Agrasen College,8.45,7.09,7.773
+20041587015,GIRISH KUMAR,Maharaja Agrasen College,8.45,8.73,8.591
+20041587016,Harish Kumar,Maharaja Agrasen College,8.18,9.27,8.727
+20041587017,Harshvardhan,Maharaja Agrasen College,9.55,10.00,9.773
+20041587018,HIMANSHU,Maharaja Agrasen College,8.73,9.00,8.864
+20041587019,KARTIK,Maharaja Agrasen College,8.18,8.09,8.136
+20041587020,Lakshay,Maharaja Agrasen College,8.73,8.27,8.500
+20041587021,Maharaj,Maharaja Agrasen College,8.55,9.00,8.773
+20041587022,Manish Kumar Paswan,Maharaja Agrasen College,8.73,9.00,8.864
+20041587023,Manish Sattavan,Maharaja Agrasen College,8.73,8.82,8.773
+20041587024,Manish yadav,Maharaja Agrasen College,7.09,6.91,7.000
+20041587025,Mayank dandriyal,Maharaja Agrasen College,8.91,9.00,8.955
+20041587026,Mayank yadav,Maharaja Agrasen College,9.00,9.27,9.136
+20041587027,Naman Garg,Maharaja Agrasen College,9.27,9.82,9.545
+20041587028,Neha,Maharaja Agrasen College,9.00,9.27,9.136
+20041587030,Pinki sevda,Maharaja Agrasen College,9.45,9.27,9.364
+20041587031,Piyush Yadav,Maharaja Agrasen College,9.64,9.27,9.455
+20041587032,Pragati Pandey,Maharaja Agrasen College,8.36,9.00,8.682
+20041587033,PRIKSHIT,Maharaja Agrasen College,9.36,9.27,9.318
+20041587034,Priyanka saraswat,Maharaja Agrasen College,8.64,8.73,8.682
+20041587035,Rohan Maurya,Maharaja Agrasen College,7.45,8.55,8.000
+20041587036,Rupesh Kumar,Maharaja Agrasen College,8.45,8.55,8.500
+20041587037,Saurabh yadav,Maharaja Agrasen College,9.27,9.82,9.545
+20041587038,Shipra das,Maharaja Agrasen College,9.45,9.55,9.500
+20041587040,Shobhit Dhaundiyal,Maharaja Agrasen College,8.73,9.27,9.000
+20041587041,Shrish Kamboj,Maharaja Agrasen College,8.73,9.27,9.000
+20041587042,Sidharth Nambiar,Maharaja Agrasen College,8.45,8.55,8.500
+20041587043,Simran thakur,Maharaja Agrasen College,9.45,9.55,9.500
+20041587044,SONALI JOSHIA,Maharaja Agrasen College,9.45,9.55,9.500
+20041587045,Sourabh,Maharaja Agrasen College,9.27,9.27,9.273
+20041587046,Sumit,Maharaja Agrasen College,8.18,8.73,8.455
+20041587047,Sushil Kumar,Maharaja Agrasen College,9.00,9.55,9.273
+20041587048,Tannu singh,Maharaja Agrasen College,9.00,9.27,9.136
+20041587049,UJJWAL RAGHUVANSHI,Maharaja Agrasen College,9.45,9.27,9.364
+20041587050,Varun rathor,Maharaja Agrasen College,8.45,9.00,8.727
+20041587051,Vikash Kumar Singh,Maharaja Agrasen College,7.09,7.45,7.273
+20041587052,vineet parashar,Maharaja Agrasen College,9.18,9.00,9.091
+20041587053,Vishal Kumar,Maharaja Agrasen College,8.55,9.00,8.773
+20041587054,VISHESH SAUNTHWAL,Maharaja Agrasen College,8.82,9.00,8.909
+20041587055,Vivek Kumar Bharati,Maharaja Agrasen College,9.00,9.00,9.000
+20041587056,Yashika,Maharaja Agrasen College,8.82,9.00,8.909
+20041587057,Yashika,Maharaja Agrasen College,9.45,10.00,9.727
+20041587058,Yashpal Singh,Maharaja Agrasen College,8.73,9.55,9.136
+20041587059,Yesmin Jamatia,Maharaja Agrasen College,8.45,9.00,8.727
+20041587060,YOGESH,Maharaja Agrasen College,8.45,8.00,8.227
+20015587001,Abhishek,Deen Dayal Upadhyaya College,8.73,8.00,8.364
+20015587002,Abhishek Meena,Deen Dayal Upadhyaya College,8.18,8.00,8.091
+20015587003,Ajay Kumar,Deen Dayal Upadhyaya College,9.18,9.00,9.091
+20015587004,Ankit Kumar,Deen Dayal Upadhyaya College,9.00,7.73,8.364
+20015587005,Ansh,Deen Dayal Upadhyaya College,9.27,8.73,9.000
+20015587006,Antra Das,Deen Dayal Upadhyaya College,8.73,10.00,9.364
+20015587008,DIKSHA YADAV,Deen Dayal Upadhyaya College,8.91,9.27,9.091
+20015587009,Disha Pattnaik,Deen Dayal Upadhyaya College,9.27,9.73,9.500
+20015587011,FARHAAN,Deen Dayal Upadhyaya College,9.45,8.73,9.091
+20015587012,Ghanshyam Yadav,Deen Dayal Upadhyaya College,8.73,8.27,8.500
+20015587014,Hamza Moini,Deen Dayal Upadhyaya College,9.09,9.27,9.182
+20015587015,Harsh kansal,Deen Dayal Upadhyaya College,9.27,9.00,9.136
+20015587016,HARSH VERMA,Deen Dayal Upadhyaya College,9.27,9.00,9.136
+20015587017,JITENDER,Deen Dayal Upadhyaya College,8.45,7.00,7.727
+20015587018,Mohit kumar mishra,Deen Dayal Upadhyaya College,9.27,8.73,9.000
+20015587019,Neha,Deen Dayal Upadhyaya College,9.09,9.00,9.045
+20015587020,NIKHIL KUMAR,Deen Dayal Upadhyaya College,8.64,7.45,8.045
+20015587021,Pratiksha,Deen Dayal Upadhyaya College,9.00,9.27,9.136
+20015587022,Raghav Sahi,Deen Dayal Upadhyaya College,9.00,8.73,8.864
+20015587023,Raja Gola,Deen Dayal Upadhyaya College,8.82,8.73,8.773
+20015587024,Rajkumar Yadav,Deen Dayal Upadhyaya College,8.09,8.82,8.455
+20015587025,RISHIKESH BARELA,Deen Dayal Upadhyaya College,8.64,8.73,8.682
+20015587026,Riva Yadav,Deen Dayal Upadhyaya College,9.27,9.00,9.136
+20015587027,RUDRA PRATAP SINGH,Deen Dayal Upadhyaya College,8.73,8.45,8.591
+20015587028,Sahil Luthra,Deen Dayal Upadhyaya College,9.55,9.27,9.409
+20015587029,SHASHANK KUMAR PRAJAPATI,Deen Dayal Upadhyaya College,9.27,9.00,9.136
+20015587031,Shruti Varshneya,Deen Dayal Upadhyaya College,9.27,9.73,9.500
+20015587032,sonu,Deen Dayal Upadhyaya College,8.27,8.27,8.273
+20015587033,Tanmay Agrawal,Deen Dayal Upadhyaya College,9.18,9.27,9.227
+20015587034,Yatharth manroy,Deen Dayal Upadhyaya College,9.45,9.00,9.227
+20015587035,Gautam,Deen Dayal Upadhyaya College,8.64,8.00,8.318
+20015587036,Shreya Srivastava,Deen Dayal Upadhyaya College,9.45,9.73,9.591
+20015587037,Tejashwani Dubey,Deen Dayal Upadhyaya College,9.18,10.00,9.591
+20015587038,Shivani Rawat,Deen Dayal Upadhyaya College,9.18,9.00,9.091
+20015587039,PRASHANT,Deen Dayal Upadhyaya College,9.00,9.00,9.000

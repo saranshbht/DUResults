@@ -1,39 +1,41 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20025510001,BASIL UMER MUHAMMED,Hans Raj College,9.09,9.091
-20025510002,Bhavika Neema,Hans Raj College,8.73,8.727
-20025510003,Gauravi Singh,Hans Raj College,6.55,6.545
-20025510004,JAIVEER SINGH REKHI,Hans Raj College,9.00,9.000
-20025510005,Mohd saif Ansari,Hans Raj College,9.00,9.000
-20025510006,Nabeel Zubair,Hans Raj College,9.27,9.273
-20025510007,Sahil Choudhury,Hans Raj College,9.09,9.091
-20025510008,Sajal Kumar Singh,Hans Raj College,8.18,8.182
-20025510009,Sanchit,Hans Raj College,9.55,9.545
-20025510010,Abhimanyu Kumar Gond,Hans Raj College,8.55,8.545
-20025510011,AGRITA ARORA,Hans Raj College,9.45,9.455
-20025510013,Ananya Bansal,Hans Raj College,9.27,9.273
-20025510014,Anjani,Hans Raj College,8.73,8.727
-20025510015,Anjay G,Hans Raj College,8.73,8.727
-20025510016,Ayush,Hans Raj College,8.73,8.727
-20025510017,Bhavesh Yadav,Hans Raj College,8.73,8.727
-20025510018,Chiranjeevi Kumar,Hans Raj College,8.18,8.182
-20025510019,Dhadkan Mahajan,Hans Raj College,8.73,8.727
-20025510020,Elham Jamal,Hans Raj College,7.91,7.909
-20025510021,KIRTI GUPTA,Hans Raj College,9.55,9.545
-20025510022,Kirti Taparia,Hans Raj College,9.55,9.545
-20025510023,Lakshya Choudhary,Hans Raj College,8.73,8.727
-20025510024,Mani Shukla,Hans Raj College,9.36,9.364
-20025510025,Muskan Garg,Hans Raj College,8.45,8.455
-20025510026,PRITISHA MONDAL,Hans Raj College,7.45,7.455
-20025510027,RAVI KUMAR RAJAK,Hans Raj College,8.27,8.273
-20025510028,Rohit Chopra,Hans Raj College,8.73,8.727
-20025510030,Saanvi Gambhir,Hans Raj College,9.27,9.273
-20025510031,Saksham Rawat,Hans Raj College,8.00,8.000
-20025510032,Saurabh Kumar,Hans Raj College,8.73,8.727
-20025510033,Tanishk Khurana,Hans Raj College,9.55,9.545
-20025510034,TENZING TSERING BHUTIA,Hans Raj College,6.64,6.636
-20025510035,Vanshika Khera,Hans Raj College,9.36,9.364
-20025510036,VISHAL CHAURASIYA,Hans Raj College,8.45,8.455
-20025510037,Vivek Arora,Hans Raj College,8.55,8.545
-20025510038,ANNASHREE MAHANTA,Hans Raj College,9.55,9.545
-20025510039,Devendra Singh Rana,Hans Raj College,7.64,7.636
-20025510040,manas meena,Hans Raj College,6.91,6.909
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20025510001,BASIL UMER MUHAMMED,Hans Raj College,9.09,9.00,9.045
+20025510002,Bhavika Neema,Hans Raj College,8.73,9.00,8.864
+20025510003,Gauravi Singh,Hans Raj College,6.55,8.00,7.273
+20025510004,JAIVEER SINGH REKHI,Hans Raj College,9.00,9.73,9.364
+20025510005,Mohd saif Ansari,Hans Raj College,9.00,9.00,9.000
+20025510006,Nabeel Zubair,Hans Raj College,9.27,10.00,9.636
+20025510007,Sahil Choudhury,Hans Raj College,9.09,9.27,9.182
+20025510008,Sajal Kumar Singh,Hans Raj College,8.18,8.45,8.318
+20025510009,Sanchit,Hans Raj College,9.55,9.73,9.636
+20025510010,Abhimanyu Kumar Gond,Hans Raj College,8.55,9.00,8.773
+20025510011,AGRITA ARORA,Hans Raj College,9.45,10.00,9.727
+20025510012,Aman Chauhan,Hans Raj College,9.55,10.00,9.773
+20025510013,Ananya Bansal,Hans Raj College,9.27,10.00,9.636
+20025510014,Anjani,Hans Raj College,8.73,9.45,9.091
+20025510015,Anjay G,Hans Raj College,8.73,10.00,9.364
+20025510016,Ayush,Hans Raj College,8.73,9.45,9.091
+20025510017,Bhavesh Yadav,Hans Raj College,8.73,9.00,8.864
+20025510018,Chiranjeevi Kumar,Hans Raj College,8.18,9.00,8.591
+20025510019,Dhadkan Mahajan,Hans Raj College,8.73,9.45,9.091
+20025510020,Elham Jamal,Hans Raj College,7.91,8.73,8.318
+20025510021,KIRTI GUPTA,Hans Raj College,9.55,10.00,9.773
+20025510022,Kirti Taparia,Hans Raj College,9.55,10.00,9.773
+20025510023,Lakshya Choudhary,Hans Raj College,8.73,10.00,9.364
+20025510024,Mani Shukla,Hans Raj College,9.36,10.00,9.682
+20025510025,Muskan Garg,Hans Raj College,8.45,9.00,8.727
+20025510026,PRITISHA MONDAL,Hans Raj College,7.45,9.00,8.227
+20025510027,RAVI KUMAR RAJAK,Hans Raj College,8.27,9.00,8.636
+20025510028,Rohit Chopra,Hans Raj College,8.73,9.00,8.864
+20025510029,Rohit Tomar,Hans Raj College,7.55,9.00,8.273
+20025510030,Saanvi Gambhir,Hans Raj College,9.27,9.73,9.500
+20025510031,Saksham Rawat,Hans Raj College,8.00,9.00,8.500
+20025510032,Saurabh Kumar,Hans Raj College,8.73,10.00,9.364
+20025510033,Tanishk Khurana,Hans Raj College,9.55,10.00,9.773
+20025510034,TENZING TSERING BHUTIA,Hans Raj College,6.64,8.00,7.318
+20025510035,Vanshika Khera,Hans Raj College,9.36,9.82,9.591
+20025510036,VISHAL CHAURASIYA,Hans Raj College,8.45,9.00,8.727
+20025510037,Vivek Arora,Hans Raj College,8.55,9.00,8.773
+20025510038,ANNASHREE MAHANTA,Hans Raj College,9.55,10.00,9.773
+20025510039,Devendra Singh Rana,Hans Raj College,7.64,8.00,7.818
+20025510040,manas meena,Hans Raj College,6.91,8.00,7.455
