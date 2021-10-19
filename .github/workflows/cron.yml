@@ -12,7 +12,7 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
         with:
-          ref: testing
+          ref: development
 
       - name: set up node
         uses: actions/setup-node@v1
@@ -39,7 +39,7 @@ jobs:
       - name: push changes
         uses: stefanzweifel/git-auto-commit-action@v4.4.1
         with:
-          branch: testing
+          branch: development
           commit_message: added changes by action
           commit_user_name: Saransh Bhatia
           commit_user_email: saranshbht@gmail.com
