@@ -48,7 +48,6 @@ console.log(new Date().toISOString());
     ]).then(async ([remaining]) => {
       console.log("Courses to be downloaded");
       console.log(JSON.stringify(remaining));
-      remaining["20"] = remaining["20"].slice(0, 50);
       // downloading the new/remaining courses
       await req.downloadHtmls(remaining, type, url, step, source);
 
