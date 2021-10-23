@@ -1,21 +1,22 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20069726001,Amrita Kaur,Sri Guru Nanak Dev Khalsa College,6.60,6.600
-20069726002,Dhoomit mangal,Sri Guru Nanak Dev Khalsa College,7.20,7.200
-20069726003,Gurpreet kaur,Sri Guru Nanak Dev Khalsa College,7.20,7.200
-20069726004,GURPREET KAUR,Sri Guru Nanak Dev Khalsa College,7.00,7.000
-20069726005,Harneet kaur,Sri Guru Nanak Dev Khalsa College,6.00,6.000
-20069726006,jagriti chawla,Sri Guru Nanak Dev Khalsa College,6.40,6.400
-20069726008,Manjot Singh Singh,Sri Guru Nanak Dev Khalsa College,6.40,6.400
-20069726009,Meenu,Sri Guru Nanak Dev Khalsa College,6.40,6.400
-20069726010,Monika,Sri Guru Nanak Dev Khalsa College,6.40,6.400
-20069726011,Muskan,Sri Guru Nanak Dev Khalsa College,7.00,7.000
-20069726012,Punish kumar,Sri Guru Nanak Dev Khalsa College,7.00,7.000
-20069726013,Ramanjeet Singh,Sri Guru Nanak Dev Khalsa College,5.60,5.600
-20069726015,SATNAM KAUR,Sri Guru Nanak Dev Khalsa College,7.00,7.000
-20069726016,Simpreet Kaur,Sri Guru Nanak Dev Khalsa College,6.60,6.600
-20069726017,Simran,Sri Guru Nanak Dev Khalsa College,6.40,6.400
-20069726018,Simran Kaur,Sri Guru Nanak Dev Khalsa College,6.60,6.600
-20069726019,Taranpreet Kaur,Sri Guru Nanak Dev Khalsa College,6.80,6.800
-20069726020,Tuba Nizam,Sri Guru Nanak Dev Khalsa College,6.60,6.600
-20069726021,Yuvraj Jetly,Sri Guru Nanak Dev Khalsa College,6.40,6.400
-20069726022,MUDIT CHAWLA,Sri Guru Nanak Dev Khalsa College,5.20,5.200
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20069726001,Amrita Kaur,Sri Guru Nanak Dev Khalsa College,6.60,7.38,6.980
+20069726002,Dhoomit mangal,Sri Guru Nanak Dev Khalsa College,7.20,7.42,7.306
+20069726003,Gurpreet kaur,Sri Guru Nanak Dev Khalsa College,7.20,7.83,7.510
+20069726004,GURPREET KAUR,Sri Guru Nanak Dev Khalsa College,7.00,8.00,7.490
+20069726005,Harneet kaur,Sri Guru Nanak Dev Khalsa College,6.00,7.00,6.490
+20069726006,jagriti chawla,Sri Guru Nanak Dev Khalsa College,6.40,7.42,6.898
+20069726008,Manjot Singh Singh,Sri Guru Nanak Dev Khalsa College,6.40,6.63,6.510
+20069726009,Meenu,Sri Guru Nanak Dev Khalsa College,6.40,7.00,6.694
+20069726010,Monika,Sri Guru Nanak Dev Khalsa College,6.40,7.00,6.694
+20069726011,Muskan,Sri Guru Nanak Dev Khalsa College,7.00,6.58,6.796
+20069726012,Punish kumar,Sri Guru Nanak Dev Khalsa College,7.00,7.79,7.388
+20069726013,Ramanjeet Singh,Sri Guru Nanak Dev Khalsa College,5.60,0.00,2.857
+20069726014,Roopali sharma,Sri Guru Nanak Dev Khalsa College,7.60,7.83,7.714
+20069726015,SATNAM KAUR,Sri Guru Nanak Dev Khalsa College,7.00,7.63,7.306
+20069726016,Simpreet Kaur,Sri Guru Nanak Dev Khalsa College,6.60,7.00,6.796
+20069726017,Simran,Sri Guru Nanak Dev Khalsa College,6.40,7.00,6.694
+20069726018,Simran Kaur,Sri Guru Nanak Dev Khalsa College,6.60,7.00,6.796
+20069726019,Taranpreet Kaur,Sri Guru Nanak Dev Khalsa College,6.80,7.00,6.898
+20069726020,Tuba Nizam,Sri Guru Nanak Dev Khalsa College,6.60,7.00,6.796
+20069726021,Yuvraj Jetly,Sri Guru Nanak Dev Khalsa College,6.40,5.17,5.796
+20069726022,MUDIT CHAWLA,Sri Guru Nanak Dev Khalsa College,5.20,4.38,4.796
