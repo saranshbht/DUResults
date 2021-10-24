@@ -21475,3 +21475,48 @@ Grade 20 762 079
   code: 'ENOENT',
   path:
    '/home/runner/work/DUResults/DUResults/html/Grade/20/762/080' }
+2021-10-24T00:38:32.828Z
+nov_dec
+Grade
+ASP.NET_SessionId=gc1kw555ijdgcm45bxk22155
+Courses to be downloaded
+{"17":[],"18":[],"19":[],"20":["107","544","572","718","744","777","797","798","799"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 718 029
+New course but no college
+New course but no college
+20 797 030
+20 797 038
+New course but no college
+New course but no college
+Courses to be updated
+{"17":[],"18":[],"19":[],"20":["797"]}
+Grade 20 797 030
+Grade 20 797 038
+may_june
+Grade
+ASP.NET_SessionId=vd4vu545vxijmfahnnzv0u55
+Courses to be downloaded
+{"18":[],"19":[],"20":["107","544","572","728","744","753","777","797","798","799"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 728 039
+Error at 20 728 084
+Error at 20 728 034
+Error at 20 728 029
+Error at 20 728 033
+New course but no college
+20 753 252
+New course but no college
+20 797 030
+20 797 038
+New course but no college
+New course but no college
+Courses to be updated
+{"18":[],"19":[],"20":["753","797"]}
+Grade 20 753 252
+Grade 20 797 030
+Grade 20 797 038
