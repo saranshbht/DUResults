@@ -21705,3 +21705,38 @@ New course but no college
 New course but no college
 Courses to be updated
 {"18":[],"19":[],"20":[]}
+2021-10-30T00:36:07.548Z
+nov_dec
+Grade
+ASP.NET_SessionId=ckwko145xmkj2q55d1myr4vl
+Courses to be downloaded
+{"17":[],"18":[],"19":[],"20":["107","544","572","718","744","777","798","799"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 718 029
+New course but no college
+New course but no college
+New course but no college
+New course but no college
+Courses to be updated
+{"17":[],"18":[],"19":[],"20":[]}
+may_june
+Grade
+ASP.NET_SessionId=j4wjsy45hryqwq55szgro4b0
+Courses to be downloaded
+{"18":[],"19":[],"20":["107","544","572","728","744","777","798","799"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 728 039
+Error at 20 728 084
+Error at 20 728 034
+Error at 20 728 029
+Error at 20 728 033
+New course but no college
+New course but no college
+New course but no college
+New course but no college
+Courses to be updated
+{"18":[],"19":[],"20":[]}
