@@ -21740,3 +21740,58 @@ New course but no college
 New course but no college
 Courses to be updated
 {"18":[],"19":[],"20":[]}
+2021-10-31T00:38:45.779Z
+nov_dec
+Grade
+ASP.NET_SessionId=qidkngjkirhwgr55ceomtavn
+Courses to be downloaded
+{"17":[],"18":[],"19":[],"20":["107","544","572","718","744","777","798","799"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 718 029
+New course but no college
+New course but no college
+New course but no college
+New course but no college
+Courses to be updated
+{"17":[],"18":[],"19":[],"20":[]}
+may_june
+Grade
+ASP.NET_SessionId=tcxfnk55s1o4sy45snaaa32k
+Courses to be downloaded
+{"18":[],"19":[],"20":["107","544","572","714","718","721","728","744","777","798","799"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 714 029
+20 714 047
+20 714 056
+20 714 014
+Error at 20 718 029
+20 721 056
+Error at 20 728 039
+Error at 20 728 084
+Error at 20 728 034
+Error at 20 728 029
+Error at 20 728 033
+New course but no college
+New course but no college
+New course but no college
+New course but no college
+Courses to be updated
+{"18":[],"19":[],"20":["714","721"]}
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/714/029'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:465:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:59:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/714/029' }
+Grade 20 714 047
+Grade 20 714 056
+Grade 20 714 014
+Grade 20 721 056
