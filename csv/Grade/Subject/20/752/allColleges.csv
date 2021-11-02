@@ -1,45 +1,45 @@
-RollNo,Name,College,"FORENSIC SCIENCE, PHOTOGRAPHY, CRIME SCENE MANAGEMENT",FORENSIC PHYSICS,"CRIMINOLOGY, CRIMINAL LAW AND POLICE ADMINISTRATION",FORENSIC DERMATOGLYPHICS AND OTHER IMPRESSIONS
-20215752001,AJAY KUMAR,Department of Anthropology,7,7,8,7
-20215752002,AKANSHA SINGH,Department of Anthropology,8,8,8,8
-20215752003,AKHITH,Department of Anthropology,8,8,7,8
-20215752004,AMAL AJITH,Department of Anthropology,7,8,7,7
-20215752005,ANUSHA SINGH,Department of Anthropology,8,8,8,8
-20215752006,ANUSHKA,Department of Anthropology,8,8,8,8
-20215752007,APARNA,Department of Anthropology,7,6,6,6
-20215752008,APARNA THAMBY,Department of Anthropology,8,8,8,9
-20215752009,ASHWANI CHAUHAN,Department of Anthropology,7,7,7,7
-20215752010,ATUL SELANGIA,Department of Anthropology,7,7,8,8
-20215752011,BHAWNA GOYAL,Department of Anthropology,8,8,8,8
-20215752012,CHRISTY JOHN,Department of Anthropology,8,9,9,8
-20215752013,DHANSHREE BORKAR,Department of Anthropology,7,8,8,8
-20215752014,EKTA YADAV,Department of Anthropology,7,7,7,8
-20215752015,ISHA,Department of Anthropology,8,8,8,8
-20215752017,KAJAL,Department of Anthropology,8,8,8,8
-20215752018,KAMNA JAIN,Department of Anthropology,8,8,8,8
-20215752019,KANIKA SAHNI,Department of Anthropology,7,8,8,8
-20215752020,KARISHMA RANJAN,Department of Anthropology,8,8,7,7
-20215752021,KUMAR VINEET,Department of Anthropology,6,7,6,7
-20215752022,KUNAL GAUTAM KASHYAP,Department of Anthropology,7,8,8,8
-20215752023,MANVI CHAUDHARY,Department of Anthropology,8,8,8,9
-20215752024,MOHAMED IHSAN,Department of Anthropology,8,8,8,7
-20215752025,NAZLA KHALID,Department of Anthropology,8,8,8,8
-20215752026,NEHA SAINI,Department of Anthropology,8,8,8,8
-20215752027,NEHA SINGH,Department of Anthropology,8,8,8,8
-20215752028,NIHARIKA KAUSHIK,Department of Anthropology,8,8,8,8
-20215752029,NIKITA BOHARE,Department of Anthropology,8,8,8,8
-20215752030,NIWEDITA,Department of Anthropology,8,8,8,8
-20215752031,PAWAN,Department of Anthropology,8,8,7,8
-20215752032,PRAISEY SAJEEV ARAKAL,Department of Anthropology,8,8,8,8
-20215752033,PREETY MONILISHA,Department of Anthropology,7,8,8,7
-20215752034,RAJUL CHADHA,Department of Anthropology,7,8,8,8
-20215752035,RITU,Department of Anthropology,7,8,8,9
-20215752036,SANJANA CHAUDHARY,Department of Anthropology,7,8,8,8
-20215752038,SHIVANI,Department of Anthropology,8,9,8,8
-20215752039,SHIVANI,Department of Anthropology,9,9,8,9
-20215752040,SHIVANI,Department of Anthropology,8,8,8,8
-20215752041,SIMRAN CHANDOLA,Department of Anthropology,8,8,8,8
-20215752042,SONAM YANGZIN,Department of Anthropology,7,8,7,7
-20215752043,SUSHRUT,Department of Anthropology,7,8,8,8
-20215752044,VAISHALLI,Department of Anthropology,7,7,7,7
-20215752045,VIJAY KUMAR,Department of Anthropology,8,8,7,8
-20215752046,INU GODAK,Department of Anthropology,7,7,6,7
+RollNo,Name,College,"FORENSIC SCIENCE, PHOTOGRAPHY, CRIME SCENE MANAGEMENT",FORENSIC PHYSICS,"CRIMINOLOGY, CRIMINAL LAW AND POLICE ADMINISTRATION",FORENSIC DERMATOGLYPHICS AND OTHER IMPRESSIONS,FORENSIC CHEMISTRY AND TOXICOLOGY),FORENSIC BALLISTICS,"INSTRUMENTAL TECHNIQUES (PHYSICAL, CHEMICAL, BIOLOGICAL)",QUESTIONED DOCUMENTS
+20215752001,AJAY KUMAR,Department of Anthropology,7,7,8,7,8,8,8,8
+20215752002,AKANSHA SINGH,Department of Anthropology,8,8,8,8,9,8,8,8
+20215752003,AKHITH,Department of Anthropology,8,8,7,8,8,8,9,8
+20215752004,AMAL AJITH,Department of Anthropology,7,8,7,7,8,8,8,8
+20215752005,ANUSHA SINGH,Department of Anthropology,8,8,8,8,8,8,9,8
+20215752006,ANUSHKA,Department of Anthropology,8,8,8,8,8,9,8,8
+20215752007,APARNA,Department of Anthropology,7,6,6,6,8,8,7,7
+20215752008,APARNA THAMBY,Department of Anthropology,8,8,8,9,9,9,9,8
+20215752009,ASHWANI CHAUHAN,Department of Anthropology,7,7,7,7,7,8,8,8
+20215752010,ATUL SELANGIA,Department of Anthropology,7,7,8,8,8,8,8,8
+20215752011,BHAWNA GOYAL,Department of Anthropology,8,8,8,8,8,8,9,8
+20215752012,CHRISTY JOHN,Department of Anthropology,8,9,9,8,9,9,9,9
+20215752013,DHANSHREE BORKAR,Department of Anthropology,7,8,8,8,8,8,8,8
+20215752014,EKTA YADAV,Department of Anthropology,7,7,7,8,8,8,8,8
+20215752015,ISHA,Department of Anthropology,8,8,8,8,8,8,8,8
+20215752016,ISHA RAJPUT,Department of Anthropology,8,8,8,9,8,8,8,8
+20215752017,KAJAL,Department of Anthropology,8,8,8,8,8,9,9,9
+20215752018,KAMNA JAIN,Department of Anthropology,8,8,8,8,8,9,8,8
+20215752019,KANIKA SAHNI,Department of Anthropology,7,8,8,8,8,9,9,8
+20215752020,KARISHMA RANJAN,Department of Anthropology,8,8,7,7,9,8,9,9
+20215752022,KUNAL GAUTAM KASHYAP,Department of Anthropology,7,8,8,8,9,8,9,8
+20215752023,MANVI CHAUDHARY,Department of Anthropology,8,8,8,9,9,9,9,9
+20215752024,MOHAMED IHSAN,Department of Anthropology,8,8,8,7,8,8,9,8
+20215752025,NAZLA KHALID,Department of Anthropology,8,8,8,8,9,9,9,9
+20215752026,NEHA SAINI,Department of Anthropology,8,8,8,8,8,8,8,8
+20215752027,NEHA SINGH,Department of Anthropology,8,8,8,8,8,8,8,8
+20215752028,NIHARIKA KAUSHIK,Department of Anthropology,8,8,8,8,8,8,8,8
+20215752029,NIKITA BOHARE,Department of Anthropology,8,8,8,8,9,8,9,8
+20215752030,NIWEDITA,Department of Anthropology,8,8,8,8,9,8,9,8
+20215752031,PAWAN,Department of Anthropology,8,8,7,8,8,8,9,9
+20215752032,PRAISEY SAJEEV ARAKAL,Department of Anthropology,8,8,8,8,9,9,9,9
+20215752033,PREETY MONILISHA,Department of Anthropology,7,8,8,7,8,8,8,8
+20215752034,RAJUL CHADHA,Department of Anthropology,7,8,8,8,8,8,8,8
+20215752035,RITU,Department of Anthropology,7,8,8,9,8,8,9,9
+20215752036,SANJANA CHAUDHARY,Department of Anthropology,7,8,8,8,8,8,8,8
+20215752037,SHIFAS FIROSE,Department of Anthropology,7,8,7,7,8,8,8,8
+20215752038,SHIVANI,Department of Anthropology,8,9,8,8,8,9,8,9
+20215752039,SHIVANI,Department of Anthropology,9,9,8,9,9,9,9,10
+20215752040,SHIVANI,Department of Anthropology,8,8,8,8,8,8,9,8
+20215752041,SIMRAN CHANDOLA,Department of Anthropology,8,8,8,8,9,8,9,8
+20215752042,SONAM YANGZIN,Department of Anthropology,7,8,7,7,8,8,8,8
+20215752044,VAISHALLI,Department of Anthropology,7,7,7,7,8,8,8,8
+20215752045,VIJAY KUMAR,Department of Anthropology,8,8,7,8,8,8,8,8
+20215752046,INU GODAK,Department of Anthropology,7,7,6,7,8,8,8,8

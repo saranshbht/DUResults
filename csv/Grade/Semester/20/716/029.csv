@@ -1,28 +1,27 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20029716001,ANU GUPTA,I.P.College For Women,6.75,6.750
-20029716002,Atone Kezo,I.P.College For Women,6.75,6.750
-20029716003,Ayushi Gusain,I.P.College For Women,6.00,6.000
-20029716004,Diksha Raghuvanshi,I.P.College For Women,6.50,6.500
-20029716005,Dixita Sonowal,I.P.College For Women,6.75,6.750
-20029716006,HARSHA,I.P.College For Women,6.25,6.250
-20029716007,Harshita Kumari,I.P.College For Women,7.00,7.000
-20029716008,Harshita Shankar,I.P.College For Women,7.25,7.250
-20029716009,Isha Pawar,I.P.College For Women,6.00,6.000
-20029716010,Kajal devi,I.P.College For Women,6.00,6.000
-20029716011,Kanza Naseem,I.P.College For Women,6.75,6.750
-20029716012,KM PRATEEKSHA GUPTA,I.P.College For Women,7.00,7.000
-20029716013,MARTINA PRAKASH,I.P.College For Women,6.75,6.750
-20029716014,Ngangom Jinita,I.P.College For Women,6.25,6.250
-20029716015,Nini Benny,I.P.College For Women,6.75,6.750
-20029716016,Pinkey,I.P.College For Women,6.25,6.250
-20029716017,Priya kumawat,I.P.College For Women,6.75,6.750
-20029716018,Priyanka,I.P.College For Women,6.00,6.000
-20029716019,Sandhya Singh,I.P.College For Women,7.25,7.250
-20029716020,sanyukta,I.P.College For Women,6.75,6.750
-20029716021,Sonia Devi,I.P.College For Women,6.00,6.000
-20029716022,Sorokhaibam Rishita Devi,I.P.College For Women,7.25,7.250
-20029716023,SRIJANI DAS,I.P.College For Women,6.50,6.500
-20029716024,Tanya,I.P.College For Women,7.00,7.000
-20029716025,TARA,I.P.College For Women,4.50,4.500
-20029716026,Pinkey,I.P.College For Women,0.00,0.000
-20029716027,PREETIKA NAG,I.P.College For Women,7.00,7.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20029716001,ANU GUPTA,I.P.College For Women,6.75,7.00,6.875
+20029716002,Atone Kezo,I.P.College For Women,6.75,7.25,7.000
+20029716003,Ayushi Gusain,I.P.College For Women,6.00,6.00,6.000
+20029716004,Diksha Raghuvanshi,I.P.College For Women,6.50,6.00,6.250
+20029716005,Dixita Sonowal,I.P.College For Women,6.75,7.00,6.875
+20029716006,HARSHA,I.P.College For Women,6.25,7.00,6.625
+20029716007,Harshita Kumari,I.P.College For Women,7.00,7.00,7.000
+20029716008,Harshita Shankar,I.P.College For Women,7.25,7.50,7.375
+20029716009,Isha Pawar,I.P.College For Women,6.00,6.00,6.000
+20029716010,Kajal devi,I.P.College For Women,6.00,6.75,6.375
+20029716011,Kanza Naseem,I.P.College For Women,6.75,7.25,7.000
+20029716012,KM PRATEEKSHA GUPTA,I.P.College For Women,7.00,7.00,7.000
+20029716013,MARTINA PRAKASH,I.P.College For Women,6.75,7.25,7.000
+20029716014,Ngangom Jinita,I.P.College For Women,6.25,6.75,6.500
+20029716015,Nini Benny,I.P.College For Women,6.75,7.00,6.875
+20029716016,Pinkey,I.P.College For Women,6.25,6.25,6.250
+20029716017,Priya kumawat,I.P.College For Women,6.75,7.25,7.000
+20029716018,Priyanka,I.P.College For Women,6.00,7.00,6.500
+20029716019,Sandhya Singh,I.P.College For Women,7.25,7.25,7.250
+20029716020,sanyukta,I.P.College For Women,6.75,7.00,6.875
+20029716021,Sonia Devi,I.P.College For Women,6.00,7.00,6.500
+20029716022,Sorokhaibam Rishita Devi,I.P.College For Women,7.25,7.00,7.125
+20029716023,SRIJANI DAS,I.P.College For Women,6.50,7.00,6.750
+20029716024,Tanya,I.P.College For Women,7.00,7.25,7.125
+20029716025,TARA,I.P.College For Women,4.50,6.75,5.625
+20029716027,PREETIKA NAG,I.P.College For Women,7.00,7.00,7.000

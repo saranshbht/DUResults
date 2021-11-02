@@ -1,36 +1,36 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20047740001,ANSHIKA TRIPATHI,Miranda House,8.50,8.500
-20047740002,Deepanshi Gandheel,Miranda House,8.50,8.500
-20047740003,Inderdeep kaur,Miranda House,8.50,8.500
-20047740004,Mukti Singhai,Miranda House,8.25,8.250
-20047740005,NGAWANG YANGA,Miranda House,7.75,7.750
-20047740006,Nusrat choudhary,Miranda House,7.50,7.500
-20047740007,SHROMONA DAS,Miranda House,8.25,8.250
-20047740008,UPASANA DEKA,Miranda House,8.00,8.000
-20047740009,Dejna Daulagupu,Miranda House,8.00,8.000
-20047740010,Shweta Kumari,Miranda House,8.00,8.000
-20047740011,GARGI MITRA,Miranda House,8.25,8.250
-20025740001,Akansha Rana,Hans Raj College,8.00,8.000
-20025740002,Archna Yadav,Hans Raj College,8.50,8.500
-20025740003,Divyansha Khajuria,Hans Raj College,8.75,8.750
-20025740004,Girdhari Chaudhary,Hans Raj College,8.00,8.000
-20025740005,harshita priyadarshini,Hans Raj College,8.25,8.250
-20025740006,Karan Kashyap,Hans Raj College,7.00,7.000
-20025740007,Kavya Raj,Hans Raj College,8.25,8.250
-20025740009,M VYSHNAVI,Hans Raj College,8.00,8.000
-20025740010,Oishi Choudhury,Hans Raj College,8.00,8.000
-20025740011,PRIYOSMITA DAS,Hans Raj College,8.25,8.250
-20025740012,RASHI THAKUR,Hans Raj College,8.00,8.000
-20025740013,Shahnaz Fatima,Hans Raj College,7.75,7.750
-20025740014,Sohini Bhattacharya,Hans Raj College,8.25,8.250
-20025740015,Sumeet Gouda,Hans Raj College,7.75,7.750
-20025740016,Tina Nayak,Hans Raj College,8.25,8.250
-20025740017,Tvisha Mohan,Hans Raj College,8.50,8.500
-20025740018,UDDIPANA SARMA,Hans Raj College,8.25,8.250
-20025740019,VIJAY YADAV,Hans Raj College,7.75,7.750
-20025740020,Yogesh Kumar Kataria,Hans Raj College,7.50,7.500
-20025740021,KHULLAKPAM ALIM,Hans Raj College,7.25,7.250
-20025740022,Sanjoy Akoijam,Hans Raj College,8.00,8.000
-20025740023,Somya Singh,Hans Raj College,7.50,7.500
-20025740024,Vaishali,Hans Raj College,7.75,7.750
-20025740025,SUKANYA GUHA NIYOGI,Hans Raj College,8.00,8.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20047740001,ANSHIKA TRIPATHI,Miranda House,8.50,7.73,8.130
+20047740002,Deepanshi Gandheel,Miranda House,8.50,8.00,8.261
+20047740003,Inderdeep kaur,Miranda House,8.50,8.27,8.391
+20047740004,Mukti Singhai,Miranda House,8.25,8.27,8.261
+20047740005,NGAWANG YANGA,Miranda House,7.75,7.00,7.391
+20047740006,Nusrat choudhary,Miranda House,7.50,7.55,7.522
+20047740007,SHROMONA DAS,Miranda House,8.25,8.00,8.130
+20047740008,UPASANA DEKA,Miranda House,8.00,8.00,8.000
+20047740010,Shweta Kumari,Miranda House,8.00,7.45,7.739
+20047740011,GARGI MITRA,Miranda House,8.25,8.00,8.130
+20025740001,Akansha Rana,Hans Raj College,8.00,7.73,7.870
+20025740002,Archna Yadav,Hans Raj College,8.50,8.00,8.261
+20025740003,Divyansha Khajuria,Hans Raj College,8.75,9.00,8.870
+20025740004,Girdhari Chaudhary,Hans Raj College,8.00,7.73,7.870
+20025740005,harshita priyadarshini,Hans Raj College,8.25,8.45,8.348
+20025740006,Karan Kashyap,Hans Raj College,7.00,6.45,6.739
+20025740007,Kavya Raj,Hans Raj College,8.25,8.00,8.130
+20025740008,KUMUD VERMA,Hans Raj College,8.25,8.45,8.348
+20025740009,M VYSHNAVI,Hans Raj College,8.00,8.27,8.130
+20025740010,Oishi Choudhury,Hans Raj College,8.00,8.27,8.130
+20025740011,PRIYOSMITA DAS,Hans Raj College,8.25,8.00,8.130
+20025740012,RASHI THAKUR,Hans Raj College,8.00,8.27,8.130
+20025740013,Shahnaz Fatima,Hans Raj College,7.75,6.45,7.130
+20025740014,Sohini Bhattacharya,Hans Raj College,8.25,8.00,8.130
+20025740015,Sumeet Gouda,Hans Raj College,7.75,7.27,7.522
+20025740016,Tina Nayak,Hans Raj College,8.25,8.00,8.130
+20025740017,Tvisha Mohan,Hans Raj College,8.50,9.00,8.739
+20025740018,UDDIPANA SARMA,Hans Raj College,8.25,7.73,8.000
+20025740019,VIJAY YADAV,Hans Raj College,7.75,8.00,7.870
+20025740020,Yogesh Kumar Kataria,Hans Raj College,7.50,7.45,7.478
+20025740021,KHULLAKPAM ALIM,Hans Raj College,7.25,5.73,6.522
+20025740022,Sanjoy Akoijam,Hans Raj College,8.00,8.18,8.087
+20025740023,Somya Singh,Hans Raj College,7.50,7.45,7.478
+20025740024,Vaishali,Hans Raj College,7.75,7.18,7.478
+20025740025,SUKANYA GUHA NIYOGI,Hans Raj College,8.00,8.00,8.000

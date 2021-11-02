@@ -1,8 +1,8 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20085716001,Anurag Shukla,Zakir Husain Delhi College (Day),6.00,6.000
-20085716002,Ashutosh kumar,Zakir Husain Delhi College (Day),6.00,6.000
-20085716003,Binita Laishram,Zakir Husain Delhi College (Day),6.75,6.750
-20085716004,HAIDAR ALI,Zakir Husain Delhi College (Day),6.00,6.000
-20085716005,MD. SHAHID KHAN,Zakir Husain Delhi College (Day),7.00,7.000
-20085716006,ROHIT,Zakir Husain Delhi College (Day),5.25,5.250
-20085716007,Saba Shah,Zakir Husain Delhi College (Day),6.75,6.750
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20085716001,Anurag Shukla,Zakir Husain Delhi College (Day),6.00,7.00,6.500
+20085716002,Ashutosh kumar,Zakir Husain Delhi College (Day),6.00,7.00,6.500
+20085716003,Binita Laishram,Zakir Husain Delhi College (Day),6.75,6.25,6.500
+20085716004,HAIDAR ALI,Zakir Husain Delhi College (Day),6.00,6.50,6.250
+20085716005,MD. SHAHID KHAN,Zakir Husain Delhi College (Day),7.00,7.00,7.000
+20085716006,Rohit,Zakir Husain Delhi College (Day),5.25,6.00,5.625
+20085716007,Saba Shah,Zakir Husain Delhi College (Day),6.75,7.25,7.000
