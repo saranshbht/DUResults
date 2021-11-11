@@ -1,11 +1,10 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20044724001,Anushka Sikka,Mata Sundri College For Women,6.25,6.250
-20044724002,GAURI KHANNA,Mata Sundri College For Women,6.75,6.750
-20044724003,ishita kocharr,Mata Sundri College For Women,6.50,6.500
-20044724004,Krittika Lohani,Mata Sundri College For Women,6.25,6.250
-20044724005,NIHAREEKA DOBHAL,Mata Sundri College For Women,6.50,6.500
-20044724006,PALLAVY GAUR,Mata Sundri College For Women,6.00,6.000
-20044724007,Priya Sinha,Mata Sundri College For Women,6.75,6.750
-20044724008,Ravleen Kour,Mata Sundri College For Women,6.75,6.750
-20044724009,VAISHALI BHATIA,Mata Sundri College For Women,6.50,6.500
-20044724010,Joshita Jawa,Mata Sundri College For Women,6.25,6.250
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20044724001,Anushka Sikka,Mata Sundri College For Women,6.25,6.78,6.500
+20044724002,GAURI KHANNA,Mata Sundri College For Women,6.75,6.00,6.395
+20044724003,ishita kocharr,Mata Sundri College For Women,6.50,6.50,6.500
+20044724004,Krittika Lohani,Mata Sundri College For Women,6.25,6.00,6.132
+20044724005,NIHAREEKA DOBHAL,Mata Sundri College For Women,6.50,6.00,6.263
+20044724006,PALLAVY GAUR,Mata Sundri College For Women,6.00,6.00,6.000
+20044724008,Ravleen Kour,Mata Sundri College For Women,6.75,7.28,7.000
+20044724009,VAISHALI BHATIA,Mata Sundri College For Women,6.50,6.78,6.632
+20044724010,Joshita Jawa,Mata Sundri College For Women,6.25,6.72,6.474

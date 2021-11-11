@@ -1,25 +1,22 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20039724001,ANJALI CHAUDHARY,Lady Shri Ram College for Women,6.50,6.500
-20039724002,Anjali Saini,Lady Shri Ram College for Women,6.25,6.250
-20039724003,Anu John,Lady Shri Ram College for Women,6.25,6.250
-20039724004,Bhavika Behal,Lady Shri Ram College for Women,7.00,7.000
-20039724005,Deepmala,Lady Shri Ram College for Women,6.50,6.500
-20039724006,Gautami Nair,Lady Shri Ram College for Women,6.50,6.500
-20039724007,KM DEEPNA,Lady Shri Ram College for Women,5.75,5.750
-20039724008,Kritika Kumari,Lady Shri Ram College for Women,6.75,6.750
-20039724009,NIDHI,Lady Shri Ram College for Women,6.50,6.500
-20039724010,Noopur Tanwar,Lady Shri Ram College for Women,6.75,6.750
-20039724011,Pallavi Aggarwal,Lady Shri Ram College for Women,6.50,6.500
-20039724012,Sanghamitra Sarma,Lady Shri Ram College for Women,6.25,6.250
-20039724013,SANSKRITI YADAV,Lady Shri Ram College for Women,6.50,6.500
-20039724015,Shivani Nagar,Lady Shri Ram College for Women,6.25,6.250
-20039724016,Shristy chauhan,Lady Shri Ram College for Women,6.50,6.500
-20039724017,Shubhangi Jain,Lady Shri Ram College for Women,6.50,6.500
-20039724018,Swati Verma,Lady Shri Ram College for Women,6.25,6.250
-20039724019,Tanushree Das,Lady Shri Ram College for Women,0.00,0.000
-20039724020,Urvashi Yadav,Lady Shri Ram College for Women,0.00,0.000
-20039724021,Wahida Karimi,Lady Shri Ram College for Women,5.75,5.750
-20039724022,ZAWBIA AKHTER,Lady Shri Ram College for Women,6.50,6.500
-20039724023,Himanshi Mathur,Lady Shri Ram College for Women,6.75,6.750
-20039724024,Jayashree Narzary,Lady Shri Ram College for Women,6.25,6.250
-20039724025,Punam kumari,Lady Shri Ram College for Women,6.75,6.750
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20039724001,ANJALI CHAUDHARY,Lady Shri Ram College for Women,6.50,6.78,6.632
+20039724002,Anjali Saini,Lady Shri Ram College for Women,6.25,6.28,6.263
+20039724003,Anu John,Lady Shri Ram College for Women,6.25,6.00,6.132
+20039724004,Bhavika Behal,Lady Shri Ram College for Women,7.00,6.22,6.632
+20039724005,Deepmala,Lady Shri Ram College for Women,6.50,6.22,6.368
+20039724006,Gautami Nair,Lady Shri Ram College for Women,6.50,7.28,6.868
+20039724007,KM DEEPNA,Lady Shri Ram College for Women,5.75,6.00,5.868
+20039724008,Kritika Kumari,Lady Shri Ram College for Women,6.75,7.00,6.868
+20039724009,NIDHI,Lady Shri Ram College for Women,6.50,6.22,6.368
+20039724010,Noopur Tanwar,Lady Shri Ram College for Women,6.75,7.00,6.868
+20039724011,Pallavi Aggarwal,Lady Shri Ram College for Women,6.50,6.78,6.632
+20039724012,Sanghamitra Sarma,Lady Shri Ram College for Women,6.25,6.78,6.500
+20039724013,SANSKRITI YADAV,Lady Shri Ram College for Women,6.50,7.00,6.737
+20039724015,Shivani Nagar,Lady Shri Ram College for Women,6.25,6.28,6.263
+20039724016,Shristy chauhan,Lady Shri Ram College for Women,6.50,6.28,6.395
+20039724017,Shubhangi Jain,Lady Shri Ram College for Women,6.50,6.50,6.500
+20039724018,Swati Verma,Lady Shri Ram College for Women,6.25,6.28,6.263
+20039724022,ZAWBIA AKHTER,Lady Shri Ram College for Women,6.50,7.00,6.737
+20039724023,Himanshi Mathur,Lady Shri Ram College for Women,6.75,6.22,6.500
+20039724024,Jayashree Narzary,Lady Shri Ram College for Women,6.25,6.28,6.263
+20039724025,Punam kumari,Lady Shri Ram College for Women,6.75,6.78,6.763

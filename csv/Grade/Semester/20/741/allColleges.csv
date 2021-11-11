@@ -1,17 +1,15 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20249741001,A AKHIL KUMAR,Department of Bio-chemistry,8.67,8.667
-20249741002,AARTI RATHI,Department of Bio-chemistry,7.50,7.500
-20249741003,DIVYA DHIMAN,Department of Bio-chemistry,7.83,7.833
-20249741004,HARIPRIYA SANTOSH,Department of Bio-chemistry,7.67,7.667
-20249741005,JUHI,Department of Bio-chemistry,7.67,7.667
-20249741006,LAXMI CHAUDHARY,Department of Bio-chemistry,7.50,7.500
-20249741007,MANSI TANWAR,Department of Bio-chemistry,8.33,8.333
-20249741008,NEHA,Department of Bio-chemistry,7.67,7.667
-20249741009,PREETI,Department of Bio-chemistry,8.17,8.167
-20249741010,RITIKA BASSI,Department of Bio-chemistry,8.50,8.500
-20249741011,RITIKA SHARMA,Department of Bio-chemistry,7.67,7.667
-20249741012,SHIVANI,Department of Bio-chemistry,4.50,4.500
-20249741013,SHIVANI GAUTAM,Department of Bio-chemistry,0.00,0.000
-20249741014,SHUBHANGI BASSI,Department of Bio-chemistry,8.33,8.333
-20249741015,SURBHI CHAUHAN,Department of Bio-chemistry,8.00,8.000
-20249741016,VANSHIKA YADAV,Department of Bio-chemistry,7.33,7.333
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20249741001,A AKHIL KUMAR,Department of Bio-chemistry,8.67,9.00,8.833
+20249741002,AARTI RATHI,Department of Bio-chemistry,7.50,7.67,7.583
+20249741003,DIVYA DHIMAN,Department of Bio-chemistry,7.83,7.33,7.583
+20249741004,HARIPRIYA SANTOSH,Department of Bio-chemistry,7.67,7.67,7.667
+20249741005,JUHI,Department of Bio-chemistry,7.67,7.67,7.667
+20249741006,LAXMI CHAUDHARY,Department of Bio-chemistry,7.50,7.67,7.583
+20249741007,MANSI TANWAR,Department of Bio-chemistry,8.33,8.67,8.500
+20249741008,NEHA,Department of Bio-chemistry,7.67,8.17,7.917
+20249741009,PREETI,Department of Bio-chemistry,8.17,8.67,8.417
+20249741010,RITIKA BASSI,Department of Bio-chemistry,8.50,8.67,8.583
+20249741011,RITIKA SHARMA,Department of Bio-chemistry,7.67,7.67,7.667
+20249741012,SHIVANI,Department of Bio-chemistry,4.50,6.50,5.500
+20249741015,SURBHI CHAUHAN,Department of Bio-chemistry,8.00,8.00,8.000
+20249741016,VANSHIKA YADAV,Department of Bio-chemistry,7.33,7.67,7.500

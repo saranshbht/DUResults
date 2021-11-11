@@ -1,22 +1,20 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20085724001,AKSHAT PRATAP SINGH,Zakir Husain Delhi College (Day),6.25,6.250
-20085724002,AMARDEEP CHAUHAN,Zakir Husain Delhi College (Day),0.00,0.000
-20085724003,Aziz Rahman Habibi,Zakir Husain Delhi College (Day),5.50,5.500
-20085724004,DEEPAK KUMAR GUPTA,Zakir Husain Delhi College (Day),6.00,6.000
-20085724005,Ishmeet Singh,Zakir Husain Delhi College (Day),6.25,6.250
-20085724006,JAGDISH KUMAWAT,Zakir Husain Delhi College (Day),5.75,5.750
-20085724007,KANCHAN KUMARI,Zakir Husain Delhi College (Day),6.00,6.000
-20085724008,MD NADIYAS KOMOL,Zakir Husain Delhi College (Day),6.25,6.250
-20085724009,Pradhyumn kushwaha,Zakir Husain Delhi College (Day),6.25,6.250
-20085724010,Presenjit chauhan,Zakir Husain Delhi College (Day),6.00,6.000
-20085724011,Rajeeb Lakra,Zakir Husain Delhi College (Day),6.25,6.250
-20085724012,RAJU KUMAR MISHRA,Zakir Husain Delhi College (Day),6.00,6.000
-20085724013,Reshma Joy,Zakir Husain Delhi College (Day),6.50,6.500
-20085724014,SACHIN SHARMA,Zakir Husain Delhi College (Day),6.25,6.250
-20085724015,SAJID ALI WANI,Zakir Husain Delhi College (Day),6.00,6.000
-20085724016,SHAKEEBA MOIDU,Zakir Husain Delhi College (Day),6.50,6.500
-20085724017,SOFIYA ALI,Zakir Husain Delhi College (Day),6.50,6.500
-20085724018,Sonal Sweety,Zakir Husain Delhi College (Day),6.50,6.500
-20085724019,Surendra kumar,Zakir Husain Delhi College (Day),5.75,5.750
-20085724020,SYED INSHA,Zakir Husain Delhi College (Day),6.75,6.750
-20085724021,Vikash Kumar,Zakir Husain Delhi College (Day),6.50,6.500
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20085724002,Amardeep Chauhan,Zakir Husain Delhi College (Day),6.00,6.00,6.000
+20085724003,Aziz Rahman Habibi,Zakir Husain Delhi College (Day),5.50,6.00,5.737
+20085724004,DEEPAK KUMAR GUPTA,Zakir Husain Delhi College (Day),6.00,6.00,6.000
+20085724005,Ishmeet Singh,Zakir Husain Delhi College (Day),6.25,6.00,6.132
+20085724006,JAGDISH KUMAWAT,Zakir Husain Delhi College (Day),5.75,5.78,5.763
+20085724007,Kanchan kumari,Zakir Husain Delhi College (Day),6.00,6.00,6.000
+20085724008,MD NADIYAS KOMOL,Zakir Husain Delhi College (Day),6.25,6.28,6.263
+20085724009,Pradhyumn kushwaha,Zakir Husain Delhi College (Day),6.25,6.00,6.132
+20085724010,Presenjit chauhan,Zakir Husain Delhi College (Day),6.00,6.00,6.000
+20085724011,Rajeeb Lakra,Zakir Husain Delhi College (Day),6.25,6.00,6.132
+20085724012,RAJU KUMAR MISHRA,Zakir Husain Delhi College (Day),6.00,6.00,6.000
+20085724013,Reshma Joy,Zakir Husain Delhi College (Day),6.50,6.00,6.263
+20085724015,SAJID ALI WANI,Zakir Husain Delhi College (Day),6.00,6.28,6.132
+20085724016,shakeeba moidu,Zakir Husain Delhi College (Day),6.50,6.00,6.263
+20085724017,Sofiya Ali,Zakir Husain Delhi College (Day),6.50,7.44,6.947
+20085724018,Sonal Sweety,Zakir Husain Delhi College (Day),6.50,6.22,6.368
+20085724019,Surendra kumar,Zakir Husain Delhi College (Day),5.75,5.06,5.421
+20085724020,Syed Insha,Zakir Husain Delhi College (Day),6.75,6.28,6.526
+20085724021,Vikash Kumar,Zakir Husain Delhi College (Day),6.50,6.28,6.395

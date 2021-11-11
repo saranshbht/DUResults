@@ -1,16 +1,15 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20039723001,Amisha Deep,Lady Shri Ram College for Women,6.00,6.000
-20039723002,Deeksha Aggarwal,Lady Shri Ram College for Women,7.50,7.500
-20039723003,Garima Boken,Lady Shri Ram College for Women,6.50,6.500
-20039723004,Himani,Lady Shri Ram College for Women,6.00,6.000
-20039723005,Jayati Bhardwaj,Lady Shri Ram College for Women,6.25,6.250
-20039723006,Karishma Moral,Lady Shri Ram College for Women,6.00,6.000
-20039723007,Nutanshree Tayenjam,Lady Shri Ram College for Women,7.00,7.000
-20039723008,Priyanka Singh,Lady Shri Ram College for Women,6.75,6.750
-20039723009,Ritu Saha,Lady Shri Ram College for Women,6.75,6.750
-20039723010,Shalu Yadav,Lady Shri Ram College for Women,6.25,6.250
-20039723011,SHEETAL ANAND,Lady Shri Ram College for Women,6.75,6.750
-20039723012,Shivani Kochar,Lady Shri Ram College for Women,7.50,7.500
-20039723013,Srijoni Hore,Lady Shri Ram College for Women,7.00,7.000
-20039723014,Tinu,Lady Shri Ram College for Women,5.75,5.750
-20039723015,STUTI GUPTA,Lady Shri Ram College for Women,6.00,6.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20039723001,Amisha Deep,Lady Shri Ram College for Women,6.00,6.00,6.000
+20039723002,Deeksha Aggarwal,Lady Shri Ram College for Women,7.50,7.21,7.341
+20039723003,Garima Boken,Lady Shri Ram College for Women,6.50,5.38,5.886
+20039723004,Himani,Lady Shri Ram College for Women,6.00,5.21,5.568
+20039723005,Jayati Bhardwaj,Lady Shri Ram College for Women,6.25,7.79,7.091
+20039723006,Karishma Moral,Lady Shri Ram College for Women,6.00,6.21,6.114
+20039723007,Nutanshree Tayenjam,Lady Shri Ram College for Women,7.00,8.00,7.545
+20039723008,Priyanka Singh,Lady Shri Ram College for Women,6.75,6.79,6.773
+20039723009,Ritu Saha,Lady Shri Ram College for Women,6.75,7.21,7.000
+20039723011,SHEETAL ANAND,Lady Shri Ram College for Women,6.75,6.38,6.545
+20039723012,Shivani Kochar,Lady Shri Ram College for Women,7.50,7.00,7.227
+20039723013,Srijoni Hore,Lady Shri Ram College for Women,7.00,7.21,7.114
+20039723014,Tinu,Lady Shri Ram College for Women,5.75,5.04,5.364
+20039723015,STUTI GUPTA,Lady Shri Ram College for Women,6.00,6.79,6.432

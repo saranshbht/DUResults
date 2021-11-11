@@ -1,361 +1,352 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20039708001,Arushi Brotia,Lady Shri Ram College for Women,6.25,6.250
-20039708002,Chetna Mavi,Lady Shri Ram College for Women,6.00,6.000
-20039708003,Janvi Talyan,Lady Shri Ram College for Women,0.00,0.000
-20039708004,MISHA PANDUVAL,Lady Shri Ram College for Women,4.50,4.500
-20039708005,Plabita Barman,Lady Shri Ram College for Women,5.75,5.750
-20039708006,Prachi Kadian,Lady Shri Ram College for Women,7.00,7.000
-20039708007,Prerna Priya,Lady Shri Ram College for Women,6.50,6.500
-20039708008,PRIYANSHA DALMIA,Lady Shri Ram College for Women,7.00,7.000
-20039708009,Radhika Gupta,Lady Shri Ram College for Women,7.00,7.000
-20039708010,RAJNI,Lady Shri Ram College for Women,6.25,6.250
-20039708011,Rushali Daryani,Lady Shri Ram College for Women,7.00,7.000
-20039708012,Sashrika Pathak,Lady Shri Ram College for Women,7.00,7.000
-20039708013,Tanya Gupta,Lady Shri Ram College for Women,6.00,6.000
-20039708014,Vartika Walani,Lady Shri Ram College for Women,7.00,7.000
-20039708015,Yukta Aggarwal,Lady Shri Ram College for Women,6.25,6.250
-20039708016,kanchan chandila,Lady Shri Ram College for Women,5.25,5.250
-20034708001,Albeena Alvi,Kamla Nehru College,7.00,7.000
-20034708002,Angelina Rao,Kamla Nehru College,7.50,7.500
-20034708003,Aryata Nandi,Kamla Nehru College,6.75,6.750
-20034708004,ATREYEE CHAKRABORTY,Kamla Nehru College,7.00,7.000
-20034708005,Geetanjali Naiding,Kamla Nehru College,7.00,7.000
-20034708006,Ishita Sharma,Kamla Nehru College,6.75,6.750
-20034708007,KALYANI,Kamla Nehru College,7.25,7.250
-20034708008,Manshi Yadav,Kamla Nehru College,7.00,7.000
-20034708009,Muskan Chhatwani,Kamla Nehru College,6.50,6.500
-20034708010,PRIYA SHARMA,Kamla Nehru College,6.50,6.500
-20034708011,Raghvi Yadav,Kamla Nehru College,6.25,6.250
-20034708012,Riya Dhama,Kamla Nehru College,6.00,6.000
-20029708001,Aditi Tyagi,I.P.College For Women,7.25,7.250
-20029708002,Akansha Sur,I.P.College For Women,7.00,7.000
-20029708003,ARDHYA LAKRA,I.P.College For Women,6.25,6.250
-20029708004,Bhupinder kour,I.P.College For Women,7.00,7.000
-20029708006,Lotus Gogoi,I.P.College For Women,6.75,6.750
-20029708007,Muskan Verma,I.P.College For Women,6.25,6.250
-20029708008,Nandi,I.P.College For Women,6.25,6.250
-20029708009,Onchulee Narzy,I.P.College For Women,6.50,6.500
-20029708010,Pallavi Gautam,I.P.College For Women,6.25,6.250
-20029708011,RAMNIK KAUR,I.P.College For Women,6.50,6.500
-20029708012,Ranjana Puri,I.P.College For Women,6.25,6.250
-20029708013,Rushali Sharma,I.P.College For Women,6.50,6.500
-20029708014,Shivani Gautam,I.P.College For Women,7.00,7.000
-20029708015,SURBHI,I.P.College For Women,6.50,6.500
-20029708016,SURBHI ARORA,I.P.College For Women,6.50,6.500
-20029708017,SWAGATA CHAKRABORTY,I.P.College For Women,7.25,7.250
-20029708018,SRISTI CHHETRY,I.P.College For Women,6.50,6.500
-20021708001,FLORINA DEVI HEMAM,Dyal Singh College (Day),6.00,6.000
-20021708002,GAJENDRA YADAV,Dyal Singh College (Day),7.00,7.000
-20021708003,MOHD FARRUKH JAMAL,Dyal Singh College (Day),6.50,6.500
-20021708004,MONIKA RAJ,Dyal Singh College (Day),6.50,6.500
-20021708005,MUSKAN LATHER,Dyal Singh College (Day),6.75,6.750
-20021708006,NIKITA AKHULI,Dyal Singh College (Day),6.75,6.750
-20021708007,NILAVO CHANDRA,Dyal Singh College (Day),6.75,6.750
-20021708008,PARAMBA DADHICH,Dyal Singh College (Day),7.00,7.000
-20021708009,PRASHANT JHAJHRIA,Dyal Singh College (Day),5.00,5.000
-20021708010,RAMYANI SARKAR,Dyal Singh College (Day),6.75,6.750
-20021708011,SAIFULLAH,Dyal Singh College (Day),6.75,6.750
-20021708012,SNEJUTI DUTTA,Dyal Singh College (Day),7.25,7.250
-20021708013,TITASH BASU,Dyal Singh College (Day),7.50,7.500
-20021708014,VIOLEENA BORA,Dyal Singh College (Day),6.25,6.250
-20021708015,VISHWANATH,Dyal Singh College (Day),6.25,6.250
-20026708001,Aayush Kumar Mishra,Hindu College,0.00,0.000
-20026708002,ABHINAV BHARDWAJ,Hindu College,7.25,7.250
-20026708003,Adya Gaur,Hindu College,6.75,6.750
-20026708005,Ambika Sarker,Hindu College,6.25,6.250
-20026708006,AMIT KUMAR,Hindu College,6.50,6.500
-20026708007,ANANYA,Hindu College,7.00,7.000
-20026708008,Anushka Swaroop,Hindu College,6.50,6.500
-20026708009,APURVA,Hindu College,6.50,6.500
-20026708010,Deepshikha,Hindu College,6.25,6.250
-20026708011,Gulzar Hussain,Hindu College,6.50,6.500
-20026708012,LAKSHMI NANDANA S,Hindu College,6.75,6.750
-20026708013,Maria Sebastian,Hindu College,7.00,7.000
-20026708015,Pranav Ranjan,Hindu College,6.50,6.500
-20026708016,PRASHANT CHAUDHARY,Hindu College,7.75,7.750
-20026708017,Priyanshu,Hindu College,7.00,7.000
-20026708018,ROHIT KUMAR,Hindu College,6.50,6.500
-20026708020,SABHA GAYAS,Hindu College,7.00,7.000
-20026708021,Seram Korounganba Singh,Hindu College,6.25,6.250
-20026708022,Shantanu Mishra,Hindu College,6.75,6.750
-20026708023,Shashwat Tyagi,Hindu College,6.75,6.750
-20026708024,Sukanya Saha,Hindu College,7.00,7.000
-20026708026,Surbhi Bhatia,Hindu College,6.25,6.250
-20026708027,Upasana Tumung,Hindu College,6.75,6.750
-20026708028,VANDNA,Hindu College,6.75,6.750
-20026708029,Vivek Babbar,Hindu College,6.50,6.500
-20026708030,Yogita pal,Hindu College,6.75,6.750
-20026708031,Ananya Anindita,Hindu College,6.50,6.500
-20026708032,WANMUHAMMADLUTFEE TOHNAHUN,Hindu College,0.00,0.000
-20025708001,AASHNA,Hans Raj College,5.75,5.750
-20025708002,Adarsh Kumar,Hans Raj College,6.50,6.500
-20025708003,AKANKSHA,Hans Raj College,7.00,7.000
-20025708004,ANANDITA SARASWAT,Hans Raj College,7.00,7.000
-20025708005,BIPASHA DEORI,Hans Raj College,6.75,6.750
-20025708006,Fleming Biju,Hans Raj College,7.00,7.000
-20025708007,KIRTI DALAL,Hans Raj College,6.50,6.500
-20025708008,KUSUM LATA,Hans Raj College,6.00,6.000
-20025708009,Muskaan Kaur,Hans Raj College,7.00,7.000
-20025708010,NAMAN KUMAR MEENA,Hans Raj College,7.00,7.000
-20025708011,Neha Gangmei,Hans Raj College,7.00,7.000
-20025708012,Prachi Sharma,Hans Raj College,7.25,7.250
-20025708013,Prashant Raj,Hans Raj College,7.00,7.000
-20025708014,Saif Ali Khan,Hans Raj College,6.75,6.750
-20025708015,Sakshi Chauhan,Hans Raj College,6.75,6.750
-20025708016,SHIV NAYAN PRAKASH,Hans Raj College,6.50,6.500
-20025708017,Shreeja,Hans Raj College,6.50,6.500
-20025708018,shubhra verma,Hans Raj College,6.50,6.500
-20025708019,Unnati Singh,Hans Raj College,6.75,6.750
-20025708020,Ashu Yadav,Hans Raj College,6.50,6.500
-20025708021,Daniya Yousuf,Hans Raj College,6.75,6.750
-20025708022,Lakshi Chaudhary,Hans Raj College,6.75,6.750
-20025708023,SAGAR CHOPRA,Hans Raj College,2.50,2.500
-20025708024,Tenzin Dechan,Hans Raj College,6.00,6.000
-20025708025,MADHURIMA BURNWAL,Hans Raj College,7.00,7.000
-20025708027,SIDDHANT RATHOUR,Hans Raj College,7.00,7.000
-20025708028,SUNNY,Hans Raj College,5.75,5.750
-20025708029,TAMDIN WANGYAL,Hans Raj College,6.50,6.500
-20025708030,Ananya Praval Vasishtha,Hans Raj College,6.75,6.750
-20025708031,SHARAD RAY,Hans Raj College,6.25,6.250
-20003708001,ANKIT KUMAR,Atma Ram Sanatan Dharam College,7.00,7.000
-20003708002,Aryama Bhattacharya,Atma Ram Sanatan Dharam College,7.25,7.250
-20003708003,Ashwani Kumar,Atma Ram Sanatan Dharam College,6.50,6.500
-20003708004,Ayush Nagvanshi,Atma Ram Sanatan Dharam College,6.50,6.500
-20003708005,Deepjyoti Roy,Atma Ram Sanatan Dharam College,7.50,7.500
-20003708006,BHAVYA SINHA,Atma Ram Sanatan Dharam College,7.00,7.000
-20003708007,Geetanjali rawat,Atma Ram Sanatan Dharam College,6.50,6.500
-20003708008,Gourav kumar,Atma Ram Sanatan Dharam College,6.25,6.250
-20003708009,MUNGSUAN GWITE,Atma Ram Sanatan Dharam College,6.75,6.750
-20003708010,NEHA,Atma Ram Sanatan Dharam College,6.75,6.750
-20003708011,PEIMICHON MS,Atma Ram Sanatan Dharam College,6.50,6.500
-20003708012,Prosenjit Chanda,Atma Ram Sanatan Dharam College,6.00,6.000
-20003708014,Reema khan,Atma Ram Sanatan Dharam College,6.75,6.750
-20003708015,SAMRRIDHYI RUDOLA,Atma Ram Sanatan Dharam College,7.25,7.250
-20003708016,Sant Kumar,Atma Ram Sanatan Dharam College,7.00,7.000
-20003708017,SARITA RANI,Atma Ram Sanatan Dharam College,6.75,6.750
-20003708018,Shashank Mishra,Atma Ram Sanatan Dharam College,7.00,7.000
-20003708019,SNEHA JASSY,Atma Ram Sanatan Dharam College,7.00,7.000
-20003708020,SUDHA KUMARI,Atma Ram Sanatan Dharam College,6.50,6.500
-20031708001,MUSKAN TANWAR,Janki Devi Memorial College,6.75,6.750
-20031708002,NANCY JAIN,Janki Devi Memorial College,5.50,5.500
-20031708003,Neelanshi,Janki Devi Memorial College,6.25,6.250
-20031708004,RITIKA MALIK,Janki Devi Memorial College,6.75,6.750
-20031708005,Ruchika Verma,Janki Devi Memorial College,6.75,6.750
-20031708006,SARGAM AHLUWALIA,Janki Devi Memorial College,6.25,6.250
-20031708007,Souparni Paul,Janki Devi Memorial College,7.00,7.000
-20031708008,SRISHTI HANDA,Janki Devi Memorial College,6.75,6.750
-20031708009,Tanu Yadav,Janki Devi Memorial College,6.50,6.500
-20031708010,Tanyaa Kamra,Janki Devi Memorial College,6.25,6.250
-20031708011,YUMTSO RAKDO,Janki Devi Memorial College,6.50,6.500
-20047708001,Akshada Shrotryia,Miranda House,6.50,6.500
-20047708002,Ananya Malakar,Miranda House,6.75,6.750
-20047708003,Chetanya Godara,Miranda House,7.00,7.000
-20047708004,DEEPIKA JEENWAL,Miranda House,5.50,5.500
-20047708005,Fatma Tanveer,Miranda House,6.75,6.750
-20047708006,HIMANI VERMA,Miranda House,6.00,6.000
-20047708007,Ishani Pant,Miranda House,7.00,7.000
-20047708008,Kriti Rana,Miranda House,7.00,7.000
-20047708009,Prapti Kakati,Miranda House,7.00,7.000
-20047708010,Priyanka,Miranda House,7.00,7.000
-20047708011,PROPA GHOSH,Miranda House,6.50,6.500
-20047708012,Rangoli Sharma,Miranda House,6.25,6.250
-20047708013,SHRUTI PAL,Miranda House,6.50,6.500
-20047708014,Sudha,Miranda House,6.50,6.500
-20047708015,Trishani Ghosh,Miranda House,6.75,6.750
-20047708016,V L Ruati,Miranda House,6.75,6.750
-20047708017,VRINDA GUPTA,Miranda House,7.00,7.000
-20047708018,Ojasvi Kala,Miranda House,6.75,6.750
-20047708019,Devashree Chauhan,Miranda House,7.00,7.000
-20047708020,Shephali,Miranda House,6.00,6.000
-20036708001,AARTI,Kirori Mal College,6.25,6.250
-20036708002,ASHLEY KUMAR,Kirori Mal College,6.50,6.500
-20036708003,Bhumika Singh,Kirori Mal College,6.75,6.750
-20036708004,Dharampal Singh,Kirori Mal College,6.25,6.250
-20036708005,Disha Bharti,Kirori Mal College,6.50,6.500
-20036708006,ESHA RAO,Kirori Mal College,1.00,1.000
-20036708007,Henry Johnson,Kirori Mal College,6.50,6.500
-20036708008,Jahnavi Vaid,Kirori Mal College,7.00,7.000
-20036708009,Megha,Kirori Mal College,6.75,6.750
-20036708010,Megha Mannan,Kirori Mal College,6.75,6.750
-20036708011,NGAHNEITHEM HAOKIP,Kirori Mal College,6.50,6.500
-20036708012,Nitika Chopra,Kirori Mal College,6.25,6.250
-20036708013,Rishav Jaiswal,Kirori Mal College,0.00,0.000
-20036708014,RITESH JORWAL,Kirori Mal College,6.00,6.000
-20036708015,Ritu,Kirori Mal College,6.50,6.500
-20036708016,ROHIT PRITAM,Kirori Mal College,6.25,6.250
-20036708017,RUPAK MIDYA,Kirori Mal College,7.00,7.000
-20036708018,Shailja Kaushik,Kirori Mal College,6.25,6.250
-20036708019,Shruti Kumari,Kirori Mal College,7.00,7.000
-20036708020,SONAM PRIYA,Kirori Mal College,6.75,6.750
-20036708021,Swapnil Singh,Kirori Mal College,6.25,6.250
-20036708022,Swarnim Singh Rokey,Kirori Mal College,4.75,4.750
-20036708023,Swetal Agrawal,Kirori Mal College,6.25,6.250
-20036708024,Tushita Singh,Kirori Mal College,6.50,6.500
-20036708025,Vinita Upadhyay,Kirori Mal College,6.00,6.000
-20036708026,Vishwasni Chand,Kirori Mal College,7.00,7.000
-20036708027,Zarak Rais,Kirori Mal College,7.00,7.000
-20036708028,SARVPREET SINGH,Kirori Mal College,6.00,6.000
-20079708001,Archana Singh,Sri Venkateswara College,6.00,6.000
-20079708002,Astha,Sri Venkateswara College,6.25,6.250
-20079708003,DEEPAK KUMAR GUPTA,Sri Venkateswara College,7.00,7.000
-20079708004,Dhananjay Shiv Devraj,Sri Venkateswara College,6.50,6.500
-20079708005,Geethanjali R,Sri Venkateswara College,7.00,7.000
-20079708006,Gursandesh Singh,Sri Venkateswara College,4.75,4.750
-20079708007,Jasodha Rajpurohit,Sri Venkateswara College,6.50,6.500
-20079708008,JYOTI DEVI,Sri Venkateswara College,6.25,6.250
-20079708009,K Joe Paul,Sri Venkateswara College,6.50,6.500
-20079708010,Laxmi Chaudhary,Sri Venkateswara College,5.25,5.250
-20079708011,Lester Sylvester Dias,Sri Venkateswara College,6.25,6.250
-20079708012,MAYANK KUMAR KUSHWAHA,Sri Venkateswara College,6.25,6.250
-20079708013,Nehal Mondal,Sri Venkateswara College,6.25,6.250
-20079708014,NITIN SHARMA,Sri Venkateswara College,6.75,6.750
-20079708015,Nongzaimayum Tanzeem Alee Shah,Sri Venkateswara College,6.50,6.500
-20079708016,Prakhar Varshney,Sri Venkateswara College,6.25,6.250
-20079708017,Priyadarshini Devi Yumnam,Sri Venkateswara College,6.00,6.000
-20079708018,RADHIKA NAIR,Sri Venkateswara College,6.25,6.250
-20079708019,S. WICY SHA,Sri Venkateswara College,6.75,6.750
-20079708020,Sanju Wary,Sri Venkateswara College,6.25,6.250
-20079708021,Saurav Thakur,Sri Venkateswara College,6.00,6.000
-20079708022,Shalini Majumdar,Sri Venkateswara College,6.75,6.750
-20079708023,Sharath Johnson Bosco,Sri Venkateswara College,3.00,3.000
-20079708024,Stanzin Dolkar,Sri Venkateswara College,6.75,6.750
-20080708001,ANWESHA PANDA,St. Stephens College,6.50,6.500
-20080708002,ELIZABETH LALREMRUATI,St. Stephens College,6.25,6.250
-20080708003,MALAVIKA AJIKUMAR,St. Stephens College,6.75,6.750
-20080708004,MEHULI DAS,St. Stephens College,4.75,4.750
-20080708005,NEHA KUMARI,St. Stephens College,6.50,6.500
-20080708006,YAMINI NEGI,St. Stephens College,6.75,6.750
-20080708007,ZOYA BHARGAVA,St. Stephens College,6.25,6.250
-20080708008,AJAY R RAJ,St. Stephens College,6.25,6.250
-20080708009,Sheena Kasana,St. Stephens College,0.00,0.000
-20019708001,Aman kumar,Deshbandhu College (Day),6.75,6.750
-20019708002,Ananya Bhartia,Deshbandhu College (Day),7.00,7.000
-20019708003,Anuvrata Handique,Deshbandhu College (Day),6.75,6.750
-20019708004,DEBADUTI DEY,Deshbandhu College (Day),7.00,7.000
-20019708005,Effinia Cressida Nongkynrih,Deshbandhu College (Day),6.75,6.750
-20019708006,Ishita Mehta,Deshbandhu College (Day),7.25,7.250
-20019708007,Nawang Choedon,Deshbandhu College (Day),6.50,6.500
-20019708008,Prashansha Vashistha,Deshbandhu College (Day),6.50,6.500
-20019708009,Ridhiman Das,Deshbandhu College (Day),6.00,6.000
-20019708010,SAMEER DABRA,Deshbandhu College (Day),6.75,6.750
-20019708011,SAMRIDHI BHARDWAJ,Deshbandhu College (Day),7.00,7.000
-20019708012,Shubhangi,Deshbandhu College (Day),7.00,7.000
-20019708013,Simran Verma,Deshbandhu College (Day),7.00,7.000
-20019708014,Snehashish Mahakud,Deshbandhu College (Day),6.50,6.500
-20019708015,Yachna,Deshbandhu College (Day),6.25,6.250
-20019708016,YASHITA MISHRA,Deshbandhu College (Day),7.00,7.000
-20014708001,Aanchal Rawat,Daulat Ram College,7.00,7.000
-20014708002,Aditi Singh,Daulat Ram College,4.75,4.750
-20014708003,Akrsti Aggarwal,Daulat Ram College,6.50,6.500
-20014708004,Akshita Singh,Daulat Ram College,6.50,6.500
-20014708005,Barkha gupta,Daulat Ram College,7.00,7.000
-20014708006,Binita Oraon,Daulat Ram College,6.75,6.750
-20014708007,Chaitanya,Daulat Ram College,6.50,6.500
-20014708008,Giria Thokchom,Daulat Ram College,7.00,7.000
-20014708009,HRITVIKA LAKHERA,Daulat Ram College,7.25,7.250
-20014708010,JAYA SINGH,Daulat Ram College,7.25,7.250
-20014708011,Keerti,Daulat Ram College,7.25,7.250
-20014708012,Monika bakshi,Daulat Ram College,6.75,6.750
-20014708013,PANKHURI SINGH,Daulat Ram College,6.75,6.750
-20014708014,Rejana R Nair,Daulat Ram College,6.75,6.750
-20014708015,Rinchen Dolkar,Daulat Ram College,6.50,6.500
-20014708016,Riti Rani,Daulat Ram College,6.50,6.500
-20014708017,Sanchita chadha,Daulat Ram College,3.00,3.000
-20014708018,Sapna Tyagi,Daulat Ram College,6.50,6.500
-20014708019,Shallu,Daulat Ram College,6.25,6.250
-20014708020,Sheryl Alexander,Daulat Ram College,7.50,7.500
-20014708021,Simran Naudiyal,Daulat Ram College,7.00,7.000
-20014708022,Srishti Yadav,Daulat Ram College,6.75,6.750
-20014708023,Zoya Hasan,Daulat Ram College,6.75,6.750
-20056708001,Alisha Nair,Ramjas College,6.25,6.250
-20056708002,Alma Ali,Ramjas College,6.25,6.250
-20056708003,AMAN,Ramjas College,6.00,6.000
-20056708004,Anmol Gupta,Ramjas College,6.25,6.250
-20056708005,Apoorva Maheshwari,Ramjas College,6.50,6.500
-20056708006,Deborshee Das,Ramjas College,0.00,0.000
-20056708007,DIGVIJAY SINGH,Ramjas College,6.00,6.000
-20056708008,Kritsnarhit Sinha,Ramjas College,5.00,5.000
-20056708009,Mehtab Singh,Ramjas College,6.25,6.250
-20056708010,Mohamed Zameel,Ramjas College,6.00,6.000
-20056708011,Nisha,Ramjas College,6.25,6.250
-20056708012,Pragya Srivastava,Ramjas College,7.00,7.000
-20056708013,Rijul singh,Ramjas College,6.75,6.750
-20056708014,Rishabh Chaturvedi,Ramjas College,6.75,6.750
-20056708015,Sagardeep Thakuria,Ramjas College,6.25,6.250
-20056708016,Sagolsem supreme chandra,Ramjas College,5.75,5.750
-20056708017,SALEEM SULFIKHAR MP,Ramjas College,6.25,6.250
-20056708018,Sandham Nitishkumar Singh,Ramjas College,6.50,6.500
-20056708020,Surabhi Chaurasia,Ramjas College,6.50,6.500
-20056708021,Tanishdeep Singh,Ramjas College,5.50,5.500
-20056708022,Tashi Chuden Gensapa,Ramjas College,6.75,6.750
-20056708023,Vani Nautiyal,Ramjas College,7.25,7.250
-20085708001,Almas Malik,Zakir Husain Delhi College (Day),6.25,6.250
-20085708002,ANUSHKA NIKHIL,Zakir Husain Delhi College (Day),6.50,6.500
-20085708003,AYAN DAWN,Zakir Husain Delhi College (Day),6.00,6.000
-20085708005,Bushra khan,Zakir Husain Delhi College (Day),6.00,6.000
-20085708006,INALI NEGI,Zakir Husain Delhi College (Day),6.25,6.250
-20085708007,ISHA SURABHI,Zakir Husain Delhi College (Day),5.00,5.000
-20085708008,KM POOJA,Zakir Husain Delhi College (Day),6.00,6.000
-20085708009,Lokendrajit Leimapokpam,Zakir Husain Delhi College (Day),6.25,6.250
-20085708010,Mehak Gahlot,Zakir Husain Delhi College (Day),6.00,6.000
-20085708011,MO SAHID,Zakir Husain Delhi College (Day),6.50,6.500
-20085708012,Ngoruh Pingme Monsang,Zakir Husain Delhi College (Day),5.75,5.750
-20085708013,Palak Deswal,Zakir Husain Delhi College (Day),6.00,6.000
-20085708014,PAURUSH BHARTI,Zakir Husain Delhi College (Day),0.00,0.000
-20085708015,PRERANA SAIKIA,Zakir Husain Delhi College (Day),6.25,6.250
-20085708016,Priyal Singh,Zakir Husain Delhi College (Day),6.00,6.000
-20085708017,Roshan C,Zakir Husain Delhi College (Day),6.25,6.250
-20085708018,Safia Ismail,Zakir Husain Delhi College (Day),6.50,6.500
-20085708019,SAHER ZAHRA,Zakir Husain Delhi College (Day),6.25,6.250
-20085708020,shivi goel,Zakir Husain Delhi College (Day),5.75,5.750
-20085708021,SOUGATO BASU,Zakir Husain Delhi College (Day),6.75,6.750
-20085708022,VINAY KUMAR,Zakir Husain Delhi College (Day),6.25,6.250
-20032708001,Arpita Roy,Jesus & Mary College,5.50,5.500
-20032708002,AYUSHI ROY,Jesus & Mary College,0.00,0.000
-20032708003,Chahak Gupta,Jesus & Mary College,6.75,6.750
-20032708004,Himani Gupta,Jesus & Mary College,6.75,6.750
-20032708005,KRITIKA MALIK,Jesus & Mary College,4.75,4.750
-20032708006,smriti dadhich,Jesus & Mary College,6.75,6.750
-20032708007,Sweta Mishra,Jesus & Mary College,6.25,6.250
-20032708008,Vrinda Chugh,Jesus & Mary College,6.75,6.750
-20055708001,Aditi,Rajdhani College,6.00,6.000
-20055708002,Aishwarya Pratim Rabha,Rajdhani College,4.75,4.750
-20055708003,ANANT SHIVAM,Rajdhani College,6.25,6.250
-20055708004,Anchal,Rajdhani College,6.00,6.000
-20055708005,Anita Kumari,Rajdhani College,6.00,6.000
-20055708006,DEEKSHA OJHA,Rajdhani College,6.75,6.750
-20055708007,Deepa Kumari,Rajdhani College,6.00,6.000
-20055708008,Mansi Sabharwal,Rajdhani College,6.50,6.500
-20055708009,Priyanka Akoijam,Rajdhani College,4.75,4.750
-20055708010,PRIYANKA SINGH,Rajdhani College,6.25,6.250
-20055708011,Rohit Rathor,Rajdhani College,4.50,4.500
-20055708012,SHIRSHA GHOSH,Rajdhani College,6.50,6.500
-20055708013,SNEHA THOMAS,Rajdhani College,6.50,6.500
-20055708014,Vithita Jha,Rajdhani College,7.00,7.000
-20055708015,Yogita Yadav,Rajdhani College,6.25,6.250
-20055708016,DIVYA BAGORIA,Rajdhani College,3.00,3.000
-20024708001,Anoushka Sundaram,Gargi College,6.50,6.500
-20024708002,APOORVA,Gargi College,7.00,7.000
-20024708003,APOORVA YADAV,Gargi College,6.50,6.500
-20024708004,HIMANI,Gargi College,6.25,6.250
-20024708005,KAJAL GAUTAM,Gargi College,5.00,5.000
-20024708006,MARTONY MUCHAHARY,Gargi College,6.25,6.250
-20024708007,Nandini Ojha,Gargi College,6.50,6.500
-20024708008,NUPUR,Gargi College,6.50,6.500
-20024708009,RAMAA PANDEY,Gargi College,7.00,7.000
-20024708010,SHIKHA VERMA,Gargi College,7.25,7.250
-20024708011,SHRAVYA SHRUTI,Gargi College,7.00,7.000
-20024708012,SUREMYA SIVARAJ,Gargi College,6.75,6.750
-20024708013,Tugba ÖZCAN SAHU,Gargi College,6.75,6.750
-20024708014,ZAINAB AZMI,Gargi College,6.75,6.750
-20068708001,ABHAY RAJ SINGH PANWAR,S.G.T.B. Khalsa College,4.25,4.250
-20068708002,AMANJIT SINGH SETHI,S.G.T.B. Khalsa College,6.00,6.000
-20068708003,ASHISH TANWAR,S.G.T.B. Khalsa College,5.75,5.750
-20068708004,CHHAVI SHARMA,S.G.T.B. Khalsa College,5.75,5.750
-20068708005,DEEKSHA JOSHI,S.G.T.B. Khalsa College,5.75,5.750
-20068708006,DISHA BANERJEE,S.G.T.B. Khalsa College,6.00,6.000
-20068708007,MANISH DHAWAN,S.G.T.B. Khalsa College,5.75,5.750
-20068708008,PRAGATI SHARMA,S.G.T.B. Khalsa College,6.25,6.250
-20068708009,SWARUP CHAKRABORTY,S.G.T.B. Khalsa College,6.00,6.000
-20068708010,SHAGUN SAXENA,S.G.T.B. Khalsa College,5.00,5.000
-20068708011,SAHAJ MINHAS,S.G.T.B. Khalsa College,4.25,4.250
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20039708001,Arushi Brotia,Lady Shri Ram College for Women,6.25,7.00,6.659
+20039708002,Chetna Mavi,Lady Shri Ram College for Women,6.00,6.21,6.114
+20039708004,MISHA PANDUVAL,Lady Shri Ram College for Women,4.50,6.00,5.318
+20039708005,Plabita Barman,Lady Shri Ram College for Women,5.75,6.79,6.318
+20039708006,Prachi Kadian,Lady Shri Ram College for Women,7.00,6.83,6.909
+20039708008,PRIYANSHA DALMIA,Lady Shri Ram College for Women,7.00,8.00,7.545
+20039708009,Radhika Gupta,Lady Shri Ram College for Women,7.00,7.00,7.000
+20039708010,RAJNI,Lady Shri Ram College for Women,6.25,7.00,6.659
+20039708011,Rushali Daryani,Lady Shri Ram College for Women,7.00,7.00,7.000
+20039708012,Sashrika Pathak,Lady Shri Ram College for Women,7.00,7.00,7.000
+20039708013,Tanya Gupta,Lady Shri Ram College for Women,6.00,7.00,6.545
+20039708014,Vartika Walani,Lady Shri Ram College for Women,7.00,7.00,7.000
+20039708015,Yukta Aggarwal,Lady Shri Ram College for Women,6.25,6.00,6.114
+20039708016,kanchan chandila,Lady Shri Ram College for Women,5.25,5.79,5.545
+20034708001,Albeena Alvi,Kamla Nehru College,7.00,7.58,7.318
+20034708002,Angelina Rao,Kamla Nehru College,7.50,8.00,7.773
+20034708003,Aryata Nandi,Kamla Nehru College,6.75,7.00,6.886
+20034708004,ATREYEE CHAKRABORTY,Kamla Nehru College,7.00,8.00,7.545
+20034708005,Geetanjali Naiding,Kamla Nehru College,7.00,7.21,7.114
+20034708006,Ishita Sharma,Kamla Nehru College,6.75,7.63,7.227
+20034708007,KALYANI,Kamla Nehru College,7.25,7.21,7.227
+20034708008,Manshi Yadav,Kamla Nehru College,7.00,7.00,7.000
+20034708009,Muskan Chhatwani,Kamla Nehru College,6.50,7.00,6.773
+20034708010,PRIYA SHARMA,Kamla Nehru College,6.50,7.00,6.773
+20034708011,Raghvi Yadav,Kamla Nehru College,6.25,7.00,6.659
+20034708012,Riya Dhama,Kamla Nehru College,6.00,6.83,6.455
+20029708001,Aditi Tyagi,I.P.College For Women,7.25,7.21,7.227
+20029708002,Akansha Sur,I.P.College For Women,7.00,7.00,7.000
+20029708003,ARDHYA LAKRA,I.P.College For Women,6.25,7.00,6.659
+20029708004,Bhupinder kour,I.P.College For Women,7.00,7.00,7.000
+20029708005,ERRA NAMRATHA,I.P.College For Women,7.00,7.00,7.000
+20029708006,Lotus Gogoi,I.P.College For Women,6.75,7.00,6.886
+20029708007,Muskan Verma,I.P.College For Women,6.25,5.79,6.000
+20029708008,Nandi,I.P.College For Women,6.25,7.00,6.659
+20029708009,Onchulee Narzy,I.P.College For Women,6.50,7.00,6.773
+20029708010,Pallavi Gautam,I.P.College For Women,6.25,7.00,6.659
+20029708011,RAMNIK KAUR,I.P.College For Women,6.50,7.00,6.773
+20029708012,Ranjana Puri,I.P.College For Women,6.25,6.42,6.341
+20029708013,Rushali Sharma,I.P.College For Women,6.50,6.83,6.682
+20029708014,Shivani Gautam,I.P.College For Women,7.00,7.00,7.000
+20029708015,SURBHI,I.P.College For Women,6.50,7.00,6.773
+20029708016,SURBHI ARORA,I.P.College For Women,6.50,6.58,6.545
+20029708017,SWAGATA CHAKRABORTY,I.P.College For Women,7.25,7.79,7.545
+20029708018,SRISTI CHHETRY,I.P.College For Women,6.50,7.00,6.773
+20021708001,FLORINA DEVI HEMAM,Dyal Singh College (Day),6.00,6.21,6.114
+20021708002,GAJENDRA YADAV,Dyal Singh College (Day),7.00,7.00,7.000
+20021708003,MOHD FARRUKH JAMAL,Dyal Singh College (Day),6.50,6.79,6.659
+20021708004,MONIKA RAJ,Dyal Singh College (Day),6.50,7.00,6.773
+20021708005,MUSKAN LATHER,Dyal Singh College (Day),6.75,7.21,7.000
+20021708006,NIKITA AKHULI,Dyal Singh College (Day),6.75,7.79,7.318
+20021708007,NILAVO CHANDRA,Dyal Singh College (Day),6.75,7.17,6.977
+20021708008,PARAMBA DADHICH,Dyal Singh College (Day),7.00,7.79,7.432
+20021708009,PRASHANT JHAJHRIA,Dyal Singh College (Day),5.00,0.00,2.273
+20021708010,RAMYANI SARKAR,Dyal Singh College (Day),6.75,7.00,6.886
+20021708011,SAIFULLAH,Dyal Singh College (Day),6.75,7.00,6.886
+20021708012,SNEJUTI DUTTA,Dyal Singh College (Day),7.25,7.00,7.114
+20021708013,TITASH BASU,Dyal Singh College (Day),7.50,8.00,7.773
+20021708014,VIOLEENA BORA,Dyal Singh College (Day),6.25,6.42,6.341
+20021708015,VISHWANATH,Dyal Singh College (Day),6.25,6.17,6.205
+20026708001,Aayush Kumar Mishra,Hindu College,0.00,0.00,0.000
+20026708002,ABHINAV BHARDWAJ,Hindu College,7.25,7.63,7.455
+20026708003,Adya Gaur,Hindu College,6.75,7.42,7.114
+20026708005,Ambika Sarker,Hindu College,6.25,7.00,6.659
+20026708006,AMIT KUMAR,Hindu College,6.50,7.00,6.773
+20026708007,ANANYA,Hindu College,7.00,7.79,7.432
+20026708008,Anushka Swaroop,Hindu College,6.50,7.21,6.886
+20026708009,APURVA,Hindu College,6.50,7.00,6.773
+20026708010,Deepshikha,Hindu College,6.25,7.00,6.659
+20026708011,Gulzar Hussain,Hindu College,6.50,7.00,6.773
+20026708012,LAKSHMI NANDANA S,Hindu College,6.75,7.63,7.227
+20026708013,Maria Sebastian,Hindu College,7.00,7.00,7.000
+20026708014,NIMISH K SHARMA,Hindu College,7.25,7.42,7.341
+20026708015,Pranav Ranjan,Hindu College,6.50,7.00,6.773
+20026708016,PRASHANT CHAUDHARY,Hindu College,7.75,7.83,7.795
+20026708017,Priyanshu,Hindu College,7.00,7.00,7.000
+20026708018,ROHIT KUMAR,Hindu College,6.50,6.79,6.659
+20026708020,SABHA GAYAS,Hindu College,7.00,7.00,7.000
+20026708021,Seram Korounganba Singh,Hindu College,6.25,7.00,6.659
+20026708022,Shantanu Mishra,Hindu College,6.75,7.00,6.886
+20026708023,Shashwat Tyagi,Hindu College,6.75,7.79,7.318
+20026708024,Sukanya Saha,Hindu College,7.00,7.00,7.000
+20026708026,Surbhi Bhatia,Hindu College,6.25,7.00,6.659
+20026708027,Upasana Tumung,Hindu College,6.75,7.00,6.886
+20026708028,VANDNA,Hindu College,6.75,7.00,6.886
+20026708029,Vivek Babbar,Hindu College,6.50,7.00,6.773
+20026708030,Yogita pal,Hindu College,6.75,6.58,6.659
+20026708031,Ananya Anindita,Hindu College,6.50,7.00,6.773
+20026708032,WANMUHAMMADLUTFEE TOHNAHUN,Hindu College,0.00,0.00,0.000
+20025708001,AASHNA,Hans Raj College,5.75,6.63,6.227
+20025708002,Adarsh Kumar,Hans Raj College,6.50,7.21,6.886
+20025708003,AKANKSHA,Hans Raj College,7.00,7.00,7.000
+20025708004,ANANDITA SARASWAT,Hans Raj College,7.00,7.83,7.455
+20025708005,BIPASHA DEORI,Hans Raj College,6.75,7.00,6.886
+20025708006,Fleming Biju,Hans Raj College,7.00,7.21,7.114
+20025708007,KIRTI DALAL,Hans Raj College,6.50,6.79,6.659
+20025708008,KUSUM LATA,Hans Raj College,6.00,6.58,6.318
+20025708009,Muskaan Kaur,Hans Raj College,7.00,7.00,7.000
+20025708010,NAMAN KUMAR MEENA,Hans Raj College,7.00,7.63,7.341
+20025708011,Neha Gangmei,Hans Raj College,7.00,7.58,7.318
+20025708012,Prachi Sharma,Hans Raj College,7.25,7.83,7.568
+20025708013,Prashant Raj,Hans Raj College,7.00,7.79,7.432
+20025708014,Saif Ali Khan,Hans Raj College,6.75,7.00,6.886
+20025708015,Sakshi Chauhan,Hans Raj College,6.75,7.00,6.886
+20025708016,SHIV NAYAN PRAKASH,Hans Raj College,6.50,7.00,6.773
+20025708017,Shreeja,Hans Raj College,6.50,7.21,6.886
+20025708018,shubhra verma,Hans Raj College,6.50,7.00,6.773
+20025708019,Unnati Singh,Hans Raj College,6.75,7.00,6.886
+20025708020,Ashu Yadav,Hans Raj College,6.50,6.21,6.341
+20025708021,Daniya Yousuf,Hans Raj College,6.75,7.00,6.886
+20025708022,Lakshi Chaudhary,Hans Raj College,6.75,5.88,6.273
+20025708023,SAGAR CHOPRA,Hans Raj College,2.50,4.79,3.750
+20025708024,Tenzin Dechan,Hans Raj College,6.00,7.00,6.545
+20025708025,MADHURIMA BURNWAL,Hans Raj College,7.00,7.00,7.000
+20025708026,MEHREEN CHOUDHARY,Hans Raj College,6.25,6.58,6.432
+20025708027,SIDDHANT RATHOUR,Hans Raj College,7.00,7.00,7.000
+20025708028,SUNNY,Hans Raj College,5.75,4.96,5.318
+20025708029,TAMDIN WANGYAL,Hans Raj College,6.50,6.21,6.341
+20025708031,SHARAD RAY,Hans Raj College,6.25,7.00,6.659
+20003708001,ANKIT KUMAR,Atma Ram Sanatan Dharam College,7.00,7.00,7.000
+20003708002,Aryama Bhattacharya,Atma Ram Sanatan Dharam College,7.25,7.42,7.341
+20003708003,Ashwani Kumar,Atma Ram Sanatan Dharam College,6.50,7.00,6.773
+20003708004,Ayush Nagvanshi,Atma Ram Sanatan Dharam College,6.50,7.00,6.773
+20003708005,Deepjyoti Roy,Atma Ram Sanatan Dharam College,7.50,8.00,7.773
+20003708006,BHAVYA SINHA,Atma Ram Sanatan Dharam College,7.00,7.00,7.000
+20003708007,Geetanjali rawat,Atma Ram Sanatan Dharam College,6.50,6.79,6.659
+20003708008,Gourav kumar,Atma Ram Sanatan Dharam College,6.25,6.58,6.432
+20003708009,MUNGSUAN GWITE,Atma Ram Sanatan Dharam College,6.75,7.00,6.886
+20003708010,NEHA,Atma Ram Sanatan Dharam College,6.75,7.00,6.886
+20003708011,PEIMICHON MS,Atma Ram Sanatan Dharam College,6.50,6.17,6.318
+20003708012,Prosenjit Chanda,Atma Ram Sanatan Dharam College,6.00,7.00,6.545
+20003708013,Rajdeep Paul,Atma Ram Sanatan Dharam College,7.25,7.83,7.568
+20003708014,Reema khan,Atma Ram Sanatan Dharam College,6.75,7.42,7.114
+20003708015,SAMRRIDHYI RUDOLA,Atma Ram Sanatan Dharam College,7.25,8.00,7.659
+20003708016,Sant Kumar,Atma Ram Sanatan Dharam College,7.00,7.00,7.000
+20003708017,SARITA RANI,Atma Ram Sanatan Dharam College,6.75,7.00,6.886
+20003708018,Shashank Mishra,Atma Ram Sanatan Dharam College,7.00,7.63,7.341
+20003708019,SNEHA JASSY,Atma Ram Sanatan Dharam College,7.00,7.21,7.114
+20003708020,SUDHA KUMARI,Atma Ram Sanatan Dharam College,6.50,7.00,6.773
+20031708001,MUSKAN TANWAR,Janki Devi Memorial College,6.75,7.21,7.000
+20031708002,NANCY JAIN,Janki Devi Memorial College,5.50,6.17,5.864
+20031708003,Neelanshi,Janki Devi Memorial College,6.25,6.79,6.545
+20031708004,RITIKA MALIK,Janki Devi Memorial College,6.75,7.21,7.000
+20031708005,Ruchika Verma,Janki Devi Memorial College,6.75,7.00,6.886
+20031708006,SARGAM AHLUWALIA,Janki Devi Memorial College,6.25,7.00,6.659
+20031708007,Souparni Paul,Janki Devi Memorial College,7.00,7.00,7.000
+20031708008,SRISHTI HANDA,Janki Devi Memorial College,6.75,6.83,6.795
+20031708009,Tanu Yadav,Janki Devi Memorial College,6.50,7.00,6.773
+20031708010,Tanyaa Kamra,Janki Devi Memorial College,6.25,7.00,6.659
+20031708011,YUMTSO RAKDO,Janki Devi Memorial College,6.50,7.00,6.773
+20047708001,Akshada Shrotryia,Miranda House,6.50,7.21,6.886
+20047708002,Ananya Malakar,Miranda House,6.75,7.21,7.000
+20047708003,Chetanya Godara,Miranda House,7.00,7.83,7.455
+20047708004,DEEPIKA JEENWAL,Miranda House,5.50,7.00,6.318
+20047708005,Fatma Tanveer,Miranda House,6.75,7.00,6.886
+20047708006,HIMANI VERMA,Miranda House,6.00,6.00,6.000
+20047708007,Ishani Pant,Miranda House,7.00,7.79,7.432
+20047708008,Kriti Rana,Miranda House,7.00,7.79,7.432
+20047708009,Prapti Kakati,Miranda House,7.00,7.21,7.114
+20047708010,Priyanka,Miranda House,7.00,6.67,6.818
+20047708011,PROPA GHOSH,Miranda House,6.50,7.38,6.977
+20047708012,Rangoli Sharma,Miranda House,6.25,7.00,6.659
+20047708013,SHRUTI PAL,Miranda House,6.50,7.21,6.886
+20047708014,Sudha,Miranda House,6.50,6.79,6.659
+20047708015,Trishani Ghosh,Miranda House,6.75,7.00,6.886
+20047708016,V L Ruati,Miranda House,6.75,7.21,7.000
+20047708017,VRINDA GUPTA,Miranda House,7.00,7.63,7.341
+20047708018,Ojasvi Kala,Miranda House,6.75,7.00,6.886
+20047708019,Devashree Chauhan,Miranda House,7.00,8.00,7.545
+20047708020,Shephali,Miranda House,6.00,6.42,6.227
+20036708001,AARTI,Kirori Mal College,6.25,6.21,6.227
+20036708002,ASHLEY KUMAR,Kirori Mal College,6.50,6.79,6.659
+20036708003,Bhumika Singh,Kirori Mal College,6.75,8.00,7.432
+20036708004,Dharampal Singh,Kirori Mal College,6.25,6.79,6.545
+20036708005,Disha Bharti,Kirori Mal College,6.50,6.79,6.659
+20036708007,Henry Johnson,Kirori Mal College,6.50,7.21,6.886
+20036708008,Jahnavi Vaid,Kirori Mal College,7.00,6.67,6.818
+20036708009,Megha,Kirori Mal College,6.75,6.79,6.773
+20036708010,Megha Mannan,Kirori Mal College,6.75,7.00,6.886
+20036708011,NGAHNEITHEM HAOKIP,Kirori Mal College,6.50,7.00,6.773
+20036708012,Nitika Chopra,Kirori Mal College,6.25,7.00,6.659
+20036708014,RITESH JORWAL,Kirori Mal College,6.00,6.79,6.432
+20036708015,Ritu,Kirori Mal College,6.50,7.00,6.773
+20036708016,ROHIT PRITAM,Kirori Mal College,6.25,7.00,6.659
+20036708018,Shailja Kaushik,Kirori Mal College,6.25,7.21,6.773
+20036708019,Shruti Kumari,Kirori Mal College,7.00,7.79,7.432
+20036708020,SONAM PRIYA,Kirori Mal College,6.75,7.00,6.886
+20036708021,Swapnil Singh,Kirori Mal College,6.25,7.00,6.659
+20036708022,Swarnim Singh Rokey,Kirori Mal College,6.00,6.79,6.432
+20036708023,Swetal Agrawal,Kirori Mal College,6.25,7.42,6.886
+20036708024,Tushita Singh,Kirori Mal College,6.50,7.00,6.773
+20036708025,Vinita Upadhyay,Kirori Mal College,6.00,7.00,6.545
+20036708026,Vishwasni Chand,Kirori Mal College,7.00,6.25,6.591
+20036708027,Zarak Rais,Kirori Mal College,7.00,7.00,7.000
+20036708028,SARVPREET SINGH,Kirori Mal College,6.00,5.38,5.659
+20079708001,Archana Singh,Sri Venkateswara College,6.00,6.79,6.432
+20079708002,Astha,Sri Venkateswara College,6.25,7.00,6.659
+20079708003,DEEPAK KUMAR GUPTA,Sri Venkateswara College,7.00,7.00,7.000
+20079708004,Dhananjay Shiv Devraj,Sri Venkateswara College,6.50,7.00,6.773
+20079708005,Geethanjali R,Sri Venkateswara College,7.00,7.00,7.000
+20079708006,Gursandesh Singh,Sri Venkateswara College,4.75,6.83,5.886
+20079708007,Jasodha Rajpurohit,Sri Venkateswara College,6.50,7.00,6.773
+20079708008,JYOTI DEVI,Sri Venkateswara College,6.25,7.00,6.659
+20079708009,K Joe Paul,Sri Venkateswara College,6.50,7.00,6.773
+20079708010,Laxmi Chaudhary,Sri Venkateswara College,5.25,4.83,5.023
+20079708011,Lester Sylvester Dias,Sri Venkateswara College,6.25,7.00,6.659
+20079708012,MAYANK KUMAR KUSHWAHA,Sri Venkateswara College,6.25,7.00,6.659
+20079708013,Nehal Mondal,Sri Venkateswara College,6.25,7.00,6.659
+20079708014,NITIN SHARMA,Sri Venkateswara College,6.75,6.42,6.568
+20079708015,Nongzaimayum Tanzeem Alee Shah,Sri Venkateswara College,6.50,7.00,6.773
+20079708016,Prakhar Varshney,Sri Venkateswara College,6.25,7.00,6.659
+20079708018,RADHIKA NAIR,Sri Venkateswara College,6.25,7.17,6.750
+20079708019,S. WICY SHA,Sri Venkateswara College,6.75,7.00,6.886
+20079708020,Sanju Wary,Sri Venkateswara College,6.25,6.42,6.341
+20079708021,Saurav Thakur,Sri Venkateswara College,6.00,7.00,6.545
+20079708022,Shalini Majumdar,Sri Venkateswara College,6.75,7.38,7.091
+20079708024,Stanzin Dolkar,Sri Venkateswara College,6.75,7.00,6.886
+20080708001,ANWESHA PANDA,St. Stephens College,6.50,7.42,7.000
+20080708002,ELIZABETH LALREMRUATI,St. Stephens College,6.25,6.79,6.545
+20080708004,MEHULI DAS,St. Stephens College,4.75,7.00,5.977
+20080708005,NEHA KUMARI,St. Stephens College,6.50,7.00,6.773
+20080708006,YAMINI NEGI,St. Stephens College,6.75,7.21,7.000
+20080708007,ZOYA BHARGAVA,St. Stephens College,6.25,6.63,6.455
+20080708008,AJAY R RAJ,St. Stephens College,6.25,7.00,6.659
+20019708001,Aman kumar,Deshbandhu College (Day),6.75,7.00,6.886
+20019708002,Ananya Bhartia,Deshbandhu College (Day),7.00,7.83,7.455
+20019708003,Anuvrata Handique,Deshbandhu College (Day),6.75,8.00,7.432
+20019708004,DEBADUTI DEY,Deshbandhu College (Day),7.00,7.79,7.432
+20019708005,Effinia Cressida Nongkynrih,Deshbandhu College (Day),6.75,7.00,6.886
+20019708006,Ishita Mehta,Deshbandhu College (Day),7.25,8.00,7.659
+20019708008,Prashansha Vashistha,Deshbandhu College (Day),6.50,7.00,6.773
+20019708009,Ridhiman Das,Deshbandhu College (Day),6.00,7.00,6.545
+20019708010,SAMEER DABRA,Deshbandhu College (Day),6.75,7.00,6.886
+20019708011,SAMRIDHI BHARDWAJ,Deshbandhu College (Day),7.00,7.21,7.114
+20019708012,Shubhangi,Deshbandhu College (Day),7.00,7.63,7.341
+20019708013,Simran Verma,Deshbandhu College (Day),7.00,7.00,7.000
+20019708014,Snehashish Mahakud,Deshbandhu College (Day),6.50,7.00,6.773
+20019708015,Yachna,Deshbandhu College (Day),6.25,7.00,6.659
+20019708016,YASHITA MISHRA,Deshbandhu College (Day),7.00,8.00,7.545
+20014708001,Aanchal Rawat,Daulat Ram College,7.00,7.42,7.227
+20014708002,Aditi Singh,Daulat Ram College,4.75,6.00,5.432
+20014708003,Akrsti Aggarwal,Daulat Ram College,6.50,7.79,7.205
+20014708004,Akshita Singh,Daulat Ram College,6.50,7.00,6.773
+20014708005,Barkha gupta,Daulat Ram College,7.00,7.00,7.000
+20014708006,Binita Oraon,Daulat Ram College,6.75,7.00,6.886
+20014708007,Chaitanya,Daulat Ram College,6.50,7.21,6.886
+20014708008,Giria Thokchom,Daulat Ram College,7.00,7.00,7.000
+20014708009,HRITVIKA LAKHERA,Daulat Ram College,7.25,7.42,7.341
+20014708010,JAYA SINGH,Daulat Ram College,7.25,7.21,7.227
+20014708011,Keerti,Daulat Ram College,7.25,7.00,7.114
+20014708012,Monika bakshi,Daulat Ram College,6.75,7.00,6.886
+20014708013,PANKHURI SINGH,Daulat Ram College,6.75,6.83,6.795
+20014708014,Rejana R Nair,Daulat Ram College,6.75,7.00,6.886
+20014708015,Rinchen Dolkar,Daulat Ram College,6.50,7.00,6.773
+20014708016,Riti Rani,Daulat Ram College,6.50,7.00,6.773
+20014708017,Sanchita chadha,Daulat Ram College,6.00,6.58,6.318
+20014708018,Sapna Tyagi,Daulat Ram College,6.50,6.83,6.682
+20014708019,Shallu,Daulat Ram College,6.25,6.79,6.545
+20014708020,Sheryl Alexander,Daulat Ram College,7.50,7.63,7.568
+20014708021,Simran Naudiyal,Daulat Ram College,7.00,7.63,7.341
+20014708022,Srishti Yadav,Daulat Ram College,6.75,7.00,6.886
+20014708023,Zoya Hasan,Daulat Ram College,6.75,7.38,7.091
+20056708001,Alisha Nair,Ramjas College,6.25,7.00,6.659
+20056708002,Alma Ali,Ramjas College,6.25,7.00,6.659
+20056708003,AMAN,Ramjas College,6.00,7.00,6.545
+20056708004,Anmol Gupta,Ramjas College,6.25,7.00,6.659
+20056708005,Apoorva Maheshwari,Ramjas College,6.50,7.00,6.773
+20056708006,Deborshee Das,Ramjas College,6.75,7.00,6.886
+20056708007,DIGVIJAY SINGH,Ramjas College,6.00,5.67,5.818
+20056708008,Kritsnarhit Sinha,Ramjas College,5.00,6.83,6.000
+20056708009,Mehtab Singh,Ramjas College,6.25,7.00,6.659
+20056708010,Mohamed Zameel,Ramjas College,6.00,7.00,6.545
+20056708011,Nisha,Ramjas College,6.25,5.67,5.932
+20056708012,Pragya Srivastava,Ramjas College,7.00,6.67,6.818
+20056708013,Rijul singh,Ramjas College,6.75,7.00,6.886
+20056708014,Rishabh Chaturvedi,Ramjas College,6.75,7.42,7.114
+20056708015,Sagardeep Thakuria,Ramjas College,6.25,7.00,6.659
+20056708016,Sagolsem supreme chandra,Ramjas College,5.75,7.00,6.432
+20056708017,SALEEM SULFIKHAR MP,Ramjas College,6.25,7.00,6.659
+20056708018,Sandham Nitishkumar Singh,Ramjas College,6.50,7.00,6.773
+20056708019,SOUNGBOY THANGA CHIRU,Ramjas College,0.00,6.83,3.727
+20056708020,Surabhi Chaurasia,Ramjas College,6.50,7.00,6.773
+20056708021,Tanishdeep Singh,Ramjas College,5.50,6.00,5.773
+20056708022,Tashi Chuden Gensapa,Ramjas College,6.75,7.00,6.886
+20056708023,Vani Nautiyal,Ramjas College,7.25,6.67,6.932
+20085708001,Almas Malik,Zakir Husain Delhi College (Day),6.25,7.00,6.659
+20085708003,AYAN DAWN,Zakir Husain Delhi College (Day),6.00,7.00,6.545
+20085708004,Bhumika Kadyan,Zakir Husain Delhi College (Day),6.25,6.67,6.477
+20085708005,Bushra khan,Zakir Husain Delhi College (Day),6.00,7.00,6.545
+20085708006,INALI NEGI,Zakir Husain Delhi College (Day),6.25,7.00,6.659
+20085708007,ISHA SURABHI,Zakir Husain Delhi College (Day),6.75,7.00,6.886
+20085708008,KM POOJA,Zakir Husain Delhi College (Day),6.00,6.79,6.432
+20085708009,Lokendrajit Leimapokpam,Zakir Husain Delhi College (Day),6.25,6.38,6.318
+20085708010,Mehak Gahlot,Zakir Husain Delhi College (Day),6.00,6.17,6.091
+20085708011,MO SAHID,Zakir Husain Delhi College (Day),6.50,7.00,6.773
+20085708012,Ngoruh Pingme Monsang,Zakir Husain Delhi College (Day),5.75,6.00,5.886
+20085708013,Palak Deswal,Zakir Husain Delhi College (Day),6.00,7.00,6.545
+20085708015,PRERANA SAIKIA,Zakir Husain Delhi College (Day),6.25,7.00,6.659
+20085708016,Priyal Singh,Zakir Husain Delhi College (Day),6.00,7.00,6.545
+20085708017,Roshan C,Zakir Husain Delhi College (Day),6.25,7.00,6.659
+20085708018,Safia Ismail,Zakir Husain Delhi College (Day),6.50,7.00,6.773
+20085708019,SAHER ZAHRA,Zakir Husain Delhi College (Day),6.25,7.17,6.750
+20085708020,shivi goel,Zakir Husain Delhi College (Day),5.75,6.42,6.114
+20085708021,SOUGATO BASU,Zakir Husain Delhi College (Day),6.75,7.17,6.977
+20085708022,VINAY KUMAR,Zakir Husain Delhi College (Day),6.25,6.79,6.545
+20032708001,Arpita Roy,Jesus & Mary College,7.00,7.00,7.000
+20032708003,Chahak Gupta,Jesus & Mary College,6.75,7.00,6.886
+20032708004,Himani Gupta,Jesus & Mary College,6.75,7.21,7.000
+20032708005,KRITIKA MALIK,Jesus & Mary College,4.75,5.38,5.091
+20032708006,smriti dadhich,Jesus & Mary College,6.75,7.42,7.114
+20032708007,Sweta Mishra,Jesus & Mary College,6.25,7.00,6.659
+20032708008,Vrinda Chugh,Jesus & Mary College,6.75,7.21,7.000
+20055708001,Aditi,Rajdhani College,6.00,7.00,6.545
+20055708002,Aishwarya Pratim Rabha,Rajdhani College,6.50,7.00,6.773
+20055708003,ANANT SHIVAM,Rajdhani College,6.25,7.00,6.659
+20055708004,Anchal,Rajdhani College,6.00,6.00,6.000
+20055708005,Anita Kumari,Rajdhani College,6.00,6.38,6.205
+20055708006,DEEKSHA OJHA,Rajdhani College,6.75,6.83,6.795
+20055708007,Deepa Kumari,Rajdhani College,6.00,7.00,6.545
+20055708008,Mansi Sabharwal,Rajdhani College,6.50,7.00,6.773
+20055708009,Priyanka Akoijam,Rajdhani College,4.75,6.21,5.545
+20055708010,PRIYANKA SINGH,Rajdhani College,6.25,7.00,6.659
+20055708011,Rohit Rathor,Rajdhani College,6.50,7.00,6.773
+20055708012,SHIRSHA GHOSH,Rajdhani College,6.50,7.42,7.000
+20055708013,SNEHA THOMAS,Rajdhani College,6.50,7.00,6.773
+20055708014,Vithita Jha,Rajdhani College,7.25,7.00,7.114
+20055708015,Yogita Yadav,Rajdhani College,6.25,7.00,6.659
+20055708016,DIVYA BAGORIA,Rajdhani College,4.25,6.00,5.205
+20024708001,Anoushka Sundaram,Gargi College,6.50,7.00,6.773
+20024708002,Apoorva,Gargi College,7.00,7.63,7.341
+20024708003,APOORVA YADAV,Gargi College,6.50,7.00,6.773
+20024708004,Himani,Gargi College,6.25,7.00,6.659
+20024708005,Kajal Gautam,Gargi College,6.50,7.00,6.773
+20024708006,Martony Muchahary,Gargi College,6.25,7.00,6.659
+20024708007,Nandini Ojha,Gargi College,6.50,7.00,6.773
+20024708008,Nupur,Gargi College,6.50,7.00,6.773
+20024708009,Ramaa Pandey,Gargi College,7.00,7.21,7.114
+20024708011,Shravya Shruti,Gargi College,7.00,7.42,7.227
+20024708012,SUREMYA SIVARAJ,Gargi College,6.75,7.00,6.886
+20024708013,Tugba ÖZCAN SAHU,Gargi College,6.75,6.83,6.795
+20024708014,Zainab Azmi,Gargi College,6.75,7.00,6.886
+20068708001,ABHAY RAJ SINGH PANWAR,S.G.T.B. Khalsa College,5.75,6.58,6.205
+20068708002,AMANJIT SINGH SETHI,S.G.T.B. Khalsa College,6.00,7.00,6.545
+20068708003,ASHISH TANWAR,S.G.T.B. Khalsa College,5.75,5.67,5.705
+20068708004,CHHAVI SHARMA,S.G.T.B. Khalsa College,5.75,7.00,6.432
+20068708005,DEEKSHA JOSHI,S.G.T.B. Khalsa College,5.75,7.00,6.432
+20068708006,DISHA BANERJEE,S.G.T.B. Khalsa College,6.00,7.17,6.636
+20068708007,MANISH DHAWAN,S.G.T.B. Khalsa College,5.75,7.00,6.432
+20068708008,PRAGATI SHARMA,S.G.T.B. Khalsa College,6.25,7.00,6.659
+20068708009,SWARUP CHAKRABORTY,S.G.T.B. Khalsa College,6.00,7.00,6.545
+20068708010,SHAGUN SAXENA,S.G.T.B. Khalsa College,5.00,6.21,5.659
+20068708011,SAHAJ MINHAS,S.G.T.B. Khalsa College,4.25,0.00,1.932

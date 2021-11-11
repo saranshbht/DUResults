@@ -1,23 +1,23 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20026723001,Afreen,Hindu College,6.25,6.250
-20026723002,Amit Waghmare,Hindu College,6.75,6.750
-20026723005,Arushi,Hindu College,7.50,7.500
-20026723006,Ashish Tripathi,Hindu College,6.50,6.500
-20026723009,Avanish Kumar Pal,Hindu College,7.00,7.000
-20026723010,Azaz Ahmad,Hindu College,6.75,6.750
-20026723011,Hyungjin An,Hindu College,7.50,7.500
-20026723012,Jyoti Singh,Hindu College,6.50,6.500
-20026723013,KUNAL YADAV,Hindu College,6.00,6.000
-20026723014,Payal Tatwal,Hindu College,5.75,5.750
-20026723016,POULAMI,Hindu College,7.75,7.750
-20026723017,PRAGYA SINGH,Hindu College,5.75,5.750
-20026723018,Riya Chowdhury,Hindu College,5.25,5.250
-20026723020,Sarah Ahmad,Hindu College,6.75,6.750
-20026723021,Shikha kumari,Hindu College,6.25,6.250
-20026723022,VISHWANATH TIWARI,Hindu College,7.25,7.250
-20026723023,Shubham Kumar,Hindu College,6.50,6.500
-20026723024,shubhankar shersia,Hindu College,6.75,6.750
-20026723025,Smriti Barnnali,Hindu College,6.75,6.750
-20026723027,Swastic Yaduvanshi,Hindu College,6.75,6.750
-20026723028,Vaidarbhi,Hindu College,7.25,7.250
-20026723029,Vansh singh,Hindu College,7.50,7.500
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20026723001,Afreen,Hindu College,6.25,6.42,6.341
+20026723002,Amit Waghmare,Hindu College,6.75,7.00,6.886
+20026723005,Arushi,Hindu College,7.50,7.79,7.659
+20026723006,Ashish Tripathi,Hindu College,6.50,6.21,6.341
+20026723009,Avanish Kumar Pal,Hindu College,7.00,7.00,7.000
+20026723010,Azaz Ahmad,Hindu College,6.75,6.63,6.682
+20026723011,Hyungjin An,Hindu College,7.50,7.58,7.545
+20026723012,Jyoti Singh,Hindu College,6.50,7.21,6.886
+20026723013,KUNAL YADAV,Hindu College,6.00,2.50,4.091
+20026723014,Payal Tatwal,Hindu College,5.75,0.00,2.614
+20026723016,POULAMI,Hindu College,7.75,7.79,7.773
+20026723017,PRAGYA SINGH,Hindu College,5.75,5.79,5.773
+20026723018,Riya Chowdhury,Hindu College,5.25,5.38,5.318
+20026723020,Sarah Ahmad,Hindu College,6.75,7.00,6.886
+20026723021,Shikha kumari,Hindu College,6.25,5.96,6.091
+20026723022,VISHWANATH TIWARI,Hindu College,7.25,7.83,7.568
+20026723023,Shubham Kumar,Hindu College,6.50,5.58,6.000
+20026723025,Smriti Barnnali,Hindu College,7.50,7.42,7.455
+20026723026,Subhangi Bhardwaj,Hindu College,6.25,6.00,6.114
+20026723027,Swastic Yaduvanshi,Hindu College,6.75,7.21,7.000
+20026723028,Vaidarbhi,Hindu College,7.25,7.42,7.341
+20026723029,Vansh singh,Hindu College,7.50,7.42,7.455
