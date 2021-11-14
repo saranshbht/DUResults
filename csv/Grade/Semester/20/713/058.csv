@@ -1,15 +1,13 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20058713001,Akash Sonkar,Ram Lal Anand College (Day),6.20,6.200
-20058713002,HARSH,Ram Lal Anand College (Day),6.80,6.800
-20058713003,NISHU,Ram Lal Anand College (Day),7.00,7.000
-20058713004,Nishu Awana,Ram Lal Anand College (Day),6.60,6.600
-20058713005,BRIJESH SINGH,Ram Lal Anand College (Day),6.20,6.200
-20058713006,DHANAJAY DUBEY,Ram Lal Anand College (Day),7.00,7.000
-20058713007,SHARANJEET KUMAR,Ram Lal Anand College (Day),6.00,6.000
-20058713008,Vaishali,Ram Lal Anand College (Day),6.20,6.200
-20058713009,KUMAR SAMBHAV,Ram Lal Anand College (Day),6.40,6.400
-20058713010,SHIVANI,Ram Lal Anand College (Day),6.20,6.200
-20058713011,KAILASH,Ram Lal Anand College (Day),6.00,6.000
-20058713012,MANJU RANI,Ram Lal Anand College (Day),5.60,5.600
-20058713013,DILEEP KUMAR YADAV,Ram Lal Anand College (Day),4.80,4.800
-20058713014,PRANSHU,Ram Lal Anand College (Day),6.40,6.400
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20058713001,Akash Sonkar,Ram Lal Anand College (Day),6.20,7.00,6.592
+20058713002,Harsh,Ram Lal Anand College (Day),6.80,8.00,7.388
+20058713003,Nishu,Ram Lal Anand College (Day),7.00,7.00,7.000
+20058713004,Nishu Awana,Ram Lal Anand College (Day),6.60,7.21,6.898
+20058713006,Dhanajay Dubey,Ram Lal Anand College (Day),7.00,7.38,7.184
+20058713007,Sharanjeet Kumar,Ram Lal Anand College (Day),6.00,7.00,6.490
+20058713008,Vaishali,Ram Lal Anand College (Day),6.20,7.00,6.592
+20058713009,KUMAR SAMBHAV,Ram Lal Anand College (Day),6.40,6.67,6.531
+20058713010,Shivani,Ram Lal Anand College (Day),6.20,7.00,6.592
+20058713012,MANJU RANI,Ram Lal Anand College (Day),5.60,6.83,6.204
+20058713013,DILEEP KUMAR YADAV,Ram Lal Anand College (Day),4.80,0.67,2.776
+20058713014,PRANSHU,Ram Lal Anand College (Day),6.40,7.00,6.694

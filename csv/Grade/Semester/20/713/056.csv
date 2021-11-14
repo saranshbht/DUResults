@@ -1,32 +1,29 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20056713001,ADARSH KUMAR,Ramjas College,8.00,8.000
-20056713002,Alok Kumar,Ramjas College,8.00,8.000
-20056713003,AMAN KUMAR,Ramjas College,7.80,7.800
-20056713004,ANAND KRISHNA,Ramjas College,8.00,8.000
-20056713005,Anshika Srivastava,Ramjas College,7.40,7.400
-20056713006,Atul shukl,Ramjas College,7.80,7.800
-20056713007,Dheeresh Tiwari,Ramjas College,7.40,7.400
-20056713008,Gaurav singh,Ramjas College,7.80,7.800
-20056713009,Kanchan,Ramjas College,8.00,8.000
-20056713010,Km Nivedita chaurasia,Ramjas College,8.00,8.000
-20056713011,Kuvar vishvjeet singh,Ramjas College,7.60,7.600
-20056713012,Lalit goyal,Ramjas College,7.00,7.000
-20056713013,Naseeb Singh,Ramjas College,7.20,7.200
-20056713015,Neha Raikwar,Ramjas College,7.20,7.200
-20056713016,PANKAJ KUMAR BIND,Ramjas College,7.00,7.000
-20056713018,Paras sinha,Ramjas College,7.80,7.800
-20056713019,Piyush Kumar Bansal,Ramjas College,7.20,7.200
-20056713020,Pradun kumar,Ramjas College,7.80,7.800
-20056713021,Pranav kumar,Ramjas College,7.80,7.800
-20056713022,Pranav Kumar,Ramjas College,0.00,0.000
-20056713023,Rajkumar Lodhi,Ramjas College,7.40,7.400
-20056713024,Ritu,Ramjas College,7.40,7.400
-20056713025,Shashank bharti,Ramjas College,7.80,7.800
-20056713026,Shikha shukla,Ramjas College,7.80,7.800
-20056713027,SHIV KUMAR,Ramjas College,7.00,7.000
-20056713028,SURJIT KUMAR RAM,Ramjas College,7.20,7.200
-20056713029,Swarat kumar saxena,Ramjas College,7.60,7.600
-20056713030,VIKAS KUMAR,Ramjas College,7.60,7.600
-20056713031,Vikram Kumar jha,Ramjas College,8.00,8.000
-20056713032,Yijelungbe kuame,Ramjas College,8.00,8.000
-20056713033,NAGENDRA NATH RAI,Ramjas College,7.00,7.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20056713001,ADARSH KUMAR,Ramjas College,8.00,8.17,8.082
+20056713002,Alok Kumar,Ramjas College,8.00,8.17,8.082
+20056713003,AMAN KUMAR,Ramjas College,7.80,7.83,7.816
+20056713005,Anshika Srivastava,Ramjas College,7.40,7.38,7.388
+20056713006,Atul shukl,Ramjas College,7.80,8.00,7.898
+20056713007,Dheeresh Tiwari,Ramjas College,7.40,8.00,7.694
+20056713008,Gaurav singh,Ramjas College,7.80,7.79,7.796
+20056713009,Kanchan,Ramjas College,8.00,7.58,7.796
+20056713010,Km Nivedita chaurasia,Ramjas College,8.00,8.00,8.000
+20056713011,Kuvar vishvjeet singh,Ramjas College,7.60,8.00,7.796
+20056713012,Lalit goyal,Ramjas College,7.00,7.00,7.000
+20056713013,Naseeb Singh,Ramjas College,7.20,7.00,7.102
+20056713015,Neha Raikwar,Ramjas College,7.20,7.17,7.184
+20056713016,PANKAJ KUMAR BIND,Ramjas College,7.00,7.00,7.000
+20056713018,Paras sinha,Ramjas College,7.80,6.67,7.245
+20056713019,Piyush Kumar Bansal,Ramjas College,7.20,7.38,7.286
+20056713020,Pradun kumar,Ramjas College,7.80,7.38,7.592
+20056713021,Pranav kumar,Ramjas College,7.80,7.00,7.408
+20056713023,Rajkumar Lodhi,Ramjas College,7.40,7.00,7.204
+20056713024,Ritu,Ramjas College,7.40,7.58,7.490
+20056713025,Shashank bharti,Ramjas College,7.80,8.00,7.898
+20056713026,Shikha shukla,Ramjas College,7.80,6.67,7.245
+20056713027,SHIV KUMAR,Ramjas College,7.00,6.67,6.837
+20056713028,SURJIT KUMAR RAM,Ramjas College,7.20,7.38,7.286
+20056713030,VIKAS KUMAR,Ramjas College,7.60,8.17,7.878
+20056713031,Vikram Kumar jha,Ramjas College,8.00,8.00,8.000
+20056713032,Yijelungbe kuame,Ramjas College,8.00,7.38,7.694
+20056713033,NAGENDRA NATH RAI,Ramjas College,7.00,7.17,7.082

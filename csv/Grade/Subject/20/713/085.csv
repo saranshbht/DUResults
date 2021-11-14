@@ -1,15 +1,13 @@
-RollNo,Name,College,HINDI SAHITYA KA ITIHAS (AADIKAL SE RETIKAL TAK),AADIKALEEN HINDI KAVYA,BHAKTIKALIN HINDI KAVYA,HINDI KATHA SAHITYA,BHARTIYA KAVYASHASTRA
-20085713001,ARVIND SINGH,Zakir Husain Delhi College (Day),7,7,7,7,7
-20085713002,Atul kumar singh,Zakir Husain Delhi College (Day),7,7,7,7,8
-20085713003,BRIKESH PANDEY,Zakir Husain Delhi College (Day),7,7,7,8,8
-20085713004,Dileep Kumar,Zakir Husain Delhi College (Day),7,7,7,7,7
-20085713005,KM ANJALI,Zakir Husain Delhi College (Day),7,7,7,7,7
-20085713006,MOHD SHAHJEB,Zakir Husain Delhi College (Day),7,7,7,7,7
-20085713007,Neha kumari,Zakir Husain Delhi College (Day),8,8,7,8,7
-20085713008,PRADEEP YADAV,Zakir Husain Delhi College (Day),0,0,0,0,0
-20085713009,RAJARAM KUMAR,Zakir Husain Delhi College (Day),7,7,8,7,0
-20085713010,Rakesh kumar,Zakir Husain Delhi College (Day),7,7,7,7,8
-20085713011,Sanjeev kumar,Zakir Husain Delhi College (Day),7,7,7,7,7
-20085713012,SATYA PRAKASH,Zakir Husain Delhi College (Day),7,7,7,7,7
-20085713013,Tarun kumar gautam,Zakir Husain Delhi College (Day),7,7,7,7,7
-20085713014,YASMIN SAIFI,Zakir Husain Delhi College (Day),7,7,7,7,7
+RollNo,Name,College,HINDI SAHITYA KA ITIHAS (AADIKAL SE RETIKAL TAK),AADIKALEEN HINDI KAVYA,BHAKTIKALIN HINDI KAVYA,HINDI KATHA SAHITYA,BHARTIYA KAVYASHASTRA,RITIKALIN HINDI KAVYA,ADHUNIK HINDI KAVYA -I,HINDI NATAK,SAMANYA BHASAVIGYAN,OUTLINE OF CULTURE & CIVILIZATION AS DEPICTED IN SANSKRIT LITERATURE,DALIT STUDIES
+20085713001,ARVIND SINGH,Zakir Husain Delhi College (Day),7,7,7,7,7,7,7,7,7,7,
+20085713002,Atul kumar singh,Zakir Husain Delhi College (Day),7,7,7,7,8,8,8,8,8,,7
+20085713003,Brikesh Pandey,Zakir Husain Delhi College (Day),7,7,7,8,8,7,7,7,7,7,
+20085713004,Dileep Kumar,Zakir Husain Delhi College (Day),7,7,7,7,7,8,8,8,8,8,
+20085713005,Km anjali,Zakir Husain Delhi College (Day),7,7,7,7,7,8,8,8,8,8,
+20085713007,Neha kumari,Zakir Husain Delhi College (Day),8,8,7,8,7,8,8,8,8,,8
+20085713009,RAJARAM KUMAR,Zakir Husain Delhi College (Day),7,7,8,7,8,8,8,8,8,9,
+20085713010,Rakesh kumar,Zakir Husain Delhi College (Day),7,7,7,7,8,8,8,8,8,8,
+20085713011,Sanjeev kumar,Zakir Husain Delhi College (Day),7,7,7,7,7,8,8,8,8,8,
+20085713012,Satya Prakash,Zakir Husain Delhi College (Day),7,7,7,7,7,7,8,7,8,8,
+20085713013,Tarun kumar gautam,Zakir Husain Delhi College (Day),7,7,7,7,7,8,7,7,8,8,
+20085713014,Yasmin Saifi,Zakir Husain Delhi College (Day),7,7,7,7,7,8,8,8,8,7,

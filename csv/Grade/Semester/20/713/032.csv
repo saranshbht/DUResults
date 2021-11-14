@@ -1,9 +1,8 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20032713001,Divya,Jesus & Mary College,7.80,7.800
-20032713002,Gurpreet Kaur,Jesus & Mary College,7.80,7.800
-20032713003,KM JYOTI KUMARI SINGH,Jesus & Mary College,8.00,8.000
-20032713004,Prerna Puri,Jesus & Mary College,7.00,7.000
-20032713005,Shalu pandey,Jesus & Mary College,7.00,7.000
-20032713006,VARSHA KUMARI,Jesus & Mary College,7.00,7.000
-20032713007,Yanshita,Jesus & Mary College,1.40,1.400
-20032713008,HARSHITA PUNETHA,Jesus & Mary College,6.60,6.600
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20032713001,Divya,Jesus & Mary College,7.80,7.83,7.816
+20032713002,Gurpreet Kaur,Jesus & Mary College,7.80,8.00,7.898
+20032713003,KM JYOTI KUMARI SINGH,Jesus & Mary College,8.00,7.63,7.816
+20032713004,Prerna Puri,Jesus & Mary College,7.00,7.00,7.000
+20032713005,Shalu pandey,Jesus & Mary College,7.00,7.00,7.000
+20032713006,VARSHA KUMARI,Jesus & Mary College,7.00,8.00,7.490
+20032713008,HARSHITA PUNETHA,Jesus & Mary College,6.60,7.17,6.878

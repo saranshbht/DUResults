@@ -1,14 +1,13 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20048713001,KAMINI,Moti Lal Nehru College (Day),7.00,7.000
-20048713002,MAHENDRA CHAURASIYA,Moti Lal Nehru College (Day),7.40,7.400
-20048713004,PRATIBHA,Moti Lal Nehru College (Day),6.80,6.800
-20048713006,PUJA,Moti Lal Nehru College (Day),7.00,7.000
-20048713007,RAM KUWAR,Moti Lal Nehru College (Day),7.00,7.000
-20048713008,RAVI VERMA,Moti Lal Nehru College (Day),7.00,7.000
-20048713010,REEMA KUMARI,Moti Lal Nehru College (Day),7.00,7.000
-20048713011,ANJALI,Moti Lal Nehru College (Day),7.00,7.000
-20048713012,RISHAV KUMAR,Moti Lal Nehru College (Day),6.80,6.800
-20048713013,Vandana,Moti Lal Nehru College (Day),7.00,7.000
-20048713014,AMAN SHUKLA,Moti Lal Nehru College (Day),7.00,7.000
-20048713015,DEVENDRA MANI TRIPATHI,Moti Lal Nehru College (Day),7.00,7.000
-20048713016,NEHA,Moti Lal Nehru College (Day),6.80,6.800
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20048713001,KAMINI,Moti Lal Nehru College (Day),7.00,7.38,7.184
+20048713002,MAHENDRA CHAURASIYA,Moti Lal Nehru College (Day),7.40,8.00,7.694
+20048713004,PRATIBHA,Moti Lal Nehru College (Day),6.80,7.00,6.898
+20048713006,PUJA,Moti Lal Nehru College (Day),7.00,7.17,7.082
+20048713007,RAM KUWAR,Moti Lal Nehru College (Day),7.00,7.00,7.000
+20048713008,RAVI VERMA,Moti Lal Nehru College (Day),7.00,7.00,7.000
+20048713010,Reema kumari,Moti Lal Nehru College (Day),7.00,6.83,6.918
+20048713011,Anjali,Moti Lal Nehru College (Day),7.00,7.17,7.082
+20048713012,Rishav Kumar,Moti Lal Nehru College (Day),6.80,7.00,6.898
+20048713014,AMAN SHUKLA,Moti Lal Nehru College (Day),7.00,7.00,7.000
+20048713015,Devendra Mani Tripathi,Moti Lal Nehru College (Day),7.00,7.17,7.082
+20048713016,Neha,Moti Lal Nehru College (Day),6.80,7.17,6.980
