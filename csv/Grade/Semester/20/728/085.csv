@@ -1,16 +1,15 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20085728001,ABHISHEK SHARMA,Zakir Husain Delhi College (Day),7.50,7.500
-20085728002,AMAN,Zakir Husain Delhi College (Day),9.25,9.250
-20085728003,ANSHUMAN UPADHYAY,Zakir Husain Delhi College (Day),7.00,7.000
-20085728004,Avanish Pandey,Zakir Husain Delhi College (Day),7.75,7.750
-20085728005,Ayush Gautam,Zakir Husain Delhi College (Day),7.50,7.500
-20085728006,CHANDRA SHEKHAR MATHPAL,Zakir Husain Delhi College (Day),8.50,8.500
-20085728007,DEEPAK,Zakir Husain Delhi College (Day),8.25,8.250
-20085728008,DHARMENDRA KUMAR KAMAT,Zakir Husain Delhi College (Day),8.00,8.000
-20085728009,Maghendra Pratap Singh,Zakir Husain Delhi College (Day),7.75,7.750
-20085728010,PRADEEP,Zakir Husain Delhi College (Day),6.75,6.750
-20085728011,Pradeep sharma,Zakir Husain Delhi College (Day),8.50,8.500
-20085728012,RAJNEESH KUAMR DWIVEDI,Zakir Husain Delhi College (Day),7.25,7.250
-20085728013,SARVESH,Zakir Husain Delhi College (Day),8.25,8.250
-20085728014,SURAJ KUMAR PRADHAN,Zakir Husain Delhi College (Day),7.50,7.500
-20085728015,Yogesh Kumar Dubey,Zakir Husain Delhi College (Day),5.75,5.750
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20085728001,Abhishek Sharma,Zakir Husain Delhi College (Day),7.50,7.00,7.256
+20085728002,AMAN,Zakir Husain Delhi College (Day),9.25,9.00,9.128
+20085728003,Anshuman Upadhyay,Zakir Husain Delhi College (Day),7.00,5.95,6.487
+20085728004,Avanish Pandey,Zakir Husain Delhi College (Day),7.75,8.00,7.872
+20085728005,Ayush Gautam,Zakir Husain Delhi College (Day),7.50,5.32,6.436
+20085728006,CHANDRA SHEKHAR MATHPAL,Zakir Husain Delhi College (Day),8.50,7.21,7.872
+20085728008,DHARMENDRA KUMAR KAMAT,Zakir Husain Delhi College (Day),8.00,7.47,7.744
+20085728009,Maghendra Pratap Singh,Zakir Husain Delhi College (Day),7.75,7.37,7.564
+20085728010,pradeep,Zakir Husain Delhi College (Day),6.75,6.47,6.615
+20085728012,RAJNEESH KUAMR DWIVEDI,Zakir Husain Delhi College (Day),7.25,7.74,7.487
+20085728013,Sarvesh,Zakir Husain Delhi College (Day),8.25,6.68,7.487
+20085728014,SURAJ KUMAR PRADHAN,Zakir Husain Delhi College (Day),7.50,6.21,6.872
+20085728015,Yogesh Kumar Dubey,Zakir Husain Delhi College (Day),5.75,5.21,5.487
+20085728016,Komal,Zakir Husain Delhi College (Day),7.50,6.47,7.000

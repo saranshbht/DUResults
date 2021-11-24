@@ -1,16 +1,18 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20019728001,AKSHAY KUMAR MISHRA,Deshbandhu College (Day),0.00,0.000
-20019728002,Ankita,Deshbandhu College (Day),7.50,7.500
-20019728003,DURGAPRASAD BHATTARAI,Deshbandhu College (Day),9.25,9.250
-20019728004,Gopal krishna agnihotri,Deshbandhu College (Day),9.00,9.000
-20019728005,Jyoti,Deshbandhu College (Day),6.50,6.500
-20019728006,Krishna kant,Deshbandhu College (Day),6.25,6.250
-20019728007,Nikki Awasthi,Deshbandhu College (Day),6.75,6.750
-20019728008,Nirbhay Parashari,Deshbandhu College (Day),8.00,8.000
-20019728011,RAM KUMAR,Deshbandhu College (Day),7.75,7.750
-20019728013,Swati Vishwakarma,Deshbandhu College (Day),8.00,8.000
-20019728014,Umakant joshi,Deshbandhu College (Day),8.75,8.750
-20019728015,Vimal Pandey,Deshbandhu College (Day),7.75,7.750
-20019728016,Mitrasen,Deshbandhu College (Day),7.50,7.500
-20019728017,PRAVEEN,Deshbandhu College (Day),6.50,6.500
-20019728018,SURAJ MISHRA,Deshbandhu College (Day),6.75,6.750
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20019728001,AKSHAY KUMAR MISHRA,Deshbandhu College (Day),0.00,0.00,0.000
+20019728002,Ankita,Deshbandhu College (Day),7.50,6.47,7.000
+20019728003,DURGAPRASAD BHATTARAI,Deshbandhu College (Day),9.25,9.26,9.256
+20019728004,Gopal krishna agnihotri,Deshbandhu College (Day),9.00,8.74,8.872
+20019728005,Jyoti,Deshbandhu College (Day),6.50,5.21,5.872
+20019728006,Krishna kant,Deshbandhu College (Day),8.50,7.47,8.000
+20019728007,Nikki Awasthi,Deshbandhu College (Day),6.75,5.68,6.231
+20019728008,Nirbhay Parashari,Deshbandhu College (Day),8.00,8.00,8.000
+20019728009,NITANT JHA,Deshbandhu College (Day),7.25,4.95,6.128
+20019728011,RAM KUMAR,Deshbandhu College (Day),7.75,5.68,6.744
+20019728012,Rameshwar sharma,Deshbandhu College (Day),7.25,7.47,7.359
+20019728013,Swati Vishwakarma,Deshbandhu College (Day),8.00,7.47,7.744
+20019728014,Umakant joshi,Deshbandhu College (Day),8.75,9.26,9.000
+20019728015,Vimal Pandey,Deshbandhu College (Day),7.75,7.47,7.615
+20019728016,Mitrasen,Deshbandhu College (Day),7.50,6.21,6.872
+20019728017,PRAVEEN,Deshbandhu College (Day),6.50,6.21,6.359
+20019728018,SURAJ MISHRA,Deshbandhu College (Day),6.75,5.42,6.103

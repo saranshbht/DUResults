@@ -1,7 +1,8 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20084728001,Arti,Vivekananda College,5.75,5.750
-20084728002,Deepa,Vivekananda College,7.50,7.500
-20084728003,Jyoti sharma,Vivekananda College,8.25,8.250
-20084728004,Kajal,Vivekananda College,7.75,7.750
-20084728005,LOVELY SHARMA,Vivekananda College,7.50,7.500
-20084728006,Reema Haldar,Vivekananda College,6.50,6.500
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20084728001,Arti,Vivekananda College,5.75,5.21,5.487
+20084728002,Deepa,Vivekananda College,7.50,7.74,7.615
+20084728003,Jyoti sharma,Vivekananda College,8.25,5.95,7.128
+20084728004,Kajal,Vivekananda College,7.75,4.95,6.385
+20084728005,LOVELY SHARMA,Vivekananda College,7.50,6.74,7.128
+20084728006,Reema Haldar,Vivekananda College,6.50,5.68,6.103
+20084728007,SAKSHI JAIN,Vivekananda College,9.00,9.21,9.103

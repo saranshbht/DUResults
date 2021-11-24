@@ -1,14 +1,14 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20071728001,Akshay Kumar,Shivaji College,7.75,7.750
-20071728002,Alok Bhatt,Shivaji College,8.25,8.250
-20071728003,Ambika prasad dubey,Shivaji College,7.75,7.750
-20071728004,Ashish joshi,Shivaji College,7.75,7.750
-20071728005,Deepti Singh Rathor,Shivaji College,7.50,7.500
-20071728006,GAURI SHANKAR,Shivaji College,8.50,8.500
-20071728007,Gopeshwer Nath Tiwari,Shivaji College,8.00,8.000
-20071728008,Harender Kumar,Shivaji College,7.75,7.750
-20071728010,NEHA,Shivaji College,8.50,8.500
-20071728011,SHUBHAM KUMAR MISHRA,Shivaji College,8.25,8.250
-20071728012,vijay kumar jha,Shivaji College,8.50,8.500
-20071728013,Vipin chaudhary,Shivaji College,8.00,8.000
-20071728014,Vivekanand Raturi,Shivaji College,8.25,8.250
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20071728001,Akshay Kumar,Shivaji College,7.75,7.21,7.487
+20071728002,Alok Bhatt,Shivaji College,8.25,8.26,8.256
+20071728003,Ambika prasad dubey,Shivaji College,7.75,8.00,7.872
+20071728004,Ashish joshi,Shivaji College,7.75,7.47,7.615
+20071728005,Deepti Singh Rathor,Shivaji College,7.50,6.21,6.872
+20071728007,Gopeshwer Nath Tiwari,Shivaji College,8.00,8.53,8.256
+20071728008,Harender Kumar,Shivaji College,7.75,6.21,7.000
+20071728009,HIMANSHU DIXIT,Shivaji College,8.50,8.00,8.256
+20071728010,NEHA,Shivaji College,8.50,8.47,8.487
+20071728011,SHUBHAM KUMAR MISHRA,Shivaji College,8.25,8.00,8.128
+20071728012,vijay kumar jha,Shivaji College,8.50,9.00,8.744
+20071728013,Vipin chaudhary,Shivaji College,8.00,8.26,8.128
+20071728014,Vivekanand Raturi,Shivaji College,8.25,8.00,8.128
