@@ -1,49 +1,39 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20207720001,AAYUSHI,Department of Linguistics,1.25,1.250
-20207720002,ABDELRAHMAN KHAIRY ABDELRAHMAN ABU HARBID,Department of Linguistics,7.25,7.250
-20207720003,ADWITIYA DIXIT,Department of Linguistics,8.50,8.500
-20207720004,ALI NAQUEEB,Department of Linguistics,7.00,7.000
-20207720005,ANUSREE K P,Department of Linguistics,7.75,7.750
-20207720006,BHASHITA JUNEJA,Department of Linguistics,8.25,8.250
-20207720007,CHANDAN KUMAR,Department of Linguistics,7.50,7.500
-20207720008,DIVYA,Department of Linguistics,6.75,6.750
-20207720009,EKHRUO KAPE,Department of Linguistics,5.75,5.750
-20207720010,GARIMA JAYANT,Department of Linguistics,6.50,6.500
-20207720011,GAURI TOMAR,Department of Linguistics,5.75,5.750
-20207720012,GAYATHRI M KRISHNAN,Department of Linguistics,7.75,7.750
-20207720013,HAMZA FAYAD,Department of Linguistics,7.50,7.500
-20207720014,HEMANGI,Department of Linguistics,0.00,0.000
-20207720015,INYOUNG CHOI,Department of Linguistics,6.00,6.000
-20207720016,JOHN AHEIBAM,Department of Linguistics,7.75,7.750
-20207720017,KANISHK,Department of Linguistics,6.75,6.750
-20207720018,KAPIL SANDWAL,Department of Linguistics,4.25,4.250
-20207720019,KIRTI BAHUBAL,Department of Linguistics,8.75,8.750
-20207720020,KUSHAL BHASKAR,Department of Linguistics,7.25,7.250
-20207720021,MAHEK MOBEEN,Department of Linguistics,6.00,6.000
-20207720022,MAJID MUNEER,Department of Linguistics,8.00,8.000
-20207720023,MANSI ADHIKARI,Department of Linguistics,7.50,7.500
-20207720024,MIMANSHA NAYAK,Department of Linguistics,7.75,7.750
-20207720025,NABYAH HAFEEZ,Department of Linguistics,7.25,7.250
-20207720026,NAMRATA KUMARI,Department of Linguistics,7.00,7.000
-20207720027,NEHA MAHTO,Department of Linguistics,8.25,8.250
-20207720028,PARTHA PRATIM SAIKIA,Department of Linguistics,0.00,0.000
-20207720029,PRAGYA DUTT,Department of Linguistics,8.00,8.000
-20207720030,PRERNA TALWAR,Department of Linguistics,0.00,0.000
-20207720031,RISHITA SAINI,Department of Linguistics,5.50,5.500
-20207720032,ROUSHAN KUMAR SINGH,Department of Linguistics,6.50,6.500
-20207720033,SARAH DAVID,Department of Linguistics,7.00,7.000
-20207720034,SAUMYA SHARMA,Department of Linguistics,7.75,7.750
-20207720035,SHATAKSHI BHARGAVA,Department of Linguistics,7.50,7.500
-20207720036,SHIVAM SRIVASTAVA,Department of Linguistics,6.50,6.500
-20207720037,SHRESTA DEY,Department of Linguistics,6.00,6.000
-20207720038,SHREYA SRIVASTAVA,Department of Linguistics,6.25,6.250
-20207720039,SHRUTI PANDAGRE,Department of Linguistics,8.25,8.250
-20207720040,SHUDHANSHU SHEKHAR,Department of Linguistics,7.50,7.500
-20207720041,SNEHA PAL,Department of Linguistics,0.00,0.000
-20207720042,SUJAN RAI,Department of Linguistics,7.75,7.750
-20207720043,TANUSHREE MALL,Department of Linguistics,8.25,8.250
-20207720044,TANVI EKKA,Department of Linguistics,7.75,7.750
-20207720045,TEHREEM,Department of Linguistics,7.50,7.500
-20207720046,UDITA BARUA,Department of Linguistics,8.00,8.000
-20207720047,VANI GUPTA,Department of Linguistics,7.25,7.250
-20207720048,ZIYODA RAKHIMOVA,Department of Linguistics,6.25,6.250
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20207720001,Aayushi,Department of Linguistics,1.25,3.25,2.250
+20207720002,Abdelrahman Khairy Abdelrahman Abu Harbid,Department of Linguistics,7.25,7.75,7.500
+20207720003,Adwitiya Dixit,Department of Linguistics,8.50,9.00,8.750
+20207720004,Ali Naqueeb,Department of Linguistics,7.00,6.75,6.875
+20207720005,Anusree K P,Department of Linguistics,7.75,7.75,7.750
+20207720006,Bhashita Juneja,Department of Linguistics,8.25,8.00,8.125
+20207720007,CHANDAN KUMAR,Department of Linguistics,7.50,8.25,7.875
+20207720008,DIVYA,Department of Linguistics,6.75,7.50,7.125
+20207720010,Garima jayant,Department of Linguistics,6.50,7.50,7.000
+20207720012,Gayathri M Krishnan,Department of Linguistics,7.75,8.00,7.875
+20207720013,Hamza Fayad,Department of Linguistics,7.50,7.25,7.375
+20207720016,John Aheibam,Department of Linguistics,7.75,8.00,7.875
+20207720017,Kanishk,Department of Linguistics,6.75,8.00,7.375
+20207720019,KIRTI BAHUBAL,Department of Linguistics,8.75,9.00,8.875
+20207720020,Kushal Bhaskar,Department of Linguistics,7.25,8.00,7.625
+20207720021,MAHEK MOBEEN,Department of Linguistics,6.00,6.75,6.375
+20207720022,Majid Muneer,Department of Linguistics,8.00,4.50,6.250
+20207720023,Mansi Adhikari,Department of Linguistics,7.50,7.75,7.625
+20207720024,MIMANSHA NAYAK,Department of Linguistics,7.75,8.25,8.000
+20207720025,Nabyah Hafeez,Department of Linguistics,7.25,1.00,4.125
+20207720026,Namrata kumari,Department of Linguistics,7.00,7.25,7.125
+20207720027,NEHA MAHTO,Department of Linguistics,8.25,8.00,8.125
+20207720029,PRAGYA DUTT,Department of Linguistics,8.00,8.00,8.000
+20207720031,Rishita saini,Department of Linguistics,5.50,6.50,6.000
+20207720034,Saumya Sharma,Department of Linguistics,7.75,7.75,7.750
+20207720035,SHATAKSHI BHARGAVA,Department of Linguistics,7.50,8.25,7.875
+20207720036,SHIVAM SRIVASTAVA,Department of Linguistics,6.50,7.25,6.875
+20207720037,SHRESTA DEY,Department of Linguistics,6.00,6.75,6.375
+20207720038,Shreya Srivastava,Department of Linguistics,6.25,7.00,6.625
+20207720039,Shruti Pandagre,Department of Linguistics,8.25,8.75,8.500
+20207720040,SHUDHANSHU SHEKHAR,Department of Linguistics,7.50,6.75,7.125
+20207720042,SUJAN RAI,Department of Linguistics,7.75,8.25,8.000
+20207720043,Tanushree Mall,Department of Linguistics,8.25,7.50,7.875
+20207720044,TANVI EKKA,Department of Linguistics,7.75,8.50,8.125
+20207720045,TEHREEM,Department of Linguistics,7.50,5.25,6.375
+20207720046,Udita Barua,Department of Linguistics,8.00,8.25,8.125
+20207720047,Vani Gupta,Department of Linguistics,7.25,7.50,7.375
+20207720048,Ziyoda Rakhimova,Department of Linguistics,6.25,5.00,5.625
