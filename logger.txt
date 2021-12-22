@@ -23826,3 +23826,35 @@ Courses to be updated
 {"17":[],"18":[],"19":[],"20":["792","794"]}
 Grade 20 792 307
 Grade 20 794 307
+2021-12-22T00:42:17.180Z
+nov_dec
+Grade
+ASP.NET_SessionId=1bjko055ga0p3cvnz4b5t355
+Courses to be downloaded
+{"17":[],"18":[],"19":[],"20":["107","544","572","718","744","777","798","799"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 718 029
+New course but no college
+New course but no college
+New course but no college
+New course but no college
+Courses to be updated
+{"17":[],"18":[],"19":[],"20":[]}
+may_june
+Grade
+ASP.NET_SessionId=0swden3vkdhyzb450sajsw20
+Courses to be downloaded
+{"17":[],"18":[],"19":[],"20":["107","544","572","718","744","777","790","798","799"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 718 029
+New course but no college
+New course but no college
+Error at 20 790 307
+New course but no college
+New course but no college
+Courses to be updated
+{"17":[],"18":[],"19":[],"20":[]}
