@@ -1,7 +1,7 @@
-RollNo,Name,College,Sem-I,Overall CGPA
-20307791001,Akansha,Non Collegiate Women Education Board (NCWEB),7.75,7.750
-20307791002,Dolly Sharma,Non Collegiate Women Education Board (NCWEB),7.00,7.000
-20307791003,Komal panchal,Non Collegiate Women Education Board (NCWEB),3.75,3.750
-20307791004,Preeti Verma,Non Collegiate Women Education Board (NCWEB),6.75,6.750
-20307791005,Charu sharma,Non Collegiate Women Education Board (NCWEB),7.00,7.000
-20307791006,JYOTSNA,Non Collegiate Women Education Board (NCWEB),8.00,8.000
+RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
+20307791001,Akansha,Non Collegiate Women Education Board (NCWEB),7.75,7.53,7.641
+20307791002,Dolly Sharma,Non Collegiate Women Education Board (NCWEB),7.00,7.53,7.256
+20307791003,Komal panchal,Non Collegiate Women Education Board (NCWEB),3.75,6.00,4.846
+20307791004,Preeti Verma,Non Collegiate Women Education Board (NCWEB),6.75,7.53,7.128
+20307791005,Charu sharma,Non Collegiate Women Education Board (NCWEB),7.00,7.53,7.256
+20307791006,JYOTSNA,Non Collegiate Women Education Board (NCWEB),8.00,8.00,8.000
