@@ -3,13 +3,13 @@ const req = require("./requirements");
 const links = {
   nov_dec: {
     cookie_url:
-      "http://durslt.du.ac.in/DURSLT_ND2020/Students/Combine_GradeCard.aspx",
+      "http://durslt.du.ac.in/DURSLT_ND2021/Students/Combine_GradeCard.aspx",
     declared_url:
-      "http://durslt.du.ac.in/DURSLT_ND2020/Students/List_Of_Declared_Results.aspx",
+      "http://durslt.du.ac.in/DURSLT_ND2021/Students/List_Of_Declared_Results.aspx",
     grade_url:
-      "http://durslt.du.ac.in/DURSLT_ND2020/Students/Combine_GradeCardReport_CBCS.aspx",
+      "http://durslt.du.ac.in/DURSLT_ND2021/Students/Combine_GradeCardReport_CBCS.aspx",
     marks_url:
-      "http://durslt.du.ac.in/DURSLT_ND2020/Students/OLD_Sys1_GradeCardReport_Sem_New.aspx",
+      "http://durslt.du.ac.in/DURSLT_ND2021/Students/OLD_Sys1_GradeCardReport_Sem_New.aspx",
   },
   may_june: {
     cookie_url:
