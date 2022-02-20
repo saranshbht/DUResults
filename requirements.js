@@ -100,11 +100,11 @@ let setCookie = (url) => {
 
       parameters = {
         ...parameters,
-        ddlcollege: "234",
-        txtrollno: "20234747050",
-        ddlDD: "14",
-        ddlMM: "3",
-        ddlYYYY: "1999",
+        ddlcollege: "015",
+        txtrollno: "19015511015",
+        ddlDD: "5",
+        ddlMM: "5",
+        ddlYYYY: "2002",
         captcha: "rb_captcha_image",
         btnsearch: "Print Score Card",
         txtcaptcha: $("#imgCaptcha")
