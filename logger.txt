@@ -25600,3 +25600,11 @@ Courses to be downloaded
 {}
 Courses to be updated
 {"17":[],"18":[],"19":[],"20":[]}
+2022-03-15T00:52:23.000Z
+may_june
+Grade
+ASP.NET_SessionId=isbl0t55q3e0zg451upgyh55
+Courses to be downloaded
+{}
+Courses to be updated
+{"17":[],"18":[],"19":[],"20":[]}
