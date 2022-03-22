@@ -1,15 +1,15 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20312759001,Ajeet Kumar,Cluster Innovation Centre (C.I.C.),8.32,8.77,8.563
-20312759002,ANIKET SINGH CHANDRAVANSHI,Cluster Innovation Centre (C.I.C.),7.64,7.62,7.625
-20312759003,Hari Shankar Kumar,Cluster Innovation Centre (C.I.C.),8.86,8.85,8.854
-20312759004,KRITIKA,Cluster Innovation Centre (C.I.C.),8.05,8.69,8.396
-20312759005,MEENAKSHI SHARMA,Cluster Innovation Centre (C.I.C.),8.86,8.77,8.813
-20312759006,Nitasha,Cluster Innovation Centre (C.I.C.),8.05,9.00,8.563
-20312759007,PRINCE,Cluster Innovation Centre (C.I.C.),8.36,8.46,8.417
-20312759008,Ratika Singh,Cluster Innovation Centre (C.I.C.),9.05,8.77,8.896
-20312759010,RYTHEM SHARMA,Cluster Innovation Centre (C.I.C.),8.82,8.85,8.833
-20312759013,SHARAD DWIVEDI,Cluster Innovation Centre (C.I.C.),7.91,2.15,4.792
-20312759014,Shubham Kushwaha,Cluster Innovation Centre (C.I.C.),8.27,8.00,8.125
-20312759015,TARUN GURJAR,Cluster Innovation Centre (C.I.C.),8.05,7.69,7.854
-20312759016,Tsetan Dorjee,Cluster Innovation Centre (C.I.C.),7.00,5.85,6.375
-20312759017,VIKASH TANWAR,Cluster Innovation Centre (C.I.C.),8.18,7.92,8.042
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20312759001,Ajeet Kumar,Cluster Innovation Centre (C.I.C.),8.32,8.77,8.23,8.446
+20312759002,ANIKET SINGH CHANDRAVANSHI,Cluster Innovation Centre (C.I.C.),7.64,7.62,8.00,7.757
+20312759003,Hari Shankar Kumar,Cluster Innovation Centre (C.I.C.),8.86,8.85,7.69,8.446
+20312759004,KRITIKA,Cluster Innovation Centre (C.I.C.),8.05,8.69,8.54,8.446
+20312759005,MEENAKSHI SHARMA,Cluster Innovation Centre (C.I.C.),8.86,8.77,9.15,8.932
+20312759006,Nitasha,Cluster Innovation Centre (C.I.C.),8.05,9.00,8.38,8.500
+20312759007,PRINCE,Cluster Innovation Centre (C.I.C.),8.36,8.46,8.46,8.432
+20312759008,Ratika Singh,Cluster Innovation Centre (C.I.C.),9.05,8.77,9.46,9.095
+20312759009,Rupal Gupta,Cluster Innovation Centre (C.I.C.),8.82,9.00,9.15,9.000
+20312759010,RYTHEM SHARMA,Cluster Innovation Centre (C.I.C.),8.82,8.85,8.69,8.784
+20312759014,Shubham Kushwaha,Cluster Innovation Centre (C.I.C.),8.27,8.00,8.08,8.108
+20312759015,TARUN GURJAR,Cluster Innovation Centre (C.I.C.),8.05,7.69,8.54,8.095
+20312759016,TSETAN DORJEE,Cluster Innovation Centre (C.I.C.),7.00,5.85,5.85,6.189
+20312759017,VIKASH TANWAR,Cluster Innovation Centre (C.I.C.),8.18,7.92,6.92,7.649

@@ -1,85 +1,102 @@
-RollNo,Name,College,SOCIOLOGICAL THEORIES,SOCIOLOGY OF KINSHIP,SOCIOLOGY OF RELIGION,SOCIOLOGY OF INDIA I,ACADEMIC READING AND WRITING,METHODS OF SOCIOLOGICAL RESEARCH I,ECONOMY AND SOCIETY,POLITICAL SOCIOLOGY,SOCIAL STRATIFICATION
-20230730002,AKSHAY BALAN,Department of Sociology,7,7,7,6,10,7,7,7,7
-20230730004,Amlan Sarkar,Department of Sociology,7,7,6,7,10,7,7,7,7
-20230730005,Anam Tok,Department of Sociology,7,6,7,5,7,7,6,6,6
-20230730007,anisha maini,Department of Sociology,7,8,7,7,10,8,7,8,8
-20230730008,ANJALI,Department of Sociology,7,6,7,6,10,7,6,6,7
-20230730009,ANKITA PUROHIT,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730010,Anurag Rao,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730014,Avantika Jhunjhunwala,Department of Sociology,7,7,7,7,10,7,7,7,7
-20230730015,Avita Singh,Department of Sociology,7,8,7,7,9,8,7,8,7
-20230730016,Ayushi Pandey,Department of Sociology,7,7,6,7,10,7,7,7,7
-20230730017,BENJAMIN BASHYAS SARMA,Department of Sociology,7,7,7,7,10,7,7,7,7
-20230730018,BENNA FATHIMA K,Department of Sociology,7,7,7,6,9,7,7,7,7
-20230730019,Bhavya Rishi,Department of Sociology,6,6,7,6,10,7,7,6,6
-20230730020,Bibhuti Malla,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730022,D Nirman Kumar,Department of Sociology,6,0,6,7,10,6,6,6,6
-20230730023,Devanshi Sarin,Department of Sociology,6,7,7,7,10,7,7,7,7
-20230730024,DEVYANSHI AGARWAL,Department of Sociology,7,7,7,7,10,7,7,7,7
-20230730025,Dhriti Gerangal,Department of Sociology,7,7,7,8,10,7,7,7,7
-20230730026,DIMZOKIM BAWMKHAi,Department of Sociology,6,5,6,6,10,7,7,7,7
-20230730027,Gajender Yadav,Department of Sociology,6,5,6,6,10,7,7,7,7
-20230730028,Garima Barman,Department of Sociology,7,7,7,7,10,7,7,7,7
-20230730029,GOURI KRISHN S A,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730030,H. SYLVIA SINGSIT,Department of Sociology,7,7,7,6,10,7,7,7,7
-20230730031,HAOBAM RENIYA DEVI,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730032,Harsha Nimmakayala,Department of Sociology,7,7,7,7,10,7,7,7,7
-20230730033,Hemangi Rawal,Department of Sociology,7,7,7,7,10,7,7,7,7
-20230730034,Ifra Shams Ansari,Department of Sociology,7,7,7,7,9,7,7,7,7
-20230730035,JAHNAB BHARADWAJ,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730036,JAYANT KUMAR ROY,Department of Sociology,6,6,6,6,10,7,6,6,6
-20230730037,Jayashree D,Department of Sociology,5,5,6,6,9,7,7,7,7
-20230730038,Jerom RambukPangkhua,Department of Sociology,7,5,6,6,9,6,6,6,6
-20230730039,Kamalpreet Kaur,Department of Sociology,6,6,6,6,10,7,7,7,7
-20230730041,Kritika Arya,Department of Sociology,8,8,7,7,10,7,7,7,7
-20230730042,Kshetrimayum Julia Devi,Department of Sociology,0,6,6,6,10,6,6,6,6
-20230730043,LAISHRAM YAISANA KHUMAN,Department of Sociology,7,7,7,6,10,7,7,7,7
-20230730044,Lakshay Talwar,Department of Sociology,6,8,7,7,10,8,8,8,8
-20230730045,Lavanya Singh,Department of Sociology,7,7,7,7,9,8,7,7,8
-20230730046,Madiha Haseen,Department of Sociology,6,6,7,7,9,7,7,7,7
-20230730047,MANANTA BORA,Department of Sociology,7,6,7,7,9,7,7,7,7
-20230730048,Mayuri Sarma,Department of Sociology,7,7,7,7,10,7,7,7,7
-20230730049,Medha Kapoor,Department of Sociology,7,7,7,7,9,7,7,7,7
-20230730050,Mehvish,Department of Sociology,6,6,7,7,10,7,7,7,7
-20230730051,MOYUREE MUKHERJEE,Department of Sociology,7,7,7,7,10,8,7,7,7
-20230730052,Muskaan Koshija,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730053,Namrata Pariyar,Department of Sociology,7,6,7,7,10,7,6,6,7
-20230730054,Narayani bhattacharya,Department of Sociology,7,6,6,7,10,7,7,7,7
-20230730055,NAROTTAM KUMAR,Department of Sociology,6,5,6,6,8,7,6,7,6
-20230730056,NEHA JAIN,Department of Sociology,7,7,7,7,10,7,7,7,7
-20230730057,Neha Panwar,Department of Sociology,7,0,7,6,6,6,6,6,6
-20230730058,NGANGBAM MALESH KUMAR,Department of Sociology,7,7,7,6,9,7,6,6,6
-20230730062,Pardeepika,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730063,Prajjwal Yadav,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730065,RITU SINGH,Department of Sociology,7,6,6,6,8,7,6,6,7
-20230730066,ROHIT RAJ,Department of Sociology,7,6,7,7,6,7,7,7,7
-20230730068,RUPAM TIWARI,Department of Sociology,7,6,7,7,9,7,7,7,7
-20230730069,Rupsikha Baruah,Department of Sociology,7,7,7,7,10,7,7,7,7
-20230730070,SADHANA,Department of Sociology,7,7,7,7,10,7,7,7,7
-20230730071,SAKSHI SANJAY NAIK,Department of Sociology,6,7,7,7,10,7,7,7,7
-20230730072,Samiksha Raj,Department of Sociology,6,6,7,7,8,7,7,7,7
-20230730073,SAMRIDHI KAITHWAS,Department of Sociology,7,6,7,7,8,7,6,7,7
-20230730074,Samya Mondal,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730075,SANKALP JAYANT,Department of Sociology,7,6,6,7,10,7,7,7,7
-20230730076,Shambhavi,Department of Sociology,7,6,7,7,9,7,7,7,7
-20230730078,Shyamalee Raj Medhi,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730079,Sidharth Ravi,Department of Sociology,6,7,6,7,10,7,7,7,7
-20230730080,Sidra Ali Palazhi,Department of Sociology,7,6,7,6,9,7,7,7,7
-20230730081,SMRITI RAJIV SHARMA,Department of Sociology,7,6,7,7,7,7,7,7,7
-20230730082,SNEHA BINANI,Department of Sociology,7,7,6,7,9,7,7,7,7
-20230730083,Sneha Saji,Department of Sociology,7,6,7,7,10,6,0,0,0
-20230730084,SOUMYA RAJ,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730085,Srinjit Venkatesh,Department of Sociology,7,6,5,7,8,7,7,7,7
-20230730086,SUPARNA KALITA,Department of Sociology,7,6,6,7,10,7,7,7,7
-20230730088,Trivikrama Madhusudhana,Department of Sociology,7,7,7,7,10,8,7,7,8
-20230730089,Tulika Sharma,Department of Sociology,7,7,7,6,10,7,7,7,7
-20230730090,Ujan Banerjee,Department of Sociology,6,7,5,7,9,7,7,7,7
-20230730091,Upasika Malhotra,Department of Sociology,7,7,5,7,8,7,7,7,7
-20230730092,urvashi,Department of Sociology,7,7,7,7,9,7,7,7,7
-20230730093,Vandana Kalsi,Department of Sociology,7,6,7,7,10,7,6,6,6
-20230730094,Veno Rudupra,Department of Sociology,7,7,7,7,10,7,7,7,7
-20230730095,VINCENT MAHONGNAO,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730096,YANGZUM CHODEN DAWA,Department of Sociology,6,4,5,4,0,5,6,6,6
-20230730097,Yogita Singh,Department of Sociology,7,6,7,7,10,7,7,7,7
-20230730098,Zobia Salam,Department of Sociology,7,7,7,7,10,7,7,7,7
-20230730101,VAGEESH LALL,Department of Sociology,6,7,7,6,7,7,7,7,7
+RollNo,Name,College,SOCIOLOGICAL THEORIES,SOCIOLOGY OF KINSHIP,SOCIOLOGY OF RELIGION,SOCIOLOGY OF INDIA I,ACADEMIC READING AND WRITING,METHODS OF SOCIOLOGICAL RESEARCH I,ECONOMY AND SOCIETY,POLITICAL SOCIOLOGY,SOCIAL STRATIFICATION,RESEARCH METHODS IN SOCIOLOGY II,SOCIOLOGY OF INDIA II,SOCIOLOGY OF LAW,SOCIOLOGY OF MEDIA,SOCIETY AND ECOLOGY,SOCIOLOGY OF SYMBOLISM
+20230730001,AAZAM ABDUL NISTHAR,Department of Sociology,6,6,7,6,10,7,7,7,7,6,6,7,7,,
+20230730002,AKSHAY BALAN,Department of Sociology,7,7,7,6,10,7,7,7,7,7,7,,8,7,
+20230730003,AKSHAY DEEP SHARMA,Department of Sociology,0,0,0,0,9,,,,,,,,,,
+20230730004,Amlan Sarkar,Department of Sociology,7,7,6,7,10,7,7,7,7,8,6,,6,,7
+20230730005,Anam Tok,Department of Sociology,7,6,7,5,7,7,6,6,6,7,6,,5,6,
+20230730006,ANIRUDH RAJAN,Department of Sociology,0,0,0,0,0,,,,,,,,,,
+20230730007,anisha maini,Department of Sociology,7,8,7,7,10,8,7,8,8,9,8,,8,8,
+20230730008,ANJALI,Department of Sociology,7,6,7,6,10,7,6,6,7,7,6,,7,6,
+20230730009,ANKITA PUROHIT,Department of Sociology,7,6,7,7,10,7,7,7,7,10,6,,7,,7
+20230730010,Anurag Rao,Department of Sociology,7,6,7,7,10,7,7,7,7,7,6,,,6,7
+20230730011,ARSHED AZIZ,Department of Sociology,7,6,6,7,9,7,7,7,7,7,5,,6,7,
+20230730012,ASHUTOSH KUMAR BARANWAL,Department of Sociology,6,5,7,7,10,7,7,7,7,7,5,,7,6,
+20230730013,ASMITA KANOJIYA,Department of Sociology,6,6,7,7,8,6,6,6,6,6,4,,,6,7
+20230730014,Avantika Jhunjhunwala,Department of Sociology,7,7,7,7,10,7,7,7,7,6,6,,7,,6
+20230730015,Avita Singh,Department of Sociology,7,8,7,7,9,8,7,8,7,7,7,7,7,,
+20230730016,Ayushi Pandey,Department of Sociology,7,7,6,7,10,7,7,7,7,7,6,,7,,6
+20230730017,BENJAMIN BASHYAS SARMA,Department of Sociology,7,7,7,7,10,7,7,7,7,9,6,,7,7,
+20230730018,BENNA FATHIMA K,Department of Sociology,7,7,7,6,9,7,7,7,7,7,5,6,7,,
+20230730019,Bhavya Rishi,Department of Sociology,6,6,7,6,10,7,7,6,6,7,5,5,,6,
+20230730020,Bibhuti Malla,Department of Sociology,7,6,7,7,10,7,7,7,7,7,6,,6,,6
+20230730021,CHISOMO KAMWENDO BANDA,Department of Sociology,6,6,6,6,10,7,7,7,6,6,6,,6,,6
+20230730022,D Nirman Kumar,Department of Sociology,6,6,6,7,10,6,6,6,6,7,6,,6,,7
+20230730023,Devanshi Sarin,Department of Sociology,6,7,7,7,10,7,7,7,7,7,6,,7,,7
+20230730024,DEVYANSHI AGARWAL,Department of Sociology,7,7,7,7,10,7,7,7,7,8,7,,7,6,
+20230730025,Dhriti Gerangal,Department of Sociology,7,7,7,8,10,7,7,7,7,7,7,,,6,7
+20230730026,DIMZOKIM BAWMKHAi,Department of Sociology,6,5,6,6,10,7,7,7,7,8,6,,6,,7
+20230730027,Gajender Yadav,Department of Sociology,6,5,6,6,10,7,7,7,7,7,7,6,,7,
+20230730028,Garima Barman,Department of Sociology,7,7,7,7,10,7,7,7,7,8,7,7,,,7
+20230730029,GOURI KRISHN S A,Department of Sociology,7,6,7,7,10,7,7,7,7,7,7,,7,,7
+20230730030,H. SYLVIA SINGSIT,Department of Sociology,7,7,7,6,10,7,7,7,7,7,8,7,,6,
+20230730031,HAOBAM RENIYA DEVI,Department of Sociology,7,6,7,7,10,7,7,7,7,7,6,7,,6,
+20230730032,Harsha Nimmakayala,Department of Sociology,7,7,7,7,10,7,7,7,7,7,8,,,7,7
+20230730033,Hemangi Rawal,Department of Sociology,7,7,7,7,10,7,7,7,7,7,6,7,7,,
+20230730034,Ifra Shams Ansari,Department of Sociology,7,7,7,7,9,7,7,7,7,7,9,7,,7,
+20230730035,JAHNAB BHARADWAJ,Department of Sociology,7,6,7,7,10,7,7,7,7,7,7,,7,6,
+20230730036,JAYANT KUMAR ROY,Department of Sociology,6,6,6,6,10,7,6,6,6,7,6,,6,,7
+20230730037,Jayashree D,Department of Sociology,5,5,6,6,9,7,7,7,7,6,6,,5,6,
+20230730038,Jerom RambukPangkhua,Department of Sociology,7,5,6,6,9,6,6,6,6,6,5,,7,,7
+20230730039,Kamalpreet Kaur,Department of Sociology,6,6,6,6,10,7,7,7,7,7,6,,7,,7
+20230730040,KANIKA SONI,Department of Sociology,7,6,7,7,9,7,7,7,7,7,5,6,6,,
+20230730041,Kritika Arya,Department of Sociology,8,8,7,7,10,7,7,7,7,6,7,6,,7,
+20230730042,Kshetrimayum Julia Devi,Department of Sociology,6,6,6,6,10,6,6,6,6,7,6,,6,,7
+20230730043,LAISHRAM YAISANA KHUMAN,Department of Sociology,7,7,7,6,10,7,7,7,7,7,9,,,7,7
+20230730044,Lakshay Talwar,Department of Sociology,6,8,7,7,10,8,8,8,8,7,10,7,,9,
+20230730045,Lavanya Singh,Department of Sociology,7,7,7,7,9,8,7,7,8,6,7,,7,7,
+20230730046,Madiha Haseen,Department of Sociology,6,6,7,7,9,7,7,7,7,7,6,,6,,7
+20230730047,MANANTA BORA,Department of Sociology,7,6,7,7,9,7,7,7,7,7,7,,6,,7
+20230730048,Mayuri Sarma,Department of Sociology,7,7,7,7,10,7,7,7,7,7,6,,,6,6
+20230730049,Medha Kapoor,Department of Sociology,7,7,7,7,9,7,7,7,7,8,6,7,,7,
+20230730050,Mehvish,Department of Sociology,6,6,7,7,10,7,7,7,7,7,5,,5,,7
+20230730051,MOYUREE MUKHERJEE,Department of Sociology,7,7,7,7,10,8,7,7,7,7,6,6,,7,
+20230730052,Muskaan Koshija,Department of Sociology,7,6,7,7,10,7,7,7,7,7,6,,7,,6
+20230730053,Namrata Pariyar,Department of Sociology,7,6,7,7,10,7,6,6,7,7,5,6,,,7
+20230730054,Narayani bhattacharya,Department of Sociology,7,6,6,7,10,7,7,7,7,6,6,,,7,7
+20230730055,NAROTTAM KUMAR,Department of Sociology,6,5,6,6,8,7,6,7,6,7,6,,,6,6
+20230730056,NEHA JAIN,Department of Sociology,7,7,7,7,10,7,7,7,7,7,6,6,,7,
+20230730057,Neha Panwar,Department of Sociology,7,6,7,6,6,6,6,6,6,7,5,,,6,6
+20230730058,NGANGBAM MALESH KUMAR,Department of Sociology,7,7,7,6,9,7,6,6,6,7,6,6,6,,
+20230730059,NIDHI PANICKER,Department of Sociology,7,7,7,7,10,8,7,7,7,7,6,4,,7,
+20230730060,NORBU DOLMA,Department of Sociology,6,5,6,6,10,7,7,6,7,6,5,6,4,,
+20230730061,OORMILA J S,Department of Sociology,7,7,7,7,10,7,7,7,7,7,7,7,,7,
+20230730062,Pardeepika,Department of Sociology,7,6,7,7,10,7,7,7,7,7,5,,5,,8
+20230730063,Prajjwal Yadav,Department of Sociology,7,6,7,7,10,7,7,7,7,7,7,,,6,7
+20230730064,RISHIKESH TIWARY,Department of Sociology,0,0,0,0,0,,,,,,,,,,
+20230730065,RITU SINGH,Department of Sociology,7,6,6,6,8,7,6,6,7,8,6,,7,6,
+20230730066,ROHIT RAJ,Department of Sociology,7,6,7,7,6,7,7,7,7,7,7,,,6,7
+20230730067,ROSHNI YADAV,Department of Sociology,0,0,0,0,0,,,,,,,,,,
+20230730068,RUPAM TIWARI,Department of Sociology,7,6,7,7,9,7,7,7,7,9,5,,5,6,
+20230730069,Rupsikha Baruah,Department of Sociology,7,7,7,7,10,7,7,7,7,7,6,,7,7,
+20230730070,SADHANA,Department of Sociology,7,7,7,7,10,7,7,7,7,7,6,,7,,8
+20230730071,SAKSHI SANJAY NAIK,Department of Sociology,6,7,7,7,10,7,7,7,7,7,6,7,5,,
+20230730072,Samiksha Raj,Department of Sociology,6,6,7,7,8,7,7,7,7,7,6,,7,,7
+20230730073,SAMRIDHI KAITHWAS,Department of Sociology,7,6,7,7,8,7,6,7,7,7,5,,7,,7
+20230730074,Samya Mondal,Department of Sociology,7,6,7,7,10,7,7,7,7,7,6,6,,7,
+20230730075,SANKALP JAYANT,Department of Sociology,7,6,6,7,10,7,7,7,7,7,6,,7,6,
+20230730076,Shambhavi,Department of Sociology,7,6,7,7,9,7,7,7,7,7,5,6,6,,
+20230730077,SHIVANI CHUNEKAR,Department of Sociology,7,7,7,7,10,8,7,7,7,6,5,7,,6,
+20230730078,Shyamalee Raj Medhi,Department of Sociology,7,6,7,7,10,7,7,7,7,7,5,,6,,7
+20230730079,Sidharth Ravi,Department of Sociology,6,7,6,7,10,7,7,7,7,7,7,,7,9,
+20230730080,SIDRA ALI PALAZHI,Department of Sociology,7,6,7,6,9,7,7,7,7,7,6,,7,,7
+20230730081,SMRITI RAJIV SHARMA,Department of Sociology,7,6,7,7,7,7,7,7,7,7,6,7,,,7
+20230730082,SNEHA BINANI,Department of Sociology,7,7,6,7,9,7,7,7,7,6,5,6,,7,
+20230730083,Sneha Saji,Department of Sociology,7,6,7,7,10,7,7,7,7,6,6,,,6,6
+20230730084,SOUMYA RAJ,Department of Sociology,7,6,7,7,10,7,7,7,7,7,5,,6,6,
+20230730085,Srinjit Venkatesh,Department of Sociology,7,6,5,7,8,7,7,7,7,7,6,,6,6,
+20230730086,SUPARNA KALITA,Department of Sociology,7,6,6,7,10,7,7,7,7,7,5,,7,,7
+20230730087,SUSMIT DAS,Department of Sociology,7,7,7,7,10,7,7,7,7,7,5,6,,7,
+20230730088,Trivikrama Madhusudhana,Department of Sociology,7,7,7,7,10,8,7,7,8,7,5,,6,,6
+20230730089,Tulika Sharma,Department of Sociology,7,7,7,6,10,7,7,7,7,7,5,6,7,,
+20230730090,Ujan Banerjee,Department of Sociology,6,7,5,7,9,7,7,7,7,7,4,,4,,6
+20230730091,Upasika Malhotra,Department of Sociology,7,7,5,7,8,7,7,7,7,6,5,,6,7,
+20230730092,urvashi,Department of Sociology,7,7,7,7,9,7,7,7,7,6,5,,6,6,
+20230730093,Vandana Kalsi,Department of Sociology,7,6,7,7,10,7,6,6,6,7,5,,6,6,
+20230730094,Veno Rudupra,Department of Sociology,7,7,7,7,10,7,7,7,7,7,7,,,7,6
+20230730095,VINCENT MAHONGNAO,Department of Sociology,7,6,7,7,10,7,7,7,7,7,6,,,7,7
+20230730096,YANGZUM CHODEN DAWA,Department of Sociology,6,4,5,5,0,5,6,6,6,6,5,,5,,6
+20230730097,Yogita Singh,Department of Sociology,7,6,7,7,10,7,7,7,7,7,6,6,,,6
+20230730098,Zobia Salam,Department of Sociology,7,7,7,7,10,7,7,7,7,7,8,9,,7,
+20230730099,NEELIMA MUNDAYUR,Department of Sociology,6,6,7,7,9,7,7,7,7,6,6,7,6,,
+20230730100,NAVNEET ANAND,Department of Sociology,6,5,6,6,9,7,7,6,6,7,4,,,6,7
+20230730101,VAGEESH LALL,Department of Sociology,6,7,7,6,7,7,7,7,7,7,6,7,,7,

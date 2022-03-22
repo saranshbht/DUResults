@@ -1,21 +1,23 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20085708001,Almas Malik,Zakir Husain Delhi College (Day),6.25,7.00,6.659
-20085708003,AYAN DAWN,Zakir Husain Delhi College (Day),6.00,7.00,6.545
-20085708004,Bhumika Kadyan,Zakir Husain Delhi College (Day),6.25,6.67,6.477
-20085708005,Bushra khan,Zakir Husain Delhi College (Day),6.00,7.00,6.545
-20085708006,INALI NEGI,Zakir Husain Delhi College (Day),6.25,7.00,6.659
-20085708007,ISHA SURABHI,Zakir Husain Delhi College (Day),6.75,7.00,6.886
-20085708008,KM POOJA,Zakir Husain Delhi College (Day),6.00,6.79,6.432
-20085708009,Lokendrajit Leimapokpam,Zakir Husain Delhi College (Day),6.25,6.38,6.318
-20085708010,Mehak Gahlot,Zakir Husain Delhi College (Day),6.00,6.17,6.091
-20085708011,MO SAHID,Zakir Husain Delhi College (Day),6.50,7.00,6.773
-20085708012,Ngoruh Pingme Monsang,Zakir Husain Delhi College (Day),5.75,6.00,5.886
-20085708013,Palak Deswal,Zakir Husain Delhi College (Day),6.00,7.00,6.545
-20085708015,PRERANA SAIKIA,Zakir Husain Delhi College (Day),6.25,7.00,6.659
-20085708016,Priyal Singh,Zakir Husain Delhi College (Day),6.00,7.00,6.545
-20085708017,Roshan C,Zakir Husain Delhi College (Day),6.25,7.00,6.659
-20085708018,Safia Ismail,Zakir Husain Delhi College (Day),6.50,7.00,6.773
-20085708019,SAHER ZAHRA,Zakir Husain Delhi College (Day),6.25,7.17,6.750
-20085708020,shivi goel,Zakir Husain Delhi College (Day),5.75,6.42,6.114
-20085708021,SOUGATO BASU,Zakir Husain Delhi College (Day),6.75,7.17,6.977
-20085708022,VINAY KUMAR,Zakir Husain Delhi College (Day),6.25,6.79,6.545
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20085708001,ALMAS MALIK,Zakir Husain Delhi College (Day),6.25,7.00,6.75,6.688
+20085708002,ANUSHKA NIKHIL,Zakir Husain Delhi College (Day),6.50,7.00,7.00,6.844
+20085708003,AYAN DAWN,Zakir Husain Delhi College (Day),6.00,7.00,7.50,6.844
+20085708004,BHUMIKA KADYAN,Zakir Husain Delhi College (Day),6.25,7.79,6.75,6.984
+20085708005,BUSHRA KHAN,Zakir Husain Delhi College (Day),6.00,7.00,6.25,6.453
+20085708006,INALI NEGI,Zakir Husain Delhi College (Day),6.25,7.00,6.75,6.688
+20085708007,ISHA SURABHI,Zakir Husain Delhi College (Day),6.75,7.00,6.25,6.688
+20085708008,KM POOJA,Zakir Husain Delhi College (Day),6.00,6.79,6.50,6.453
+20085708009,LOKENDRAJIT LEIMAPOKPAM,Zakir Husain Delhi College (Day),6.25,6.38,6.50,6.375
+20085708010,MEHAK GAHLOT,Zakir Husain Delhi College (Day),6.00,6.17,6.50,6.219
+20085708011,MO SAHID,Zakir Husain Delhi College (Day),6.50,7.00,6.75,6.766
+20085708012,NGORUH PINGME MONSANG,Zakir Husain Delhi College (Day),5.75,6.00,6.00,5.922
+20085708013,PALAK DESWAL,Zakir Husain Delhi College (Day),6.00,7.00,7.00,6.688
+20085708014,PAURUSH BHARTI,Zakir Husain Delhi College (Day),0.00,,,0.000
+20085708015,PRERANA SAIKIA,Zakir Husain Delhi College (Day),6.25,7.00,7.00,6.766
+20085708016,PRIYAL SINGH,Zakir Husain Delhi College (Day),6.00,7.00,6.50,6.531
+20085708017,ROSHAN C,Zakir Husain Delhi College (Day),6.25,7.00,6.25,6.531
+20085708018,SAFIA ISMAIL,Zakir Husain Delhi College (Day),6.50,7.00,6.75,6.766
+20085708019,SAHER ZAHRA,Zakir Husain Delhi College (Day),6.25,7.17,7.00,6.828
+20085708020,SHIVI GOEL,Zakir Husain Delhi College (Day),5.75,6.42,6.25,6.156
+20085708021,SOUGATO BASU,Zakir Husain Delhi College (Day),6.75,7.17,7.00,6.984
+20085708022,VINAY KUMAR,Zakir Husain Delhi College (Day),6.25,6.79,6.25,6.453

@@ -1,57 +1,62 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20236761001,Aakash Sharma,Department of Operational Research,8.60,8.40,8.500
-20236761002,Aamir Iqbal,Department of Operational Research,9.00,8.80,8.900
-20236761003,Abhay Sharma,Department of Operational Research,8.60,9.00,8.800
-20236761004,ABHISHEK KUMAR YADAV,Department of Operational Research,8.00,7.60,7.800
-20236761005,Akanksha Tiwari,Department of Operational Research,8.60,8.40,8.500
-20236761006,AKSHIT GOYAL,Department of Operational Research,9.00,8.40,8.700
-20236761007,ALKA SAMOTA,Department of Operational Research,8.00,7.80,7.900
-20236761008,Anamika Kumari,Department of Operational Research,8.60,8.60,8.600
-20236761010,ANIKET KUNDU,Department of Operational Research,8.40,8.40,8.400
-20236761011,ANJALI BHERON,Department of Operational Research,8.40,9.00,8.700
-20236761013,Anshika Sachan,Department of Operational Research,8.60,8.80,8.700
-20236761014,Dikshant,Department of Operational Research,8.40,8.00,8.200
-20236761015,ERAM FATIMA,Department of Operational Research,8.80,9.00,8.900
-20236761016,Garima Yadav,Department of Operational Research,8.20,9.00,8.600
-20236761017,Harshit Tyagi,Department of Operational Research,8.00,7.40,7.700
-20236761018,Himanshu,Department of Operational Research,8.80,9.00,8.900
-20236761019,Himanshu,Department of Operational Research,7.60,7.80,7.700
-20236761020,Himanshu Garg,Department of Operational Research,8.60,8.60,8.600
-20236761021,INDAR KUMAR,Department of Operational Research,8.40,8.80,8.600
-20236761022,Jatin khudania,Department of Operational Research,8.20,8.80,8.500
-20236761024,Jyoti Bisht,Department of Operational Research,8.60,8.20,8.400
-20236761025,Kartikeya Chitkaria,Department of Operational Research,8.40,8.80,8.600
-20236761026,Kriti Gupta,Department of Operational Research,8.80,9.00,8.900
-20236761027,MANOJ,Department of Operational Research,8.40,9.00,8.700
-20236761028,Medni Aswal,Department of Operational Research,8.60,9.40,9.000
-20236761029,Mehak,Department of Operational Research,8.60,8.20,8.400
-20236761031,NEHLA SHAJAHAN,Department of Operational Research,8.80,9.00,8.900
-20236761032,Niharika Sohni,Department of Operational Research,8.60,9.00,8.800
-20236761033,Nikita Kathuria,Department of Operational Research,8.80,9.00,8.900
-20236761034,Pawan Kumar,Department of Operational Research,8.20,8.80,8.500
-20236761035,Prachi Gautam,Department of Operational Research,7.80,7.40,7.600
-20236761036,Pranay Mitra,Department of Operational Research,8.20,8.20,8.200
-20236761037,PRANJOL HALDAR,Department of Operational Research,9.00,9.00,9.000
-20236761038,Rishi Mehdiratta,Department of Operational Research,8.00,7.40,7.700
-20236761039,Rishi Raj Dhar,Department of Operational Research,8.00,8.20,8.100
-20236761040,Ritika Chawla,Department of Operational Research,8.80,9.00,8.900
-20236761041,Sagar,Department of Operational Research,8.80,9.00,8.900
-20236761042,SAYANTAN BHATTACHARYYA,Department of Operational Research,8.60,9.00,8.800
-20236761043,Shaily jain,Department of Operational Research,8.60,8.00,8.300
-20236761044,Shikha Kumari,Department of Operational Research,8.20,8.20,8.200
-20236761045,Shikha Tomar,Department of Operational Research,8.80,9.00,8.900
-20236761046,Shreya Bhatnagar,Department of Operational Research,8.60,8.60,8.600
-20236761047,Shreya Goel,Department of Operational Research,8.60,8.20,8.400
-20236761048,Shubham Bagga,Department of Operational Research,8.40,8.00,8.200
-20236761049,Shweta Gupta,Department of Operational Research,8.60,9.00,8.800
-20236761051,Siddharth Yadav,Department of Operational Research,8.60,9.00,8.800
-20236761052,SPARSH RAWAT,Department of Operational Research,8.80,8.20,8.500
-20236761053,SUBHI GUPTA,Department of Operational Research,9.00,8.20,8.600
-20236761054,Sumita Debnath,Department of Operational Research,8.40,8.00,8.200
-20236761055,Suyash Kadam,Department of Operational Research,8.40,6.60,7.500
-20236761056,Umang Maheshwari,Department of Operational Research,8.40,8.40,8.400
-20236761057,Utkarsh Patel,Department of Operational Research,8.80,8.60,8.700
-20236761058,Vaibhav Gupta,Department of Operational Research,8.40,7.60,8.000
-20236761059,Vallari Agarwal,Department of Operational Research,9.20,9.40,9.300
-20236761060,Vipin Joshi,Department of Operational Research,8.40,7.40,7.900
-20236761061,VISHANT MOHAN,Department of Operational Research,8.20,7.80,8.000
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20236761001,Aakash Sharma,Department of Operational Research,8.60,8.40,8.80,8.600
+20236761002,Aamir Iqbal,Department of Operational Research,9.00,8.80,8.80,8.867
+20236761003,Abhay Sharma,Department of Operational Research,8.60,9.00,8.80,8.800
+20236761004,ABHISHEK KUMAR YADAV,Department of Operational Research,8.00,7.60,8.20,7.933
+20236761005,Akanksha Tiwari,Department of Operational Research,8.60,8.40,8.40,8.467
+20236761006,AKSHIT GOYAL,Department of Operational Research,9.00,8.40,7.60,8.333
+20236761007,ALKA SAMOTA,Department of Operational Research,8.00,7.80,8.20,8.000
+20236761008,Anamika Kumari,Department of Operational Research,8.60,8.60,9.00,8.733
+20236761009,Anand,Department of Operational Research,8.00,8.40,8.60,8.333
+20236761010,ANIKET KUNDU,Department of Operational Research,8.40,8.40,8.60,8.467
+20236761011,ANJALI BHERON,Department of Operational Research,8.40,9.00,8.60,8.667
+20236761012,Anshika Mittal,Department of Operational Research,7.60,,,7.600
+20236761013,Anshika Sachan,Department of Operational Research,8.60,8.80,9.00,8.800
+20236761014,Dikshant,Department of Operational Research,8.40,8.00,8.20,8.200
+20236761015,ERAM FATIMA,Department of Operational Research,8.80,9.00,9.00,8.933
+20236761016,Garima Yadav,Department of Operational Research,8.20,9.00,8.60,8.600
+20236761017,Harshit Tyagi,Department of Operational Research,8.00,7.40,7.80,7.733
+20236761018,Himanshu,Department of Operational Research,8.80,9.00,8.80,8.867
+20236761019,Himanshu,Department of Operational Research,7.60,7.80,7.80,7.733
+20236761020,Himanshu Garg,Department of Operational Research,8.60,8.60,8.80,8.667
+20236761021,INDAR KUMAR,Department of Operational Research,8.40,8.80,8.00,8.400
+20236761022,Jatin khudania,Department of Operational Research,8.20,8.80,8.60,8.533
+20236761023,Jigyasa,Department of Operational Research,7.80,,,7.800
+20236761024,Jyoti Bisht,Department of Operational Research,8.60,8.20,9.00,8.600
+20236761025,Kartikeya Chitkaria,Department of Operational Research,8.40,8.80,8.80,8.667
+20236761026,Kriti Gupta,Department of Operational Research,8.80,9.00,9.20,9.000
+20236761027,MANOJ,Department of Operational Research,8.40,9.00,8.80,8.733
+20236761028,Medni Aswal,Department of Operational Research,8.60,9.40,9.20,9.067
+20236761029,Mehak,Department of Operational Research,8.60,8.20,8.80,8.533
+20236761030,Mrinal Gupta,Department of Operational Research,8.80,,,8.800
+20236761031,NEHLA SHAJAHAN,Department of Operational Research,8.80,9.00,9.20,9.000
+20236761032,Niharika Sohni,Department of Operational Research,8.60,9.00,9.00,8.867
+20236761033,Nikita Kathuria,Department of Operational Research,8.80,9.00,8.80,8.867
+20236761034,Pawan Kumar,Department of Operational Research,8.20,8.80,8.60,8.533
+20236761035,Prachi Gautam,Department of Operational Research,7.80,7.40,8.20,7.800
+20236761036,Pranay Mitra,Department of Operational Research,8.20,8.20,8.60,8.333
+20236761037,PRANJOL HALDAR,Department of Operational Research,9.00,9.00,8.80,8.933
+20236761038,Rishi Mehdiratta,Department of Operational Research,8.00,7.40,8.40,7.933
+20236761039,Rishi Raj Dhar,Department of Operational Research,8.00,8.20,8.20,8.133
+20236761040,Ritika Chawla,Department of Operational Research,8.80,9.00,8.60,8.800
+20236761041,Sagar,Department of Operational Research,8.80,9.00,8.60,8.800
+20236761042,SAYANTAN BHATTACHARYYA,Department of Operational Research,8.60,9.00,8.40,8.667
+20236761043,Shaily jain,Department of Operational Research,8.60,8.00,8.20,8.267
+20236761044,Shikha Kumari,Department of Operational Research,8.20,8.20,8.20,8.200
+20236761045,Shikha Tomar,Department of Operational Research,8.80,9.00,9.00,8.933
+20236761046,Shreya Bhatnagar,Department of Operational Research,8.60,8.60,8.80,8.667
+20236761047,Shreya Goel,Department of Operational Research,8.60,8.20,8.20,8.333
+20236761048,Shubham Bagga,Department of Operational Research,8.40,8.00,8.00,8.133
+20236761049,Shweta Gupta,Department of Operational Research,8.60,9.00,8.60,8.733
+20236761050,Siddhant Tanwar,Department of Operational Research,7.80,7.00,6.80,7.200
+20236761051,Siddharth Yadav,Department of Operational Research,8.60,9.00,8.00,8.533
+20236761052,SPARSH RAWAT,Department of Operational Research,8.80,8.20,8.00,8.333
+20236761053,SUBHI GUPTA,Department of Operational Research,9.00,8.20,8.00,8.400
+20236761054,Sumita Debnath,Department of Operational Research,8.40,8.00,8.40,8.267
+20236761055,Suyash Kadam,Department of Operational Research,8.40,6.60,7.60,7.533
+20236761056,Umang Maheshwari,Department of Operational Research,8.40,8.40,8.20,8.333
+20236761057,Utkarsh Patel,Department of Operational Research,8.80,8.60,8.20,8.533
+20236761058,Vaibhav Gupta,Department of Operational Research,8.40,7.60,8.20,8.067
+20236761059,Vallari Agarwal,Department of Operational Research,9.20,9.40,9.40,9.333
+20236761060,Vipin Joshi,Department of Operational Research,8.40,7.40,8.20,8.000
+20236761061,VISHANT MOHAN,Department of Operational Research,8.20,7.80,8.00,8.000

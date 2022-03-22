@@ -1,16 +1,16 @@
-RollNo,Name,College,BACTERIOLOGY,MICROBIAL PHYSIOLOGY AND METABOLISM,MOLECULAR VIROLOGY,IMMUNOLOGY,PRACTICAL I,ENVIRONMENTAL MICROBIOLOGY,INDUSTRIAL MICROBIOLOGY,MICROBIAL PATHOGENICITY,PRACTICAL II,BIOPHYSICAL AND BIOCHEMICAL METHODS,DATA ANALYTICS AND BIOCURATION,GENETICS IN CROP IMPROVEMENT AND HUMAN HEALTH
-20253760001,Aman Jaiswal,Department of Microbiology,8,8,9,7,8,8,8,8,7,9,9,
-20253760002,Ankita Singh,Department of Microbiology,8,8,8,8,8,8,8,8,8,9,,8
-20253760003,Ayush Upadhyay,Department of Microbiology,9,7,9,8,9,9,8,9,7,9,9,
-20253760004,Ayushi singh,Department of Microbiology,9,9,9,8,9,9,9,9,8,9,,9
-20253760005,Deeksha Singh,Department of Microbiology,8,8,9,8,9,8,8,9,7,9,8,
-20253760006,DEVIKA A,Department of Microbiology,8,9,10,7,9,8,8,9,8,9,,8
-20253760007,Meenakshi,Department of Microbiology,9,9,10,7,9,9,9,9,9,9,,9
-20253760008,PRAGYA KUMAR,Department of Microbiology,8,9,9,8,8,8,9,8,8,9,8,
-20253760009,Pratibha Gautam,Department of Microbiology,9,8,9,7,9,9,8,9,7,9,9,
-20253760010,SAKSHI GUPTA,Department of Microbiology,8,8,8,6,8,8,8,8,8,9,,8
-20253760011,SATYAM YADAV,Department of Microbiology,7,6,8,6,8,8,7,8,6,8,,7
-20253760012,Sreyashi Nath,Department of Microbiology,9,9,10,8,9,9,9,9,9,9,9,
-20253760013,Suyagya Jayaswal,Department of Microbiology,8,7,8,7,8,8,8,8,8,9,,8
-20253760014,Tanushree Singh,Department of Microbiology,9,9,9,8,9,9,9,9,9,9,10,
-20253760015,Vaidehee,Department of Microbiology,9,9,9,8,9,9,9,9,9,9,,9
+RollNo,Name,College,BACTERIOLOGY,MICROBIAL PHYSIOLOGY AND METABOLISM,MOLECULAR VIROLOGY,IMMUNOLOGY,PRACTICAL I,ENVIRONMENTAL MICROBIOLOGY,INDUSTRIAL MICROBIOLOGY,MICROBIAL PATHOGENICITY,PRACTICAL II,BIOPHYSICAL AND BIOCHEMICAL METHODS,DATA ANALYTICS AND BIOCURATION,MOLECULAR BIOLOGY,RECOMBINANT DNA TECHNOLOGY,MICROBIAL GENETICS,PRACTICAL III,COMPUTATIONAL BIOLOGY,GENETICS IN CROP IMPROVEMENT AND HUMAN HEALTH
+20253760001,Aman Jaiswal,Department of Microbiology,8,8,9,7,8,8,8,8,7,9,9,8,8,8,7,7,
+20253760002,Ankita Singh,Department of Microbiology,8,8,8,8,8,8,8,8,8,9,,7,7,7,7,8,8
+20253760003,Ayush Upadhyay,Department of Microbiology,9,7,9,8,9,,,,,,,,,,,,
+20253760004,Ayushi singh,Department of Microbiology,9,9,9,8,9,9,9,9,8,9,,8,9,8,8,8,9
+20253760005,Deeksha Singh,Department of Microbiology,8,8,9,8,9,8,8,9,7,9,8,8,8,8,8,9,
+20253760006,DEVIKA A,Department of Microbiology,8,9,10,7,9,8,8,9,8,9,,8,7,8,8,9,8
+20253760007,Meenakshi,Department of Microbiology,9,9,10,7,9,9,9,9,9,9,,9,9,8,9,8,9
+20253760008,PRAGYA KUMAR,Department of Microbiology,8,9,9,8,8,8,9,8,8,9,8,9,8,7,8,8,
+20253760009,Pratibha Gautam,Department of Microbiology,9,8,9,7,9,9,8,9,7,9,9,8,8,8,8,9,
+20253760010,SAKSHI GUPTA,Department of Microbiology,8,8,8,6,8,8,8,8,8,9,,8,8,8,8,8,8
+20253760011,SATYAM YADAV,Department of Microbiology,7,6,8,6,8,8,7,8,6,8,,7,5,6,7,8,7
+20253760012,Sreyashi Nath,Department of Microbiology,9,9,10,8,9,9,9,9,9,9,9,9,8,8,7,9,
+20253760013,Suyagya Jayaswal,Department of Microbiology,8,7,8,7,8,8,8,8,8,9,,7,7,7,6,8,8
+20253760014,Tanushree Singh,Department of Microbiology,9,9,9,8,9,9,9,9,9,9,10,7,7,8,8,10,
+20253760015,Vaidehee,Department of Microbiology,9,9,9,8,9,9,9,9,9,9,,9,9,9,9,10,9

@@ -1,7 +1,7 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20209722001,Anam naaz,Department of Persian,8.20,8.60,8.400
-20209722002,Baljeet Singh Dhillon,Department of Persian,8.80,8.80,8.800
-20209722003,Mohammad Zaid,Department of Persian,8.00,8.00,8.000
-20209722004,Nida,Department of Persian,8.60,8.80,8.700
-20209722005,Zenab zaki,Department of Persian,8.80,9.00,8.900
-20209722006,IFFAT SHEIKH,Department of Persian,8.40,8.80,8.600
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20209722001,Anam naaz,Department of Persian,8.20,8.60,8.63,8.473
+20209722002,Baljeet Singh Dhillon,Department of Persian,8.80,8.80,8.79,8.797
+20209722003,MOHAMMAD ZAID,Department of Persian,8.00,,,8.000
+20209722004,Nida,Department of Persian,8.60,8.80,8.38,8.595
+20209722005,Zenab zaki,Department of Persian,8.80,9.00,8.79,8.865
+20209722006,IFFAT SHEIKH,Department of Persian,8.40,8.80,8.79,8.662

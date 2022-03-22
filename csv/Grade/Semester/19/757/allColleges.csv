@@ -1,49 +1,55 @@
-RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Overall CGPA
-19234757001,ABHINAV RASTOGI,Department of Computer Science,8.20,8.79,9.38,8.80,8.786
-19234757002,ADITYA RANJAN,Department of Computer Science,7.40,8.42,8.96,9.20,8.490
-19234757003,AMIT PARASHAR,Department of Computer Science,8.00,9.00,9.42,8.80,8.796
-19234757004,ANJALI,Department of Computer Science,7.60,8.38,8.96,9.20,8.531
-19234757006,ANUBHAV SETHI,Department of Computer Science,8.60,9.00,9.38,9.80,9.194
-19234757007,ANURAG JOSHI,Department of Computer Science,8.60,9.00,9.38,9.20,9.041
-19234757008,ARPITA SAGGAR,Department of Computer Science,6.80,7.58,8.96,9.00,8.082
-19234757009,ARYAN SINDWANI,Department of Computer Science,7.40,8.00,9.38,9.00,8.439
-19234757010,DEEPAK,Department of Computer Science,8.40,9.00,9.17,9.00,8.888
-19234757011,DILPREET KAUR,Department of Computer Science,7.60,9.00,9.38,9.40,8.837
-19234757013,DRISHTI MALHOTRA,Department of Computer Science,8.00,8.79,9.21,9.40,8.847
-19234757014,GEDUN DRAKPA,Department of Computer Science,7.40,8.21,8.54,8.80,8.235
-19234757015,GURMEET SINGH,Department of Computer Science,7.60,7.00,8.96,8.20,7.939
-19234757016,HARSH KUMAR,Department of Computer Science,5.60,7.00,8.75,8.80,7.531
-19234757017,HEMANT KUMAR,Department of Computer Science,8.20,9.00,9.58,9.40,9.041
-19234757018,HIMANSHI,Department of Computer Science,8.60,9.00,9.58,9.80,9.245
-19234757019,HIMANSU,Department of Computer Science,6.40,7.00,9.00,7.40,7.439
-19234757020,INDRA KISHORE KUMAR,Department of Computer Science,6.00,7.79,9.38,9.40,8.133
-19234757021,ITI BANSAL,Department of Computer Science,7.40,8.00,8.96,9.20,8.388
-19234757022,KHUSHBOO GROVER,Department of Computer Science,8.60,9.00,9.17,8.80,8.888
-19234757024,LAV SAINI,Department of Computer Science,6.00,7.21,8.58,8.60,7.592
-19234757026,MOHD. SHOAIB ASGAR,Department of Computer Science,8.60,9.00,9.38,9.40,9.092
-19234757027,NIDHI VERMA,Department of Computer Science,8.00,9.00,9.38,9.40,8.939
-19234757028,PIYUSH,Department of Computer Science,6.60,7.00,9.00,8.80,7.847
-19234757029,PULKIT AGGARWAL,Department of Computer Science,5.80,7.21,8.38,7.80,7.286
-19234757030,RIMJHIM,Department of Computer Science,7.20,8.00,8.79,8.20,8.041
-19234757031,RISHI RAJ CHAURASIA,Department of Computer Science,8.20,9.00,8.96,9.40,8.888
-19234757032,SAAKSHI SINGH,Department of Computer Science,7.60,8.58,8.79,9.00,8.490
-19234757033,SAJEEL,Department of Computer Science,6.60,8.00,8.75,7.80,7.776
-19234757034,SALONI DOBHAL,Department of Computer Science,8.80,9.00,9.58,9.80,9.296
-19234757035,SANDEEP SINGH,Department of Computer Science,8.20,7.58,9.21,9.20,8.551
-19234757037,SHIVAM KUMAR SINHA,Department of Computer Science,5.60,7.00,6.79,5.20,6.133
-19234757038,SHIVANI GOYAL,Department of Computer Science,7.80,8.79,9.00,8.80,8.592
-19234757039,SHUBHAM PAL,Department of Computer Science,8.20,8.79,9.17,9.60,8.939
-19234757040,SHUJA MOMIN,Department of Computer Science,8.00,8.79,8.58,8.20,8.388
-19234757041,SOHIMA,Department of Computer Science,6.20,7.17,8.79,8.80,7.735
-19234757042,SRISTI SONAL,Department of Computer Science,6.40,7.79,9.00,9.00,8.041
-19234757044,TANMAY,Department of Computer Science,8.40,9.00,8.96,8.20,8.633
-19234757045,TANYA SHARMA,Department of Computer Science,6.40,8.00,9.58,8.80,8.184
-19234757046,VASU SEHGAL,Department of Computer Science,7.20,8.38,9.17,9.60,8.582
-19234757047,YASHIKA GOLA,Department of Computer Science,7.60,8.58,9.17,9.20,8.633
-19234757048,YETENDRA BHANDARI,Department of Computer Science,7.60,8.17,8.79,8.80,8.337
-19234757049,YOGENDRA SINGH,Department of Computer Science,5.00,6.17,9.21,7.80,7.031
-19234757050,YUVIKA VINAYAK,Department of Computer Science,6.80,8.00,8.58,8.80,8.041
-19234757051,YUVRAJ SABLANIA,Department of Computer Science,5.80,7.58,8.75,8.80,7.724
-19234757052,SANDEEP KUMAR,Department of Computer Science,8.00,8.58,9.17,9.00,8.684
-19234757053,TENZIN JAMPHEL,Department of Computer Science,7.80,8.79,8.96,9.20,8.684
-19234757054,KRITIKA SINGH,Department of Computer Science,5.80,7.38,8.79,8.80,7.684
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Sem-IV,Sem-V,Overall CGPA
+19234757001,ABHINAV RASTOGI,Department of Computer Science,8.20,8.79,9.38,8.80,8.60,8.748
+19234757002,ADITYA RANJAN,Department of Computer Science,7.40,8.42,8.96,9.20,8.20,8.431
+19234757003,AMIT PARASHAR,Department of Computer Science,8.00,9.00,9.42,,,8.795
+19234757004,ANJALI,Department of Computer Science,7.60,8.38,8.96,9.20,9.00,8.626
+19234757005,ANKIT JAISWAL,Department of Computer Science,5.80,7.38,,,,6.571
+19234757006,ANUBHAV SETHI,Department of Computer Science,8.60,9.00,9.38,9.80,8.80,9.114
+19234757007,ANURAG JOSHI,Department of Computer Science,8.60,9.00,9.38,9.20,8.80,8.992
+19234757008,ARPITA SAGGAR,Department of Computer Science,6.80,7.58,8.96,9.00,7.60,7.984
+19234757009,ARYAN SINDWANI,Department of Computer Science,7.40,8.00,9.38,9.00,8.60,8.472
+19234757010,DEEPAK,Department of Computer Science,8.40,9.00,9.17,9.00,8.40,8.789
+19234757011,DILPREET KAUR,Department of Computer Science,7.60,9.00,9.38,9.40,8.20,8.707
+19234757012,DIPNEET KAUR,Department of Computer Science,7.40,8.38,9.38,9.40,8.40,8.585
+19234757013,DRISHTI MALHOTRA,Department of Computer Science,8.00,8.79,9.21,9.40,8.20,8.715
+19234757014,GEDUN DRAKPA,Department of Computer Science,7.40,8.21,8.54,8.80,8.20,8.228
+19234757015,GURMEET SINGH,Department of Computer Science,7.60,7.00,8.96,8.20,7.00,7.748
+19234757016,HARSH KUMAR,Department of Computer Science,5.60,7.00,8.75,8.80,7.80,7.585
+19234757017,HEMANT KUMAR,Department of Computer Science,8.20,9.00,9.58,9.40,8.80,8.992
+19234757018,HIMANSHI,Department of Computer Science,8.60,9.00,9.58,9.80,8.60,9.114
+19234757019,HIMANSU,Department of Computer Science,6.40,7.00,9.00,7.40,7.20,7.390
+19234757020,INDRA KISHORE KUMAR,Department of Computer Science,6.00,7.79,9.38,9.40,8.20,8.146
+19234757021,ITI BANSAL,Department of Computer Science,7.40,8.00,8.96,9.20,8.80,8.472
+19234757022,KHUSHBOO GROVER,Department of Computer Science,8.60,9.00,9.17,8.80,8.00,8.707
+19234757023,LAKSHAY ARORA,Department of Computer Science,3.20,,,,,3.200
+19234757024,LAV SAINI,Department of Computer Science,6.00,7.21,8.58,8.60,7.80,7.634
+19234757025,MANISH MEENA,Department of Computer Science,7.20,6.33,8.17,,,7.233
+19234757026,MOHD. SHOAIB ASGAR,Department of Computer Science,8.60,9.00,9.38,9.40,7.80,8.829
+19234757027,NIDHI VERMA,Department of Computer Science,8.00,9.00,9.38,9.40,9.40,9.033
+19234757028,PIYUSH,Department of Computer Science,6.60,7.00,9.00,8.80,7.60,7.797
+19234757029,PULKIT AGGARWAL,Department of Computer Science,5.80,7.21,8.38,7.80,6.60,7.146
+19234757030,RIMJHIM,Department of Computer Science,7.20,8.00,8.79,8.20,8.20,8.073
+19234757031,RISHI RAJ CHAURASIA,Department of Computer Science,8.20,9.00,8.96,9.40,8.60,8.829
+19234757032,SAAKSHI SINGH,Department of Computer Science,7.60,8.58,8.79,9.00,7.80,8.350
+19234757033,SAJEEL,Department of Computer Science,6.60,8.00,8.75,7.80,7.80,7.780
+19234757034,SALONI DOBHAL,Department of Computer Science,8.80,9.00,9.58,9.80,8.80,9.195
+19234757035,SANDEEP SINGH,Department of Computer Science,8.20,7.58,9.21,9.20,8.20,8.480
+19234757036,SANJU KUMAR MAURYA,Department of Computer Science,8.00,8.58,8.79,8.80,8.40,8.512
+19234757037,SHIVAM KUMAR SINHA,Department of Computer Science,5.60,7.00,6.79,5.20,6.80,6.268
+19234757038,SHIVANI GOYAL,Department of Computer Science,7.80,8.79,9.00,8.80,8.20,8.512
+19234757039,SHUBHAM PAL,Department of Computer Science,8.20,8.79,9.17,9.60,8.40,8.829
+19234757040,SHUJA MOMIN,Department of Computer Science,8.00,8.79,8.58,8.20,7.60,8.228
+19234757041,SOHIMA,Department of Computer Science,6.20,7.17,8.79,8.80,8.00,7.789
+19234757042,SRISTI SONAL,Department of Computer Science,6.40,7.79,9.00,9.00,7.80,7.992
+19234757043,SUNNY,Department of Computer Science,7.80,8.79,8.75,8.80,7.80,8.382
+19234757044,TANMAY,Department of Computer Science,8.40,9.00,8.96,8.20,8.20,8.545
+19234757045,TANYA SHARMA,Department of Computer Science,6.40,8.00,9.58,8.80,8.80,8.309
+19234757046,VASU SEHGAL,Department of Computer Science,7.20,8.38,9.17,9.60,8.40,8.545
+19234757047,YASHIKA GOLA,Department of Computer Science,7.60,8.58,9.17,9.20,8.60,8.626
+19234757048,YETENDRA BHANDARI,Department of Computer Science,7.60,8.17,8.79,8.80,8.20,8.309
+19234757049,YOGENDRA SINGH,Department of Computer Science,5.00,6.17,9.21,7.80,7.20,7.065
+19234757050,YUVIKA VINAYAK,Department of Computer Science,6.80,8.00,8.58,8.80,7.00,7.829
+19234757051,YUVRAJ SABLANIA,Department of Computer Science,5.80,7.58,8.75,8.80,7.60,7.699
+19234757052,SANDEEP KUMAR,Department of Computer Science,8.00,8.58,9.17,9.00,8.40,8.626
+19234757053,TENZIN JAMPHEL,Department of Computer Science,7.80,8.79,8.96,9.20,8.20,8.585
+19234757054,KRITIKA SINGH,Department of Computer Science,5.80,7.38,8.79,8.80,8.00,7.748

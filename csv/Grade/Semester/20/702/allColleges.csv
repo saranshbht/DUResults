@@ -1,11 +1,13 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20085702001,ABDUL FATIR,Zakir Husain Delhi College (Day),8.50,8.73,8.609
-20085702002,APARNA SINGH,Zakir Husain Delhi College (Day),7.75,7.18,7.478
-20085702003,Mohammad Fahad,Zakir Husain Delhi College (Day),7.25,5.64,6.478
-20085702004,Mohammed irshad p,Zakir Husain Delhi College (Day),7.25,7.73,7.478
-20085702005,MOHD ABBAS,Zakir Husain Delhi College (Day),8.75,9.00,8.870
-20085702008,MUHAMED ALAVI,Zakir Husain Delhi College (Day),8.25,8.00,8.130
-20085702009,Piyush,Zakir Husain Delhi College (Day),6.00,6.18,6.087
-20085702010,Shehza mehak,Zakir Husain Delhi College (Day),5.00,6.45,5.696
-20085702011,Vijay Kishore,Zakir Husain Delhi College (Day),5.75,6.18,5.957
-20085702012,MUNAZA BASHIR,Zakir Husain Delhi College (Day),7.00,7.18,7.087
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20085702001,ABDUL FATIR,Zakir Husain Delhi College (Day),8.50,8.73,9.00,8.735
+20085702002,APARNA SINGH,Zakir Husain Delhi College (Day),7.75,7.18,7.55,7.500
+20085702003,Mohammad Fahad,Zakir Husain Delhi College (Day),7.25,,,7.250
+20085702004,MOHAMMED IRSHAD P,Zakir Husain Delhi College (Day),7.25,7.73,7.55,7.500
+20085702005,MOHD ABBAS,Zakir Husain Delhi College (Day),8.75,9.00,9.00,8.912
+20085702006,Mohd Hamza,Zakir Husain Delhi College (Day),0.00,,,0.000
+20085702007,MOHD KHALID,Zakir Husain Delhi College (Day),0.00,,,0.000
+20085702008,MUHAMED ALAVI,Zakir Husain Delhi College (Day),8.25,8.00,8.55,8.265
+20085702009,PIYUSH,Zakir Husain Delhi College (Day),6.00,6.18,5.45,5.882
+20085702010,SHEHZA MEHAK,Zakir Husain Delhi College (Day),5.00,6.45,7.55,6.294
+20085702011,VIJAY KISHORE,Zakir Husain Delhi College (Day),5.75,6.18,6.00,5.971
+20085702012,MUNAZA BASHIR,Zakir Husain Delhi College (Day),7.00,,,7.000

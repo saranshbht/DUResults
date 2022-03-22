@@ -1,35 +1,36 @@
-RollNo,Name,College,NETWORK ANALYSIS AND SYNTHESIS,SEMICONDUCTOR DEVICES AND MATERIAL,DIGITAL CIRCUIT DESIGN,MATHEMATICAL AND COMPUTATIONAL TECHNIQUES,SIGNALS & SYSTEMS,"ELECTROMAGNETICS, ANTENNA AND PROPAGATION",ANALOG CIRCUIT DESIGN,CONTROL SYSTEMS,DATA ACQUISITION SYSTEMS
-20251749001,Anupama,Department of Electronic Science,8,9,9,10,9,9,9,9,9
-20251749002,Anmol Gupta,Department of Electronic Science,8,9,10,10,10,10,9,10,10
-20251749003,LALIT UPRETI,Department of Electronic Science,7,8,7,9,7,8,8,7,8
-20251749004,Paras Bhambri,Department of Electronic Science,7,4,7,8,0,0,0,0,0
-20251749006,Tarun Souda,Department of Electronic Science,7,8,9,10,7,7,6,7,7
-20251749007,AMIT GHOSH,Department of Electronic Science,8,8,8,10,8,8,7,7,7
-20251749008,VANSHIKA,Department of Electronic Science,9,10,9,10,9,10,9,10,10
-20251749009,SALONI GUPTA,Department of Electronic Science,8,8,9,10,9,9,9,9,9
-20251749010,Rejaul,Department of Electronic Science,9,9,10,10,10,10,10,10,9
-20251749011,Akash,Department of Electronic Science,9,9,10,10,9,9,9,9,9
-20251749012,Ritu Mishra,Department of Electronic Science,9,8,9,10,8,8,8,8,8
-20251749013,Ashar Ahmad,Department of Electronic Science,5,4,5,5,4,6,0,5,6
-20251749014,Pratibha Mishra,Department of Electronic Science,10,9,10,10,9,10,10,10,10
-20251749015,LAKSHMI GAYATHRI,Department of Electronic Science,10,10,10,10,10,9,10,10,10
-20251749016,Vasvi Gautam,Department of Electronic Science,9,9,10,10,10,10,10,10,10
-20251749017,DEVPRIYA  MONDAL,Department of Electronic Science,9,8,9,10,10,9,9,9,9
-20251749018,TRISHA AGRAWAL,Department of Electronic Science,9,9,10,10,10,10,10,10,10
-20251749019,Priyanka Singh,Department of Electronic Science,8,9,10,10,9,9,9,9,9
-20251749020,Ashraf Ansari,Department of Electronic Science,9,8,8,10,8,8,8,9,9
-20251749021,ISHMEET KAUR,Department of Electronic Science,10,9,9,10,10,10,10,10,9
-20251749022,Simran parveen,Department of Electronic Science,10,9,10,10,9,9,9,9,9
-20251749023,ASHUTOSH PANDEY,Department of Electronic Science,9,9,9,10,9,9,9,9,9
-20251749024,Kartik,Department of Electronic Science,9,8,8,10,9,9,8,8,9
-20251749025,Tsetan Namgyal,Department of Electronic Science,7,8,7,8,4,0,0,6,5
-20251749026,Keshav,Department of Electronic Science,9,9,9,10,9,9,9,9,9
-20251749027,Manish Singh,Department of Electronic Science,8,8,6,9,8,7,6,7,7
-20251749028,Hardik Minocha,Department of Electronic Science,10,9,7,10,9,9,9,8,8
-20251749029,Anikesh maurya,Department of Electronic Science,7,8,7,8,7,6,4,6,6
-20251749030,ADITYA RAJ SINGH,Department of Electronic Science,7,8,7,9,7,7,7,7,8
-20251749031,Chetan Kumar,Department of Electronic Science,8,9,7,10,8,8,7,8,8
-20251749032,Nitin,Department of Electronic Science,8,8,8,10,9,8,8,8,8
-20251749033,NIDHI goyal,Department of Electronic Science,8,9,9,10,8,8,8,9,8
-20251749034,Shashank Singh Rawat,Department of Electronic Science,9,9,10,10,10,10,9,10,10
-20251749035,aditya kumar,Department of Electronic Science,7,6,5,7,0,4,0,0,0
+RollNo,Name,College,NETWORK ANALYSIS AND SYNTHESIS,SEMICONDUCTOR DEVICES AND MATERIAL,DIGITAL CIRCUIT DESIGN,MATHEMATICAL AND COMPUTATIONAL TECHNIQUES,SIGNALS & SYSTEMS,"ELECTROMAGNETICS, ANTENNA AND PROPAGATION",ANALOG CIRCUIT DESIGN,CONTROL SYSTEMS,DATA ACQUISITION SYSTEMS,DIGITAL AND DATA COMMUNICATION SYSTEM,PHOTONICS: PRINCIPLES AND APPLICATIONS,EMBEDDED SYSTEM DESIGN,SEMINAR,VLSI TECHNOLOGY
+20251749001,Anupama,Department of Electronic Science,8,9,9,10,9,9,9,9,9,9,8,9,8,10
+20251749002,Anmol Gupta,Department of Electronic Science,8,9,10,10,10,10,9,10,10,9,7,10,9,9
+20251749003,LALIT UPRETI,Department of Electronic Science,7,8,7,9,7,8,8,7,8,7,6,8,9,8
+20251749004,PARAS BHAMBRI,Department of Electronic Science,7,4,7,8,,,,,,,,,,
+20251749005,Herok Jyoti Bonia,Department of Electronic Science,9,9,9,10,9,9,8,9,9,8,4,10,9,9
+20251749006,Tarun Souda,Department of Electronic Science,7,8,9,10,7,7,6,7,7,7,7,9,9,8
+20251749007,AMIT GHOSH,Department of Electronic Science,8,8,8,10,8,8,7,7,7,7,7,8,9,8
+20251749008,VANSHIKA,Department of Electronic Science,9,10,9,10,9,10,9,10,10,9,7,10,9,9
+20251749009,SALONI GUPTA,Department of Electronic Science,8,8,9,10,9,9,9,9,9,9,7,9,8,9
+20251749010,Rejaul,Department of Electronic Science,9,9,10,10,10,10,10,10,9,8,9,9,9,10
+20251749011,Akash,Department of Electronic Science,9,9,10,10,9,9,9,9,9,8,6,10,8,9
+20251749012,Ritu Mishra,Department of Electronic Science,9,8,9,10,8,8,8,8,8,7,6,7,8,8
+20251749013,Ashar Ahmad,Department of Electronic Science,5,4,5,5,4,6,0,5,6,5,5,6,0,7
+20251749014,Pratibha Mishra,Department of Electronic Science,10,9,10,10,9,10,10,10,10,9,8,10,8,9
+20251749015,LAKSHMI GAYATHRI,Department of Electronic Science,10,10,10,10,10,9,10,10,10,10,8,10,9,10
+20251749016,Vasvi Gautam,Department of Electronic Science,9,9,10,10,10,10,10,10,10,9,7,10,9,9
+20251749017,DEVPRIYA  MONDAL,Department of Electronic Science,9,8,9,10,10,9,9,9,9,9,7,10,9,9
+20251749018,TRISHA AGRAWAL,Department of Electronic Science,9,9,10,10,10,10,10,10,10,9,9,10,9,10
+20251749019,Priyanka Singh,Department of Electronic Science,8,9,10,10,9,9,9,9,9,8,7,10,9,8
+20251749020,Ashraf Ansari,Department of Electronic Science,9,8,8,10,8,8,8,9,9,8,6,9,8,9
+20251749021,ISHMEET KAUR,Department of Electronic Science,10,9,9,10,10,10,10,10,9,9,8,10,9,10
+20251749022,Simran parveen,Department of Electronic Science,10,9,10,10,9,9,9,9,9,9,7,10,9,9
+20251749023,ASHUTOSH PANDEY,Department of Electronic Science,9,9,9,10,9,9,9,9,9,9,7,10,9,9
+20251749024,Kartik,Department of Electronic Science,9,8,8,10,9,9,8,8,9,8,7,9,8,9
+20251749025,Tsetan Namgyal,Department of Electronic Science,7,8,7,8,4,0,0,6,5,5,0,5,0,7
+20251749026,Keshav,Department of Electronic Science,9,9,9,10,9,9,9,9,9,9,7,9,9,9
+20251749027,Manish Singh,Department of Electronic Science,8,8,6,9,8,7,6,7,7,5,5,5,9,7
+20251749028,Hardik Minocha,Department of Electronic Science,10,9,7,10,9,9,9,8,8,7,6,8,8,9
+20251749029,Anikesh maurya,Department of Electronic Science,7,8,7,8,7,6,4,6,6,6,4,5,0,6
+20251749030,ADITYA RAJ SINGH,Department of Electronic Science,7,8,7,9,7,7,7,7,8,8,6,7,9,8
+20251749031,Chetan Kumar,Department of Electronic Science,8,9,7,10,8,8,7,8,8,8,6,7,8,8
+20251749032,Nitin,Department of Electronic Science,8,8,8,10,9,8,8,8,8,7,7,10,8,9
+20251749033,NIDHI goyal,Department of Electronic Science,8,9,9,10,8,8,8,9,8,7,7,10,8,8
+20251749034,Shashank Singh Rawat,Department of Electronic Science,9,9,10,10,10,10,9,10,10,9,9,10,9,10
+20251749035,ADITYA KUMAR,Department of Electronic Science,7,6,5,7,,,,,,,,,,

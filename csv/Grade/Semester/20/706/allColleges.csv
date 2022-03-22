@@ -1,41 +1,45 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20228706001,Aarchi Singh,Department of East Asian Studies,8.00,8.00,8.000
-20228706002,Aishna Singh,Department of East Asian Studies,6.75,7.00,6.875
-20228706003,Akshat Mayne,Department of East Asian Studies,7.75,8.50,8.125
-20228706004,ANJALI SINGH,Department of East Asian Studies,6.50,6.50,6.500
-20228706005,AVRITA KALSI,Department of East Asian Studies,8.25,8.25,8.250
-20228706006,CHERRY HITKARI,Department of East Asian Studies,7.25,8.25,7.750
-20228706008,Diksha Kashyap,Department of East Asian Studies,7.75,7.75,7.750
-20228706009,Hijam Tompok,Department of East Asian Studies,7.25,6.75,7.000
-20228706010,Ishita Mathur,Department of East Asian Studies,7.75,7.50,7.625
-20228706011,JYOTI RANJAN PRADHAN,Department of East Asian Studies,7.50,7.75,7.625
-20228706012,KANIKA PEGU,Department of East Asian Studies,7.50,7.00,7.250
-20228706014,KUNAL RAI,Department of East Asian Studies,6.75,6.75,6.750
-20228706015,"Lalit Narayan Pandey,",Department of East Asian Studies,7.50,7.75,7.625
-20228706016,Maanvika Rana,Department of East Asian Studies,7.50,7.50,7.500
-20228706017,MIDLAJ ANVAR K,Department of East Asian Studies,6.75,6.50,6.625
-20228706018,Moyer Gamlin,Department of East Asian Studies,7.75,7.75,7.750
-20228706019,Neha,Department of East Asian Studies,7.25,7.50,7.375
-20228706020,Nithya Jacob,Department of East Asian Studies,7.50,7.75,7.625
-20228706021,PRACHI,Department of East Asian Studies,7.25,7.50,7.375
-20228706022,Raina Kumari,Department of East Asian Studies,6.50,6.50,6.500
-20228706023,Rohan Harshit Lakra,Department of East Asian Studies,7.50,7.00,7.250
-20228706024,Sadhana Gurung,Department of East Asian Studies,8.00,7.50,7.750
-20228706025,Sarika,Department of East Asian Studies,7.25,7.00,7.125
-20228706026,SASANKA SONOWAL,Department of East Asian Studies,6.25,5.75,6.000
-20228706027,Shalini,Department of East Asian Studies,6.50,6.75,6.625
-20228706028,Shephali Pranjal,Department of East Asian Studies,7.50,7.00,7.250
-20228706030,Thangkhankhup Hanghal,Department of East Asian Studies,7.50,7.75,7.625
-20228706031,Varsha Mishra,Department of East Asian Studies,8.25,8.25,8.250
-20228706032,Vikash Kumar,Department of East Asian Studies,6.50,6.50,6.500
-20228706033,Visakha Chowdhury,Department of East Asian Studies,8.00,8.50,8.250
-20228706034,WAREPPA KHUMAN THINGBAIJAM,Department of East Asian Studies,7.50,7.25,7.375
-20228706035,Yamini Meena,Department of East Asian Studies,7.75,8.00,7.875
-20228706036,YARI KAMSAR,Department of East Asian Studies,7.25,7.25,7.250
-20228706038,Sachin Singh,Department of East Asian Studies,7.00,6.75,6.875
-20228706039,Shivani,Department of East Asian Studies,7.00,6.75,6.875
-20228706040,Awasada Binnisoh,Department of East Asian Studies,6.75,7.25,7.000
-20228706041,Cai Shaowei,Department of East Asian Studies,7.75,7.50,7.625
-20228706042,J Uthra,Department of East Asian Studies,7.50,7.00,7.250
-20228706043,pankaj,Department of East Asian Studies,4.75,5.75,5.250
-20228706044,SHIVANI KHATANA,Department of East Asian Studies,6.75,6.75,6.750
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20228706001,Aarchi Singh,Department of East Asian Studies,8.00,8.00,8.50,8.167
+20228706002,Aishna Singh,Department of East Asian Studies,6.75,7.00,7.00,6.915
+20228706003,AKSHAT MAYNE,Department of East Asian Studies,7.75,8.50,8.25,8.167
+20228706004,ANJALI SINGH,Department of East Asian Studies,6.50,6.50,6.47,6.492
+20228706005,AVRITA KALSI,Department of East Asian Studies,8.25,8.25,8.75,8.417
+20228706006,CHERRY HITKARI,Department of East Asian Studies,7.25,,,7.250
+20228706007,DEEN DAYAL UPADHYAY,Department of East Asian Studies,6.00,7.00,7.25,6.750
+20228706008,Diksha Kashyap,Department of East Asian Studies,7.75,7.75,7.75,7.750
+20228706009,HIJAM TOMPOK,Department of East Asian Studies,7.25,6.75,7.00,7.000
+20228706010,Ishita Mathur,Department of East Asian Studies,7.75,7.50,8.00,7.750
+20228706011,JYOTI RANJAN PRADHAN,Department of East Asian Studies,7.50,7.75,7.75,7.667
+20228706012,KANIKA PEGU,Department of East Asian Studies,7.50,7.00,7.79,7.424
+20228706013,KRISHNA MANOHAR GUPTA,Department of East Asian Studies,5.00,,,5.000
+20228706014,KUNAL RAI,Department of East Asian Studies,6.75,,,6.750
+20228706015,LALIT NARAYAN PANDEY,Department of East Asian Studies,7.50,7.75,7.74,7.661
+20228706016,Maanvika Rana,Department of East Asian Studies,7.50,7.50,6.95,7.322
+20228706017,MIDLAJ ANVAR K,Department of East Asian Studies,6.75,6.50,6.75,6.667
+20228706018,Moyer Gamlin,Department of East Asian Studies,7.75,7.75,7.74,7.746
+20228706019,NEHA,Department of East Asian Studies,7.25,7.50,6.75,7.167
+20228706020,Nithya Jacob,Department of East Asian Studies,7.50,7.75,8.32,7.847
+20228706021,PRACHI,Department of East Asian Studies,7.25,7.50,6.95,7.237
+20228706022,Raina Kumari,Department of East Asian Studies,6.50,6.50,6.68,6.559
+20228706023,Rohan Harshit Lakra,Department of East Asian Studies,7.50,7.00,7.47,7.322
+20228706024,Sadhana Gurung,Department of East Asian Studies,8.00,7.50,8.25,7.917
+20228706025,Sarika,Department of East Asian Studies,7.25,7.00,7.00,7.085
+20228706026,SASANKA SONOWAL,Department of East Asian Studies,6.25,5.75,6.74,6.237
+20228706027,Shalini,Department of East Asian Studies,6.50,6.75,5.42,6.237
+20228706028,SHEPHALI PRANJAL,Department of East Asian Studies,7.50,7.00,7.00,7.167
+20228706029,SUBODH GAUTAM,Department of East Asian Studies,1.75,,,1.750
+20228706030,Thangkhankhup Hanghal,Department of East Asian Studies,7.50,7.75,7.50,7.583
+20228706031,Varsha Mishra,Department of East Asian Studies,8.25,8.25,8.53,8.339
+20228706032,VIKASH KUMAR,Department of East Asian Studies,6.50,6.50,6.25,6.417
+20228706033,Visakha Chowdhury,Department of East Asian Studies,8.00,8.50,8.50,8.333
+20228706034,WAREPPA KHUMAN THINGBAIJAM,Department of East Asian Studies,7.50,7.25,7.00,7.254
+20228706035,Yamini Meena,Department of East Asian Studies,7.75,8.00,8.25,8.000
+20228706036,YARI KAMSAR,Department of East Asian Studies,7.25,7.25,7.47,7.322
+20228706037,ARPITA ELISHEBA M. VICTOR,Department of East Asian Studies,8.50,,,8.500
+20228706038,Sachin Singh,Department of East Asian Studies,7.00,6.75,7.50,7.083
+20228706039,SHIVANI,Department of East Asian Studies,7.00,6.75,6.47,6.746
+20228706040,Awasada Binnisoh,Department of East Asian Studies,6.75,7.25,7.25,7.083
+20228706041,Cai Shaowei,Department of East Asian Studies,7.75,7.50,7.75,7.667
+20228706042,J Uthra,Department of East Asian Studies,7.50,7.00,8.50,7.667
+20228706043,pankaj,Department of East Asian Studies,4.75,5.75,3.47,4.678
+20228706044,SHIVANI KHATANA,Department of East Asian Studies,6.75,6.75,3.50,5.667

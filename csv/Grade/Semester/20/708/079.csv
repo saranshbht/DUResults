@@ -1,23 +1,25 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20079708001,Archana Singh,Sri Venkateswara College,6.00,6.79,6.432
-20079708002,Astha,Sri Venkateswara College,6.25,7.00,6.659
-20079708003,DEEPAK KUMAR GUPTA,Sri Venkateswara College,7.00,7.00,7.000
-20079708004,Dhananjay Shiv Devraj,Sri Venkateswara College,6.50,7.00,6.773
-20079708005,Geethanjali R,Sri Venkateswara College,7.00,7.00,7.000
-20079708006,Gursandesh Singh,Sri Venkateswara College,4.75,6.83,5.886
-20079708007,Jasodha Rajpurohit,Sri Venkateswara College,6.50,7.00,6.773
-20079708008,JYOTI DEVI,Sri Venkateswara College,6.25,7.00,6.659
-20079708009,K Joe Paul,Sri Venkateswara College,6.50,7.00,6.773
-20079708010,Laxmi Chaudhary,Sri Venkateswara College,5.25,4.83,5.023
-20079708011,Lester Sylvester Dias,Sri Venkateswara College,6.25,7.00,6.659
-20079708012,MAYANK KUMAR KUSHWAHA,Sri Venkateswara College,6.25,7.00,6.659
-20079708013,Nehal Mondal,Sri Venkateswara College,6.25,7.00,6.659
-20079708014,NITIN SHARMA,Sri Venkateswara College,6.75,6.42,6.568
-20079708015,Nongzaimayum Tanzeem Alee Shah,Sri Venkateswara College,6.50,7.00,6.773
-20079708016,Prakhar Varshney,Sri Venkateswara College,6.25,7.00,6.659
-20079708018,RADHIKA NAIR,Sri Venkateswara College,6.25,7.17,6.750
-20079708019,S. WICY SHA,Sri Venkateswara College,6.75,7.00,6.886
-20079708020,Sanju Wary,Sri Venkateswara College,6.25,6.42,6.341
-20079708021,Saurav Thakur,Sri Venkateswara College,6.00,7.00,6.545
-20079708022,Shalini Majumdar,Sri Venkateswara College,6.75,7.38,7.091
-20079708024,Stanzin Dolkar,Sri Venkateswara College,6.75,7.00,6.886
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20079708001,Archana Singh,Sri Venkateswara College,6.00,6.79,6.25,6.375
+20079708002,Astha,Sri Venkateswara College,6.25,7.00,6.00,6.453
+20079708003,DEEPAK KUMAR GUPTA,Sri Venkateswara College,7.00,7.00,7.00,7.000
+20079708004,Dhananjay Shiv Devraj,Sri Venkateswara College,6.50,7.00,6.50,6.688
+20079708005,Geethanjali R,Sri Venkateswara College,7.00,7.00,7.00,7.000
+20079708006,Gursandesh Singh,Sri Venkateswara College,6.25,6.83,6.50,6.547
+20079708007,Jasodha Rajpurohit,Sri Venkateswara College,6.50,7.00,6.75,6.766
+20079708008,JYOTI DEVI,Sri Venkateswara College,6.25,7.00,7.00,6.766
+20079708009,K Joe Paul,Sri Venkateswara College,6.50,7.00,7.00,6.844
+20079708010,Laxmi Chaudhary,Sri Venkateswara College,5.25,,,5.250
+20079708011,Lester Sylvester Dias,Sri Venkateswara College,6.25,7.00,6.75,6.688
+20079708012,MAYANK KUMAR KUSHWAHA,Sri Venkateswara College,6.25,7.00,6.50,6.609
+20079708013,Nehal Mondal,Sri Venkateswara College,6.25,7.00,6.50,6.609
+20079708014,NITIN SHARMA,Sri Venkateswara College,6.75,6.42,4.75,6.000
+20079708015,Nongzaimayum Tanzeem Alee Shah,Sri Venkateswara College,6.50,7.00,6.25,6.609
+20079708016,Prakhar Varshney,Sri Venkateswara College,6.25,7.00,7.00,6.766
+20079708017,Priyadarshini Devi Yumnam,Sri Venkateswara College,6.00,7.00,6.75,6.609
+20079708018,RADHIKA NAIR,Sri Venkateswara College,6.25,7.17,6.50,6.672
+20079708019,S. WICY SHA,Sri Venkateswara College,6.75,7.00,6.75,6.844
+20079708020,Sanju Wary,Sri Venkateswara College,6.25,6.42,5.75,6.156
+20079708021,Saurav Thakur,Sri Venkateswara College,6.00,7.00,6.75,6.609
+20079708022,Shalini Majumdar,Sri Venkateswara College,6.75,7.38,7.00,7.063
+20079708023,Sharath Johnson Bosco,Sri Venkateswara College,3.00,,,3.000
+20079708024,Stanzin Dolkar,Sri Venkateswara College,6.75,7.00,6.25,6.688
