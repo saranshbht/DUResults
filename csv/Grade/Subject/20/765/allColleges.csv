@@ -1,104 +1,98 @@
-RollNo,Name,College,ANALYSIS,PROBABILITY THEORY,STATISTICAL METHODOLOGY,SURVEY SAMPLING,PRACTICAL –I (PART A: STATISTICAL COMPUTING-I  PART B: DATA ANALYSIS-I),LINEAR ALGEBRA,STOCHASTIC PROCESSES,STATISTICAL INFERENCE-I,DESIGN OF EXPERIMENTS,PRACTICAL –II
-20039765001,Annapurna Verma,Lady Shri Ram College for Women,9,8,10,10,9,8,10,10,10,9
-20039765002,Chhaya Kamra,Lady Shri Ram College for Women,9,10,10,10,10,9,10,10,10,10
-20039765003,KOYAL MALLICK,Lady Shri Ram College for Women,9,9,10,9,9,10,10,10,10,10
-20039765004,OIENDRILA BASAK,Lady Shri Ram College for Women,10,9,10,9,9,10,10,10,9,0
-20039765005,Rajani Singh,Lady Shri Ram College for Women,9,8,10,9,9,9,9,9,9,9
-20039765006,Raktima Dey,Lady Shri Ram College for Women,10,9,10,9,9,10,10,10,10,9
-20039765007,Rishu Jain,Lady Shri Ram College for Women,10,9,10,9,10,10,10,10,10,10
-20039765008,Saloni Aggarwal,Lady Shri Ram College for Women,10,10,10,9,10,10,10,10,10,9
-20039765009,Simran Goswami,Lady Shri Ram College for Women,9,9,9,9,9,10,10,10,10,8
-20039765010,Swati Shivhare,Lady Shri Ram College for Women,7,7,10,9,9,6,8,7,7,8
-20039765011,Usha Devi,Lady Shri Ram College for Women,9,9,9,10,9,9,10,10,10,9
-20039765012,Durga Anusha P,Lady Shri Ram College for Women,8,9,9,9,9,9,10,10,10,8
-20039765013,Namita Ahuja,Lady Shri Ram College for Women,10,7,10,9,9,10,10,10,10,8
-20026765001,Aanchal Gupta,Hindu College,9,8,9,9,10,10,10,10,10,9
-20026765002,Abhishek kumar Verma,Hindu College,8,9,9,9,9,9,10,9,10,8
-20026765003,Aditya Misra,Hindu College,10,9,10,9,9,10,10,10,10,10
-20026765004,AJATSHATRU SINGH,Hindu College,9,9,8,9,9,8,9,9,9,8
-20026765005,Aman Gupta,Hindu College,9,10,10,9,9,9,10,9,10,9
-20026765006,AMIT KUMAR MEENA,Hindu College,9,9,8,9,8,9,10,10,10,8
-20026765007,Ankush Gupta,Hindu College,9,9,10,9,9,10,10,10,10,10
-20026765008,Anuj Sachdeva,Hindu College,9,8,10,9,9,9,9,10,10,9
-20026765009,Arka Misra,Hindu College,9,9,8,9,8,8,10,9,9,9
-20026765010,Ashok Singh,Hindu College,8,7,9,9,9,8,8,9,9,7
-20026765011,Ashutosh,Hindu College,9,9,9,9,9,9,10,10,10,9
-20026765013,Astha,Hindu College,9,7,10,10,8,9,10,10,10,9
-20026765014,Ayush Kumar,Hindu College,8,7,8,9,5,8,8,9,9,8
-20026765015,BHARAT KUMAR VAISHYA,Hindu College,8,9,9,9,8,9,9,9,9,9
-20026765016,Diwaker Rathore,Hindu College,8,9,9,9,9,9,10,10,10,9
-20026765019,Karishma,Hindu College,9,8,9,9,9,10,10,10,10,8
-20026765020,Khushboo Tiwari,Hindu College,9,9,9,9,9,9,10,10,10,9
-20026765021,KRITI VERMA,Hindu College,9,9,10,9,10,10,10,10,10,9
-20026765022,MAHIMA JAIN,Hindu College,9,9,9,9,8,9,10,10,10,8
-20026765023,Mansi Jaiswal,Hindu College,10,9,10,9,10,10,10,10,10,10
-20026765024,Purvita Mandal,Hindu College,10,9,10,10,9,10,10,10,10,10
-20026765025,RAJHANS KUMAR,Hindu College,9,9,9,9,8,8,10,9,10,8
-20026765026,Rashmi Chindalia,Hindu College,10,9,10,9,9,10,10,10,10,10
-20026765027,Riya,Hindu College,10,9,10,9,9,10,10,10,10,9
-20026765028,Saksham Chauhan,Hindu College,9,10,10,10,10,10,10,10,10,9
-20026765029,Sambit Debnath,Hindu College,8,9,9,9,8,9,10,10,10,9
-20026765031,Shradha Jain,Hindu College,10,10,10,9,9,9,10,10,10,8
-20026765032,SHRUTI CHAUDHARY,Hindu College,10,9,9,9,9,9,10,10,10,9
-20026765033,Siddhant Grover,Hindu College,10,9,9,10,9,9,10,10,10,8
-20026765034,SIMRAN KAUR,Hindu College,8,9,9,9,9,10,10,10,10,9
-20026765035,Sourabh Gupta,Hindu College,9,9,10,9,10,10,10,10,10,10
-20026765036,SUMIT KUMAR,Hindu College,9,8,10,8,8,9,9,10,10,9
-20026765038,VANISHA,Hindu College,9,7,10,9,9,8,9,9,9,8
-20026765039,Vicky Gupta,Hindu College,10,8,10,9,9,9,10,10,10,9
-20026765040,Vipul Kumar,Hindu College,9,9,10,9,9,9,10,10,10,8
-20079765001,ADITYA KUMAR,Sri Venkateswara College,8,9,9,9,8,9,10,9,10,8
-20079765002,Anushi Sharma,Sri Venkateswara College,10,9,10,9,9,10,10,10,10,9
-20079765003,Archita Mukhopadhyay,Sri Venkateswara College,10,9,10,9,9,10,10,10,10,10
-20079765004,Ashutosh Kumar,Sri Venkateswara College,10,9,9,9,9,9,10,10,10,9
-20079765005,ATRAYEE DUTTA CHOWDHURY,Sri Venkateswara College,10,9,10,9,9,10,10,10,10,10
-20079765006,Bhanu Sharma,Sri Venkateswara College,9,8,9,9,9,9,10,10,10,9
-20079765007,Chandan Lalbabu Chaurasiya,Sri Venkateswara College,8,8,9,9,7,9,10,9,10,9
-20079765008,Harshit Miglani,Sri Venkateswara College,8,9,9,9,9,9,10,10,10,9
-20079765009,Jatin yadav,Sri Venkateswara College,8,9,9,9,9,9,10,10,10,9
-20079765010,KAUSTAV DEB,Sri Venkateswara College,10,9,10,9,10,10,10,10,10,10
-20079765011,Kritika Khandelwal,Sri Venkateswara College,9,9,10,9,9,10,10,10,9,8
-20079765012,Kunika Verma,Sri Venkateswara College,8,8,8,10,8,9,9,9,9,9
-20079765013,Madhu Yadav,Sri Venkateswara College,10,9,9,10,9,10,10,10,10,9
-20079765014,neeraj kumar,Sri Venkateswara College,6,9,9,9,7,8,9,9,9,8
-20079765015,Palak Goyal,Sri Venkateswara College,9,8,10,9,9,10,10,10,10,9
-20079765016,Randheer Singh,Sri Venkateswara College,8,8,9,9,8,8,9,9,9,9
-20079765018,Ritu Malpani,Sri Venkateswara College,9,10,9,9,9,10,9,10,10,9
-20079765019,Riya Mishra,Sri Venkateswara College,9,9,10,9,9,9,10,10,10,8
-20079765020,Sayak Giri,Sri Venkateswara College,9,9,10,10,10,10,10,10,10,10
-20079765021,Sayantika Chakravarty,Sri Venkateswara College,9,9,10,9,9,10,10,10,10,10
-20079765022,Schmidi Khokha,Sri Venkateswara College,10,9,9,9,9,10,10,10,10,9
-20079765023,Shantanu Mondal,Sri Venkateswara College,5,6,8,10,7,6,8,6,8,8
-20079765025,Soumya Bahuguna,Sri Venkateswara College,8,9,9,9,9,10,10,10,9,9
-20079765026,Yash Yadav,Sri Venkateswara College,8,9,9,9,9,9,10,10,10,9
-20056765001,Aditya kumar,Ramjas College,8,9,9,9,8,8,9,9,9,9
-20056765002,Akashdeep Kuila,Ramjas College,7,8,8,9,9,8,9,9,9,8
-20056765003,Albert Dichao,Ramjas College,8,6,8,9,7,6,8,8,8,6
-20056765004,Ananya Singh,Ramjas College,10,9,10,9,9,9,10,10,10,9
-20056765005,ANKIT DAS,Ramjas College,9,10,10,8,9,10,10,10,10,10
-20056765006,Annesha Deb,Ramjas College,10,9,9,9,9,9,10,10,9,10
-20056765007,Anshika Maharana,Ramjas College,8,9,9,9,9,8,9,9,9,9
-20056765008,Anupriya Sharma,Ramjas College,9,10,9,9,8,9,10,10,10,9
-20056765009,Anusha Mittal,Ramjas College,10,10,10,9,9,10,10,10,10,9
-20056765011,Bhavishya Wadhwa,Ramjas College,10,10,10,9,10,10,10,10,10,9
-20056765012,Chandra kanta,Ramjas College,8,9,9,9,9,9,10,10,10,9
-20056765013,DEBARSHI CHAKRABORTY,Ramjas College,9,9,10,9,10,10,10,10,10,10
-20056765014,HARSH MEENA,Ramjas College,5,6,7,8,6,5,7,7,6,6
-20056765015,Karan,Ramjas College,8,9,9,10,9,9,10,10,10,9
-20056765016,KARTIK,Ramjas College,8,8,9,9,8,9,10,9,10,8
-20056765019,Mohammad Aftab,Ramjas College,8,9,9,9,9,9,10,10,10,9
-20056765020,MUKUL KUMAR,Ramjas College,8,8,10,8,9,9,10,10,10,8
-20056765021,Nikhil Pal,Ramjas College,9,10,10,8,9,9,10,10,10,9
-20056765022,NITESH,Ramjas College,8,8,9,9,7,8,9,9,9,7
-20056765023,PRONAYAN KUMAR PAUL,Ramjas College,9,9,10,9,9,10,10,10,10,9
-20056765025,RAJAT KUMAR,Ramjas College,10,9,10,9,9,9,10,10,10,9
-20056765026,RAKA SEN,Ramjas College,9,10,10,9,9,10,10,10,10,10
-20056765027,Rashi,Ramjas College,8,8,10,10,9,9,10,10,10,9
-20056765028,Sagnik Majumder,Ramjas College,9,9,10,10,9,10,10,10,10,10
-20056765029,SHUBH RASTOGI,Ramjas College,9,10,10,10,9,10,10,10,10,9
-20056765030,Siddhant Gupta,Ramjas College,9,9,10,10,10,9,10,10,10,9
-20056765032,Soumadip Kundu,Ramjas College,10,9,10,9,9,10,10,10,10,10
-20056765033,Sourav Jyoti Gogoi,Ramjas College,8,9,10,9,9,8,9,9,9,9
-20056765035,Swasti Baghel,Ramjas College,9,9,10,9,9,9,10,10,10,8
-20056765036,Tanika Bisht,Ramjas College,9,9,10,10,9,10,10,10,10,10
-20056765037,VIDUR WALIA,Ramjas College,9,9,10,10,9,10,10,10,10,9
+RollNo,Name,College,ANALYSIS,PROBABILITY THEORY,STATISTICAL METHODOLOGY,SURVEY SAMPLING,PRACTICAL –I (PART A: STATISTICAL COMPUTING-I  PART B: DATA ANALYSIS-I),LINEAR ALGEBRA,STOCHASTIC PROCESSES,STATISTICAL INFERENCE-I,DESIGN OF EXPERIMENTS,PRACTICAL –II,STATISTICAL INFERENCE-II,MULTIVARIATE ANALYSIS,GENERALIZED LINEAR MODEL,PRACTICAL -III,BIO-STATISTICS,INFERENTIAL TECHNIQUES,REVENUE MANAGEMENT,OPERATIONAL RESEARCH,HEALTH CARE MANAGEMENT,ENVIRONMENTAL STUDIES: TOWARD A SUSTAINABLE FUTURE
+20039765001,Annapurna Verma,Lady Shri Ram College for Women,9,8,10,10,9,8,10,10,10,9,10,10,10,9,9,8,,,,
+20039765002,Chhaya Kamra,Lady Shri Ram College for Women,9,10,10,10,10,9,10,10,10,10,10,10,10,8,9,,10,,,
+20039765003,KOYAL MALLICK,Lady Shri Ram College for Women,9,9,10,9,9,10,10,10,10,10,10,10,9,9,9,,9,,,
+20039765005,Rajani Singh,Lady Shri Ram College for Women,9,8,10,9,9,9,9,9,9,9,10,10,9,9,,,10,10,,
+20039765006,Raktima Dey,Lady Shri Ram College for Women,10,9,10,9,9,10,10,10,10,9,10,10,10,9,,,9,10,,
+20039765007,Rishu Jain,Lady Shri Ram College for Women,10,9,10,9,10,10,10,10,10,10,9,10,10,9,9,,7,,,
+20039765008,Saloni Aggarwal,Lady Shri Ram College for Women,10,10,10,9,10,10,10,10,10,9,9,10,10,9,10,,9,,,
+20039765010,Swati Shivhare,Lady Shri Ram College for Women,7,7,10,9,9,6,8,7,7,8,6,10,9,8,7,6,,,,
+20039765011,Usha Devi,Lady Shri Ram College for Women,9,9,9,10,9,9,10,10,10,9,10,10,10,9,9,,10,,,
+20039765012,P DURGA ANUSHA,Lady Shri Ram College for Women,8,9,9,9,9,9,10,10,10,8,10,10,9,9,9,7,,,,
+20039765013,Namita Ahuja,Lady Shri Ram College for Women,10,7,10,9,9,10,10,10,10,8,9,8,9,8,9,,9,,,
+20026765001,Aanchal Gupta,Hindu College,9,8,9,9,10,10,10,10,10,9,10,10,10,9,9,8,,,,
+20026765002,Abhishek kumar Verma,Hindu College,8,9,9,9,9,9,10,9,10,8,9,10,9,8,10,7,,,,
+20026765003,Aditya Misra,Hindu College,10,9,10,9,9,10,10,10,10,10,10,10,10,8,,,9,10,,
+20026765004,AJATSHATRU SINGH,Hindu College,9,9,8,9,9,8,9,9,9,8,9,9,9,8,9,,,,10,
+20026765005,Aman Gupta,Hindu College,9,10,10,9,9,9,10,9,10,9,10,10,9,8,9,,9,,,
+20026765006,AMIT KUMAR MEENA,Hindu College,9,9,8,9,8,9,10,10,10,8,9,9,8,8,8,7,,,,
+20026765007,Ankush Gupta,Hindu College,9,9,10,9,9,10,10,10,10,10,8,10,10,9,10,,9,,,
+20026765008,Anuj Sachdeva,Hindu College,9,8,10,9,9,9,9,10,10,9,9,8,8,7,8,,,,10,
+20026765009,Arka Misra,Hindu College,9,9,8,9,8,8,10,9,9,9,10,10,9,9,9,7,,,,
+20026765010,Ashok Singh,Hindu College,8,7,9,9,9,8,8,9,9,7,9,9,9,7,8,6,,,,
+20026765011,Ashutosh,Hindu College,9,9,9,9,9,9,10,10,10,9,10,10,9,9,,,9,10,,
+20026765013,Astha,Hindu College,9,7,10,10,8,9,10,10,10,9,9,9,8,9,9,7,,,,
+20026765015,BHARAT KUMAR VAISHYA,Hindu College,8,9,9,9,8,9,9,9,9,9,9,10,9,9,,9,,10,,
+20026765016,Diwaker Rathore,Hindu College,8,9,9,9,9,9,10,10,10,9,10,10,9,9,9,8,,,,
+20026765017,Gargi Nivas,Hindu College,9,8,9,9,10,9,10,10,10,9,10,10,9,9,9,7,,,,
+20026765019,Karishma,Hindu College,9,8,9,9,9,10,10,10,10,8,10,9,9,8,,8,,10,,
+20026765020,Khushboo Tiwari,Hindu College,9,9,9,9,9,9,10,10,10,9,10,10,9,8,9,,9,,,
+20026765021,KRITI VERMA,Hindu College,9,9,10,9,10,10,10,10,10,9,10,10,10,9,8,,10,,,
+20026765022,MAHIMA JAIN,Hindu College,9,9,9,9,8,9,10,10,10,8,10,10,10,10,8,7,,,,
+20026765023,Mansi Jaiswal,Hindu College,10,9,10,9,10,10,10,10,10,10,10,10,10,9,10,,9,,,
+20026765025,RAJHANS KUMAR,Hindu College,9,9,9,9,8,8,10,9,10,8,9,9,9,8,8,7,,,,
+20026765026,Rashmi Chindalia,Hindu College,10,9,10,9,9,10,10,10,10,10,10,10,10,9,,,10,10,,
+20026765027,Riya,Hindu College,10,9,10,9,9,10,10,10,10,9,10,10,10,8,10,,,,,8
+20026765028,Saksham Chauhan,Hindu College,9,10,10,10,10,10,10,10,10,9,10,10,10,9,9,,9,,,
+20026765029,Sambit Debnath,Hindu College,8,9,9,9,8,9,10,10,10,9,10,10,9,9,,8,,10,,
+20026765032,SHRUTI CHAUDHARY,Hindu College,10,9,9,9,9,9,10,10,10,9,10,10,10,9,,8,,10,,
+20026765033,Siddhant Grover,Hindu College,10,9,9,10,9,9,10,10,10,8,10,9,9,8,9,,9,,,
+20026765034,SIMRAN KAUR,Hindu College,8,9,9,9,9,10,10,10,10,9,9,10,9,9,9,8,,,,
+20026765035,Sourabh Gupta,Hindu College,9,9,10,9,10,10,10,10,10,10,9,10,9,9,9,,9,,,
+20026765036,SUMIT KUMAR,Hindu College,9,8,10,8,8,9,9,10,10,9,9,9,9,9,9,8,,,,
+20026765038,VANISHA,Hindu College,9,7,10,9,9,8,9,9,9,8,7,10,9,8,8,8,,,,
+20026765040,Vipul Kumar,Hindu College,9,9,10,9,9,9,10,10,10,8,10,9,9,8,,,,10,10,
+20079765001,ADITYA KUMAR,Sri Venkateswara College,8,9,9,9,8,9,10,9,10,8,9,10,9,8,10,,7,,,
+20079765002,Anushi Sharma,Sri Venkateswara College,10,9,10,9,9,10,10,10,10,9,10,10,10,8,,,10,10,,
+20079765003,Archita Mukhopadhyay,Sri Venkateswara College,10,9,10,9,9,10,10,10,10,10,10,10,10,9,,,9,10,,
+20079765004,Ashutosh Kumar,Sri Venkateswara College,10,9,9,9,9,9,10,10,10,9,10,10,9,10,9,,8,,,
+20079765005,ATRAYEE DUTTA CHOWDHURY,Sri Venkateswara College,10,9,10,9,9,10,10,10,10,10,10,10,10,9,,,9,10,,
+20079765006,Bhanu Sharma,Sri Venkateswara College,9,8,9,9,9,9,10,10,10,9,10,10,9,9,9,7,,,,
+20079765007,Chandan Lalbabu Chaurasiya,Sri Venkateswara College,8,8,9,9,7,9,10,9,10,9,9,10,8,10,,8,,10,,
+20079765008,Harshit Miglani,Sri Venkateswara College,8,9,9,9,9,9,10,10,10,9,10,10,9,9,9,8,,,,
+20079765009,Jatin yadav,Sri Venkateswara College,8,9,9,9,9,9,10,10,10,9,10,9,9,8,8,7,,,,
+20079765010,KAUSTAV DEB,Sri Venkateswara College,10,9,10,9,10,10,10,10,10,10,10,10,10,9,,,9,10,,
+20079765011,Kritika Khandelwal,Sri Venkateswara College,9,9,10,9,9,10,10,10,9,8,7,7,9,6,8,,8,,,
+20079765012,Kunika Verma,Sri Venkateswara College,8,8,8,10,8,9,9,9,9,9,6,10,9,8,9,6,,,,
+20079765013,Madhu Yadav,Sri Venkateswara College,10,9,9,10,9,10,10,10,10,9,9,10,9,9,,,9,10,,
+20079765014,neeraj kumar,Sri Venkateswara College,6,9,9,9,7,8,9,9,9,8,9,8,9,7,8,7,,,,
+20079765015,Palak Goyal,Sri Venkateswara College,9,8,10,9,9,10,10,10,10,9,10,10,9,10,,8,,10,,
+20079765017,Richa Singh,Sri Venkateswara College,8,7,8,9,9,8,9,9,9,8,10,9,8,8,8,7,,,,
+20079765018,Ritu Malpani,Sri Venkateswara College,9,10,9,9,9,10,9,10,10,9,9,9,9,8,9,,9,,,
+20079765019,Riya Mishra,Sri Venkateswara College,9,9,10,9,9,9,10,10,10,8,10,10,10,8,9,,9,,,
+20079765020,Sayak Giri,Sri Venkateswara College,9,9,10,10,10,10,10,10,10,10,10,10,9,9,,,9,10,,
+20079765021,Sayantika Chakravarty,Sri Venkateswara College,9,9,10,9,9,10,10,10,10,10,10,10,10,9,,,9,10,,
+20079765022,Schmidi Khokha,Sri Venkateswara College,10,9,9,9,9,10,10,10,10,9,10,10,9,8,9,,9,,,
+20079765023,Shantanu Mondal,Sri Venkateswara College,5,6,8,10,7,6,8,6,8,8,8,9,9,7,6,6,,,,
+20079765024,Shivani,Sri Venkateswara College,8,9,9,9,9,9,10,10,10,9,10,10,9,8,9,8,,,,
+20079765025,Soumya Bahuguna,Sri Venkateswara College,8,9,9,9,9,10,10,10,9,9,9,10,10,9,9,8,,,,
+20079765026,Yash Yadav,Sri Venkateswara College,8,9,9,9,9,9,10,10,10,9,10,9,9,8,9,7,,,,
+20056765001,ADITYA KUMAR,Ramjas College,8,9,9,9,8,8,9,9,9,9,8,9,9,9,,6,,10,,
+20056765002,AKASHDEEP KUILA,Ramjas College,7,8,8,9,9,8,9,9,9,8,9,10,8,9,9,6,,,,
+20056765004,ANANYA SINGH,Ramjas College,10,9,10,9,9,9,10,10,10,9,10,10,9,9,10,,9,,,
+20056765005,ANKIT DAS,Ramjas College,9,10,10,8,9,10,10,10,10,10,10,10,10,9,9,,8,,,
+20056765006,Annesha Deb,Ramjas College,10,9,9,9,9,9,10,10,9,10,9,10,10,8,9,,8,,,
+20056765007,ANSHIKA MAHARANA,Ramjas College,8,9,9,9,9,8,9,9,9,9,10,9,9,8,9,7,,,,
+20056765008,ANUPRIYA SHARMA,Ramjas College,9,10,9,9,8,9,10,10,10,9,10,10,9,8,9,,10,,,
+20056765009,ANUSHA MITTAL,Ramjas College,10,10,10,9,9,10,10,10,10,9,10,10,10,9,10,,9,,,
+20056765011,BHAVISHYA WADHWA,Ramjas College,10,10,10,9,10,10,10,10,10,9,10,10,10,8,10,,9,,,
+20056765012,CHANDRA KANTA,Ramjas College,8,9,9,9,9,9,10,10,10,9,9,8,9,8,,7,,10,,
+20056765014,HARSH MEENA,Ramjas College,5,6,7,8,6,5,7,7,6,6,6,5,7,8,,5,,9,,
+20056765015,Karan,Ramjas College,8,9,9,10,9,9,10,10,10,9,10,9,9,7,9,,,,,6
+20056765016,KARTIK,Ramjas College,8,8,9,9,8,9,10,9,10,8,9,10,9,8,9,8,,,,
+20056765018,MANSI AGGARWAL,Ramjas College,9,10,10,9,9,9,10,10,10,9,10,10,9,9,9,,9,,,
+20056765020,MUKUL KUMAR,Ramjas College,8,8,10,8,9,9,10,10,10,8,10,9,9,9,8,8,,,,
+20056765021,NIKHIL PAL,Ramjas College,9,10,10,8,9,9,10,10,10,9,10,9,9,8,,,,10,10,
+20056765022,NITESH,Ramjas College,8,8,9,9,7,8,9,9,9,7,7,8,7,6,7,7,,,,
+20056765023,PRONAYAN KUMAR PAUL,Ramjas College,9,9,10,9,9,10,10,10,10,9,10,10,9,9,,,9,10,,
+20056765025,RAJAT KUMAR,Ramjas College,10,9,10,9,9,9,10,10,10,9,10,10,9,9,9,7,,,,
+20056765026,RAKA SEN,Ramjas College,9,10,10,9,9,10,10,10,10,10,10,10,9,9,10,,10,,,
+20056765027,Rashi,Ramjas College,8,8,10,10,9,9,10,10,10,9,10,10,9,9,,,10,10,,
+20056765028,Sagnik Majumder,Ramjas College,9,9,10,10,9,10,10,10,10,10,10,10,10,9,,,8,10,,
+20056765030,SIDDHANT GUPTA,Ramjas College,9,9,10,10,10,9,10,10,10,9,10,10,10,9,9,,9,,,
+20056765031,SNEHA,Ramjas College,9,9,10,9,9,9,10,10,10,8,10,10,9,8,8,,,,10,
+20056765032,Soumadip Kundu,Ramjas College,10,9,10,9,9,10,10,10,10,10,10,10,10,9,10,,9,,,
+20056765033,Sourav Jyoti Gogoi,Ramjas College,8,9,10,9,9,8,9,9,9,9,9,10,9,9,9,9,,,,
+20056765035,Swasti Baghel,Ramjas College,9,9,10,9,9,9,10,10,10,8,10,10,10,8,,,9,10,,
+20056765036,TANIKA BISHT,Ramjas College,9,9,10,10,9,10,10,10,10,10,10,10,10,8,9,,9,,,
+20056765037,VIDUR WALIA,Ramjas College,9,9,10,10,9,10,10,10,10,9,10,10,10,9,9,,9,,,
