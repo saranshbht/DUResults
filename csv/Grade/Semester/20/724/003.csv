@@ -1,37 +1,35 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20003724001,Abhishek Dangi,Atma Ram Sanatan Dharam College,6.75,6.50,6.632
-20003724002,Abhishek Kumar,Atma Ram Sanatan Dharam College,6.25,6.00,6.132
-20003724003,Aman kumar,Atma Ram Sanatan Dharam College,6.75,7.00,6.868
-20003724004,Asha Kumari,Atma Ram Sanatan Dharam College,6.50,6.78,6.632
-20003724005,Ashish Kumar Singh,Atma Ram Sanatan Dharam College,6.50,7.00,6.737
-20003724006,Ayush vikram Singh,Atma Ram Sanatan Dharam College,6.50,6.22,6.368
-20003724007,Bipul chakma,Atma Ram Sanatan Dharam College,6.25,6.00,6.132
-20003724008,DEEPAK,Atma Ram Sanatan Dharam College,6.25,6.00,6.132
-20003724009,Delek Wangyal,Atma Ram Sanatan Dharam College,6.75,6.00,6.395
-20003724010,EDEN LHAMU BHUTIA,Atma Ram Sanatan Dharam College,6.50,7.00,6.737
-20003724011,HADUNGRA NARZARY,Atma Ram Sanatan Dharam College,6.25,6.50,6.368
-20003724012,HARSHITA CHAMARIA,Atma Ram Sanatan Dharam College,6.75,6.78,6.763
-20003724013,Himanshu Dwivedi,Atma Ram Sanatan Dharam College,6.75,7.00,6.868
-20003724014,JEETESH MEENA,Atma Ram Sanatan Dharam College,6.00,6.28,6.132
-20003724016,Khushboo Tehlan,Atma Ram Sanatan Dharam College,6.25,6.22,6.237
-20003724017,KUMAR SATYARTH,Atma Ram Sanatan Dharam College,6.25,6.28,6.263
-20003724018,LISHA KHANNA,Atma Ram Sanatan Dharam College,4.25,6.00,5.079
-20003724019,Madan chand,Atma Ram Sanatan Dharam College,6.50,6.22,6.368
-20003724020,MOHD BILAL SAIFI,Atma Ram Sanatan Dharam College,6.50,6.00,6.263
-20003724021,Nicchenametla Sai Keerthana,Atma Ram Sanatan Dharam College,6.50,6.28,6.395
-20003724022,pankaj kumar,Atma Ram Sanatan Dharam College,6.50,7.00,6.737
-20003724023,PRANIT PRASHANT SHUKLA,Atma Ram Sanatan Dharam College,6.50,6.28,6.395
-20003724024,Purvi Gupta,Atma Ram Sanatan Dharam College,7.00,6.50,6.763
-20003724025,RAHUL SINGH,Atma Ram Sanatan Dharam College,6.50,6.56,6.526
-20003724026,RAJU KUMAR,Atma Ram Sanatan Dharam College,6.50,6.22,6.368
-20003724027,Shikha sharma,Atma Ram Sanatan Dharam College,6.25,6.78,6.500
-20003724028,SHIVAM KUMAR,Atma Ram Sanatan Dharam College,6.50,6.00,6.263
-20003724029,Shruti,Atma Ram Sanatan Dharam College,6.50,6.00,6.263
-20003724030,Shubham Bhardwaj,Atma Ram Sanatan Dharam College,6.75,7.50,7.105
-20003724031,Shubhdeep Chaurasia,Atma Ram Sanatan Dharam College,6.25,6.00,6.132
-20003724032,SHUBHRA KRISHNAN,Atma Ram Sanatan Dharam College,6.25,6.00,6.132
-20003724033,Sudhanshu kumar gupta,Atma Ram Sanatan Dharam College,6.50,6.00,6.263
-20003724034,Uddeshya Singh,Atma Ram Sanatan Dharam College,6.50,6.00,6.263
-20003724036,Aditya Prakash Gautam,Atma Ram Sanatan Dharam College,6.50,6.28,6.395
-20003724038,DEVSMITA MALLICK,Atma Ram Sanatan Dharam College,6.25,6.00,6.132
-20003724040,MUKESH SAH,Atma Ram Sanatan Dharam College,4.75,5.00,4.868
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20003724001,Abhishek Dangi,Atma Ram Sanatan Dharma College,6.75,6.50,6.75,6.672
+20003724002,Abhishek Kumar,Atma Ram Sanatan Dharma College,6.25,6.00,6.00,6.086
+20003724003,Aman kumar,Atma Ram Sanatan Dharma College,6.75,7.00,7.00,6.914
+20003724004,Asha Kumari,Atma Ram Sanatan Dharma College,6.50,6.78,7.00,6.759
+20003724005,Ashish Kumar Singh,Atma Ram Sanatan Dharma College,6.50,7.00,6.75,6.741
+20003724006,Ayush vikram Singh,Atma Ram Sanatan Dharma College,6.50,6.22,6.25,6.328
+20003724007,Bipul chakma,Atma Ram Sanatan Dharma College,6.25,6.00,6.00,6.086
+20003724008,DEEPAK,Atma Ram Sanatan Dharma College,6.25,6.00,6.25,6.172
+20003724009,Delek Wangyal,Atma Ram Sanatan Dharma College,6.75,6.00,6.50,6.431
+20003724011,HADUNGRA NARZARY,Atma Ram Sanatan Dharma College,6.25,6.50,7.00,6.586
+20003724012,HARSHITA CHAMARIA,Atma Ram Sanatan Dharma College,6.75,6.78,7.00,6.845
+20003724013,Himanshu Dwivedi,Atma Ram Sanatan Dharma College,6.75,7.00,6.25,6.655
+20003724014,JEETESH MEENA,Atma Ram Sanatan Dharma College,6.00,6.28,6.25,6.172
+20003724015,Kanika,Atma Ram Sanatan Dharma College,6.50,7.00,6.75,6.741
+20003724017,KUMAR SATYARTH,Atma Ram Sanatan Dharma College,6.25,6.28,6.25,6.259
+20003724018,LISHA KHANNA,Atma Ram Sanatan Dharma College,6.00,6.00,6.75,6.259
+20003724019,Madan chand,Atma Ram Sanatan Dharma College,6.50,6.22,6.50,6.414
+20003724020,MOHD BILAL SAIFI,Atma Ram Sanatan Dharma College,6.50,6.00,6.75,6.431
+20003724021,Nicchenametla Sai Keerthana,Atma Ram Sanatan Dharma College,6.50,6.28,6.50,6.431
+20003724022,pankaj kumar,Atma Ram Sanatan Dharma College,6.50,7.00,8.25,7.259
+20003724023,PRANIT PRASHANT SHUKLA,Atma Ram Sanatan Dharma College,6.50,6.28,6.25,6.345
+20003724024,Purvi Gupta,Atma Ram Sanatan Dharma College,7.00,6.50,6.50,6.672
+20003724025,RAHUL SINGH,Atma Ram Sanatan Dharma College,6.50,6.56,6.25,6.431
+20003724026,RAJU KUMAR,Atma Ram Sanatan Dharma College,6.50,6.22,6.50,6.414
+20003724027,Shikha sharma,Atma Ram Sanatan Dharma College,6.25,6.78,6.50,6.500
+20003724028,SHIVAM KUMAR,Atma Ram Sanatan Dharma College,6.50,6.00,6.25,6.259
+20003724030,Shubham Bhardwaj,Atma Ram Sanatan Dharma College,6.75,7.50,6.25,6.810
+20003724031,Shubhdeep Chaurasia,Atma Ram Sanatan Dharma College,6.25,6.00,6.25,6.172
+20003724032,SHUBHRA KRISHNAN,Atma Ram Sanatan Dharma College,6.25,6.00,5.75,6.000
+20003724033,Sudhanshu kumar gupta,Atma Ram Sanatan Dharma College,6.50,6.00,5.75,6.086
+20003724034,Uddeshya Singh,Atma Ram Sanatan Dharma College,6.50,6.00,6.75,6.431
+20003724036,Aditya Prakash Gautam,Atma Ram Sanatan Dharma College,6.50,6.28,6.25,6.345
+20003724038,DEVSMITA MALLICK,Atma Ram Sanatan Dharma College,6.25,6.00,6.25,6.172
+20003724040,MUKESH SAH,Atma Ram Sanatan Dharma College,4.75,5.00,6.25,5.345

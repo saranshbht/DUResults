@@ -1,50 +1,49 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20056724001,ABHAY KUMAR SHUKLA,Ramjas College,6.75,6.56,6.658
-20056724002,AFTAB,Ramjas College,6.00,6.00,6.000
-20056724003,Aiman Urooj,Ramjas College,6.25,6.00,6.132
-20056724004,Akshita Raj,Ramjas College,6.25,6.28,6.263
-20056724005,Anirudh Jain,Ramjas College,7.50,7.33,7.421
-20056724006,Anmol Madaan,Ramjas College,6.00,6.28,6.132
-20056724007,Anshika Singh,Ramjas College,7.25,7.28,7.263
-20056724008,Apaala Chaudhary,Ramjas College,6.75,6.00,6.395
-20056724009,Archi Jain,Ramjas College,6.25,6.50,6.368
-20056724010,Arun kumar,Ramjas College,6.00,6.00,6.000
-20056724012,Badal prakash Mahto,Ramjas College,5.75,6.28,6.000
-20056724013,Banchana Rajkumari,Ramjas College,6.50,7.00,6.737
-20056724014,BHAGYASREE SENGUPTA,Ramjas College,6.75,7.00,6.868
-20056724015,Bhumika Pant,Ramjas College,7.00,6.50,6.763
-20056724016,Calvin Ginminlien Zou,Ramjas College,6.50,6.00,6.263
-20056724017,DEEP SINGH AHIRWAR,Ramjas College,6.00,6.00,6.000
-20056724018,GAURAV,Ramjas College,6.25,6.00,6.132
-20056724021,Ishrita,Ramjas College,6.00,6.00,6.000
-20056724022,ITEE SHUKLA,Ramjas College,6.50,6.00,6.263
-20056724023,Jyoti Verma,Ramjas College,6.00,6.28,6.132
-20056724025,Kantlam Akhil,Ramjas College,6.25,6.00,6.132
-20056724026,KRITIKA YADAV,Ramjas College,7.00,6.50,6.763
-20056724027,Kuldeep Kumar Patel,Ramjas College,6.50,6.28,6.395
-20056724028,Mehtab Singh,Ramjas College,6.00,6.00,6.000
-20056724029,MILI P. BHARADWAJ,Ramjas College,6.75,6.72,6.737
-20056724030,MOHD ADIL ALAM,Ramjas College,6.25,6.00,6.132
-20056724031,Naina Sharma,Ramjas College,6.50,7.00,6.737
-20056724032,Nivedita Vardhan,Ramjas College,6.75,7.28,7.000
-20056724033,NORBU TSERING,Ramjas College,6.50,5.50,6.026
-20056724034,PANKAJ KUMAR MEENA,Ramjas College,6.00,2.22,4.211
-20056724035,Paulomi Das,Ramjas College,6.50,6.00,6.263
-20056724036,Phuntso Dargey,Ramjas College,6.50,6.00,6.263
-20056724037,Raghav Vaid,Ramjas College,5.25,7.00,6.079
-20056724038,Ragini Jhariya,Ramjas College,6.25,6.28,6.263
-20056724039,Sandeep,Ramjas College,4.50,6.00,5.211
-20056724041,Sangeeta,Ramjas College,6.00,6.00,6.000
-20056724042,SARTHI,Ramjas College,7.25,7.56,7.395
-20056724043,Sheetal Rawal,Ramjas College,6.25,6.00,6.132
-20056724044,SHREYAS MEGHWAL,Ramjas College,6.00,6.00,6.000
-20056724045,Shubham Kumar,Ramjas College,6.50,5.78,6.158
-20056724046,Shubham kumar,Ramjas College,6.25,6.00,6.132
-20056724047,Sonaba Laxman Narale,Ramjas College,5.50,6.00,5.737
-20056724048,Sonali,Ramjas College,6.25,6.00,6.132
-20056724049,VIDYANAND RAJ,Ramjas College,6.00,6.00,6.000
-20056724051,VISHAL MISHRA,Ramjas College,6.00,6.00,6.000
-20056724052,YASH DAGAR,Ramjas College,5.75,6.00,5.868
-20056724053,VIKSHIT KUMAR,Ramjas College,6.00,5.72,5.868
-20056724054,Yash Dahiya,Ramjas College,6.00,6.50,6.237
-20056724055,NISAR AHMAD KAMRAN,Ramjas College,6.25,6.00,6.132
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20056724001,ABHAY KUMAR SHUKLA,Ramjas College,6.75,6.56,7.50,6.948
+20056724002,AFTAB,Ramjas College,6.00,6.00,6.75,6.259
+20056724003,Aiman Urooj,Ramjas College,6.25,6.00,7.00,6.431
+20056724004,Akshita Raj,Ramjas College,6.25,6.28,6.75,6.431
+20056724005,Anirudh Jain,Ramjas College,7.50,7.33,6.75,7.190
+20056724006,Anmol Madaan,Ramjas College,6.00,6.28,6.75,6.345
+20056724007,Anshika Singh,Ramjas College,7.25,7.28,7.00,7.172
+20056724008,Apaala Chaudhary,Ramjas College,6.75,6.00,6.00,6.259
+20056724009,Archi Jain,Ramjas College,6.25,6.50,7.00,6.586
+20056724011,ASHISH DEV SINGH,Ramjas College,5.75,5.56,6.25,5.862
+20056724012,Badal prakash Mahto,Ramjas College,5.75,6.28,6.75,6.259
+20056724013,Banchana Rajkumari,Ramjas College,6.50,7.00,6.50,6.655
+20056724014,BHAGYASREE SENGUPTA,Ramjas College,6.75,7.00,7.00,6.914
+20056724015,Bhumika Pant,Ramjas College,7.00,6.50,6.75,6.759
+20056724016,Calvin Ginminlien Zou,Ramjas College,6.50,6.00,7.00,6.517
+20056724017,DEEP SINGH AHIRWAR,Ramjas College,6.00,6.00,6.00,6.000
+20056724018,GAURAV,Ramjas College,6.25,6.00,6.50,6.259
+20056724021,Ishrita,Ramjas College,6.00,6.00,6.25,6.086
+20056724022,ITEE SHUKLA,Ramjas College,6.50,6.00,7.00,6.517
+20056724023,Jyoti Verma,Ramjas College,6.00,6.28,6.75,6.345
+20056724026,KRITIKA YADAV,Ramjas College,7.00,6.50,7.00,6.845
+20056724027,Kuldeep Kumar Patel,Ramjas College,6.50,6.28,6.25,6.345
+20056724028,Mehtab Singh,Ramjas College,6.00,6.00,4.75,5.569
+20056724029,MILI P. BHARADWAJ,Ramjas College,6.75,6.72,7.25,6.914
+20056724030,MOHD ADIL ALAM,Ramjas College,6.25,6.00,6.00,6.086
+20056724031,Naina Sharma,Ramjas College,6.50,7.00,6.75,6.741
+20056724032,Nivedita Vardhan,Ramjas College,6.75,7.28,7.75,7.259
+20056724033,NORBU TSERING,Ramjas College,6.50,5.50,5.25,5.759
+20056724034,PANKAJ KUMAR MEENA,Ramjas College,6.00,2.22,5.50,4.655
+20056724035,Paulomi Das,Ramjas College,6.50,6.00,7.25,6.603
+20056724036,Phuntso Dargey,Ramjas College,6.50,6.00,6.75,6.431
+20056724037,Raghav Vaid,Ramjas College,6.75,7.00,7.50,7.086
+20056724038,Ragini Jhariya,Ramjas College,6.25,6.28,6.75,6.431
+20056724039,Sandeep,Ramjas College,6.00,6.00,6.50,6.172
+20056724041,Sangeeta,Ramjas College,6.00,6.00,6.25,6.086
+20056724042,SARTHI,Ramjas College,7.25,7.56,7.00,7.259
+20056724043,Sheetal Rawal,Ramjas College,6.25,6.00,6.50,6.259
+20056724044,SHREYAS MEGHWAL,Ramjas College,6.00,6.00,6.50,6.172
+20056724045,Shubham Kumar,Ramjas College,6.50,5.78,7.00,6.448
+20056724046,Shubham kumar,Ramjas College,6.25,6.00,6.00,6.086
+20056724047,Sonaba Laxman Narale,Ramjas College,5.50,6.00,5.50,5.655
+20056724048,Sonali,Ramjas College,6.25,6.00,7.00,6.431
+20056724050,Vishal bhattacharya,Ramjas College,6.00,5.56,6.50,6.034
+20056724051,VISHAL MISHRA,Ramjas College,6.00,6.00,6.00,6.000
+20056724052,YASH DAGAR,Ramjas College,5.75,6.00,6.75,6.172
+20056724053,VIKSHIT KUMAR,Ramjas College,6.00,5.72,6.50,6.086
+20056724054,Yash Dahiya,Ramjas College,6.00,6.50,6.50,6.328
+20056724055,NISAR AHMAD KAMRAN,Ramjas College,6.25,6.00,6.50,6.259

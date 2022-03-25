@@ -1,43 +1,41 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20014724001,Aditi Nandini,Daulat Ram College,6.25,6.50,6.368
-20014724002,Akanksha,Daulat Ram College,6.50,6.50,6.500
-20014724003,Anika Ranjan,Daulat Ram College,6.50,7.00,6.737
-20014724004,Anisha Kumari,Daulat Ram College,6.75,7.00,6.868
-20014724005,Anju,Daulat Ram College,6.25,6.00,6.132
-20014724006,Archana,Daulat Ram College,6.50,7.00,6.737
-20014724007,ARUNIMA GUPTA,Daulat Ram College,6.25,6.50,6.368
-20014724008,ASHEEMA BISHNOI,Daulat Ram College,6.50,5.56,6.053
-20014724009,AVNI GIRI,Daulat Ram College,7.00,7.00,7.000
-20014724010,AYISHA SHAKEEL PADINHARAKATH,Daulat Ram College,6.50,6.50,6.500
-20014724011,HIMANI,Daulat Ram College,6.25,6.00,6.132
-20014724013,Jayshree Teli,Daulat Ram College,6.50,5.44,6.000
-20014724015,Kanchan Pacholi,Daulat Ram College,6.50,6.28,6.395
-20014724016,Manjari,Daulat Ram College,6.50,7.00,6.737
-20014724017,Mansi Agarwal,Daulat Ram College,6.75,7.00,6.868
-20014724018,Mansi Bhaskar,Daulat Ram College,6.50,6.00,6.263
-20014724019,Namrta Sehrawat,Daulat Ram College,6.00,6.28,6.132
-20014724020,Neelam,Daulat Ram College,7.00,6.78,6.895
-20014724021,NEHA SEHGAL,Daulat Ram College,7.00,6.28,6.658
-20014724022,NISHU KUMARI,Daulat Ram College,6.00,6.00,6.000
-20014724023,Obakeng Ramasu,Daulat Ram College,6.50,7.00,6.737
-20014724024,Pimi Das,Daulat Ram College,6.50,6.78,6.632
-20014724025,Pooja,Daulat Ram College,6.25,6.00,6.132
-20014724026,Pragati Sharma,Daulat Ram College,6.50,7.00,6.737
-20014724027,PRAJAKTA MANOJ MODAK,Daulat Ram College,6.75,7.00,6.868
-20014724028,Puneeta Singh Bisht,Daulat Ram College,6.75,7.56,7.132
-20014724029,Pushpendri yadav,Daulat Ram College,6.25,6.00,6.132
-20014724030,Ritu shreya,Daulat Ram College,6.50,6.00,6.263
-20014724031,SADIA,Daulat Ram College,6.50,6.00,6.263
-20014724032,SHIVANI VERMA,Daulat Ram College,6.50,6.00,6.263
-20014724033,Shlagha Mishra,Daulat Ram College,6.25,6.00,6.132
-20014724034,STANZIN ANGMO,Daulat Ram College,6.25,6.50,6.368
-20014724035,Suman Khurkhuria,Daulat Ram College,6.25,6.00,6.132
-20014724036,Sumitra,Daulat Ram College,5.75,6.00,5.868
-20014724037,Swati,Daulat Ram College,6.50,6.28,6.395
-20014724038,Tamanna,Daulat Ram College,6.50,6.50,6.500
-20014724039,Tara Katyayini Singh,Daulat Ram College,6.25,6.00,6.132
-20014724040,Tenzing Chonzin,Daulat Ram College,6.75,6.28,6.526
-20014724041,VISHAKHA,Daulat Ram College,6.50,6.50,6.500
-20014724042,YASHIKA PATHAK,Daulat Ram College,6.25,6.00,6.132
-20014724043,Yukta Talwar,Daulat Ram College,6.75,7.50,7.105
-20014724044,Chetna Nagpal,Daulat Ram College,6.25,6.22,6.237
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20014724002,Akanksha,Daulat Ram College,6.50,6.50,7.00,6.672
+20014724003,Anika Ranjan,Daulat Ram College,6.50,7.00,7.50,7.000
+20014724004,Anisha Kumari,Daulat Ram College,6.75,7.00,7.25,7.000
+20014724005,Anju,Daulat Ram College,6.25,6.00,6.75,6.345
+20014724006,Archana,Daulat Ram College,6.50,7.00,6.75,6.741
+20014724007,ARUNIMA GUPTA,Daulat Ram College,6.25,6.50,7.25,6.672
+20014724008,ASHEEMA BISHNOI,Daulat Ram College,6.50,6.22,6.50,6.414
+20014724009,AVNI GIRI,Daulat Ram College,7.00,7.00,7.00,7.000
+20014724010,AYISHA SHAKEEL PADINHARAKATH,Daulat Ram College,6.50,6.50,7.25,6.759
+20014724011,HIMANI,Daulat Ram College,6.25,6.00,6.75,6.345
+20014724012,Jayshree Baraik,Daulat Ram College,6.25,6.00,6.25,6.172
+20014724013,Jayshree Teli,Daulat Ram College,6.50,5.44,6.25,6.086
+20014724015,Kanchan Pacholi,Daulat Ram College,6.50,6.28,6.50,6.431
+20014724016,MANJARI,Daulat Ram College,6.50,7.00,7.25,6.914
+20014724017,Mansi Agarwal,Daulat Ram College,6.75,7.00,6.75,6.828
+20014724018,Mansi Bhaskar,Daulat Ram College,6.50,6.00,6.75,6.431
+20014724019,Namrta Sehrawat,Daulat Ram College,6.00,6.28,7.50,6.603
+20014724020,Neelam,Daulat Ram College,7.00,6.78,7.75,7.190
+20014724021,NEHA SEHGAL,Daulat Ram College,7.00,6.28,7.25,6.862
+20014724022,NISHU KUMARI,Daulat Ram College,6.00,6.00,6.25,6.086
+20014724023,Obakeng Ramasu,Daulat Ram College,6.50,7.00,6.75,6.741
+20014724024,PIMI DAS,Daulat Ram College,6.50,6.78,6.50,6.586
+20014724026,Pragati Sharma,Daulat Ram College,6.50,7.00,6.25,6.569
+20014724027,Prajakta Manoj Modak,Daulat Ram College,6.75,7.00,7.50,7.086
+20014724028,Puneeta Singh Bisht,Daulat Ram College,6.75,7.56,7.00,7.086
+20014724029,Pushpendri yadav,Daulat Ram College,6.25,6.00,6.50,6.259
+20014724030,Ritu shreya,Daulat Ram College,6.50,6.00,7.00,6.517
+20014724031,SADIA,Daulat Ram College,6.50,6.00,6.75,6.431
+20014724032,SHIVANI VERMA,Daulat Ram College,6.50,6.00,7.00,6.517
+20014724033,Shlagha Mishra,Daulat Ram College,6.25,6.00,7.00,6.431
+20014724034,STANZIN ANGMO,Daulat Ram College,6.75,6.50,6.50,6.586
+20014724035,Suman Khurkhuria,Daulat Ram College,6.25,6.00,7.00,6.431
+20014724036,Sumitra,Daulat Ram College,5.75,6.00,6.50,6.086
+20014724037,Swati,Daulat Ram College,6.50,6.28,7.00,6.603
+20014724038,Tamanna,Daulat Ram College,6.50,6.50,7.00,6.672
+20014724039,Tara Katyayini Singh,Daulat Ram College,6.25,6.00,7.25,6.517
+20014724041,VISHAKHA,Daulat Ram College,6.50,6.50,6.75,6.586
+20014724042,YASHIKA PATHAK,Daulat Ram College,6.25,6.00,6.75,6.345
+20014724043,YUKTA TALWAR,Daulat Ram College,6.75,7.50,6.75,6.983
+20014724044,Chetna Nagpal,Daulat Ram College,6.25,6.22,6.00,6.155

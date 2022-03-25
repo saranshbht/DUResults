@@ -1,39 +1,34 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20211701001,Shreya Jain,Department of Psychology,8.80,7.40,8.100
-20211701002,Aditi Kulshrestha,Department of Psychology,7.80,6.80,7.300
-20211701004,Anukriti,Department of Psychology,7.40,8.00,7.700
-20211701005,ANUSREE. C,Department of Psychology,7.20,6.60,6.900
-20211701006,Apoorva Khandelwal,Department of Psychology,8.00,8.60,8.300
-20211701007,Arun Kumar Yadav,Department of Psychology,7.80,8.60,8.200
-20211701008,Ashita Songara,Department of Psychology,8.00,8.60,8.300
-20211701009,ASLEEMA,Department of Psychology,7.80,7.20,7.500
-20211701010,Dhairya Khurana,Department of Psychology,8.00,8.60,8.300
-20211701011,Dhanavath Anil Kumar,Department of Psychology,7.20,7.80,7.500
-20211701012,Farheen Khan,Department of Psychology,8.60,8.80,8.700
-20211701014,Himadri Chawla,Department of Psychology,7.60,8.60,8.100
-20211701015,Iqra Qureshi,Department of Psychology,8.40,8.40,8.400
-20211701016,Varsha Katiyar,Department of Psychology,7.80,8.00,7.900
-20211701017,VISHRUTI,Department of Psychology,8.40,8.80,8.600
-20211701018,Thasneem Rahmathulla,Department of Psychology,7.20,7.80,7.500
-20211701019,Vanshika Sachdeva,Department of Psychology,8.00,8.80,8.400
-20211701020,Simran Suparna Paul,Department of Psychology,8.20,8.20,8.200
-20211701021,Smriti Rawat,Department of Psychology,7.80,8.00,7.900
-20211701022,Shubham Singh,Department of Psychology,7.40,8.00,7.700
-20211701023,Shuchi Chhokra,Department of Psychology,8.00,8.00,8.000
-20211701024,SHAGUN GUPTA,Department of Psychology,7.60,8.80,8.200
-20211701025,Sheetal Khushi Baid,Department of Psychology,7.80,8.40,8.100
-20211701026,RUPAL ARORA,Department of Psychology,7.80,8.00,7.900
-20211701027,Samten Dolma,Department of Psychology,8.00,8.20,8.100
-20211701028,Ria Kalra,Department of Psychology,8.60,9.00,8.800
-20211701029,Ruchika,Department of Psychology,7.40,8.00,7.700
-20211701030,Priya,Department of Psychology,7.40,7.80,7.600
-20211701031,Radhika Singla,Department of Psychology,8.20,8.80,8.500
-20211701032,Oshin Rawat,Department of Psychology,7.80,8.80,8.300
-20211701033,PITTALA VAISHNAVI,Department of Psychology,7.80,8.00,7.900
-20211701034,Nainika Hira,Department of Psychology,8.20,9.00,8.600
-20211701035,Nandita Bharadwaj,Department of Psychology,7.80,8.00,7.900
-20211701037,Mohak Bhatia,Department of Psychology,7.60,8.00,7.800
-20211701038,Kamei Gaishemlu,Department of Psychology,7.40,7.80,7.600
-20211701039,KASISH NGANGOM,Department of Psychology,8.00,8.00,8.000
-20211701040,Kavya Mukhija,Department of Psychology,8.40,8.80,8.600
-20211701041,Kusum,Department of Psychology,7.80,8.00,7.900
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20211701001,Shreya Jain,Department of Psychology,8.80,7.40,8.92,8.406
+20211701002,Aditi Kulshrestha,Department of Psychology,7.80,6.80,6.92,7.156
+20211701004,Anukriti,Department of Psychology,7.40,8.00,7.67,7.688
+20211701005,ANUSREE. C,Department of Psychology,7.20,6.60,6.83,6.875
+20211701006,Apoorva Khandelwal,Department of Psychology,8.00,8.60,8.33,8.313
+20211701008,Ashita Songara,Department of Psychology,8.00,8.60,8.42,8.344
+20211701009,ASLEEMA,Department of Psychology,7.80,7.20,8.50,7.875
+20211701010,Dhairya Khurana,Department of Psychology,8.00,8.60,8.75,8.469
+20211701011,Dhanavath Anil Kumar,Department of Psychology,7.20,7.80,7.42,7.469
+20211701012,Farheen Khan,Department of Psychology,8.60,8.80,8.33,8.563
+20211701014,Himadri Chawla,Department of Psychology,7.60,8.60,8.83,8.375
+20211701015,Iqra Qureshi,Department of Psychology,8.40,8.40,8.50,8.438
+20211701017,VISHRUTI,Department of Psychology,8.40,8.80,8.25,8.469
+20211701018,Thasneem Rahmathulla,Department of Psychology,7.20,7.80,7.33,7.438
+20211701019,Vanshika Sachdeva,Department of Psychology,8.00,8.80,9.00,8.625
+20211701020,Simran Suparna Paul,Department of Psychology,8.20,8.20,8.17,8.188
+20211701022,Shubham Singh,Department of Psychology,7.40,8.00,7.17,7.500
+20211701023,Shuchi Chhokra,Department of Psychology,8.00,8.00,8.67,8.250
+20211701024,SHAGUN GUPTA,Department of Psychology,7.60,8.80,8.58,8.344
+20211701025,Sheetal Khushi Baid,Department of Psychology,7.80,8.40,8.00,8.063
+20211701026,RUPAL ARORA,Department of Psychology,7.80,8.00,7.67,7.813
+20211701027,Samten Dolma,Department of Psychology,8.00,8.20,8.67,8.313
+20211701028,Ria Kalra,Department of Psychology,8.60,9.00,8.83,8.813
+20211701029,Ruchika,Department of Psychology,7.40,8.00,7.83,7.750
+20211701030,Priya,Department of Psychology,7.40,7.80,7.17,7.438
+20211701031,Radhika Singla,Department of Psychology,8.20,8.80,8.17,8.375
+20211701032,Oshin Rawat,Department of Psychology,7.80,8.80,8.08,8.219
+20211701033,PITTALA VAISHNAVI,Department of Psychology,7.80,8.00,7.92,7.906
+20211701034,Nainika Hira,Department of Psychology,8.20,9.00,8.75,8.656
+20211701035,Nandita Bharadwaj,Department of Psychology,7.80,8.00,8.50,8.125
+20211701037,Mohak Bhatia,Department of Psychology,7.60,8.00,8.25,7.969
+20211701038,Kamei Gaishemlu,Department of Psychology,7.40,7.80,7.83,7.688
+20211701040,Kavya Mukhija,Department of Psychology,8.40,8.80,8.67,8.625

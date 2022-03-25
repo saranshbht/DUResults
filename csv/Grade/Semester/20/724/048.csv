@@ -1,29 +1,26 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20048724001,Abhishek Banerjee,Moti Lal Nehru College (Day),7.00,6.78,6.895
-20048724002,Aditi singh,Moti Lal Nehru College (Day),6.50,6.28,6.395
-20048724003,Alzena Khan,Moti Lal Nehru College (Day),6.50,6.22,6.368
-20048724005,ANKUR,Moti Lal Nehru College (Day),6.00,6.00,6.000
-20048724007,MUSKAAN SINGH,Moti Lal Nehru College (Day),6.25,6.00,6.132
-20048724010,PUNEET KUMAR,Moti Lal Nehru College (Day),6.50,6.78,6.632
-20048724011,RUDRESH K H,Moti Lal Nehru College (Day),6.25,6.28,6.263
-20048724013,SHIVAM KUMAR,Moti Lal Nehru College (Day),6.75,6.28,6.526
-20048724015,YOGESH KAIRY,Moti Lal Nehru College (Day),6.00,6.28,6.132
-20048724016,AFZAL,Moti Lal Nehru College (Day),6.00,6.00,6.000
-20048724017,Nitesh Rathi,Moti Lal Nehru College (Day),6.00,6.00,6.000
-20048724018,PRAVEEN KUMAR,Moti Lal Nehru College (Day),6.00,6.00,6.000
-20048724019,Sneha Tiwari,Moti Lal Nehru College (Day),6.50,6.00,6.263
-20048724020,TANISH SHARMA,Moti Lal Nehru College (Day),6.00,6.00,6.000
-20048724021,Vinay Kumar yadav,Moti Lal Nehru College (Day),6.00,6.00,6.000
-20048724022,Kirti Malik,Moti Lal Nehru College (Day),6.50,6.00,6.263
-20048724023,RAMAN,Moti Lal Nehru College (Day),5.50,5.72,5.605
-20048724024,VANI LAVAKUSH,Moti Lal Nehru College (Day),6.50,5.56,6.053
-20048724025,Faustin Lalruatfela,Moti Lal Nehru College (Day),6.25,6.00,6.132
-20048724026,MANASVI TYAGI,Moti Lal Nehru College (Day),6.00,6.00,6.000
-20048724027,SESETTY SARATPAWAR,Moti Lal Nehru College (Day),6.00,6.00,6.000
-20048724028,Jyoti,Moti Lal Nehru College (Day),6.00,6.00,6.000
-20048724029,Kajal Kumari,Moti Lal Nehru College (Day),6.25,6.00,6.132
-20048724030,Radhika Pathak,Moti Lal Nehru College (Day),6.50,6.72,6.605
-20048724031,SHIVANI YADAV,Moti Lal Nehru College (Day),6.50,6.00,6.263
-20048724032,SUZZANE CHELSEA ZERIN,Moti Lal Nehru College (Day),6.75,6.00,6.395
-20048724033,Tamanna,Moti Lal Nehru College (Day),6.25,6.50,6.368
-20048724034,LAXMI PRAJAPATI,Moti Lal Nehru College (Day),4.75,5.00,4.868
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20048724001,ABHISHEK BANERJEE,Moti Lal Nehru College (Day),7.00,6.78,7.50,7.103
+20048724002,ADITI SINGH,Moti Lal Nehru College (Day),6.50,6.28,7.25,6.690
+20048724003,ALZENA KHAN,Moti Lal Nehru College (Day),6.50,6.22,7.00,6.586
+20048724005,ANKUR,Moti Lal Nehru College (Day),6.00,6.00,6.50,6.172
+20048724007,MUSKAAN SINGH,Moti Lal Nehru College (Day),6.25,6.00,7.50,6.603
+20048724010,PUNEET KUMAR,Moti Lal Nehru College (Day),6.50,6.78,6.75,6.672
+20048724011,RUDRESH K H,Moti Lal Nehru College (Day),6.25,6.28,6.75,6.431
+20048724013,SHIVAM KUMAR,Moti Lal Nehru College (Day),6.75,6.28,6.75,6.603
+20048724016,AFZAL,Moti Lal Nehru College (Day),6.00,6.00,6.50,6.172
+20048724017,Nitesh Rathi,Moti Lal Nehru College (Day),6.00,6.00,6.00,6.000
+20048724018,PRAVEEN KUMAR,Moti Lal Nehru College (Day),6.00,6.00,6.25,6.086
+20048724019,SNEHA TIWARI,Moti Lal Nehru College (Day),6.50,6.00,6.25,6.259
+20048724020,TANISH SHARMA,Moti Lal Nehru College (Day),6.00,6.00,6.25,6.086
+20048724021,Vinay Kumar yadav,Moti Lal Nehru College (Day),6.00,6.00,5.75,5.914
+20048724022,Kirti Malik,Moti Lal Nehru College (Day),6.50,6.00,7.00,6.517
+20048724023,RAMAN,Moti Lal Nehru College (Day),5.50,5.72,0.00,3.672
+20048724024,VANI LAVAKUSH,Moti Lal Nehru College (Day),6.50,6.00,6.50,6.345
+20048724025,Faustin Lalruatfela,Moti Lal Nehru College (Day),6.25,6.00,6.75,6.345
+20048724027,SESETTY SARATPAWAR,Moti Lal Nehru College (Day),6.00,6.00,6.00,6.000
+20048724028,Jyoti,Moti Lal Nehru College (Day),6.00,6.00,6.75,6.259
+20048724029,Kajal Kumari,Moti Lal Nehru College (Day),6.25,6.00,6.25,6.172
+20048724030,Radhika Pathak,Moti Lal Nehru College (Day),6.50,6.72,7.00,6.741
+20048724031,SHIVANI YADAV,Moti Lal Nehru College (Day),6.50,6.00,6.50,6.345
+20048724032,SUZZANE CHELSEA ZERIN,Moti Lal Nehru College (Day),6.75,6.00,7.25,6.690
+20048724033,Tamanna,Moti Lal Nehru College (Day),6.25,6.50,6.75,6.500

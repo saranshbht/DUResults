@@ -1,15 +1,14 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20031724001,Arzoo,Janki Devi Memorial College,6.50,6.00,6.263
-20031724002,CHHAYA,Janki Devi Memorial College,6.50,6.00,6.263
-20031724003,Jyoti Sehrawat,Janki Devi Memorial College,6.25,6.22,6.237
-20031724005,Muskan Dadhwal,Janki Devi Memorial College,6.25,6.22,6.237
-20031724006,Neha,Janki Devi Memorial College,6.25,6.28,6.263
-20031724007,Neha mishra,Janki Devi Memorial College,6.25,6.00,6.132
-20031724008,Partiksha,Janki Devi Memorial College,6.75,6.28,6.526
-20031724009,Ritika devi,Janki Devi Memorial College,6.25,6.28,6.263
-20031724010,Seema Kumari,Janki Devi Memorial College,6.50,6.50,6.500
-20031724011,Shrayana Gupta,Janki Devi Memorial College,6.75,7.00,6.868
-20031724012,Sonika Kumari,Janki Devi Memorial College,6.25,6.00,6.132
-20031724013,Taniya Dey,Janki Devi Memorial College,6.25,6.00,6.132
-20031724014,MUSKAN SAIYADA,Janki Devi Memorial College,5.00,3.89,4.474
-20031724015,KUNGA TSOMO,Janki Devi Memorial College,6.25,5.56,5.921
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20031724001,Arzoo,Janki Devi Memorial College,6.50,6.00,7.00,6.517
+20031724002,CHHAYA,Janki Devi Memorial College,6.50,6.00,6.25,6.259
+20031724003,Jyoti Sehrawat,Janki Devi Memorial College,6.25,6.22,5.25,5.897
+20031724005,Muskan Dadhwal,Janki Devi Memorial College,6.25,6.22,6.25,6.241
+20031724006,Neha,Janki Devi Memorial College,6.25,6.28,6.25,6.259
+20031724007,Neha mishra,Janki Devi Memorial College,6.25,6.00,6.00,6.086
+20031724008,Partiksha,Janki Devi Memorial College,6.75,6.28,7.25,6.776
+20031724009,Ritika devi,Janki Devi Memorial College,6.25,6.28,6.50,6.345
+20031724010,Seema Kumari,Janki Devi Memorial College,6.50,6.50,6.50,6.500
+20031724011,Shrayana Gupta,Janki Devi Memorial College,6.75,7.00,7.00,6.914
+20031724012,Sonika Kumari,Janki Devi Memorial College,6.25,6.00,6.50,6.259
+20031724013,Taniya Dey,Janki Devi Memorial College,6.25,6.00,6.25,6.172
+20031724015,KUNGA TSOMO,Janki Devi Memorial College,6.25,5.56,5.75,5.862

@@ -25772,3 +25772,98 @@ Courses to be downloaded
 {}
 Courses to be updated
 {"17":[],"18":[],"19":[],"20":[]}
+2022-03-25T00:50:54.085Z
+nov_dec
+Grade
+ASP.NET_SessionId=h4nlvl55goq4f3bxpdu1f445
+Courses to be downloaded
+{"19":["504","511","527"],"20":["701","718","724","774","776","777"],"21":["775","776"]}
+Error at 19 504 001
+Error at 19 504 039
+Error at 19 504 063
+Error at 19 504 048
+Error at 19 504 086
+Error at 19 511 039
+Error at 19 511 063
+Error at 19 511 048
+Error at 19 511 086
+Error at 19 511 084
+Error at 19 527 039
+Error at 19 527 063
+Error at 19 527 048
+Error at 19 527 086
+Error at 19 527 084
+20 701 211
+Error at 20 718 029
+20 724 039
+20 724 048
+20 724 034
+20 724 029
+20 724 033
+20 724 026
+20 724 003
+20 724 044
+20 724 053
+20 724 031
+20 724 036
+20 724 075
+Error at 20 724 062
+20 724 071
+20 724 019
+20 724 014
+20 724 040
+20 724 056
+20 724 085
+20 724 024
+20 724 068
+20 724 043
+Error at 20 774 056
+Error at 20 774 085
+Error at 20 774 025
+Error at 20 774 003
+Error at 20 774 055
+New course but no college
+Error at 20 777 109
+Error at 21 775 248
+New course but no college
+Courses to be updated
+{"19":[],"20":["701","724"],"21":[]}
+Grade 20 701 211
+Grade 20 724 039
+Grade 20 724 048
+Grade 20 724 034
+Grade 20 724 029
+Grade 20 724 033
+Grade 20 724 026
+Grade 20 724 003
+Grade 20 724 044
+Grade 20 724 053
+Grade 20 724 031
+Grade 20 724 036
+Grade 20 724 075
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/724/062'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:465:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:59:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/724/062' }
+Grade 20 724 071
+Grade 20 724 019
+Grade 20 724 014
+Grade 20 724 040
+Grade 20 724 056
+Grade 20 724 085
+Grade 20 724 024
+Grade 20 724 068
+Grade 20 724 043
+may_june
+Grade
+ASP.NET_SessionId=v5tamxy1534oqq45qmwcci55
+Courses to be downloaded
+{}
+Courses to be updated
+{"17":[],"18":[],"19":[],"20":[]}
