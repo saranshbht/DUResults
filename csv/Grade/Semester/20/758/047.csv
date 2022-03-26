@@ -1,35 +1,34 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20047758001,ANNU KUMARI,Miranda House,8.50,9.00,8.750
-20047758002,ANU PANWAR,Miranda House,9.00,9.00,9.000
-20047758003,Apurva Avinash Pujari,Miranda House,7.25,7.75,7.500
-20047758004,Avi Tomar,Miranda House,9.25,8.75,9.000
-20047758005,Ayushi Petwal,Miranda House,9.00,9.00,9.000
-20047758006,Bandana Kar,Miranda House,8.25,8.50,8.375
-20047758007,Beby Rasoda Ahongshangbam,Miranda House,9.00,9.00,9.000
-20047758008,Bhoomika Goyal,Miranda House,9.25,9.00,9.125
-20047758009,Geetanjali,Miranda House,9.50,9.00,9.250
-20047758010,Gunjan Kumari,Miranda House,8.50,8.50,8.500
-20047758011,Gunjan singh,Miranda House,8.50,8.00,8.250
-20047758012,Harshita Yadav,Miranda House,9.00,9.00,9.000
-20047758014,Joshi Pooja Sandeepbhai,Miranda House,9.00,9.50,9.250
-20047758015,JYOTI BORO,Miranda House,8.75,9.00,8.875
-20047758016,Jyoti Kumari,Miranda House,8.75,8.50,8.625
-20047758017,Khushboo,Miranda House,9.00,8.75,8.875
-20047758018,Komal Kaswan,Miranda House,8.50,8.75,8.625
-20047758019,Mahajan Mansi Sanjay,Miranda House,9.00,9.25,9.125
-20047758020,Mansi,Miranda House,9.00,9.00,9.000
-20047758021,Mousam yadav,Miranda House,8.75,9.00,8.875
-20047758022,Muskan,Miranda House,8.75,9.00,8.875
-20047758023,Navya,Miranda House,9.25,9.00,9.125
-20047758024,Neha Yadav,Miranda House,9.00,9.00,9.000
-20047758025,nitika,Miranda House,8.50,9.00,8.750
-20047758026,Pooja kumari,Miranda House,8.50,8.50,8.500
-20047758027,Prachi Ahlawat,Miranda House,8.75,9.00,8.875
-20047758028,Purva Jangir,Miranda House,8.25,8.50,8.375
-20047758029,Rachana sahu,Miranda House,8.50,8.50,8.500
-20047758030,Rachna Sharma,Miranda House,9.25,9.50,9.375
-20047758031,Shelly Nirwan,Miranda House,9.25,9.00,9.125
-20047758032,Simmi Lata,Miranda House,9.00,8.50,8.750
-20047758033,Simranjeet Kaur,Miranda House,8.75,9.00,8.875
-20047758034,TANNU,Miranda House,9.00,9.00,9.000
-20047758035,Yogita,Miranda House,8.25,8.75,8.500
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20047758001,ANNU KUMARI,Miranda House,8.50,9.00,8.55,8.677
+20047758002,ANU PANWAR,Miranda House,9.00,9.00,9.32,9.113
+20047758003,Apurva Avinash Pujari,Miranda House,7.25,7.75,7.32,7.435
+20047758004,Avi Tomar,Miranda House,9.25,8.75,8.64,8.871
+20047758005,Ayushi Petwal,Miranda House,9.00,9.00,9.00,9.000
+20047758006,Bandana Kar,Miranda House,8.25,8.50,8.00,8.242
+20047758007,Beby Rasoda Ahongshangbam,Miranda House,9.00,9.00,9.32,9.113
+20047758008,Bhoomika Goyal,Miranda House,9.25,9.00,9.00,9.081
+20047758009,Geetanjali,Miranda House,9.50,9.00,9.32,9.274
+20047758010,Gunjan Kumari,Miranda House,8.50,8.50,7.95,8.306
+20047758011,Gunjan singh,Miranda House,8.50,8.00,7.09,7.839
+20047758012,Harshita Yadav,Miranda House,9.00,9.00,8.86,8.952
+20047758013,Indra Meena,Miranda House,8.75,9.00,8.86,8.871
+20047758014,Joshi Pooja Sandeepbhai,Miranda House,9.00,9.50,9.55,9.355
+20047758015,JYOTI BORO,Miranda House,8.75,9.00,9.55,9.113
+20047758016,Jyoti Kumari,Miranda House,8.75,8.50,8.18,8.468
+20047758017,Khushboo,Miranda House,9.00,8.75,9.32,9.032
+20047758018,Komal Kaswan,Miranda House,8.50,8.75,8.18,8.468
+20047758019,Mahajan Mansi Sanjay,Miranda House,9.00,9.25,8.86,9.032
+20047758020,Mansi,Miranda House,9.00,9.00,9.32,9.113
+20047758021,Mousam yadav,Miranda House,8.75,9.00,8.64,8.790
+20047758022,Muskan,Miranda House,8.75,9.00,8.77,8.839
+20047758023,Navya,Miranda House,9.25,9.00,9.32,9.194
+20047758024,Neha Yadav,Miranda House,9.00,9.00,8.64,8.871
+20047758025,nitika,Miranda House,8.50,9.00,8.41,8.629
+20047758026,Pooja kumari,Miranda House,8.50,8.50,8.41,8.468
+20047758027,Prachi Ahlawat,Miranda House,8.75,9.00,9.23,9.000
+20047758028,Purva Jangir,Miranda House,8.25,8.50,8.68,8.484
+20047758029,Rachana sahu,Miranda House,8.50,8.50,8.41,8.468
+20047758031,Shelly Nirwan,Miranda House,9.25,9.00,9.55,9.274
+20047758032,Simmi Lata,Miranda House,9.00,8.50,9.32,8.952
+20047758034,TANNU,Miranda House,9.00,9.00,8.86,8.952
+20047758035,Yogita,Miranda House,8.25,8.75,7.55,8.161

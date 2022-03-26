@@ -1,50 +1,48 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20026758001,Abhinav Kumar,Hindu College,8.25,8.50,8.375
-20026758002,Adarsh Gupta,Hindu College,8.00,8.75,8.375
-20026758003,Aditi Singh,Hindu College,9.00,8.50,8.750
-20026758004,AJIT YADAV,Hindu College,8.25,8.50,8.375
-20026758005,Amrita Singh,Hindu College,7.75,8.50,8.125
-20026758006,Anjali moyal,Hindu College,9.25,9.25,9.250
-20026758007,ANKIT KUMAR MEENA,Hindu College,8.25,8.50,8.375
-20026758008,ANURAG,Hindu College,8.75,8.50,8.625
-20026758009,Archana,Hindu College,9.00,9.25,9.125
-20026758010,ARCHITA NEGI,Hindu College,8.75,9.00,8.875
-20026758011,Arundhati Verma,Hindu College,9.00,9.00,9.000
-20026758012,Asha Kumari,Hindu College,9.00,8.75,8.875
-20026758013,Ashutosh Kumar,Hindu College,8.75,9.00,8.875
-20026758015,Ayush Saini,Hindu College,8.50,9.00,8.750
-20026758016,Ayushi Gupta,Hindu College,9.25,9.00,9.125
-20026758017,AYUSHI JAIN,Hindu College,9.00,9.00,9.000
-20026758018,Chahat,Hindu College,9.75,9.50,9.625
-20026758019,Gaurav mishra,Hindu College,9.00,9.00,9.000
-20026758020,Gaurav Thakur,Hindu College,8.50,9.00,8.750
-20026758021,Gunjan Mahlan,Hindu College,9.25,9.75,9.500
-20026758022,Jyoti Bisht,Hindu College,9.25,9.00,9.125
-20026758024,Kavita,Hindu College,9.25,8.75,9.000
-20026758025,Lavish yadav,Hindu College,8.50,9.00,8.750
-20026758026,Lovely,Hindu College,9.25,8.75,9.000
-20026758028,Mohd Kaif,Hindu College,9.25,9.00,9.125
-20026758029,MOHIT,Hindu College,8.50,8.50,8.500
-20026758030,Monu Yadav,Hindu College,8.50,8.75,8.625
-20026758031,Narender Kumar,Hindu College,8.75,9.00,8.875
-20026758032,Nikhil Saxena,Hindu College,9.25,9.25,9.250
-20026758033,Ningthoujam Thoithoiba Singh,Hindu College,8.75,9.00,8.875
-20026758034,PARVEEN,Hindu College,7.75,8.25,8.000
-20026758035,PINTU KUMAR,Hindu College,8.75,9.00,8.875
-20026758036,PRAVEEN KUMAR YADAV,Hindu College,8.50,9.00,8.750
-20026758037,Preeti Devi,Hindu College,9.75,9.50,9.625
-20026758038,Prerna Gupta,Hindu College,9.75,9.75,9.750
-20026758039,RAGHU MADHAV TIWARI,Hindu College,8.75,9.00,8.875
-20026758040,RAKHI KUMARI,Hindu College,9.00,9.25,9.125
-20026758042,Ranjana kumari,Hindu College,9.25,9.00,9.125
-20026758043,Rashi Maheshwari,Hindu College,8.75,8.50,8.625
-20026758044,Riya Meena,Hindu College,8.50,8.50,8.500
-20026758046,Sachin Kumar Yadav,Hindu College,8.50,9.00,8.750
-20026758047,Sandeep Kumar,Hindu College,8.50,9.00,8.750
-20026758048,Shivanshi Raturi,Hindu College,9.00,9.50,9.250
-20026758049,Shruti,Hindu College,9.50,9.00,9.250
-20026758050,Shubham Yadav,Hindu College,9.00,9.00,9.000
-20026758051,Sikta Patel,Hindu College,9.50,9.50,9.500
-20026758052,Srishti Chopra,Hindu College,10.00,9.75,9.875
-20026758053,Stuti Mishra,Hindu College,9.25,9.25,9.250
-20026758054,Tarun Kumar vyas,Hindu College,8.75,8.75,8.750
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20026758001,Abhinav Kumar,Hindu College,8.25,8.50,7.64,8.113
+20026758002,Adarsh Gupta,Hindu College,8.00,8.75,8.86,8.548
+20026758003,Aditi Singh,Hindu College,9.00,8.50,8.18,8.548
+20026758004,AJIT YADAV,Hindu College,8.25,8.50,7.86,8.194
+20026758005,Amrita Singh,Hindu College,7.75,8.50,7.32,7.839
+20026758006,Anjali moyal,Hindu College,9.25,9.25,8.18,8.871
+20026758007,ANKIT KUMAR MEENA,Hindu College,8.25,8.50,7.64,8.113
+20026758008,ANURAG,Hindu College,8.75,8.50,8.64,8.629
+20026758010,ARCHITA NEGI,Hindu College,8.75,9.00,8.64,8.790
+20026758011,Arundhati Verma,Hindu College,9.00,9.00,9.32,9.113
+20026758012,Asha Kumari,Hindu College,9.00,8.75,8.18,8.629
+20026758013,Ashutosh Kumar,Hindu College,8.75,9.00,9.32,9.032
+20026758015,Ayush Saini,Hindu College,8.50,9.00,9.09,8.871
+20026758016,Ayushi Gupta,Hindu College,9.25,9.00,9.77,9.355
+20026758017,AYUSHI JAIN,Hindu College,9.00,9.00,9.77,9.274
+20026758018,Chahat,Hindu College,9.75,9.50,9.77,9.677
+20026758019,Gaurav mishra,Hindu College,9.00,9.00,9.77,9.274
+20026758021,Gunjan Mahlan,Hindu College,9.25,9.75,10.00,9.677
+20026758022,Jyoti Bisht,Hindu College,9.25,9.00,9.09,9.113
+20026758024,Kavita,Hindu College,9.25,8.75,9.77,9.274
+20026758025,Lavish yadav,Hindu College,8.50,9.00,9.09,8.871
+20026758026,Lovely,Hindu College,9.25,8.75,8.18,8.710
+20026758028,Mohd Kaif,Hindu College,9.25,9.00,8.41,8.871
+20026758029,MOHIT,Hindu College,8.50,8.50,7.86,8.274
+20026758030,Monu Yadav,Hindu College,8.50,8.75,7.50,8.226
+20026758031,Narender Kumar,Hindu College,8.75,9.00,9.00,8.919
+20026758032,Nikhil Saxena,Hindu College,9.25,9.25,10.00,9.516
+20026758033,Ningthoujam Thoithoiba Singh,Hindu College,8.75,9.00,8.41,8.710
+20026758034,PARVEEN,Hindu College,7.75,8.25,7.41,7.790
+20026758035,PINTU KUMAR,Hindu College,8.75,9.00,7.95,8.548
+20026758036,PRAVEEN KUMAR YADAV,Hindu College,8.50,9.00,8.18,8.548
+20026758037,Preeti Devi,Hindu College,9.75,9.50,9.77,9.677
+20026758038,Prerna Gupta,Hindu College,9.75,9.75,9.55,9.677
+20026758039,RAGHU MADHAV TIWARI,Hindu College,8.75,9.00,8.86,8.871
+20026758040,RAKHI KUMARI,Hindu College,9.00,9.25,8.41,8.871
+20026758041,Ramanath Garai,Hindu College,8.25,9.00,8.32,8.516
+20026758042,Ranjana kumari,Hindu College,9.25,9.00,8.41,8.871
+20026758043,Rashi Maheshwari,Hindu College,8.75,8.50,8.64,8.629
+20026758044,Riya Meena,Hindu College,8.50,8.50,8.45,8.484
+20026758047,Sandeep Kumar,Hindu College,8.50,9.00,8.64,8.710
+20026758048,Shivanshi Raturi,Hindu College,9.00,9.50,9.55,9.355
+20026758049,Shruti,Hindu College,9.50,9.00,9.09,9.194
+20026758050,Shubham Yadav,Hindu College,9.00,9.00,9.77,9.274
+20026758051,Sikta Patel,Hindu College,9.50,9.50,9.68,9.565
+20026758052,Srishti Chopra,Hindu College,10.00,9.75,9.77,9.839
+20026758053,Stuti Mishra,Hindu College,9.25,9.25,9.77,9.435
+20026758054,Tarun Kumar vyas,Hindu College,8.75,8.75,7.95,8.468

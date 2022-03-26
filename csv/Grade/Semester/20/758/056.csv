@@ -1,52 +1,49 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20056758001,Aakash,Ramjas College,9.00,8.25,8.625
-20056758002,ADITI BISHNOI,Ramjas College,8.50,8.25,8.375
-20056758003,ANKIT KUMAR,Ramjas College,9.00,8.50,8.750
-20056758004,ANKIT PRASAD PANDEY,Ramjas College,9.00,8.50,8.750
-20056758005,ANU SHARMA,Ramjas College,9.25,8.50,8.875
-20056758006,Baldev singh,Ramjas College,8.25,8.25,8.250
-20056758007,Cheenu Rathi,Ramjas College,8.75,8.50,8.625
-20056758008,Deepika,Ramjas College,8.00,7.25,7.625
-20056758010,DEEPJYOTI,Ramjas College,9.00,8.75,8.875
-20056758011,Gourav,Ramjas College,8.50,8.25,8.375
-20056758012,Harsh,Ramjas College,8.75,8.25,8.500
-20056758013,Himanshi,Ramjas College,9.25,8.50,8.875
-20056758014,JATIN GAUTAM,Ramjas College,9.00,8.50,8.750
-20056758015,Lakshay Mahajan,Ramjas College,9.75,8.75,9.250
-20056758016,MADAN GOPAL AGRAWAL,Ramjas College,9.00,8.50,8.750
-20056758017,MANISHA,Ramjas College,9.00,8.50,8.750
-20056758018,Mayank gupta,Ramjas College,8.50,8.25,8.375
-20056758019,Mitali Garg,Ramjas College,8.50,8.25,8.375
-20056758020,Mohit Jindal,Ramjas College,8.75,8.25,8.500
-20056758022,Neetu Gupta,Ramjas College,9.25,8.75,9.000
-20056758023,Neha yadav,Ramjas College,8.75,8.25,8.500
-20056758024,OM PRAKASH,Ramjas College,8.75,8.00,8.375
-20056758025,Prachi Gupta,Ramjas College,9.25,8.75,9.000
-20056758026,Pratibha Pal,Ramjas College,9.25,8.50,8.875
-20056758027,Prem Kumar,Ramjas College,6.50,7.00,6.750
-20056758028,Priya Goel,Ramjas College,8.00,8.00,8.000
-20056758029,Priya Sharma,Ramjas College,8.00,8.25,8.125
-20056758030,Priyanka,Ramjas College,9.25,8.75,9.000
-20056758031,Priyanka Yadav,Ramjas College,8.25,8.00,8.125
-20056758032,RAHUL YADAV,Ramjas College,8.25,8.00,8.125
-20056758033,Raman Kumar,Ramjas College,8.50,8.25,8.375
-20056758034,Ranjan Kumar Majhi,Ramjas College,8.75,8.25,8.500
-20056758035,Ravikant,Ramjas College,8.25,8.00,8.125
-20056758036,Rinku Kumawat,Ramjas College,8.50,8.25,8.375
-20056758038,Ritu Meena,Ramjas College,8.50,8.25,8.375
-20056758039,RUPESH KUMAR,Ramjas College,9.00,8.25,8.625
-20056758040,SAGAR YADAV,Ramjas College,8.75,8.25,8.500
-20056758042,SANDEEP VISHWAKARMA,Ramjas College,8.75,8.50,8.625
-20056758043,Santosh kumari,Ramjas College,8.25,8.25,8.250
-20056758044,Satyanand Subhash,Ramjas College,8.50,8.25,8.375
-20056758045,Savreet kaur,Ramjas College,8.50,8.75,8.625
-20056758046,sheena yadav,Ramjas College,8.75,8.75,8.750
-20056758047,Sheetal,Ramjas College,8.75,8.25,8.500
-20056758048,Shivanshi Mishra,Ramjas College,9.00,8.25,8.625
-20056758049,Shreya singh,Ramjas College,8.75,8.25,8.500
-20056758050,Sparsh,Ramjas College,8.25,7.50,7.875
-20056758051,SUBHADEEP SARKAR,Ramjas College,8.75,8.25,8.500
-20056758052,Sudhir Lamba,Ramjas College,8.50,8.50,8.500
-20056758053,VINOD KUMAR CHOUDHARY,Ramjas College,8.75,8.00,8.375
-20056758054,Khemraj Meena,Ramjas College,8.75,8.50,8.625
-20056758055,Neeha Rawat,Ramjas College,8.75,8.25,8.500
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20056758002,ADITI BISHNOI,Ramjas College,8.50,8.25,6.95,7.871
+20056758003,ANKIT KUMAR,Ramjas College,9.00,8.50,8.18,8.548
+20056758004,ANKIT PRASAD PANDEY,Ramjas College,9.00,8.50,7.86,8.435
+20056758005,ANU SHARMA,Ramjas College,9.25,8.50,8.64,8.790
+20056758006,Baldev singh,Ramjas College,8.25,8.25,7.32,7.919
+20056758007,Cheenu Rathi,Ramjas College,8.75,8.50,7.95,8.387
+20056758008,Deepika,Ramjas College,8.00,7.25,6.95,7.387
+20056758009,deepika,Ramjas College,8.25,8.25,7.86,8.113
+20056758010,DEEPJYOTI,Ramjas College,9.00,8.75,8.86,8.871
+20056758011,Gourav,Ramjas College,8.50,8.25,7.55,8.081
+20056758012,Harsh,Ramjas College,8.75,8.25,8.41,8.468
+20056758013,Himanshi,Ramjas College,9.25,8.50,9.32,9.032
+20056758014,JATIN GAUTAM,Ramjas College,9.00,8.50,8.64,8.710
+20056758015,Lakshay Mahajan,Ramjas College,9.75,8.75,9.55,9.355
+20056758016,MADAN GOPAL AGRAWAL,Ramjas College,9.00,8.50,7.73,8.387
+20056758017,MANISHA,Ramjas College,9.00,8.50,8.86,8.790
+20056758019,Mitali Garg,Ramjas College,8.50,8.25,7.55,8.081
+20056758020,Mohit Jindal,Ramjas College,8.75,8.25,7.64,8.194
+20056758022,Neetu Gupta,Ramjas College,9.25,8.75,10.00,9.355
+20056758023,Neha yadav,Ramjas College,8.75,8.25,8.41,8.468
+20056758024,OM PRAKASH,Ramjas College,8.75,8.00,7.32,8.000
+20056758025,Prachi Gupta,Ramjas College,9.25,8.75,9.09,9.032
+20056758026,Pratibha Pal,Ramjas College,9.25,8.50,8.41,8.710
+20056758027,Prem Kumar,Ramjas College,6.50,7.00,7.41,6.984
+20056758028,Priya Goel,Ramjas College,8.00,8.00,7.64,7.871
+20056758030,Priyanka,Ramjas College,9.25,8.75,9.09,9.032
+20056758031,Priyanka Yadav,Ramjas College,8.25,8.00,6.95,7.710
+20056758032,RAHUL YADAV,Ramjas College,8.25,8.00,6.82,7.661
+20056758033,Raman Kumar,Ramjas College,8.50,8.25,7.41,8.032
+20056758034,Ranjan Kumar Majhi,Ramjas College,8.75,8.25,7.64,8.194
+20056758035,Ravikant,Ramjas College,8.25,8.00,6.86,7.677
+20056758036,Rinku Kumawat,Ramjas College,8.50,8.25,7.64,8.113
+20056758037,Rishi kumar,Ramjas College,8.75,8.75,8.64,8.710
+20056758038,Ritu Meena,Ramjas College,8.50,8.25,7.64,8.113
+20056758039,RUPESH KUMAR,Ramjas College,9.00,8.25,8.41,8.548
+20056758042,SANDEEP VISHWAKARMA,Ramjas College,8.75,8.50,8.41,8.548
+20056758043,Santosh kumari,Ramjas College,8.25,8.25,8.00,8.161
+20056758044,Satyanand Subhash,Ramjas College,8.50,8.25,7.09,7.919
+20056758045,Savreet kaur,Ramjas College,8.50,8.75,8.41,8.548
+20056758046,sheena yadav,Ramjas College,8.75,8.75,8.41,8.629
+20056758048,Shivanshi Mishra,Ramjas College,9.00,8.25,9.09,8.790
+20056758049,Shreya singh,Ramjas College,8.75,8.25,7.95,8.306
+20056758050,Sparsh,Ramjas College,8.25,7.50,8.45,8.081
+20056758051,SUBHADEEP SARKAR,Ramjas College,8.75,8.25,6.95,7.952
+20056758052,Sudhir Lamba,Ramjas College,8.50,8.50,7.32,8.081
+20056758053,VINOD KUMAR CHOUDHARY,Ramjas College,8.75,8.00,7.32,8.000
+20056758054,Khemraj Meena,Ramjas College,8.75,8.50,5.55,7.532
+20056758055,Neeha Rawat,Ramjas College,8.75,8.25,8.18,8.387

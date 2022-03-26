@@ -1,25 +1,23 @@
-RollNo,Name,College,FIELD THEORY,COMPLEX ANALYSIS,MEASURE AND INTEGRATION,DIFFERENTIAL EQUATIONS,MODULE THEORY,INTRODUCTION TO TOPOLOGY,FUNCTIONAL ANALYSIS,FLUID DYNAMICS
-20031758001,Aarti,Janki Devi Memorial College,9,10,8,10,9,9,9,9
-20031758002,Anjul Jaiswal,Janki Devi Memorial College,8,10,8,9,8,8,8,7
-20031758003,Anshika Gupta,Janki Devi Memorial College,9,10,9,10,8,9,9,8
-20031758004,Anubhuti,Janki Devi Memorial College,9,10,9,10,8,9,9,9
-20031758005,Deeksha Goel,Janki Devi Memorial College,8,10,8,9,8,8,8,8
-20031758006,DEEKSHA SHARMA,Janki Devi Memorial College,8,10,8,10,8,8,9,8
-20031758007,Diksha Bisht,Janki Devi Memorial College,8,10,8,9,8,8,9,8
-20031758008,HINDHUJA KOKKULA,Janki Devi Memorial College,8,10,7,9,8,8,8,8
-20031758009,Kunika Bhola,Janki Devi Memorial College,9,10,8,9,8,8,9,9
-20031758011,MONIKA YADAV,Janki Devi Memorial College,9,10,9,10,9,9,9,9
-20031758012,Nasrat Jahan,Janki Devi Memorial College,8,10,8,6,8,8,8,8
-20031758013,NIDHI KUMARI,Janki Devi Memorial College,9,10,9,10,9,9,9,9
-20031758014,Nikita Rani,Janki Devi Memorial College,8,10,8,9,8,9,9,8
-20031758015,NIKITA SINGH,Janki Devi Memorial College,9,10,8,10,8,9,9,8
-20031758016,Parul Meena,Janki Devi Memorial College,8,10,8,9,8,9,9,8
-20031758017,PRAGYA MEENA,Janki Devi Memorial College,9,10,8,9,8,8,8,8
-20031758018,Rekha,Janki Devi Memorial College,8,10,7,9,8,8,9,8
-20031758019,RITIKA JAIN,Janki Devi Memorial College,8,10,8,9,8,9,9,8
-20031758020,SAKSHI,Janki Devi Memorial College,8,10,9,9,8,9,9,8
-20031758021,Sakshi Arora,Janki Devi Memorial College,8,10,8,9,8,9,9,8
-20031758022,Shagun Agrawal,Janki Devi Memorial College,9,10,8,10,8,8,9,8
-20031758023,SONIA,Janki Devi Memorial College,9,10,8,10,8,9,8,8
-20031758024,TEENA YADAV,Janki Devi Memorial College,8,10,8,9,8,9,9,8
-20031758025,Vandana Grewal,Janki Devi Memorial College,9,10,8,10,8,8,9,8
+RollNo,Name,College,FIELD THEORY,COMPLEX ANALYSIS,MEASURE AND INTEGRATION,DIFFERENTIAL EQUATIONS,MODULE THEORY,INTRODUCTION TO TOPOLOGY,FUNCTIONAL ANALYSIS,FLUID DYNAMICS,ALGEBRAIC TOPOLOGY,FOURIER ANALYSIS,ADVANCED MEASURE THEORY,COMPUTATIONAL FLUID DYNAMICS,STOCHASTIC CALCULUS FOR FINANCE,REPRESENTATION OF FINITE GROUPS,MATRIX ANALYSIS,ADVANCED COMPLEX ANALYSIS,METHODS OF APPLIED MATHEMATICS,CODING THEORY,THEORY OF BOUNDED OPERATORS,GENERAL TOPOLOGY,COMMUTATIVE ALGEBRA,COMPUTATIONAL METHODS FOR ODE
+20031758002,Anjul Jaiswal,Janki Devi Memorial College,8,10,8,9,8,8,8,7,9,9,6,7,8,,,,,,,,,
+20031758003,Anshika Gupta,Janki Devi Memorial College,9,10,9,10,8,9,9,8,,,,,,9,7,10,10,10,,,,
+20031758004,Anubhuti,Janki Devi Memorial College,9,10,9,10,8,9,9,9,,,,,,9,,,10,10,9,9,,
+20031758005,Deeksha Goel,Janki Devi Memorial College,8,10,8,9,8,8,8,8,,,6,7,8,,,,,,9,,8,
+20031758006,DEEKSHA SHARMA,Janki Devi Memorial College,8,10,8,10,8,8,9,8,,,,,,9,,,,10,10,10,,9
+20031758007,Diksha Bisht,Janki Devi Memorial College,8,10,8,9,8,8,9,8,9,,,,,,8,,,10,,9,,8
+20031758008,HINDHUJA KOKKULA,Janki Devi Memorial College,8,10,7,9,8,8,8,8,9,9,6,7,9,,,,,,,,,
+20031758009,Kunika Bhola,Janki Devi Memorial College,9,10,8,9,8,8,9,9,,8,,,,7,,,,10,,9,,8
+20031758010,Manisha Shokhanda,Janki Devi Memorial College,9,10,8,9,8,9,9,8,,,,,,,,9,9,10,9,,8,
+20031758011,MONIKA YADAV,Janki Devi Memorial College,9,10,9,10,9,9,9,9,,,,,,,9,9,10,10,,,9,
+20031758013,NIDHI KUMARI,Janki Devi Memorial College,9,10,9,10,9,9,9,9,,,,,,10,,,10,10,10,10,,
+20031758014,Nikita Rani,Janki Devi Memorial College,8,10,8,9,8,9,9,8,,,,,,,7,,,10,,8,7,8
+20031758016,Parul Meena,Janki Devi Memorial College,8,10,8,9,8,9,9,8,,,,,,,7,,,9,,9,8,7
+20031758017,PRAGYA MEENA,Janki Devi Memorial College,9,10,8,9,8,8,8,8,,,,,,,,,,10,9,9,8,8
+20031758018,Rekha,Janki Devi Memorial College,8,10,7,9,8,8,9,8,,9,7,7,8,,,,,,,,7,
+20031758019,RITIKA JAIN,Janki Devi Memorial College,8,10,8,9,8,9,9,8,,,,,,,,,,10,10,9,8,9
+20031758020,SAKSHI,Janki Devi Memorial College,8,10,9,9,8,9,9,8,,,,,,,7,9,,10,,,8,8
+20031758021,Sakshi Arora,Janki Devi Memorial College,8,10,8,9,8,9,9,8,,8,,,,,,,,10,,9,8,8
+20031758022,Shagun Agrawal,Janki Devi Memorial College,9,10,8,10,8,8,9,8,,,,,,9,8,10,,10,,,,8
+20031758023,SONIA,Janki Devi Memorial College,9,10,8,10,8,9,8,8,,,,,,,8,,9,10,,9,8,
+20031758024,TEENA YADAV,Janki Devi Memorial College,8,10,8,9,8,9,9,8,9,,,,,,7,,,10,,8,,8
+20031758025,Vandana Grewal,Janki Devi Memorial College,9,10,8,10,8,8,9,8,,,,,,8,7,,10,10,,9,,

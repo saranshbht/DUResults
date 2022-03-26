@@ -1,14 +1,16 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20085774001,ANAMIKA RABHA,Zakir Husain Delhi College (Day),8.80,9.00,8.900
-20085774002,ANJANDEEP SINGH,Zakir Husain Delhi College (Day),8.40,9.20,8.800
-20085774003,Astha Awasthi,Zakir Husain Delhi College (Day),8.40,9.00,8.700
-20085774004,BANAPURAM BHARGAV RAMUDU,Zakir Husain Delhi College (Day),8.60,9.00,8.800
-20085774005,Irfan,Zakir Husain Delhi College (Day),8.60,9.00,8.800
-20085774006,Manisha kasana,Zakir Husain Delhi College (Day),8.80,9.80,9.300
-20085774008,Prachi Gupta,Zakir Husain Delhi College (Day),9.20,9.00,9.100
-20085774009,Sheeza Khan,Zakir Husain Delhi College (Day),8.80,9.80,9.300
-20085774010,Sheggari Tejaswini,Zakir Husain Delhi College (Day),8.20,9.00,8.600
-20085774011,Shehnaz,Zakir Husain Delhi College (Day),8.80,9.80,9.300
-20085774012,Simran bhatti,Zakir Husain Delhi College (Day),8.40,9.00,8.700
-20085774014,Tulsi Aggarwal,Zakir Husain Delhi College (Day),9.20,9.80,9.500
-20085774015,RAJ JAISWAL,Zakir Husain Delhi College (Day),8.40,9.00,8.700
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20085774001,ANAMIKA RABHA,Zakir Husain Delhi College (Day),8.80,9.00,8.42,8.743
+20085774002,ANJANDEEP SINGH,Zakir Husain Delhi College (Day),8.40,9.20,8.42,8.676
+20085774003,ASTHA AWASTHI,Zakir Husain Delhi College (Day),8.40,9.00,8.21,8.541
+20085774004,BANAPURAM BHARGAV RAMUDU,Zakir Husain Delhi College (Day),8.60,9.00,8.25,8.622
+20085774005,IRFAN,Zakir Husain Delhi College (Day),8.60,9.00,8.42,8.676
+20085774006,MANISHA KASANA,Zakir Husain Delhi College (Day),8.80,9.80,8.58,9.068
+20085774007,NEHA,Zakir Husain Delhi College (Day),8.60,9.00,9.21,8.932
+20085774008,Prachi Gupta,Zakir Husain Delhi College (Day),9.20,9.00,7.83,8.689
+20085774009,SHEEZA KHAN,Zakir Husain Delhi College (Day),8.80,9.80,8.79,9.135
+20085774010,SHEGGARI TEJASWINI,Zakir Husain Delhi College (Day),8.20,9.00,8.00,8.405
+20085774011,SHEHNAZ,Zakir Husain Delhi College (Day),8.80,9.80,8.58,9.068
+20085774012,SIMRAN BHATTI,Zakir Husain Delhi College (Day),8.40,9.00,8.42,8.608
+20085774013,SWATI CHAUDHARY,Zakir Husain Delhi College (Day),9.20,10.00,9.21,9.473
+20085774014,TULSI AGGARWAL,Zakir Husain Delhi College (Day),9.20,9.80,8.79,9.270
+20085774015,RAJ JAISWAL,Zakir Husain Delhi College (Day),8.40,9.00,8.04,8.486

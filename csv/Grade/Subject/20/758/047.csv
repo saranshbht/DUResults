@@ -1,35 +1,34 @@
-RollNo,Name,College,FIELD THEORY,COMPLEX ANALYSIS,MEASURE AND INTEGRATION,DIFFERENTIAL EQUATIONS,MODULE THEORY,INTRODUCTION TO TOPOLOGY,FUNCTIONAL ANALYSIS,FLUID DYNAMICS
-20047758001,ANNU KUMARI,Miranda House,8,9,8,9,9,9,9,9
-20047758002,ANU PANWAR,Miranda House,8,9,9,10,9,9,9,9
-20047758003,Apurva Avinash Pujari,Miranda House,6,9,7,7,7,8,8,8
-20047758004,Avi Tomar,Miranda House,8,10,9,10,9,8,9,9
-20047758005,Ayushi Petwal,Miranda House,8,10,8,10,9,9,9,9
-20047758006,Bandana Kar,Miranda House,7,9,8,9,8,8,9,9
-20047758007,Beby Rasoda Ahongshangbam,Miranda House,8,10,8,10,9,9,9,9
-20047758008,Bhoomika Goyal,Miranda House,8,10,9,10,9,9,9,9
-20047758009,Geetanjali,Miranda House,9,10,9,10,9,9,9,9
-20047758010,Gunjan Kumari,Miranda House,8,10,8,8,8,8,9,9
-20047758011,Gunjan singh,Miranda House,7,9,8,10,8,7,8,9
-20047758012,Harshita Yadav,Miranda House,8,10,9,9,9,9,9,9
-20047758014,Joshi Pooja Sandeepbhai,Miranda House,8,9,9,10,9,10,9,10
-20047758015,JYOTI BORO,Miranda House,8,10,8,9,9,9,9,9
-20047758016,Jyoti Kumari,Miranda House,8,9,8,10,8,8,9,9
-20047758017,Khushboo,Miranda House,8,10,8,10,8,9,9,9
-20047758018,Komal Kaswan,Miranda House,8,9,8,9,8,9,9,9
-20047758019,Mahajan Mansi Sanjay,Miranda House,8,10,8,10,9,9,9,10
-20047758020,Mansi,Miranda House,8,9,9,10,9,9,9,9
-20047758021,Mousam yadav,Miranda House,8,9,9,9,9,9,9,9
-20047758022,Muskan,Miranda House,8,10,8,9,9,9,9,9
-20047758023,Navya,Miranda House,8,10,9,10,9,9,9,9
-20047758024,Neha Yadav,Miranda House,8,10,9,9,9,9,9,9
-20047758025,nitika,Miranda House,8,10,7,9,9,9,9,9
-20047758026,Pooja kumari,Miranda House,8,9,8,9,8,8,9,9
-20047758027,Prachi Ahlawat,Miranda House,8,10,8,9,9,9,9,9
-20047758028,Purva Jangir,Miranda House,7,9,7,10,8,8,9,9
-20047758029,Rachana sahu,Miranda House,8,9,8,9,8,8,9,9
-20047758030,Rachna Sharma,Miranda House,8,10,9,10,9,10,9,10
-20047758031,Shelly Nirwan,Miranda House,8,10,9,10,9,9,9,9
-20047758032,Simmi Lata,Miranda House,8,10,9,9,8,8,9,9
-20047758033,Simranjeet Kaur,Miranda House,8,9,9,9,9,9,9,9
-20047758034,TANNU,Miranda House,8,10,8,10,9,9,9,9
-20047758035,Yogita,Miranda House,7,9,8,9,8,9,9,9
+RollNo,Name,College,FIELD THEORY,COMPLEX ANALYSIS,MEASURE AND INTEGRATION,DIFFERENTIAL EQUATIONS,MODULE THEORY,INTRODUCTION TO TOPOLOGY,FUNCTIONAL ANALYSIS,FLUID DYNAMICS,COMMUTATIVE ALGEBRA,THEORY OF BOUNDED OPERATORS,GENERAL TOPOLOGY,COMPUTATIONAL METHODS FOR ODE,CODING THEORY,REPRESENTATION OF FINITE GROUPS,MATRIX ANALYSIS,ADVANCED COMPLEX ANALYSIS,METHODS OF APPLIED MATHEMATICS,ALGEBRAIC TOPOLOGY,FOURIER ANALYSIS,COMPUTATIONAL FLUID DYNAMICS,STOCHASTIC CALCULUS FOR FINANCE,ADVANCED MEASURE THEORY
+20047758001,ANNU KUMARI,Miranda House,8,9,8,9,9,9,9,9,8,9,9,8,9,,,,,,,,,
+20047758002,ANU PANWAR,Miranda House,8,9,9,10,9,9,9,9,,,,,10,9,9,9,10,,,,,
+20047758003,Apurva Avinash Pujari,Miranda House,6,9,7,7,7,8,8,8,,,8,,,,,,,8,8,5,8,
+20047758004,Avi Tomar,Miranda House,8,10,9,10,9,8,9,9,,,,9,10,,7,9,,9,,,,
+20047758005,Ayushi Petwal,Miranda House,8,10,8,10,9,9,9,9,,10,,8,9,,,9,,9,,,,
+20047758006,Bandana Kar,Miranda House,7,9,8,9,8,8,9,9,,,,,,,,,,8,9,8,8,7
+20047758007,Beby Rasoda Ahongshangbam,Miranda House,8,10,8,10,9,9,9,9,,10,,8,10,,,9,,10,,,,
+20047758008,Bhoomika Goyal,Miranda House,8,10,9,10,9,9,9,9,,9,,,9,9,,9,9,,,,,
+20047758009,Geetanjali,Miranda House,9,10,9,10,9,9,9,9,,,,,10,9,9,9,10,,,,,
+20047758010,Gunjan Kumari,Miranda House,8,10,8,8,8,8,9,9,,,9,,10,,6,,,9,,7,,
+20047758011,Gunjan singh,Miranda House,7,9,8,10,8,7,8,9,,,,,,,6,,,9,,7,8,6
+20047758012,Harshita Yadav,Miranda House,8,10,9,9,9,9,9,9,,9,,,10,8,,9,9,,,,,
+20047758013,Indra Meena,Miranda House,8,10,8,9,9,9,9,9,,9,,8,10,9,,9,,,,,,
+20047758014,Joshi Pooja Sandeepbhai,Miranda House,8,9,9,10,9,10,9,10,,,10,,10,,8,,10,10,,,,
+20047758015,JYOTI BORO,Miranda House,8,10,8,9,9,9,9,9,,10,,9,10,,,10,,9,,,,
+20047758016,Jyoti Kumari,Miranda House,8,9,8,10,8,8,9,9,8,,9,8,10,,7,,,,,,,
+20047758017,Khushboo,Miranda House,8,10,8,10,8,9,9,9,,9,,,10,9,,9,10,,,,,
+20047758018,Komal Kaswan,Miranda House,8,9,8,9,8,9,9,9,8,8,9,,10,,,,,,,7,,
+20047758019,Mahajan Mansi Sanjay,Miranda House,8,10,8,10,9,9,9,10,9,,,9,,,8,9,,,,,10,
+20047758020,Mansi,Miranda House,8,9,9,10,9,9,9,9,,9,,,10,9,,9,10,,,,,
+20047758021,Mousam yadav,Miranda House,8,9,9,9,9,9,9,9,,,,9,10,8,8,9,,,,,,
+20047758022,Muskan,Miranda House,8,10,8,9,9,9,9,9,8,,9,9,9,,,,,,9,,,
+20047758023,Navya,Miranda House,8,10,9,10,9,9,9,9,,,,,10,9,,9,10,,9,,,
+20047758024,Neha Yadav,Miranda House,8,10,9,9,9,9,9,9,,8,9,,10,7,,,10,,,,,
+20047758025,nitika,Miranda House,8,10,7,9,9,9,9,9,,,8,8,10,,,,,9,8,,,
+20047758026,Pooja kumari,Miranda House,8,9,8,9,8,8,9,9,8,8,9,8,10,,,,,,,,,
+20047758027,Prachi Ahlawat,Miranda House,8,10,8,9,9,9,9,9,,10,,8,9,9,,10,,,,,,
+20047758028,Purva Jangir,Miranda House,7,9,7,10,8,8,9,9,,,9,,,,,,,9,9,8,8,
+20047758029,Rachana sahu,Miranda House,8,9,8,9,8,8,9,9,8,,10,,10,,8,,,,,7,,
+20047758031,Shelly Nirwan,Miranda House,8,10,9,10,9,9,9,9,,10,,,10,9,,9,10,,,,,
+20047758032,Simmi Lata,Miranda House,8,10,9,9,8,8,9,9,,,,,10,9,9,9,10,,,,,
+20047758034,TANNU,Miranda House,8,10,8,10,9,9,9,9,8,,,8,10,,9,10,,,,,,
+20047758035,Yogita,Miranda House,7,9,8,9,8,9,9,9,8,,,,,,,,,,9,7,8,6

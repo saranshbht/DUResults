@@ -1,20 +1,18 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20003774001,Abhilasha Choudhary,Atma Ram Sanatan Dharam College,8.00,9.00,8.500
-20003774002,Abhishek Gupta,Atma Ram Sanatan Dharam College,7.80,8.80,8.300
-20003774003,Abhishek Raj,Atma Ram Sanatan Dharam College,7.80,8.60,8.200
-20003774004,ADITYA BHATTI,Atma Ram Sanatan Dharam College,8.00,9.00,8.500
-20003774005,Aditya kumar,Atma Ram Sanatan Dharam College,8.20,8.80,8.500
-20003774006,Amir Sadeeq,Atma Ram Sanatan Dharam College,8.20,8.60,8.400
-20003774007,AYUSHI JAIN,Atma Ram Sanatan Dharam College,8.40,8.60,8.500
-20003774008,Deepika,Atma Ram Sanatan Dharam College,8.20,8.80,8.500
-20003774009,Divya Singhal,Atma Ram Sanatan Dharam College,8.80,9.00,8.900
-20003774010,HIMANI,Atma Ram Sanatan Dharam College,8.20,9.00,8.600
-20003774011,MANAN KALRA,Atma Ram Sanatan Dharam College,8.00,8.60,8.300
-20003774012,Namrata sharma,Atma Ram Sanatan Dharam College,8.40,9.00,8.700
-20003774013,Pappu kumar sah,Atma Ram Sanatan Dharam College,8.20,8.00,8.100
-20003774014,Pratibha,Atma Ram Sanatan Dharam College,8.00,8.80,8.400
-20003774015,Rimple,Atma Ram Sanatan Dharam College,8.60,9.00,8.800
-20003774016,Riya Sharma,Atma Ram Sanatan Dharam College,8.40,9.00,8.700
-20003774017,Samir Lalwani,Atma Ram Sanatan Dharam College,7.80,8.60,8.200
-20003774018,SHUBHAM PAL,Atma Ram Sanatan Dharam College,8.00,8.60,8.300
-20003774019,Vanshika Gupta,Atma Ram Sanatan Dharam College,8.20,9.00,8.600
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20003774001,Abhilasha Choudhary,Atma Ram Sanatan Dharma College,8.00,9.00,9.21,8.730
+20003774002,Abhishek Gupta,Atma Ram Sanatan Dharma College,7.80,8.80,8.83,8.473
+20003774003,Abhishek Raj,Atma Ram Sanatan Dharma College,7.80,8.60,8.21,8.203
+20003774004,ADITYA BHATTI,Atma Ram Sanatan Dharma College,8.00,9.00,8.42,8.473
+20003774005,Aditya kumar,Atma Ram Sanatan Dharma College,8.20,8.80,8.67,8.554
+20003774006,Amir Sadeeq,Atma Ram Sanatan Dharma College,8.20,8.60,8.63,8.473
+20003774007,AYUSHI JAIN,Atma Ram Sanatan Dharma College,8.40,8.60,8.79,8.595
+20003774009,Divya Singhal,Atma Ram Sanatan Dharma College,8.80,9.00,8.42,8.743
+20003774010,HIMANI,Atma Ram Sanatan Dharma College,8.20,9.00,7.96,8.392
+20003774011,MANAN KALRA,Atma Ram Sanatan Dharma College,8.00,8.60,8.21,8.270
+20003774012,Namrata sharma,Atma Ram Sanatan Dharma College,8.40,9.00,9.21,8.865
+20003774013,Pappu kumar sah,Atma Ram Sanatan Dharma College,8.20,8.00,7.75,7.986
+20003774014,Pratibha,Atma Ram Sanatan Dharma College,8.00,8.80,8.63,8.473
+20003774015,Rimple,Atma Ram Sanatan Dharma College,8.60,9.00,8.79,8.797
+20003774016,Riya Sharma,Atma Ram Sanatan Dharma College,8.40,9.00,7.96,8.459
+20003774017,Samir Lalwani,Atma Ram Sanatan Dharma College,7.80,8.60,8.08,8.162
+20003774018,SHUBHAM PAL,Atma Ram Sanatan Dharma College,8.00,8.60,8.42,8.338

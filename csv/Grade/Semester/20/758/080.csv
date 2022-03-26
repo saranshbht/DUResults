@@ -1,11 +1,10 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20080758001,AAPAN NAYAK,St. Stephens College,9.25,9.00,9.125
-20080758002,Akshita Chauhan,St. Stephens College,9.25,9.25,9.250
-20080758003,AMAL JOSE,St. Stephens College,8.75,8.25,8.500
-20080758004,Ananya Mishra,St. Stephens College,9.50,8.75,9.125
-20080758005,ANISHA KALRA,St. Stephens College,9.25,8.75,9.000
-20080758006,AYSHA. T. C.,St. Stephens College,9.25,8.25,8.750
-20080758007,Baby Zothankimi,St. Stephens College,8.50,7.75,8.125
-20080758008,Osheen Gupta,St. Stephens College,9.00,8.75,8.875
-20080758009,Vibhu Sachdeva,St. Stephens College,9.00,8.25,8.625
-20080758010,Divyanshi Chaudhary,St. Stephens College,9.50,8.25,8.875
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20080758001,AAPAN NAYAK,St. Stephens College,9.25,9.00,10.00,9.435
+20080758002,Akshita Chauhan,St. Stephens College,9.25,9.25,10.00,9.516
+20080758003,AMAL JOSE,St. Stephens College,8.75,8.25,8.18,8.387
+20080758005,ANISHA KALRA,St. Stephens College,9.25,8.75,9.32,9.113
+20080758006,AYSHA. T. C.,St. Stephens College,9.25,8.25,9.32,8.952
+20080758007,Baby Zothankimi,St. Stephens College,8.50,7.75,7.41,7.871
+20080758008,Osheen Gupta,St. Stephens College,9.00,8.75,9.32,9.032
+20080758009,Vibhu Sachdeva,St. Stephens College,9.00,8.25,9.09,8.790
+20080758010,Divyanshi Chaudhary,St. Stephens College,9.50,8.25,9.77,9.194

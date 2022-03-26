@@ -1,57 +1,57 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20025758001,AANCHAL,Hans Raj College,9.50,8.75,9.125
-20025758002,ABBAS,Hans Raj College,5.75,0.00,2.875
-20025758003,Aditi Singh,Hans Raj College,9.25,9.00,9.125
-20025758004,AJAY YADAV,Hans Raj College,9.25,9.00,9.125
-20025758006,Anjali Bharti,Hans Raj College,8.50,8.00,8.250
-20025758007,Ankit Goyal,Hans Raj College,9.75,8.50,9.125
-20025758008,ANURADHA MAHESHWARI,Hans Raj College,8.75,8.50,8.625
-20025758009,ARNAB DHAR,Hans Raj College,7.25,7.25,7.250
-20025758010,Arvind Prajapati,Hans Raj College,9.25,8.50,8.875
-20025758011,ASHISH KUMAR MEENA,Hans Raj College,9.00,8.25,8.625
-20025758012,Ashwini Kumar,Hans Raj College,8.75,8.75,8.750
-20025758013,Bhawna Goswami,Hans Raj College,8.50,8.00,8.250
-20025758014,Deepak Kumar Choudhary,Hans Raj College,9.00,8.50,8.750
-20025758015,Diksha,Hans Raj College,9.50,8.75,9.125
-20025758016,Divya Agrawal,Hans Raj College,9.00,8.75,8.875
-20025758017,Divya Gupta,Hans Raj College,9.75,8.75,9.250
-20025758018,Garima Yadav,Hans Raj College,9.25,9.00,9.125
-20025758019,Garvit Goyal,Hans Raj College,8.75,8.00,8.375
-20025758020,GHANSHYAM BOHRA,Hans Raj College,8.75,8.25,8.500
-20025758021,GOUTAM MAITY,Hans Raj College,9.00,7.75,8.375
-20025758022,HARSHDEEP AGRAHARI,Hans Raj College,8.75,8.50,8.625
-20025758023,HIMANI KALRA,Hans Raj College,9.00,8.50,8.750
-20025758024,Jyoti Sharma,Hans Raj College,9.00,8.50,8.750
-20025758025,KAJAL KUMARI,Hans Raj College,8.50,8.25,8.375
-20025758026,Krishna Kant Chaudhari,Hans Raj College,9.00,8.25,8.625
-20025758027,Maianda Nonglamin,Hans Raj College,8.50,8.00,8.250
-20025758028,Mansi Verma,Hans Raj College,9.25,8.00,8.625
-20025758030,Mohit Kumar,Hans Raj College,8.75,7.75,8.250
-20025758031,NEERAJ JOSHI,Hans Raj College,8.25,8.00,8.125
-20025758032,PANKAJ KUMAR,Hans Raj College,8.50,8.00,8.250
-20025758033,Pankaj Singh,Hans Raj College,9.00,8.25,8.625
-20025758034,Poonam Dalbera,Hans Raj College,8.50,8.00,8.250
-20025758035,Pradeep kumar meena,Hans Raj College,8.75,8.25,8.500
-20025758036,PRAKRITI GOEL,Hans Raj College,9.00,8.75,8.875
-20025758037,Radhika,Hans Raj College,9.25,8.75,9.000
-20025758038,Rahul Goyal,Hans Raj College,8.75,8.00,8.375
-20025758039,Rahul Goyal,Hans Raj College,9.00,9.00,9.000
-20025758040,RAHUL KUMAR,Hans Raj College,8.50,8.00,8.250
-20025758041,RAKESH MEENA,Hans Raj College,8.50,8.00,8.250
-20025758042,Rani,Hans Raj College,9.25,8.75,9.000
-20025758043,RINKA SHARMA,Hans Raj College,8.75,8.50,8.625
-20025758044,Sakshi Jaiswal,Hans Raj College,9.00,8.75,8.875
-20025758045,SHALU PANDAY,Hans Raj College,9.00,8.50,8.750
-20025758046,Shrey Rathi,Hans Raj College,9.25,8.25,8.750
-20025758047,Simran,Hans Raj College,9.25,9.00,9.125
-20025758048,Subhajit Biswas,Hans Raj College,8.75,7.25,8.000
-20025758050,Vaibhav Mani Tripathi,Hans Raj College,9.75,8.00,8.875
-20025758051,Vanshika Bajaj,Hans Raj College,8.75,8.50,8.625
-20025758052,Vimlesh kumar,Hans Raj College,8.75,8.00,8.375
-20025758053,VINIT KUMAR,Hans Raj College,9.00,8.00,8.500
-20025758054,YASHIKA,Hans Raj College,9.50,8.25,8.875
-20025758055,ABHISHEK CHOUDHARY,Hans Raj College,8.75,8.25,8.500
-20025758056,Aditi chaudhary,Hans Raj College,9.00,8.75,8.875
-20025758059,Rupali Yadav,Hans Raj College,9.00,8.50,8.750
-20025758060,Sahil Bhardwaj,Hans Raj College,8.75,8.00,8.375
-20025758062,Ritesh,Hans Raj College,8.00,8.00,8.000
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20025758002,ABBAS,Hans Raj College,5.75,0.00,6.32,4.097
+20025758003,Aditi Singh,Hans Raj College,9.25,9.00,9.77,9.355
+20025758004,AJAY YADAV,Hans Raj College,9.25,9.00,9.77,9.355
+20025758005,AMIT KUMAR PANDEY,Hans Raj College,8.00,8.00,6.55,7.484
+20025758006,Anjali Bharti,Hans Raj College,8.50,8.00,8.64,8.387
+20025758007,Ankit Goyal,Hans Raj College,9.75,8.50,9.77,9.355
+20025758008,ANURADHA MAHESHWARI,Hans Raj College,8.75,8.50,8.64,8.629
+20025758009,ARNAB DHAR,Hans Raj College,7.25,7.25,0.00,4.677
+20025758010,Arvind Prajapati,Hans Raj College,9.25,8.50,9.00,8.919
+20025758011,ASHISH KUMAR MEENA,Hans Raj College,9.00,8.25,8.41,8.548
+20025758012,Ashwini Kumar,Hans Raj College,8.75,8.75,8.64,8.710
+20025758013,Bhawna Goswami,Hans Raj College,8.50,8.00,7.55,8.000
+20025758014,Deepak Kumar Choudhary,Hans Raj College,9.00,8.50,8.86,8.790
+20025758015,Diksha,Hans Raj College,9.50,8.75,9.09,9.113
+20025758016,Divya Agrawal,Hans Raj College,9.00,8.75,9.32,9.032
+20025758017,Divya Gupta,Hans Raj College,9.75,8.75,9.32,9.274
+20025758018,Garima Yadav,Hans Raj College,9.25,9.00,9.32,9.194
+20025758019,Garvit Goyal,Hans Raj College,8.75,8.00,7.50,8.065
+20025758020,GHANSHYAM BOHRA,Hans Raj College,8.75,8.25,7.95,8.306
+20025758021,GOUTAM MAITY,Hans Raj College,9.00,7.75,8.64,8.468
+20025758022,HARSHDEEP AGRAHARI,Hans Raj College,8.75,8.50,8.32,8.516
+20025758023,HIMANI KALRA,Hans Raj College,9.00,8.50,8.41,8.629
+20025758024,Jyoti Sharma,Hans Raj College,9.00,8.50,8.18,8.548
+20025758025,KAJAL KUMARI,Hans Raj College,8.50,8.25,7.64,8.113
+20025758026,Krishna Kant Chaudhari,Hans Raj College,9.00,8.25,8.41,8.548
+20025758027,Maianda Nonglamin,Hans Raj College,8.50,8.00,7.86,8.113
+20025758028,Mansi Verma,Hans Raj College,9.25,8.00,9.55,8.952
+20025758030,Mohit Kumar,Hans Raj College,8.75,7.75,7.64,8.032
+20025758031,NEERAJ JOSHI,Hans Raj College,8.25,8.00,7.18,7.790
+20025758032,PANKAJ KUMAR,Hans Raj College,8.50,8.00,7.09,7.839
+20025758033,Pankaj Singh,Hans Raj College,9.00,8.25,9.77,9.032
+20025758034,Poonam Dalbera,Hans Raj College,8.50,8.00,7.41,7.952
+20025758035,Pradeep kumar meena,Hans Raj College,8.75,8.25,8.86,8.629
+20025758036,PRAKRITI GOEL,Hans Raj College,9.00,8.75,8.86,8.871
+20025758037,Radhika,Hans Raj College,9.25,8.75,9.32,9.113
+20025758038,Rahul Goyal,Hans Raj College,8.75,8.00,8.41,8.387
+20025758039,Rahul Goyal,Hans Raj College,9.00,9.00,8.86,8.952
+20025758041,RAKESH MEENA,Hans Raj College,8.50,8.00,7.41,7.952
+20025758042,Rani,Hans Raj College,9.25,8.75,10.00,9.355
+20025758043,RINKA SHARMA,Hans Raj College,8.75,8.50,7.95,8.387
+20025758044,Sakshi Jaiswal,Hans Raj College,9.00,8.75,8.41,8.710
+20025758045,SHALU PANDAY,Hans Raj College,9.00,8.50,9.09,8.871
+20025758046,Shrey Rathi,Hans Raj College,9.25,8.25,8.18,8.548
+20025758047,Simran,Hans Raj College,9.25,9.00,9.32,9.194
+20025758048,Subhajit Biswas,Hans Raj College,8.75,7.25,7.41,7.790
+20025758049,Swati Nager,Hans Raj College,8.75,8.75,8.18,8.548
+20025758051,Vanshika Bajaj,Hans Raj College,8.75,8.50,9.32,8.871
+20025758052,Vimlesh kumar,Hans Raj College,8.75,8.00,7.86,8.194
+20025758053,VINIT KUMAR,Hans Raj College,9.00,8.00,7.86,8.274
+20025758054,YASHIKA,Hans Raj College,9.50,8.25,8.41,8.710
+20025758055,ABHISHEK CHOUDHARY,Hans Raj College,8.75,8.25,8.32,8.435
+20025758056,Aditi chaudhary,Hans Raj College,9.00,8.75,9.77,9.194
+20025758057,Lokesh Bansal,Hans Raj College,7.75,8.00,6.95,7.548
+20025758059,Rupali Yadav,Hans Raj College,9.00,8.50,8.64,8.710
+20025758060,Sahil Bhardwaj,Hans Raj College,8.75,8.00,6.95,7.871
+20025758062,Ritesh,Hans Raj College,8.00,8.00,7.86,7.952

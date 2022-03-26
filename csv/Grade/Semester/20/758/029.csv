@@ -1,29 +1,29 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20029758001,Anam Ali,I.P.College For Women,9.25,8.50,8.875
-20029758002,Anushree Yadav,I.P.College For Women,9.00,8.25,8.625
-20029758003,Deepika,I.P.College For Women,8.75,8.00,8.375
-20029758004,Divya Yadav,I.P.College For Women,9.00,8.75,8.875
-20029758005,Garima Yadav,I.P.College For Women,8.75,8.50,8.625
-20029758006,Garimma Hayaran,I.P.College For Women,8.75,8.25,8.500
-20029758007,Gitika Bhola,I.P.College For Women,8.75,8.75,8.750
-20029758008,HIMANSHI,I.P.College For Women,8.75,8.25,8.500
-20029758009,HIMANSHI JAIN,I.P.College For Women,9.00,9.00,9.000
-20029758010,Kanika Bahuguna,I.P.College For Women,8.50,8.25,8.375
-20029758011,Kashish,I.P.College For Women,9.00,9.00,9.000
-20029758012,KHUSHBOO,I.P.College For Women,8.50,8.25,8.375
-20029758013,KIRTI,I.P.College For Women,7.25,7.50,7.375
-20029758015,Lovleen,I.P.College For Women,9.75,9.00,9.375
-20029758017,NANDITA MAHATO,I.P.College For Women,9.00,8.75,8.875
-20029758018,Nidhi,I.P.College For Women,9.00,8.50,8.750
-20029758019,POOJA YADAV,I.P.College For Women,8.75,8.25,8.500
-20029758020,Pratibha Shekhawat,I.P.College For Women,8.00,8.25,8.125
-20029758021,Priyanka,I.P.College For Women,8.75,8.25,8.500
-20029758022,Reeta Sharma,I.P.College For Women,8.75,8.50,8.625
-20029758023,Saloni,I.P.College For Women,8.75,8.75,8.750
-20029758024,SAOGARI BASUMATARY,I.P.College For Women,8.25,8.00,8.125
-20029758025,Saumya Gupta,I.P.College For Women,9.25,8.50,8.875
-20029758026,Savita choudhary,I.P.College For Women,8.50,7.75,8.125
-20029758027,Sonali,I.P.College For Women,8.00,7.50,7.750
-20029758028,SRISHTI SHARMA,I.P.College For Women,9.00,8.50,8.750
-20029758029,Thingreila Ramror,I.P.College For Women,8.75,8.25,8.500
-20029758030,RANU TIWARI,I.P.College For Women,8.50,8.25,8.375
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20029758001,Anam Ali,I.P.College For Women,9.25,8.50,9.77,9.194
+20029758002,Anushree Yadav,I.P.College For Women,9.00,8.25,7.18,8.113
+20029758003,Deepika,I.P.College For Women,8.75,8.00,7.64,8.113
+20029758004,Divya Yadav,I.P.College For Women,9.00,8.75,8.64,8.790
+20029758005,Garima Yadav,I.P.College For Women,8.75,8.50,8.41,8.548
+20029758006,Garimma Hayaran,I.P.College For Women,8.75,8.25,7.32,8.081
+20029758007,Gitika Bhola,I.P.College For Women,8.75,8.75,8.64,8.710
+20029758008,HIMANSHI,I.P.College For Women,8.75,8.25,7.77,8.242
+20029758009,HIMANSHI JAIN,I.P.College For Women,9.00,9.00,9.55,9.194
+20029758010,Kanika Bahuguna,I.P.College For Women,8.50,8.25,9.09,8.629
+20029758011,Kashish,I.P.College For Women,9.00,9.00,8.86,8.952
+20029758012,KHUSHBOO,I.P.College For Women,8.50,8.25,7.32,8.000
+20029758013,KIRTI,I.P.College For Women,7.25,7.50,8.09,7.629
+20029758015,Lovleen,I.P.College For Women,9.75,9.00,9.77,9.516
+20029758017,NANDITA MAHATO,I.P.College For Women,9.00,8.75,8.64,8.790
+20029758018,Nidhi,I.P.College For Women,9.00,8.50,9.55,9.032
+20029758019,POOJA YADAV,I.P.College For Women,8.75,8.25,8.18,8.387
+20029758020,Pratibha Shekhawat,I.P.College For Women,8.00,8.25,8.77,8.355
+20029758021,Priyanka,I.P.College For Women,8.75,8.25,8.18,8.387
+20029758022,Reeta Sharma,I.P.College For Women,8.75,8.50,7.18,8.113
+20029758023,Saloni,I.P.College For Women,8.75,8.75,8.18,8.548
+20029758024,SAOGARI BASUMATARY,I.P.College For Women,8.25,8.00,7.55,7.919
+20029758025,Saumya Gupta,I.P.College For Women,9.25,8.50,8.86,8.871
+20029758026,Savita choudhary,I.P.College For Women,8.50,7.75,7.55,7.919
+20029758027,Sonali,I.P.College For Women,8.00,7.50,7.77,7.758
+20029758028,SRISHTI SHARMA,I.P.College For Women,9.00,8.50,8.86,8.790
+20029758029,Thingreila Ramror,I.P.College For Women,8.75,8.25,6.86,7.919
+20029758030,RANU TIWARI,I.P.College For Women,8.50,8.25,7.09,7.919

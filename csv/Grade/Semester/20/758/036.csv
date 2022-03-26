@@ -1,55 +1,49 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20036758001,Aarju Srivastava,Kirori Mal College,9.25,8.75,9.000
-20036758002,Agrima dudeja,Kirori Mal College,9.50,9.00,9.250
-20036758003,AMIT KUMAR BENIWAL,Kirori Mal College,8.50,8.00,8.250
-20036758004,AMIT KUMAR SEPAT,Kirori Mal College,8.50,8.00,8.250
-20036758005,Amit Yadav,Kirori Mal College,9.50,9.00,9.250
-20036758006,Anjali Rana,Kirori Mal College,9.00,8.50,8.750
-20036758007,Anjanee Singh,Kirori Mal College,9.50,8.75,9.125
-20036758008,Ankit Sharma,Kirori Mal College,8.50,8.75,8.625
-20036758009,Ankita Kumari,Kirori Mal College,9.50,8.75,9.125
-20036758010,Aparna Singh,Kirori Mal College,9.00,8.75,8.875
-20036758012,Chetram Meena,Kirori Mal College,9.00,8.25,8.625
-20036758013,Chinmoy Gogoi,Kirori Mal College,9.25,8.50,8.875
-20036758014,Chitra Gupta,Kirori Mal College,9.25,8.75,9.000
-20036758015,Deepak kumar,Kirori Mal College,8.50,7.75,8.125
-20036758016,Gaurav,Kirori Mal College,9.25,8.50,8.875
-20036758017,Gauri Sharma,Kirori Mal College,9.25,8.50,8.875
-20036758018,Geetanjali,Kirori Mal College,8.75,8.00,8.375
-20036758019,GOVIND KUMAR,Kirori Mal College,9.25,8.50,8.875
-20036758020,Himanshi,Kirori Mal College,9.00,8.75,8.875
-20036758021,Jaiveer,Kirori Mal College,9.00,8.75,8.875
-20036758022,Joyta Singh,Kirori Mal College,9.25,8.75,9.000
-20036758023,KAUSHAL,Kirori Mal College,8.75,8.00,8.375
-20036758024,KAUSHAL,Kirori Mal College,9.00,7.50,8.250
-20036758025,Komal sinha,Kirori Mal College,9.25,9.00,9.125
-20036758026,Lalita,Kirori Mal College,9.25,8.50,8.875
-20036758027,LOKESH,Kirori Mal College,9.25,8.50,8.875
-20036758028,Manoj gyawali,Kirori Mal College,9.00,8.50,8.750
-20036758029,Manshi,Kirori Mal College,9.25,8.50,8.875
-20036758030,Margaret Khollianmoi,Kirori Mal College,9.00,8.25,8.625
-20036758031,Muskan,Kirori Mal College,9.50,8.75,9.125
-20036758032,Muskan Ansari,Kirori Mal College,9.25,8.75,9.000
-20036758033,Neetu Malik,Kirori Mal College,9.25,8.25,8.750
-20036758034,Nitin,Kirori Mal College,9.00,8.25,8.625
-20036758035,Pragya  Arora,Kirori Mal College,9.75,8.75,9.250
-20036758036,Princy,Kirori Mal College,9.25,9.25,9.250
-20036758037,Priyesh Kumar jayswal,Kirori Mal College,9.50,8.50,9.000
-20036758038,PUNEET KUMAR BHARTI,Kirori Mal College,8.50,7.75,8.125
-20036758039,Ritik Malik,Kirori Mal College,9.00,8.75,8.875
-20036758040,Ritu,Kirori Mal College,9.25,8.75,9.000
-20036758041,RITUL DUTTA,Kirori Mal College,9.25,8.75,9.000
-20036758042,Riya,Kirori Mal College,9.25,8.75,9.000
-20036758043,Robin,Kirori Mal College,9.25,8.50,8.875
-20036758044,Ryna Irengbam,Kirori Mal College,9.25,8.75,9.000
-20036758045,Sagar Debbarma,Kirori Mal College,8.50,7.75,8.125
-20036758046,SAMYA CHATTERJEE,Kirori Mal College,9.00,8.75,8.875
-20036758047,Shreya gulati,Kirori Mal College,9.25,8.50,8.875
-20036758048,Shrishti,Kirori Mal College,8.00,7.75,7.875
-20036758049,Shruti diwakar,Kirori Mal College,9.50,8.75,9.125
-20036758050,Shubham chahal,Kirori Mal College,9.25,8.75,9.000
-20036758051,Sneha,Kirori Mal College,9.00,8.25,8.625
-20036758052,Sonu meena,Kirori Mal College,9.00,8.25,8.625
-20036758053,Ujjal Boro,Kirori Mal College,9.25,8.75,9.000
-20036758055,Utkarsh Kashyap,Kirori Mal College,8.75,8.75,8.750
-20036758056,VAIBHAV KESHARI,Kirori Mal College,8.75,7.75,8.250
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20036758001,Aarju Srivastava,Kirori Mal College,9.25,8.75,9.45,9.161
+20036758002,Agrima dudeja,Kirori Mal College,9.50,9.00,9.55,9.355
+20036758003,AMIT KUMAR BENIWAL,Kirori Mal College,8.50,8.00,7.41,7.952
+20036758004,AMIT KUMAR SEPAT,Kirori Mal College,8.50,8.00,7.55,8.000
+20036758005,Amit Yadav,Kirori Mal College,9.50,9.00,8.86,9.113
+20036758006,Anjali Rana,Kirori Mal College,9.00,8.50,8.41,8.629
+20036758007,Anjanee Singh,Kirori Mal College,9.50,8.75,9.09,9.113
+20036758008,Ankit Sharma,Kirori Mal College,8.50,8.75,6.95,8.032
+20036758010,Aparna Singh,Kirori Mal College,9.00,8.75,8.64,8.790
+20036758013,Chinmoy Gogoi,Kirori Mal College,9.25,8.50,8.86,8.871
+20036758014,Chitra Gupta,Kirori Mal College,9.25,8.75,9.00,9.000
+20036758015,Deepak kumar,Kirori Mal College,8.50,7.75,7.64,7.952
+20036758016,Gaurav,Kirori Mal College,9.25,8.50,9.55,9.113
+20036758017,Gauri Sharma,Kirori Mal College,9.25,8.50,9.09,8.952
+20036758018,Geetanjali,Kirori Mal College,8.75,8.00,7.09,7.919
+20036758019,GOVIND KUMAR,Kirori Mal College,9.25,8.50,7.73,8.468
+20036758020,Himanshi,Kirori Mal College,9.00,8.75,8.18,8.629
+20036758021,Jaiveer,Kirori Mal College,9.00,8.75,9.32,9.032
+20036758022,Joyta Singh,Kirori Mal College,9.25,8.75,9.09,9.032
+20036758023,KAUSHAL,Kirori Mal College,8.75,8.00,6.32,7.645
+20036758024,KAUSHAL,Kirori Mal College,9.00,7.50,6.86,7.758
+20036758025,Komal sinha,Kirori Mal College,9.25,9.00,9.77,9.355
+20036758026,Lalita,Kirori Mal College,9.25,8.50,9.00,8.919
+20036758027,LOKESH,Kirori Mal College,9.25,8.50,8.64,8.790
+20036758028,Manoj gyawali,Kirori Mal College,9.00,8.50,8.41,8.629
+20036758030,Margaret Khollianmoi,Kirori Mal College,9.00,8.25,8.18,8.468
+20036758031,Muskan,Kirori Mal College,9.50,8.75,9.09,9.113
+20036758032,Muskan Ansari,Kirori Mal College,9.25,8.75,9.09,9.032
+20036758033,Neetu Malik,Kirori Mal College,9.25,8.25,8.32,8.597
+20036758035,Pragya  Arora,Kirori Mal College,9.75,8.75,8.86,9.113
+20036758036,Princy,Kirori Mal College,9.25,9.25,9.55,9.355
+20036758037,Priyesh Kumar jayswal,Kirori Mal College,9.50,8.50,10.00,9.355
+20036758039,Ritik Malik,Kirori Mal College,9.00,8.75,9.00,8.919
+20036758040,Ritu,Kirori Mal College,9.25,8.75,8.18,8.710
+20036758041,RITUL DUTTA,Kirori Mal College,9.25,8.75,9.55,9.194
+20036758042,Riya,Kirori Mal College,9.25,8.75,9.32,9.113
+20036758043,Robin,Kirori Mal College,9.25,8.50,8.86,8.871
+20036758044,Ryna Irengbam,Kirori Mal College,9.25,8.75,9.32,9.113
+20036758045,Sagar Debbarma,Kirori Mal College,8.50,7.75,7.55,7.919
+20036758046,SAMYA CHATTERJEE,Kirori Mal College,9.00,8.75,8.09,8.597
+20036758047,Shreya gulati,Kirori Mal College,9.25,8.50,9.55,9.113
+20036758048,Shrishti,Kirori Mal College,8.00,7.75,7.09,7.597
+20036758050,Shubham chahal,Kirori Mal College,9.25,8.75,9.09,9.032
+20036758051,Sneha,Kirori Mal College,9.00,8.25,7.95,8.387
+20036758052,Sonu meena,Kirori Mal College,9.00,8.25,8.18,8.468
+20036758053,Ujjal Boro,Kirori Mal College,9.25,8.75,9.09,9.032
+20036758055,Utkarsh Kashyap,Kirori Mal College,8.75,8.75,8.41,8.629
+20036758056,VAIBHAV KESHARI,Kirori Mal College,8.75,7.75,8.32,8.274
