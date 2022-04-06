@@ -1,20 +1,17 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20218709003,Aayush Agrawal,Department of Environmental Studies,8.25,8.00,8.125
-20218709004,Abhishek Chauhan,Department of Environmental Studies,8.25,8.00,8.125
-20218709005,Aditi Chawla,Department of Environmental Studies,7.25,8.00,7.625
-20218709006,AJEET,Department of Environmental Studies,6.25,6.75,6.500
-20218709007,Arijit Pattanayak,Department of Environmental Studies,8.25,8.50,8.375
-20218709008,ARUNIMA VISHWAKARMA,Department of Environmental Studies,8.00,7.75,7.875
-20218709009,BHAVESH KUMAR,Department of Environmental Studies,7.25,7.75,7.500
-20218709010,Himanshi Sharma,Department of Environmental Studies,7.50,7.75,7.625
-20218709011,Himanshu Sharma,Department of Environmental Studies,8.00,8.00,8.000
-20218709012,Khalid Bashir,Department of Environmental Studies,8.25,8.00,8.125
-20218709014,Neelakshi Thakur,Department of Environmental Studies,8.25,8.00,8.125
-20218709015,Nilay shrivastava,Department of Environmental Studies,7.50,7.75,7.625
-20218709016,NOORUL MOIZ,Department of Environmental Studies,8.00,7.75,7.875
-20218709018,Panki Mepo,Department of Environmental Studies,7.75,7.75,7.750
-20218709019,PRASHANT KUMAR,Department of Environmental Studies,7.50,8.00,7.750
-20218709020,PRASHANT SHEORAN,Department of Environmental Studies,6.50,6.75,6.625
-20218709021,Sumit Prakash,Department of Environmental Studies,7.50,7.75,7.625
-20218709022,Swati Kumari Sharma,Department of Environmental Studies,8.25,8.00,8.125
-20218709023,Vertika Patel,Department of Environmental Studies,7.25,7.50,7.375
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20218709003,Aayush Agrawal,Department of Environmental Studies,8.25,8.00,8.00,8.074
+20218709004,Abhishek Chauhan,Department of Environmental Studies,8.25,8.00,8.00,8.074
+20218709005,Aditi Chawla,Department of Environmental Studies,7.25,8.00,6.14,7.015
+20218709006,AJEET,Department of Environmental Studies,6.25,6.75,6.07,6.324
+20218709007,Arijit Pattanayak,Department of Environmental Studies,8.25,8.50,8.00,8.221
+20218709008,ARUNIMA VISHWAKARMA,Department of Environmental Studies,8.00,7.75,8.00,7.926
+20218709011,Himanshu Sharma,Department of Environmental Studies,8.00,8.00,7.50,7.794
+20218709014,Neelakshi Thakur,Department of Environmental Studies,8.25,8.00,8.21,8.162
+20218709015,NILAY SHRIVASTAVA,Department of Environmental Studies,7.50,7.75,7.43,7.544
+20218709017,OM ANAND,Department of Environmental Studies,8.25,8.00,8.14,8.132
+20218709018,Panki Mepo,Department of Environmental Studies,7.75,7.75,3.29,5.912
+20218709019,PRASHANT KUMAR,Department of Environmental Studies,7.50,8.00,7.29,7.559
+20218709020,PRASHANT SHEORAN,Department of Environmental Studies,6.50,6.75,7.00,6.779
+20218709021,Sumit Prakash,Department of Environmental Studies,7.50,7.75,7.21,7.456
+20218709022,SWATI KUMARI SHARMA,Department of Environmental Studies,8.25,8.00,8.57,8.309
+20218709023,Vertika Patel,Department of Environmental Studies,7.25,7.50,7.21,7.309

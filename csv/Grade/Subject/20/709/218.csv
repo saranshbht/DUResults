@@ -1,20 +1,17 @@
-RollNo,Name,College,INTRODUCTION TO THE ENVIRONMENT STUDIES,SOCIAL PERSPECTIVES OF THE ENVIRONMENT,"ENVIRONMENT, DEVELOPMENT & SUSTAINABILITY",METHODOLOGIES FOR ENVIRONMENTAL STUDIES,ENVIRONMENT IMPACT & RISK ASSESSMENT,POLLUTION AND HEALTH,URBAN ECOSYSTEMS,NATURAL RESOURCES: CONSERVATION & MANAGEMENT
-20218709003,Aayush Agrawal,Department of Environmental Studies,8,8,8,9,8,8,8,8
-20218709004,Abhishek Chauhan,Department of Environmental Studies,8,8,8,9,8,8,8,8
-20218709005,Aditi Chawla,Department of Environmental Studies,7,8,6,8,8,8,8,8
-20218709006,AJEET,Department of Environmental Studies,6,6,7,6,6,7,7,7
-20218709007,Arijit Pattanayak,Department of Environmental Studies,9,8,8,8,8,9,9,8
-20218709008,ARUNIMA VISHWAKARMA,Department of Environmental Studies,9,9,6,8,7,8,8,8
-20218709009,BHAVESH KUMAR,Department of Environmental Studies,7,7,7,8,7,8,8,8
-20218709010,Himanshi Sharma,Department of Environmental Studies,8,7,7,8,7,8,8,8
-20218709011,Himanshu Sharma,Department of Environmental Studies,8,8,8,8,8,8,8,8
-20218709012,Khalid Bashir,Department of Environmental Studies,8,9,8,8,8,8,8,8
-20218709014,Neelakshi Thakur,Department of Environmental Studies,8,9,8,8,8,8,8,8
-20218709015,Nilay shrivastava,Department of Environmental Studies,7,8,7,8,7,8,8,8
-20218709016,NOORUL MOIZ,Department of Environmental Studies,8,8,8,8,7,8,8,8
-20218709018,Panki Mepo,Department of Environmental Studies,7,8,8,8,7,8,8,8
-20218709019,PRASHANT KUMAR,Department of Environmental Studies,8,8,7,7,8,8,8,8
-20218709020,PRASHANT SHEORAN,Department of Environmental Studies,8,5,6,7,6,7,7,7
-20218709021,Sumit Prakash,Department of Environmental Studies,8,8,7,7,7,8,8,8
-20218709022,Swati Kumari Sharma,Department of Environmental Studies,8,9,7,9,8,8,8,8
-20218709023,Vertika Patel,Department of Environmental Studies,7,8,7,7,7,8,8,7
+RollNo,Name,College,INTRODUCTION TO THE ENVIRONMENT STUDIES,SOCIAL PERSPECTIVES OF THE ENVIRONMENT,"ENVIRONMENT, DEVELOPMENT & SUSTAINABILITY",METHODOLOGIES FOR ENVIRONMENTAL STUDIES,ENVIRONMENT IMPACT & RISK ASSESSMENT,POLLUTION AND HEALTH,URBAN ECOSYSTEMS,NATURAL RESOURCES: CONSERVATION & MANAGEMENT,ENVIRONMENTAL POLICIES AND POLITICS,ENVIRONMENTAL COMMUNICATION AND EDUCATION,"TECHNOLOGY, ENVIRONMENT AND SOCIETY",NATURAL RESOURCE CONFLICTS AND CHOICES,CLIMATE CHANGE,PHYSICS AND CHEMISTRY OF THE EARTH,ENVIRONMENTAL STUDIES: TOWARD A SUSTAINABLE FUTURE,BEHAVIOR OF SOCIAL ANIMALS
+20218709003,Aayush Agrawal,Department of Environmental Studies,8,8,8,9,8,8,8,8,8,8,8,8,8,,,
+20218709004,Abhishek Chauhan,Department of Environmental Studies,8,8,8,9,8,8,8,8,8,8,8,8,,8,,
+20218709005,Aditi Chawla,Department of Environmental Studies,7,8,6,8,8,8,8,8,6,5,6,7,,,7,
+20218709006,AJEET,Department of Environmental Studies,6,6,7,6,6,7,7,7,6,6,6,7,,,5,
+20218709007,Arijit Pattanayak,Department of Environmental Studies,9,8,8,8,8,9,9,8,8,8,7,9,,,8,
+20218709008,ARUNIMA VISHWAKARMA,Department of Environmental Studies,9,9,6,8,7,8,8,8,8,8,8,8,,,8,
+20218709011,Himanshu Sharma,Department of Environmental Studies,8,8,8,8,8,8,8,8,8,8,8,7,,,6,
+20218709014,Neelakshi Thakur,Department of Environmental Studies,8,9,8,8,8,8,8,8,9,8,8,8,,,8,
+20218709015,NILAY SHRIVASTAVA,Department of Environmental Studies,7,8,7,8,7,8,8,8,8,8,7,7,,,7,
+20218709017,OM ANAND,Department of Environmental Studies,8,9,8,8,8,8,8,8,8,8,8,8,9,,,
+20218709018,Panki Mepo,Department of Environmental Studies,7,8,8,8,7,8,8,8,6,0,0,6,,,5,
+20218709019,PRASHANT KUMAR,Department of Environmental Studies,8,8,7,7,8,8,8,8,8,6,7,7,,,,9
+20218709020,PRASHANT SHEORAN,Department of Environmental Studies,8,5,6,7,6,7,7,7,7,7,7,7,,,7,
+20218709021,Sumit Prakash,Department of Environmental Studies,8,8,7,7,7,8,8,8,8,7,7,7,,,7,
+20218709022,SWATI KUMARI SHARMA,Department of Environmental Studies,8,9,7,9,8,8,8,8,9,8,8,9,9,,,
+20218709023,Vertika Patel,Department of Environmental Studies,7,8,7,7,7,8,8,7,8,7,6,8,,,7,
