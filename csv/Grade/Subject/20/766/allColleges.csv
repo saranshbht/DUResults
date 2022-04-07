@@ -1,115 +1,105 @@
-RollNo,Name,College,GENETICS AND CYTOGENETICS,PRINCIPLES OF GENE MANIPULATION,COMPARATIVE ANIMAL PHYSIOLOGY,METABOLISM: CONCEPTS AND REGULATION,CORE PRACTICAL 1,DEVELOPMENTAL BIOLOGY,"SYSTEMATICS, BIODIVERSITY AND EVOLUTION",IMMUNOLOGY,MOLECULAR CELL BIOLOGY,CORE PRACTICAL 2
-20047766001,Aakriti Singhal,Miranda House,9,9,8,9,7,9,9,8,9,7
-20047766002,ADITI HARSHA,Miranda House,8,8,7,9,6,9,9,8,8,7
-20047766003,Akasmika Priyadarsani,Miranda House,9,9,8,9,7,9,9,9,8,8
-20047766004,APOORVA,Miranda House,8,9,8,8,7,9,9,8,9,7
-20047766006,Ayushi khandelwal,Miranda House,8,9,8,9,8,9,9,9,9,8
-20047766007,Bhawna,Miranda House,6,8,7,9,6,9,8,8,8,6
-20047766008,Devanshee Prakash,Miranda House,9,8,8,9,8,9,9,8,9,7
-20047766009,ISHITA MANUJA,Miranda House,8,8,8,9,8,9,9,8,9,7
-20047766010,Jappreet kaur,Miranda House,8,9,7,9,7,9,8,8,8,7
-20047766011,Kajal Kamboj,Miranda House,7,9,8,9,7,9,8,8,8,6
-20047766012,KRISHMA YADAV,Miranda House,8,8,8,9,8,9,8,7,8,7
-20047766013,Mukta Yadav,Miranda House,8,9,8,8,8,9,8,8,8,7
-20047766014,NANDINI,Miranda House,9,8,7,9,7,9,9,8,9,8
-20047766015,Navnoor Kaur,Miranda House,9,9,8,8,7,9,8,8,9,7
-20047766016,Reena,Miranda House,8,9,8,9,8,9,9,8,9,7
-20047766017,Samta,Miranda House,7,7,7,7,5,8,7,7,7,6
-20047766018,SANJU KUMARI,Miranda House,7,9,7,8,6,9,8,8,8,8
-20047766020,Shivani,Miranda House,8,8,8,9,8,9,8,8,8,6
-20047766021,Shweta,Miranda House,8,9,8,9,7,9,9,9,9,7
-20047766022,Srishti Chauhan,Miranda House,6,8,7,9,6,8,7,7,7,6
-20047766023,Sushma yadav,Miranda House,7,9,8,9,7,9,9,9,9,7
-20047766024,Victoria Ngangbam,Miranda House,9,9,8,9,8,9,9,9,9,6
-20047766025,VRINDA SHANKAR,Miranda House,9,8,7,9,8,9,8,8,8,7
-20047766026,Pinki,Miranda House,7,8,7,9,6,9,8,8,8,6
-20047766028,RAFIA JAMAL,Miranda House,8,8,7,9,7,9,8,7,8,6
-20056766001,HARSHEEN KAUR MALHI,Ramjas College,8,9,8,9,9,9,9,9,9,8
-20056766002,MEENAKSHI,Ramjas College,7,8,8,9,7,9,8,8,8,7
-20056766003,Megha Pandey,Ramjas College,8,9,8,9,7,9,9,9,8,7
-20056766004,Monika choudhary,Ramjas College,7,7,7,7,7,9,8,8,8,6
-20056766005,NISHA SARSWAT,Ramjas College,8,9,7,9,7,9,8,8,8,7
-20056766006,Radhika,Ramjas College,8,8,8,9,7,9,8,8,9,7
-20056766007,RUPAM KUMARI,Ramjas College,8,9,8,9,8,9,9,8,8,8
-20056766008,RUPOM PATHORI,Ramjas College,8,8,7,8,7,9,8,8,8,7
-20056766010,Sumita Poonia,Ramjas College,7,8,7,8,7,9,8,8,8,6
-20056766011,Sushil,Ramjas College,7,8,7,8,7,9,8,8,8,6
-20056766012,VISHAL SINHA,Ramjas College,9,9,8,9,7,9,8,8,8,8
-20025766001,Alice Subba,Hans Raj College,8,8,7,8,7,9,9,8,8,7
-20025766002,Anamika Kutrial,Hans Raj College,8,8,8,9,7,9,9,8,9,7
-20025766003,Anand Singh Rathore,Hans Raj College,5,8,7,8,7,9,9,8,8,6
-20025766004,AYUSHI RATURI,Hans Raj College,8,9,7,9,7,9,9,8,8,8
-20025766005,Deepali Saini,Hans Raj College,8,8,6,7,7,9,8,8,8,6
-20025766006,Dinesh Kumar Meena,Hans Raj College,8,8,7,9,7,9,8,8,8,6
-20025766007,Garima Devi,Hans Raj College,7,8,7,8,7,9,8,8,9,6
-20025766008,Jagbir Kaur Garry,Hans Raj College,8,9,8,9,8,9,9,9,9,7
-20025766009,Kalpit rani,Hans Raj College,7,8,7,8,6,8,8,7,7,7
-20025766010,Khushi Verma,Hans Raj College,7,8,6,8,7,8,7,6,6,6
-20025766011,KUMARI NIRMALA,Hans Raj College,7,8,7,9,7,9,9,9,9,6
-20025766012,Kunal Anand,Hans Raj College,6,8,7,8,6,8,8,7,8,6
-20025766013,Lucky,Hans Raj College,7,8,7,8,7,9,8,8,8,6
-20025766014,Manisha devi,Hans Raj College,4,6,7,7,6,8,7,7,8,5
-20025766015,MEENAKSHI,Hans Raj College,8,9,8,9,6,9,9,8,9,7
-20025766016,Mohini,Hans Raj College,8,9,8,9,8,9,9,9,9,8
-20025766017,MUSKAN,Hans Raj College,8,8,7,8,7,9,8,8,8,7
-20025766018,Payal Patra,Hans Raj College,8,9,8,9,7,9,9,8,9,8
-20025766019,Pragya Priya,Hans Raj College,4,8,7,8,5,8,8,8,8,6
-20025766020,priyanka,Hans Raj College,8,9,7,9,7,9,9,9,9,7
-20025766021,Richa Mullick,Hans Raj College,7,8,7,9,7,9,8,7,8,7
-20025766022,Riya Rani Sah,Hans Raj College,5,8,7,9,6,9,8,8,8,6
-20025766023,Sherin Babu,Hans Raj College,8,8,7,8,8,8,8,7,8,7
-20025766024,stuti kumari,Hans Raj College,7,8,7,9,7,9,8,8,8,6
-20025766025,Sunny,Hans Raj College,8,8,8,9,7,9,8,8,8,7
-20025766026,Vikas Singh,Hans Raj College,8,9,8,9,6,8,8,7,7,6
-20025766027,Vrashti Sharma,Hans Raj College,9,8,7,9,7,9,8,8,8,7
-20068766001,ADWAIT MISHRA,S.G.T.B. Khalsa College,9,8,8,8,8,9,9,8,9,8
-20068766002,KAJAL,S.G.T.B. Khalsa College,6,8,6,8,6,7,8,7,7,5
-20068766003,MANISHA,S.G.T.B. Khalsa College,8,8,7,8,7,9,8,8,8,7
-20068766004,PANKAJ ANAND,S.G.T.B. Khalsa College,7,8,7,9,6,8,8,8,8,7
-20068766005,SADIYAH AFROZ,S.G.T.B. Khalsa College,8,9,7,9,8,9,9,9,9,8
-20068766006,SAGRIKA SHARMA,S.G.T.B. Khalsa College,7,7,7,7,7,8,8,8,8,6
-20068766007,SHIVAM KABRA,S.G.T.B. Khalsa College,8,8,7,9,7,9,8,9,9,7
-20068766008,TWINKLE KATHURIA,S.G.T.B. Khalsa College,8,9,8,9,8,9,9,9,9,8
-20068766009,VARNIKA PANWAR,S.G.T.B. Khalsa College,8,9,7,9,8,9,9,9,9,8
-20068766010,komal,S.G.T.B. Khalsa College,7,9,6,9,7,9,8,8,8,6
-20036766001,Ajit Pradhan,Kirori Mal College,4,8,6,7,6,8,8,7,8,5
-20036766002,Anchal,Kirori Mal College,8,9,8,9,7,9,9,8,9,6
-20036766003,Atul Kumar,Kirori Mal College,5,6,4,6,5,6,6,5,6,0
-20036766004,chinglemba chingtham,Kirori Mal College,7,8,7,8,7,8,8,7,7,7
-20036766005,Gargi sharma,Kirori Mal College,7,6,6,6,7,8,7,7,7,6
-20036766006,HEMANTI KANDPAL,Kirori Mal College,8,8,8,9,8,9,9,8,9,7
-20036766007,Mahima Gupta,Kirori Mal College,8,8,8,9,7,9,8,8,9,7
-20036766009,Priyanka,Kirori Mal College,7,8,7,8,5,8,7,7,7,6
-20036766010,SHILPA NANDI,Kirori Mal College,8,9,8,9,8,9,9,9,9,8
-20036766011,Shipra goyal,Kirori Mal College,6,8,7,8,7,9,8,8,8,7
-20036766012,Shweta,Kirori Mal College,8,9,8,9,7,9,9,9,9,7
-20036766013,Vishakha Yadav,Kirori Mal College,6,7,5,0,5,8,8,8,7,6
-20036766014,Zoya,Kirori Mal College,8,9,8,9,7,9,9,8,9,7
-20079766001,Aashita singh,Sri Venkateswara College,8,8,7,9,7,9,8,8,8,7
-20079766002,Aastha Saini,Sri Venkateswara College,9,9,7,9,8,9,9,7,8,7
-20079766003,Abhishek,Sri Venkateswara College,8,8,7,8,6,9,8,8,9,7
-20079766004,Komal Yadav,Sri Venkateswara College,8,9,7,9,7,9,8,8,8,7
-20079766005,Madhu,Sri Venkateswara College,8,8,7,9,8,9,9,9,9,6
-20079766006,Muskan Yadav,Sri Venkateswara College,7,8,7,9,7,8,8,7,8,7
-20079766007,Sakshi tyagi,Sri Venkateswara College,7,7,6,8,7,8,8,7,8,4
-20026766001,AASTHA,Hindu College,9,8,7,9,7,9,8,8,8,6
-20026766002,Auroni Deep,Hindu College,9,8,7,9,8,9,9,8,9,8
-20026766003,BEAUTY KUMARI,Hindu College,8,8,7,9,7,9,8,8,8,6
-20026766004,Geetanjali Bhilwara,Hindu College,5,8,7,9,6,9,8,8,8,6
-20026766005,Jaldhi,Hindu College,7,8,7,8,6,9,9,8,8,7
-20026766006,JASSIKA GUPTA,Hindu College,8,9,8,9,8,9,9,9,9,8
-20026766007,Nida,Hindu College,8,8,7,9,7,9,9,8,9,8
-20026766009,PADMA YANGSKIT,Hindu College,7,8,7,8,5,8,7,7,8,6
-20026766010,Priyanka,Hindu College,8,8,7,9,6,9,8,8,8,7
-20026766011,RAHUL YADAV,Hindu College,7,8,7,8,7,9,8,8,9,7
-20026766012,ROHAN BAHL,Hindu College,9,9,8,9,8,9,9,9,9,10
-20026766013,Ruchira Agarwal,Hindu College,7,8,7,9,7,9,9,8,8,7
-20026766014,Sandeep Kour,Hindu College,7,8,5,8,7,9,8,8,8,6
-20026766015,SHEETAL PANWAR,Hindu College,8,8,8,8,7,8,8,7,7,7
-20026766016,Shirin Qureshi,Hindu College,8,9,8,9,8,9,9,9,9,8
-20026766017,Shiva Satija,Hindu College,7,8,7,9,6,9,9,9,9,8
-20026766018,STANZIN OLDAN,Hindu College,5,8,7,7,6,9,8,8,8,6
-20026766019,STANZIN ZANGMO,Hindu College,7,7,6,7,6,9,8,8,8,6
-20026766021,VARTIKA MALIK,Hindu College,8,8,7,9,7,9,8,8,8,7
-20026766022,Vishakha,Hindu College,7,8,7,8,4,8,8,8,8,6
-20026766023,TANISHA BHIMWAL,Hindu College,8,9,8,9,7,9,8,8,8,7
+RollNo,Name,College,GENETICS AND CYTOGENETICS,PRINCIPLES OF GENE MANIPULATION,COMPARATIVE ANIMAL PHYSIOLOGY,METABOLISM: CONCEPTS AND REGULATION,CORE PRACTICAL 1,DEVELOPMENTAL BIOLOGY,"SYSTEMATICS, BIODIVERSITY AND EVOLUTION",IMMUNOLOGY,MOLECULAR CELL BIOLOGY,CORE PRACTICAL 2,"INORGANIC CHEMISTRY (SPECIAL - I) CHEMISTRY OF INORGANIC RINGS, CAGES AND METAL CLUSTER COMPOUNDS / INTRODUCTION TO THE SOLUTION OF MULTIELECTRON PROB",PRINCIPLES OF ECOLOGY,"COMPUTATIONAL BIOLOGY, BIOSTATISTICS AND BIOINFORMATICS",CHRONOBIOLOGY,COMPARATIVE ENDOCRINE PHYSIOLOGY,CLIMATE CHANGE AND ECOSYSTEM FUNCTION,"PROTEIN STRUCTURE, FUNCTION AND EVOLUTION",ANIMAL BEHAVIOR,STRUCTURE AND FUNCTION OF GENES,BEHAVIOR OF SOCIAL ANIMALS,ENVIRONMENTAL STUDIES: TOWARD A SUSTAINABLE FUTURE,PARASITOLOGY,FORENSIC MEDICINE AND PSYCHOLOGY,BIOETHICS & BIOSAFETY,PLANT DIVERSITY,CLIMATE CHANGE,APPLICATION OF STATISTICS FOR BIOLOGY,PHYSICS AND CHEMISTRY OF THE EARTH,ORGANIC CHEMISTRY (SPECIAL - I) CHEMISTRY OF LIFE PROCESSES & BIOACTIVE COMPOUNDS
+20047766001,Aakriti Singhal,Miranda House,9,9,8,9,7,9,9,8,9,7,0,7,7,7,9,,,,,,,,,,,,,,
+20047766002,ADITI HARSHA,Miranda House,8,8,7,9,6,9,9,8,8,7,,7,7,,,9,8,7,,,,,,,,,,,
+20047766003,Akasmika Priyadarsani,Miranda House,9,9,8,9,7,9,9,9,8,8,,8,8,,,,8,,9,10,,,,,,,,,
+20047766004,APOORVA,Miranda House,8,9,8,8,7,9,9,8,9,7,,8,7,,,,,,8,,8,8,,,,,,,
+20047766005,AUROSHIKHA MOHANTA,Miranda House,8,9,8,9,8,9,8,8,8,8,,7,7,,,,9,,8,9,,,,,,,,,
+20047766006,Ayushi khandelwal,Miranda House,8,9,8,9,8,9,9,9,9,8,,7,7,,,,9,,9,,7,,,,,,,,
+20047766007,Bhawna,Miranda House,6,8,7,9,6,9,8,8,8,6,,7,7,,,,,7,,9,,7,,,,,,,
+20047766008,Devanshee Prakash,Miranda House,9,8,8,9,8,9,9,8,9,7,,8,9,,,,9,,8,9,,,,,,,,,
+20047766009,ISHITA MANUJA,Miranda House,8,8,8,9,8,9,9,8,9,7,,7,8,,,,,,8,,,8,8,,,,,,
+20047766011,Kajal Kamboj,Miranda House,7,9,8,9,7,9,8,8,8,6,,8,7,,,,7,,8,,8,,,,,,,,
+20047766013,Mukta Yadav,Miranda House,8,9,8,8,8,9,8,8,8,7,,7,8,,,,,,8,,,8,8,,,,,,
+20047766014,NANDINI,Miranda House,9,8,7,9,7,9,9,8,9,8,,8,8,,,,,,8,,,8,,9,,,,,
+20047766015,Navnoor Kaur,Miranda House,9,9,8,8,7,9,8,8,9,7,,7,7,7,,9,,7,,,,,,,,,,,
+20047766016,Reena,Miranda House,8,9,8,9,8,9,9,8,9,7,,8,8,,,9,8,,8,,,,,,,,,,
+20047766017,Samta,Miranda House,7,7,7,7,5,8,7,7,7,6,,7,7,6,8,,,,,,,,,,9,,,,
+20047766018,SANJU KUMARI,Miranda House,7,9,7,8,6,9,8,8,8,8,,8,7,,,,8,,8,,,,8,,,,,,
+20047766019,Shivani,Miranda House,6,7,6,8,5,8,8,7,7,6,,7,6,6,6,,,,,,,,8,,,,,,
+20047766020,Shivani,Miranda House,8,8,8,9,8,9,8,8,8,6,,8,8,,,,8,7,,9,,,,,,,,,
+20047766021,Shweta,Miranda House,8,9,8,9,7,9,9,9,9,7,,8,7,,,9,8,8,,,,,,,,,,,
+20047766022,Srishti Chauhan,Miranda House,6,8,7,9,6,8,7,7,7,6,,8,7,8,7,,,,,9,,,,,,,,,
+20047766023,Sushma yadav,Miranda House,7,9,8,9,7,9,9,9,9,7,,7,8,,,,8,,7,,8,,,,,,,,
+20047766024,Victoria Ngangbam,Miranda House,9,9,8,9,8,9,9,9,9,6,,8,8,,,,9,7,,9,,,,,,,,,
+20047766025,VRINDA SHANKAR,Miranda House,9,8,7,9,8,9,8,8,8,7,,8,7,7,,,,8,,,7,,,,,,,,
+20047766026,Pinki,Miranda House,7,8,7,9,6,9,8,8,8,6,,7,7,7,,9,,6,,,,,,,,,,,
+20047766028,RAFIA JAMAL,Miranda House,8,8,7,9,7,9,8,7,8,6,,7,7,,7,,,,,,,7,8,,,,,,
+20056766001,HARSHEEN KAUR MALHI,Ramjas College,8,9,8,9,9,9,9,9,9,8,,8,8,,,,,9,,,,8,7,,,,,,
+20056766002,MEENAKSHI,Ramjas College,7,8,8,9,7,9,8,8,8,7,,8,7,6,7,9,,,,,,,,,,,,,
+20056766004,Monika choudhary,Ramjas College,7,7,7,7,7,9,8,8,8,6,,7,7,,,,,6,,8,,6,,,,,,,
+20056766005,NISHA SARSWAT,Ramjas College,8,9,7,9,7,9,8,8,8,7,,7,6,,,,8,,9,9,,,,,,,,,
+20056766006,Radhika,Ramjas College,8,8,8,9,7,9,8,8,9,7,,8,7,,,,8,,8,,8,,,,,,,,
+20056766007,RUPAM KUMARI,Ramjas College,8,9,8,9,8,9,9,8,8,8,,8,7,,,,8,8,,,,,,,,9,,,
+20056766008,RUPOM PATHORI,Ramjas College,8,8,7,8,7,9,8,8,8,7,,7,7,,,,,7,,9,,7,,,,,,,
+20056766009,SHIVANI SINGH,Ramjas College,7,8,7,8,7,9,9,8,9,7,,8,6,,,,,8,,9,,7,,,,,,,
+20056766010,Sumita Poonia,Ramjas College,7,8,7,8,7,9,8,8,8,6,,7,7,,,9,8,7,,,,,,,,,,,
+20056766011,Sushil,Ramjas College,7,8,7,8,7,9,8,8,8,6,,7,6,6,,9,,6,,,,,,,,,,,
+20056766012,VISHAL SINHA,Ramjas College,9,9,8,9,7,9,8,8,8,8,,8,8,,8,,8,,,9,,,,,,,,,
+20025766001,Alice Subba,Hans Raj College,8,8,7,8,7,9,9,8,8,7,,7,7,,,,,6,,,,7,,,,9,,,
+20025766002,Anamika Kutrial,Hans Raj College,8,8,8,9,7,9,9,8,9,7,,8,8,,,9,,,9,,,8,,,,,,,
+20025766003,Anand Singh Rathore,Hans Raj College,5,8,7,8,7,9,9,8,8,6,,7,7,,7,,8,,,,,,,,,,7,,
+20025766004,AYUSHI RATURI,Hans Raj College,8,9,7,9,7,9,9,8,8,8,,8,8,,,,9,,9,,,,8,,,,,,
+20025766005,Deepali Saini,Hans Raj College,8,8,6,7,7,9,8,8,8,6,,7,6,,,,,6,,,,7,,,,,,8,
+20025766006,Dinesh Kumar Meena,Hans Raj College,8,8,7,9,7,9,8,8,8,6,,7,7,,7,,7,,,9,,,,,,,,,
+20025766007,Garima Devi,Hans Raj College,7,8,7,8,7,9,8,8,9,6,,7,7,,8,,8,,,,,,,,9,,,,
+20025766008,Jagbir Kaur Garry,Hans Raj College,8,9,8,9,8,9,9,9,9,7,,8,8,,,9,8,7,,,,,,,,,,,
+20025766009,Kalpit rani,Hans Raj College,7,8,7,8,6,8,8,7,7,7,,7,7,,,,,6,,,,7,,,8,,,,
+20025766011,KUMARI NIRMALA,Hans Raj College,7,8,7,9,7,9,9,9,9,6,,7,7,,,9,8,7,,,,,,,,,,,
+20025766012,Kunal Anand,Hans Raj College,6,8,7,8,6,8,8,7,8,6,,7,7,6,8,,,,,,,,,,9,,,,
+20025766013,Lucky,Hans Raj College,7,8,7,8,7,9,8,8,8,6,,7,8,,8,9,8,,,,,,,,,,,,
+20025766014,Manisha devi,Hans Raj College,4,6,7,7,6,8,7,7,8,5,,7,7,6,6,,,,,9,,,,,,,,,
+20025766015,MEENAKSHI,Hans Raj College,8,9,8,9,6,9,9,8,9,7,,8,8,8,,,,8,,,,,8,,,,,,
+20025766016,Mohini,Hans Raj College,8,9,8,9,8,9,9,9,9,8,,8,8,,,9,,,9,,,9,,,,,,,
+20025766017,MUSKAN,Hans Raj College,8,8,7,8,7,9,8,8,8,7,,7,8,,,9,,,9,,,8,,,,,,,
+20025766018,Payal Patra,Hans Raj College,8,9,8,9,7,9,9,8,9,8,,8,9,8,,,,7,,,8,,,,,,,,
+20025766020,priyanka,Hans Raj College,8,9,7,9,7,9,9,9,9,7,,7,7,,,,,,8,,,7,8,,,,,,
+20025766021,Richa Mullick,Hans Raj College,7,8,7,9,7,9,8,7,8,7,,8,7,,,,9,7,,9,,,,,,,,,
+20025766022,Riya Rani Sah,Hans Raj College,5,8,7,9,6,9,8,8,8,6,,7,7,,6,,8,,,9,,,,,,,,,
+20025766023,Sherin Babu,Hans Raj College,8,8,7,8,8,8,8,7,8,7,,8,8,,8,,,,,9,,7,,,,,,,
+20025766024,stuti kumari,Hans Raj College,7,8,7,9,7,9,8,8,8,6,,8,7,,,8,,6,,,,8,,,,,,,
+20025766025,Sunny,Hans Raj College,8,8,8,9,7,9,8,8,8,7,0,7,6,,8,,8,,,,,,,,,,,,
+20025766026,Vikas Singh,Hans Raj College,8,9,8,9,6,8,8,7,7,6,,7,7,,,9,,6,,,,7,,,,,,,
+20025766027,Vrashti Sharma,Hans Raj College,9,8,7,9,7,9,8,8,8,7,,8,7,,8,9,,,,,,7,,,,,,,
+20068766001,ADWAIT MISHRA,S.G.T.B. Khalsa College,9,8,8,8,8,9,9,8,9,8,,8,7,7,,9,,8,,,,,,,,,,,
+20068766003,MANISHA,S.G.T.B. Khalsa College,8,8,7,8,7,9,8,8,8,7,,7,7,,,9,,7,,,,6,,,,,,,
+20068766004,PANKAJ ANAND,S.G.T.B. Khalsa College,7,8,7,9,6,8,8,8,8,7,,7,7,,6,,7,,,9,,,,,,,,,
+20068766005,SADIYAH AFROZ,S.G.T.B. Khalsa College,8,9,7,9,8,9,9,9,9,8,,8,8,,,,9,,9,,8,,,,,,,,
+20068766006,SAGRIKA SHARMA,S.G.T.B. Khalsa College,7,7,7,7,7,8,8,8,8,6,,7,7,6,8,,,,,9,,,,,,,,,
+20068766007,SHIVAM KABRA,S.G.T.B. Khalsa College,8,8,7,9,7,9,8,9,9,7,,7,7,,,,,,8,,7,7,,,,,,,
+20068766008,TWINKLE KATHURIA,S.G.T.B. Khalsa College,8,9,8,9,8,9,9,9,9,8,,7,8,8,,,,,9,9,,,,,,,,,
+20068766009,VARNIKA PANWAR,S.G.T.B. Khalsa College,8,9,7,9,8,9,9,9,9,8,,8,8,,,,9,,9,,8,,,,,,,,
+20068766010,komal,S.G.T.B. Khalsa College,7,9,6,9,7,9,8,8,8,6,,7,8,6,,,,6,,8,,,,,,,,,
+20036766001,Ajit Pradhan,Kirori Mal College,4,8,6,7,6,8,8,7,8,5,,7,6,6,7,,,,,,,,6,,,,,,
+20036766002,Anchal,Kirori Mal College,8,9,8,9,7,9,9,8,9,6,,8,8,,,9,,,8,,,8,,,,,,,
+20036766004,chinglemba chingtham,Kirori Mal College,7,8,7,8,7,8,8,7,7,7,,8,7,,,9,,7,,,,7,,,,,,,
+20036766005,Gargi sharma,Kirori Mal College,7,6,6,6,7,8,7,7,7,6,,7,6,5,6,,,,,8,,,,,,,,,
+20036766006,HEMANTI KANDPAL,Kirori Mal College,8,8,8,9,8,9,9,8,9,7,,8,8,8,,9,,7,,,,,,,,,,,
+20036766007,Mahima Gupta,Kirori Mal College,8,8,8,9,7,9,8,8,9,7,,8,8,,8,10,8,,,,,,,,,,,,
+20036766010,SHILPA NANDI,Kirori Mal College,8,9,8,9,8,9,9,9,9,8,,8,8,,,,,,8,,,8,8,,,,,,
+20036766012,Shweta,Kirori Mal College,8,9,8,9,7,9,9,9,9,7,,7,8,,,9,9,,9,,,,,,,,,,
+20036766013,Vishakha Yadav,Kirori Mal College,6,7,5,0,5,8,8,8,7,6,,7,7,7,7,8,,,,,,,,,,,,,
+20079766001,Aashita singh,Sri Venkateswara College,8,8,7,9,7,9,8,8,8,7,,7,7,7,,,,,8,9,,,,,,,,,
+20079766002,Aastha Saini,Sri Venkateswara College,9,9,7,9,8,9,9,7,8,7,,8,8,9,,,,7,,,,,8,,,,,,
+20079766003,Abhishek,Sri Venkateswara College,8,8,7,8,6,9,8,8,9,7,,8,7,,,,8,7,,9,,,,,,,,,
+20079766004,Komal Yadav,Sri Venkateswara College,8,9,7,9,7,9,8,8,8,7,,8,8,7,,8,,7,,,,,,,,,,,
+20079766005,Madhu,Sri Venkateswara College,8,8,7,9,8,9,9,9,9,6,,7,8,,8,,,,,9,,8,,,,,,,
+20079766006,Muskan Yadav,Sri Venkateswara College,7,8,7,9,7,8,8,7,8,7,,8,8,,,,8,,8,,,,,,9,,,,
+20026766001,AASTHA,Hindu College,9,8,7,9,7,9,8,8,8,6,,8,7,,8,9,,,,,,7,,,,,,,
+20026766002,Auroni Deep,Hindu College,9,8,7,9,8,9,9,8,9,8,,8,8,,,,,,8,,,8,,,,,,,8
+20026766005,Jaldhi,Hindu College,7,8,7,8,6,9,9,8,8,7,,7,7,,8,,,,,9,,7,,,,,,,
+20026766006,JASSIKA GUPTA,Hindu College,8,9,8,9,8,9,9,9,9,8,,8,8,8,,,,,9,9,,,,,,,,,
+20026766007,Nida,Hindu College,8,8,7,9,7,9,9,8,9,8,,7,7,,8,,8,,,9,,,,,,,,,
+20026766008,NIKITA YADAV,Hindu College,8,8,7,8,7,9,8,8,8,7,,7,7,,,,8,,8,,,,,,9,,,,
+20026766009,PADMA YANGSKIT,Hindu College,7,8,7,8,5,8,7,7,8,6,,7,6,7,7,,,,,9,,,,,,,,,
+20026766010,Priyanka,Hindu College,8,8,7,9,6,9,8,8,8,7,,8,7,,,,,,8,,,7,,8,,,,,
+20026766011,RAHUL YADAV,Hindu College,7,8,7,8,7,9,8,8,9,7,,8,8,,,,8,7,,9,,,,,,,,,
+20026766012,ROHAN BAHL,Hindu College,9,9,8,9,8,9,9,9,9,10,,8,8,,,,,10,,,,8,8,,,,,,
+20026766013,Ruchira Agarwal,Hindu College,7,8,7,9,7,9,9,8,8,7,,8,8,,,,,,8,,,8,8,,,,,,
+20026766014,Sandeep Kour,Hindu College,7,8,5,8,7,9,8,8,8,6,,7,6,5,6,8,,,,,,,,,,,,,
+20026766015,SHEETAL PANWAR,Hindu College,8,8,8,8,7,8,8,7,7,7,,7,7,,,,,6,,8,,7,,,,,,,
+20026766016,Shirin Qureshi,Hindu College,8,9,8,9,8,9,9,9,9,8,,8,8,,,,,,9,,,9,,,,,8,,
+20026766017,Shiva Satija,Hindu College,7,8,7,9,6,9,9,9,9,8,,7,8,,,,8,,8,,,,,,9,,,,
+20026766019,STANZIN ZANGMO,Hindu College,7,7,6,7,6,9,8,8,8,6,,7,7,7,6,,,,,9,,,,,,,,,
+20026766020,SUBHAM MOHANTY,Hindu College,9,8,7,9,6,9,8,8,9,6,,7,8,6,,,,7,,9,,,,,,,,,
+20026766022,Vishakha,Hindu College,7,8,7,8,4,8,8,8,8,6,,8,7,8,9,,,,,9,,,,,,,,,
+20026766023,TANISHA BHIMWAL,Hindu College,8,9,8,9,7,9,8,8,8,7,,8,8,,,,9,,9,,,,,,,,,,7

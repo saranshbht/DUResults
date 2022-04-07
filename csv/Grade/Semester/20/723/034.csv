@@ -1,21 +1,20 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20034723002,Anisha Gahlawat,Kamla Nehru College,6.25,6.42,6.341
-20034723003,Apoorva Singh,Kamla Nehru College,6.25,6.63,6.455
-20034723004,Devayani MC,Kamla Nehru College,6.25,5.58,5.886
-20034723005,HEMAM MACHALEIMA CHANU,Kamla Nehru College,6.50,6.38,6.432
-20034723006,Himani chandra,Kamla Nehru College,5.75,6.79,6.318
-20034723007,Ishita Gupta,Kamla Nehru College,6.50,6.79,6.659
-20034723008,Jhanvi,Kamla Nehru College,7.50,7.21,7.341
-20034723009,JYOTSNA PRABHAT,Kamla Nehru College,6.75,7.00,6.886
-20034723010,Khushboo Singh,Kamla Nehru College,6.75,6.79,6.773
-20034723012,Kunzang Choskit,Kamla Nehru College,6.25,3.38,4.682
-20034723013,Manya Singh,Kamla Nehru College,7.25,7.58,7.432
-20034723014,Monika,Kamla Nehru College,6.75,6.83,6.795
-20034723015,Pooja Verma,Kamla Nehru College,6.50,6.00,6.227
-20034723016,Praneet Kaur Chawla,Kamla Nehru College,5.50,5.42,5.455
-20034723017,PRATIBHA PAUL,Kamla Nehru College,6.75,6.58,6.659
-20034723018,Ritu Rewaria,Kamla Nehru College,6.50,6.17,6.318
-20034723019,SREEJITA MOOKHERJEE,Kamla Nehru College,8.25,8.00,8.114
-20034723020,Titiksha Rustagi,Kamla Nehru College,7.50,7.63,7.568
-20034723022,Vaishali Singh,Kamla Nehru College,6.25,6.00,6.114
-20034723023,vaishnavi baghel,Kamla Nehru College,7.25,6.79,7.000
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20034723002,Anisha Gahlawat,Kamla Nehru College,6.25,6.42,6.00,6.234
+20034723003,APOORVA SINGH,Kamla Nehru College,6.25,6.63,6.00,6.313
+20034723004,Devayani MC,Kamla Nehru College,6.25,5.58,5.50,5.766
+20034723005,HEMAM MACHALEIMA CHANU,Kamla Nehru College,6.50,6.38,6.00,6.297
+20034723006,Himani chandra,Kamla Nehru College,5.75,6.79,5.50,6.063
+20034723007,Ishita Gupta,Kamla Nehru College,6.50,6.79,5.50,6.297
+20034723008,JHANVI,Kamla Nehru College,7.50,7.21,7.00,7.234
+20034723009,JYOTSNA PRABHAT,Kamla Nehru College,6.75,7.00,6.25,6.688
+20034723010,Khushboo Singh,Kamla Nehru College,6.75,6.79,6.00,6.531
+20034723012,Kunzang Choskit,Kamla Nehru College,6.25,3.38,6.50,5.250
+20034723013,Manya Singh,Kamla Nehru College,7.25,7.58,7.50,7.453
+20034723014,MONIKA,Kamla Nehru College,6.75,6.83,6.25,6.625
+20034723015,Pooja Verma,Kamla Nehru College,6.50,6.00,6.25,6.234
+20034723016,PRANEET KAUR CHAWLA,Kamla Nehru College,5.50,5.42,6.75,5.859
+20034723017,PRATIBHA PAUL,Kamla Nehru College,6.75,6.58,6.00,6.453
+20034723018,RITU REWARIA,Kamla Nehru College,6.50,6.17,6.50,6.375
+20034723019,SREEJITA MOOKHERJEE,Kamla Nehru College,8.25,8.00,7.00,7.766
+20034723022,Vaishali Singh,Kamla Nehru College,6.25,6.00,6.00,6.078
+20034723023,vaishnavi baghel,Kamla Nehru College,7.25,6.79,6.50,6.844
