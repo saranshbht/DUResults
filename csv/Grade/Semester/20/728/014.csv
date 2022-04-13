@@ -1,23 +1,22 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20014728001,Anjali,Daulat Ram College,5.75,5.32,5.538
-20014728002,ANJALI,Daulat Ram College,8.75,7.74,8.256
-20014728003,Archana,Daulat Ram College,7.75,6.47,7.128
-20014728004,Arshita Singh,Daulat Ram College,9.00,8.21,8.615
-20014728005,Bhavya Raj,Daulat Ram College,7.75,5.95,6.872
-20014728006,DEEPIKA,Daulat Ram College,7.75,8.00,7.872
-20014728008,Himani Shukla,Daulat Ram College,8.75,7.21,8.000
-20014728009,Jyoti,Daulat Ram College,8.00,6.47,7.256
-20014728010,Jyoti sahu,Daulat Ram College,7.75,7.21,7.487
-20014728011,kajal,Daulat Ram College,7.75,6.95,7.359
-20014728012,Mansi,Daulat Ram College,8.25,6.74,7.513
-20014728013,Nasreen,Daulat Ram College,8.50,8.74,8.615
-20014728014,NIDHI,Daulat Ram College,8.25,8.00,8.128
-20014728015,Pooja,Daulat Ram College,8.25,4.42,6.385
-20014728016,Preeti Pandey,Daulat Ram College,7.50,7.21,7.359
-20014728017,Priya mishra,Daulat Ram College,9.00,8.74,8.872
-20014728019,RUCHI SHARMA,Daulat Ram College,7.50,6.21,6.872
-20014728020,Sadhana mishra,Daulat Ram College,5.75,6.21,5.974
-20014728021,Sangeeta,Daulat Ram College,7.75,6.47,7.128
-20014728022,Shivani Singh,Daulat Ram College,8.25,6.21,7.256
-20014728023,Suman,Daulat Ram College,7.75,7.21,7.487
-20014728024,TWINKAL,Daulat Ram College,8.50,8.47,8.487
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20014728002,ANJALI,Daulat Ram College,8.75,7.74,7.36,7.934
+20014728003,Archana,Daulat Ram College,7.75,6.47,7.05,7.098
+20014728004,ARSHITA SINGH,Daulat Ram College,9.00,8.21,7.82,8.328
+20014728006,DEEPIKA,Daulat Ram College,7.75,8.00,7.95,7.902
+20014728007,Disha Rajput,Daulat Ram College,8.25,8.00,8.05,8.098
+20014728008,Himani Shukla,Daulat Ram College,8.75,7.21,7.18,7.705
+20014728009,Jyoti,Daulat Ram College,8.00,6.47,6.95,7.148
+20014728010,Jyoti sahu,Daulat Ram College,7.75,7.21,7.45,7.475
+20014728011,kajal,Daulat Ram College,7.75,6.95,6.68,7.115
+20014728013,Nasreen,Daulat Ram College,8.50,8.74,5.95,7.656
+20014728014,NIDHI,Daulat Ram College,8.25,8.00,6.82,7.656
+20014728015,Pooja,Daulat Ram College,8.25,7.47,6.77,7.475
+20014728016,Preeti Pandey,Daulat Ram College,7.50,7.21,6.41,7.016
+20014728017,Priya mishra,Daulat Ram College,9.00,8.74,8.77,8.836
+20014728018,RINKU CHAUHAN,Daulat Ram College,7.50,4.42,6.55,6.197
+20014728019,RUCHI SHARMA,Daulat Ram College,7.50,6.21,7.14,6.967
+20014728020,Sadhana mishra,Daulat Ram College,5.75,6.21,6.32,6.098
+20014728021,Sangeeta,Daulat Ram College,7.75,6.47,8.27,7.541
+20014728022,Shivani Singh,Daulat Ram College,8.25,6.21,0.00,4.639
+20014728023,Suman,Daulat Ram College,7.75,7.21,7.05,7.328
+20014728024,TWINKAL,Daulat Ram College,8.50,8.47,7.18,8.016

@@ -1,27 +1,26 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20036716001,AKANKSHA,Kirori Mal College,7.25,7.25,7.250
-20036716002,AKASH KUMAR,Kirori Mal College,6.50,6.25,6.375
-20036716003,Arushi Bourai,Kirori Mal College,7.00,6.75,6.875
-20036716004,BHAWNA,Kirori Mal College,7.25,7.00,7.125
-20036716005,Kamal Kishor Bhatt,Kirori Mal College,6.50,7.00,6.750
-20036716006,Kera ram,Kirori Mal College,6.50,7.00,6.750
-20036716007,LAVKUSH,Kirori Mal College,6.25,6.50,6.375
-20036716008,MANTHAN MAHALA,Kirori Mal College,7.25,7.75,7.500
-20036716009,Mohit Yadav,Kirori Mal College,6.75,7.00,6.875
-20036716010,Pardeep Kumar,Kirori Mal College,6.75,6.25,6.500
-20036716011,Parul Kanojia,Kirori Mal College,6.75,7.00,6.875
-20036716012,Piyush Kumar,Kirori Mal College,6.25,6.75,6.500
-20036716013,Poorva Chaudhary,Kirori Mal College,7.50,8.00,7.750
-20036716014,praveen kumar,Kirori Mal College,6.75,7.00,6.875
-20036716015,Priyanshi Agrawal,Kirori Mal College,7.00,8.00,7.500
-20036716016,Sawai Singh Panwar,Kirori Mal College,6.75,7.25,7.000
-20036716017,SHEETAL,Kirori Mal College,7.00,7.25,7.125
-20036716019,Shivani Kundu,Kirori Mal College,6.50,7.00,6.750
-20036716020,SHREYA SRIVASTAVA,Kirori Mal College,7.25,8.00,7.625
-20036716021,Siddhant Singh Kushwah,Kirori Mal College,6.50,7.75,7.125
-20036716022,Sundaram Kumar Pandey,Kirori Mal College,6.50,6.25,6.375
-20036716023,Tanya Singh,Kirori Mal College,7.50,8.75,8.125
-20036716024,Vishal Saini,Kirori Mal College,5.50,6.00,5.750
-20036716025,AMBAR RAJ,Kirori Mal College,5.25,6.25,5.750
-20036716026,DECHEN DOLKAR,Kirori Mal College,6.75,6.75,6.750
-20036716027,DHEERAJ MARMAT,Kirori Mal College,4.50,7.00,5.750
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20036716001,AKANKSHA,Kirori Mal College,7.25,7.25,7.25,7.250
+20036716002,AKASH KUMAR,Kirori Mal College,6.50,6.25,5.75,6.167
+20036716003,Arushi Bourai,Kirori Mal College,7.00,6.75,6.25,6.667
+20036716004,BHAWNA,Kirori Mal College,7.25,7.00,6.75,7.000
+20036716005,Kamal Kishor Bhatt,Kirori Mal College,6.50,7.00,6.75,6.750
+20036716006,Kera ram,Kirori Mal College,6.50,7.00,6.50,6.667
+20036716008,MANTHAN MAHALA,Kirori Mal College,7.25,7.75,7.25,7.417
+20036716009,Mohit Yadav,Kirori Mal College,6.75,7.00,7.00,6.917
+20036716010,Pardeep Kumar,Kirori Mal College,6.75,6.25,6.75,6.583
+20036716011,Parul Kanojia,Kirori Mal College,6.75,7.00,7.00,6.917
+20036716012,Piyush Kumar,Kirori Mal College,6.25,6.75,7.50,6.833
+20036716013,Poorva Chaudhary,Kirori Mal College,7.50,8.00,7.00,7.500
+20036716014,praveen kumar,Kirori Mal College,6.75,7.00,6.00,6.583
+20036716015,Priyanshi Agrawal,Kirori Mal College,7.00,8.00,7.75,7.583
+20036716016,Sawai Singh Panwar,Kirori Mal College,6.75,7.25,7.00,7.000
+20036716017,SHEETAL,Kirori Mal College,7.00,7.25,7.00,7.083
+20036716019,Shivani Kundu,Kirori Mal College,6.50,7.00,6.50,6.667
+20036716020,SHREYA SRIVASTAVA,Kirori Mal College,7.25,8.00,6.50,7.250
+20036716021,Siddhant Singh Kushwah,Kirori Mal College,6.50,7.75,7.00,7.083
+20036716022,Sundaram Kumar Pandey,Kirori Mal College,6.50,6.25,5.75,6.167
+20036716023,Tanya Singh,Kirori Mal College,7.50,8.75,7.50,7.917
+20036716024,Vishal Saini,Kirori Mal College,5.50,6.00,7.00,6.167
+20036716025,AMBAR RAJ,Kirori Mal College,5.25,6.25,6.50,6.000
+20036716026,DECHEN DOLKAR,Kirori Mal College,6.75,6.75,7.00,6.833
+20036716027,DHEERAJ MARMAT,Kirori Mal College,6.00,7.00,6.25,6.417

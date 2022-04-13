@@ -1,12 +1,11 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20033728001,Arti pal ghussar,Kalindi College,6.75,5.47,6.128
-20033728002,Khushboo Jaiswal,Kalindi College,7.50,8.26,7.872
-20033728003,Komal,Kalindi College,7.25,5.74,6.513
-20033728004,Madhu,Kalindi College,8.25,7.47,7.872
-20033728005,Manisha Saxena,Kalindi College,8.00,7.47,7.744
-20033728006,Nikita,Kalindi College,8.25,7.74,8.000
-20033728007,Priyanka,Kalindi College,7.25,7.47,7.359
-20033728008,Sakshi,Kalindi College,6.25,5.74,6.000
-20033728010,Shallu,Kalindi College,7.50,6.68,7.103
-20033728011,Tripti upadhya,Kalindi College,7.00,6.74,6.872
-20033728012,Varsha Sharma,Kalindi College,7.00,6.47,6.744
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20033728001,ARTI PAL GHUSSAR,Kalindi College,6.75,5.47,6.00,6.082
+20033728002,KHUSHBOO JAISWAL,Kalindi College,7.50,8.26,8.00,7.918
+20033728003,KOMAL,Kalindi College,7.25,5.74,5.50,6.148
+20033728005,MANISHA SAXENA,Kalindi College,8.00,7.47,8.00,7.836
+20033728006,NIKITA,Kalindi College,8.25,7.74,7.36,7.770
+20033728007,PRIYANKA,Kalindi College,7.25,7.47,6.82,7.164
+20033728008,SAKSHI,Kalindi College,6.25,5.74,6.50,6.180
+20033728009,SANGEETA KUMARI,Kalindi College,8.00,6.95,6.82,7.246
+20033728011,TRIPTI UPADHYA,Kalindi College,7.00,6.74,6.23,6.639
+20033728012,VARSHA SHARMA,Kalindi College,7.00,6.47,3.36,5.525

@@ -1,37 +1,35 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20039716001,AAKANKSHA KUMARI,Lady Shri Ram College for Women,6.25,6.25,6.250
-20039716002,Adapa. VindhyaSree,Lady Shri Ram College for Women,6.50,7.00,6.750
-20039716003,AISWARYA V.T,Lady Shri Ram College for Women,6.25,7.00,6.625
-20039716004,Alina Sara Samuel,Lady Shri Ram College for Women,6.75,7.00,6.875
-20039716005,Ananya,Lady Shri Ram College for Women,6.25,6.00,6.125
-20039716006,Ananya Liza Dutta,Lady Shri Ram College for Women,7.25,7.25,7.250
-20039716007,Anju,Lady Shri Ram College for Women,6.50,6.50,6.500
-20039716008,Anu,Lady Shri Ram College for Women,4.75,6.00,5.375
-20039716009,Anupama Kushwaha,Lady Shri Ram College for Women,6.25,6.75,6.500
-20039716010,ASHRAWI KHAN,Lady Shri Ram College for Women,7.00,7.00,7.000
-20039716011,Deepshi Goel,Lady Shri Ram College for Women,7.00,7.00,7.000
-20039716012,Divya Singh,Lady Shri Ram College for Women,7.25,7.00,7.125
-20039716013,HARSHITA SINGHDEO,Lady Shri Ram College for Women,6.50,7.00,6.750
-20039716014,ISHITA AHLUWALIA,Lady Shri Ram College for Women,7.50,7.25,7.375
-20039716015,Jareena Tabbasum,Lady Shri Ram College for Women,6.25,6.25,6.250
-20039716016,Kanishka Choudhary,Lady Shri Ram College for Women,5.50,6.00,5.750
-20039716017,Komal Rani,Lady Shri Ram College for Women,6.75,7.00,6.875
-20039716018,MUNESHI BAIRWA,Lady Shri Ram College for Women,6.25,7.00,6.625
-20039716019,NEHA YADAV,Lady Shri Ram College for Women,6.25,7.00,6.625
-20039716020,P Srinidhi,Lady Shri Ram College for Women,6.00,6.50,6.250
-20039716021,Pratibha Sheoran,Lady Shri Ram College for Women,7.00,7.00,7.000
-20039716022,Priyanka,Lady Shri Ram College for Women,6.25,6.25,6.250
-20039716023,Pushpa Sharma,Lady Shri Ram College for Women,6.25,6.50,6.375
-20039716024,Richa Singh,Lady Shri Ram College for Women,7.00,7.00,7.000
-20039716026,Sakshi,Lady Shri Ram College for Women,6.25,6.75,6.500
-20039716027,Sanghmitra Chandra,Lady Shri Ram College for Women,6.75,6.75,6.750
-20039716028,SANTHA SUHANJALI,Lady Shri Ram College for Women,7.25,7.25,7.250
-20039716029,Sarah Aiman,Lady Shri Ram College for Women,7.00,7.00,7.000
-20039716030,shweta kumari,Lady Shri Ram College for Women,5.50,6.00,5.750
-20039716031,Sumedha Mukherjee,Lady Shri Ram College for Women,6.50,7.00,6.750
-20039716032,TWINKLE DERU,Lady Shri Ram College for Women,6.50,6.75,6.625
-20039716033,VISHAKHA TYAGI,Lady Shri Ram College for Women,6.25,6.50,6.375
-20039716035,Amisha Gautam,Lady Shri Ram College for Women,6.75,6.75,6.750
-20039716036,SHUBHRA,Lady Shri Ram College for Women,6.00,6.00,6.000
-20039716037,SUDHA,Lady Shri Ram College for Women,6.50,6.50,6.500
-20039716038,SEJAL DAHIYA,Lady Shri Ram College for Women,5.00,6.00,5.500
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20039716001,AAKANKSHA KUMARI,Lady Shri Ram College for Women,6.25,6.25,6.50,6.333
+20039716002,Adapa. VindhyaSree,Lady Shri Ram College for Women,6.50,7.00,6.75,6.750
+20039716003,AISWARYA V.T,Lady Shri Ram College for Women,6.25,7.00,6.75,6.667
+20039716004,Alina Sara Samuel,Lady Shri Ram College for Women,6.75,7.00,7.25,7.000
+20039716006,Ananya Liza Dutta,Lady Shri Ram College for Women,7.25,7.25,7.75,7.417
+20039716007,Anju,Lady Shri Ram College for Women,6.50,6.50,6.25,6.417
+20039716009,Anupama Kushwaha,Lady Shri Ram College for Women,6.25,6.75,6.50,6.500
+20039716010,ASHRAWI KHAN,Lady Shri Ram College for Women,7.00,7.00,6.75,6.917
+20039716011,Deepshi Goel,Lady Shri Ram College for Women,7.00,7.00,7.00,7.000
+20039716012,Divya Singh,Lady Shri Ram College for Women,7.25,7.00,6.75,7.000
+20039716013,HARSHITA SINGHDEO,Lady Shri Ram College for Women,6.50,7.00,6.25,6.583
+20039716014,ISHITA AHLUWALIA,Lady Shri Ram College for Women,7.50,7.25,7.25,7.333
+20039716015,Jareena Tabbasum,Lady Shri Ram College for Women,6.25,6.25,7.00,6.500
+20039716016,Kanishka Choudhary,Lady Shri Ram College for Women,5.50,6.00,6.75,6.083
+20039716017,Komal Rani,Lady Shri Ram College for Women,6.75,7.00,6.50,6.750
+20039716018,MUNESHI BAIRWA,Lady Shri Ram College for Women,6.25,7.00,6.00,6.417
+20039716019,NEHA YADAV,Lady Shri Ram College for Women,6.25,7.00,6.25,6.500
+20039716020,P Srinidhi,Lady Shri Ram College for Women,6.00,6.50,6.00,6.167
+20039716021,Pratibha Sheoran,Lady Shri Ram College for Women,7.00,7.00,7.25,7.083
+20039716022,Priyanka,Lady Shri Ram College for Women,6.25,6.25,6.25,6.250
+20039716023,Pushpa Sharma,Lady Shri Ram College for Women,6.25,6.50,4.50,5.750
+20039716024,Richa Singh,Lady Shri Ram College for Women,7.00,7.00,7.25,7.083
+20039716025,Riddhi Rastogi,Lady Shri Ram College for Women,6.75,6.75,4.75,6.083
+20039716026,Sakshi,Lady Shri Ram College for Women,6.25,6.75,6.00,6.333
+20039716027,Sanghmitra Chandra,Lady Shri Ram College for Women,6.75,6.75,5.75,6.417
+20039716028,SANTHA SUHANJALI,Lady Shri Ram College for Women,7.25,7.25,7.50,7.333
+20039716030,shweta kumari,Lady Shri Ram College for Women,5.75,6.00,6.50,6.083
+20039716031,Sumedha Mukherjee,Lady Shri Ram College for Women,6.50,7.00,7.00,6.833
+20039716032,TWINKLE DERU,Lady Shri Ram College for Women,6.50,6.75,6.00,6.417
+20039716033,VISHAKHA TYAGI,Lady Shri Ram College for Women,6.25,6.50,6.75,6.500
+20039716035,Amisha Gautam,Lady Shri Ram College for Women,6.75,6.75,0.00,4.500
+20039716036,SHUBHRA,Lady Shri Ram College for Women,6.00,6.00,6.50,6.167
+20039716037,SUDHA,Lady Shri Ram College for Women,6.50,6.50,6.25,6.417
+20039716038,SEJAL DAHIYA,Lady Shri Ram College for Women,5.00,6.00,6.75,5.917

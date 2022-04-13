@@ -26934,3 +26934,144 @@ Error at 20 798 241
 Error at 20 799 241
 Courses to be updated
 {"17":[],"18":[],"19":[],"20":[]}
+2022-04-13T01:00:11.582Z
+nov_dec
+Grade
+ASP.NET_SessionId=girgzs55uffvowzcpn0h1get
+Courses to be downloaded
+{"19":["503","504","511","527"],"20":["703","704","705","716","718","728","744","775","776","777","798","799"],"21":["775","776"]}
+Error at 19 503 063
+Error at 19 503 048
+Error at 19 503 086
+Error at 19 503 084
+Error at 19 503 034
+Error at 19 504 001
+Error at 19 504 039
+Error at 19 504 063
+Error at 19 504 048
+Error at 19 504 086
+Error at 19 511 039
+Error at 19 511 063
+Error at 19 511 048
+Error at 19 511 086
+Error at 19 511 084
+Error at 19 527 039
+Error at 19 527 063
+Error at 19 527 048
+Error at 19 527 086
+Error at 19 527 084
+20 703 208
+20 704 202
+20 705 208
+20 716 039
+20 716 047
+20 716 056
+20 716 085
+20 716 025
+20 716 055
+20 716 068
+20 716 036
+20 716 034
+20 716 079
+20 716 080
+20 716 029
+20 716 291
+20 716 026
+20 716 031
+Error at 20 718 029
+20 728 039
+20 728 084
+20 728 034
+20 728 029
+20 728 033
+20 728 026
+20 728 025
+20 728 044
+20 728 031
+20 728 047
+20 728 036
+20 728 075
+20 728 079
+20 728 080
+20 728 071
+20 728 019
+20 728 014
+20 728 040
+20 728 056
+20 728 085
+Error at 20 728 307
+New course but no college
+Error at 20 775 248
+New course but no college
+Error at 20 777 109
+Error at 20 798 241
+Error at 20 799 241
+Error at 21 775 248
+New course but no college
+Courses to be updated
+{"19":[],"20":["703","704","705","716","728"],"21":[]}
+Grade 20 703 208
+Grade 20 704 202
+Grade 20 705 208
+Grade 20 716 039
+Grade 20 716 047
+Grade 20 716 056
+Grade 20 716 085
+Grade 20 716 025
+Grade 20 716 055
+Grade 20 716 068
+Grade 20 716 036
+Grade 20 716 034
+Grade 20 716 079
+Grade 20 716 080
+Grade 20 716 029
+Grade 20 716 291
+Grade 20 716 026
+Grade 20 716 031
+Grade 20 728 039
+Grade 20 728 084
+Grade 20 728 034
+Grade 20 728 029
+Grade 20 728 033
+Grade 20 728 026
+Grade 20 728 025
+Grade 20 728 044
+Grade 20 728 031
+Grade 20 728 047
+Grade 20 728 036
+Grade 20 728 075
+Grade 20 728 079
+Grade 20 728 080
+Grade 20 728 071
+Grade 20 728 019
+Grade 20 728 014
+Grade 20 728 040
+Grade 20 728 056
+Grade 20 728 085
+{ Error: ENOENT: no such file or directory, scandir '/home/runner/work/DUResults/DUResults/html/Grade/20/728/307'
+    at Object.readdirSync (fs.js:790:3)
+    at Object.makeJsons (/home/runner/work/DUResults/DUResults/requirements.js:465:27)
+    at Promise.all.then (/home/runner/work/DUResults/DUResults/runner.js:59:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path:
+   '/home/runner/work/DUResults/DUResults/html/Grade/20/728/307' }
+may_june
+Grade
+ASP.NET_SessionId=jltivl45jmypj2455njx0ano
+Courses to be downloaded
+{"17":[],"18":[],"19":[],"20":["107","544","572","718","744","775","776","777","798","799"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 718 029
+New course but no college
+Error at 20 775 248
+New course but no college
+Error at 20 777 109
+Error at 20 798 241
+Error at 20 799 241
+Courses to be updated
+{"17":[],"18":[],"19":[],"20":[]}
