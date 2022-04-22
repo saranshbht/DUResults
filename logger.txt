@@ -27507,3 +27507,117 @@ Error at 20 798 241
 Error at 20 799 241
 Courses to be updated
 {"17":[],"18":[],"19":[],"20":[]}
+2022-04-22T01:03:36.638Z
+nov_dec
+Grade
+ASP.NET_SessionId=hio3q12josxmwa55yyxcsk45
+Courses to be downloaded
+{"19":["503","504","511","527"],"20":["712","713","717","718","744","775","776","777","798","799"],"21":["775","776"]}
+Error at 19 503 063
+Error at 19 503 048
+Error at 19 503 086
+Error at 19 503 084
+Error at 19 503 034
+Error at 19 504 001
+Error at 19 504 039
+Error at 19 504 063
+Error at 19 504 048
+Error at 19 504 086
+Error at 19 511 039
+Error at 19 511 063
+Error at 19 511 048
+Error at 19 511 086
+Error at 19 511 084
+Error at 19 527 039
+Error at 19 527 063
+Error at 19 527 048
+Error at 19 527 086
+Error at 19 527 084
+20 712 204
+20 713 039
+20 713 048
+20 713 084
+20 713 034
+20 713 029
+20 713 073
+20 713 033
+20 713 026
+20 713 008
+20 713 081
+20 713 025
+20 713 003
+20 713 044
+20 713 058
+20 713 076
+20 713 053
+20 713 031
+20 713 047
+20 713 036
+20 713 075
+20 713 071
+20 713 019
+20 713 014
+20 713 056
+20 713 085
+20 713 032
+20 713 055
+20 713 068
+20 717 204
+Error at 20 718 029
+New course but no college
+Error at 20 775 248
+New course but no college
+Error at 20 777 109
+Error at 20 798 241
+Error at 20 799 241
+Error at 21 775 248
+New course but no college
+Courses to be updated
+{"19":[],"20":["712","713","717"],"21":[]}
+Grade 20 712 204
+Grade 20 713 039
+Grade 20 713 048
+Grade 20 713 084
+Grade 20 713 034
+Grade 20 713 029
+Grade 20 713 073
+Grade 20 713 033
+Grade 20 713 026
+Grade 20 713 008
+Grade 20 713 081
+Grade 20 713 025
+Grade 20 713 003
+Grade 20 713 044
+Grade 20 713 058
+Grade 20 713 076
+Grade 20 713 053
+Grade 20 713 031
+Grade 20 713 047
+Grade 20 713 036
+Grade 20 713 075
+Grade 20 713 071
+Grade 20 713 019
+Grade 20 713 014
+Grade 20 713 056
+Grade 20 713 085
+Grade 20 713 032
+Grade 20 713 055
+Grade 20 713 068
+Grade 20 717 204
+may_june
+Grade
+ASP.NET_SessionId=aeyuhw45eh2amq55xkjt23nm
+Courses to be downloaded
+{"17":[],"18":[],"19":[],"20":["107","544","572","718","744","775","776","777","798","799"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 718 029
+New course but no college
+Error at 20 775 248
+New course but no college
+Error at 20 777 109
+Error at 20 798 241
+Error at 20 799 241
+Courses to be updated
+{"17":[],"18":[],"19":[],"20":[]}

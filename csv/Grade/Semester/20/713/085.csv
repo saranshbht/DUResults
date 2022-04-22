@@ -1,13 +1,11 @@
-RollNo,Name,College,Sem-I,Sem-II,Overall CGPA
-20085713001,ARVIND SINGH,Zakir Husain Delhi College (Day),7.00,7.00,7.000
-20085713002,Atul kumar singh,Zakir Husain Delhi College (Day),7.20,7.83,7.510
-20085713003,Brikesh Pandey,Zakir Husain Delhi College (Day),7.40,7.00,7.204
-20085713004,Dileep Kumar,Zakir Husain Delhi College (Day),7.00,8.00,7.490
-20085713005,Km anjali,Zakir Husain Delhi College (Day),7.00,8.00,7.490
-20085713007,Neha kumari,Zakir Husain Delhi College (Day),7.60,8.00,7.796
-20085713009,RAJARAM KUMAR,Zakir Husain Delhi College (Day),7.40,8.17,7.776
-20085713010,Rakesh kumar,Zakir Husain Delhi College (Day),7.20,8.00,7.592
-20085713011,Sanjeev kumar,Zakir Husain Delhi College (Day),7.00,8.00,7.490
-20085713012,Satya Prakash,Zakir Husain Delhi College (Day),7.00,7.58,7.286
-20085713013,Tarun kumar gautam,Zakir Husain Delhi College (Day),7.00,7.58,7.286
-20085713014,Yasmin Saifi,Zakir Husain Delhi College (Day),7.00,7.83,7.408
+RollNo,Name,College,Sem-I,Sem-II,Sem-III,Overall CGPA
+20085713001,ARVIND SINGH,Zakir Husain Delhi College (Day),7.00,7.00,6.60,6.865
+20085713002,ATUL KUMAR SINGH,Zakir Husain Delhi College (Day),7.20,7.83,0.00,4.973
+20085713003,BRIKESH PANDEY,Zakir Husain Delhi College (Day),7.40,7.00,7.00,7.135
+20085713004,DILEEP KUMAR,Zakir Husain Delhi College (Day),7.00,8.00,7.00,7.324
+20085713005,KM ANJALI,Zakir Husain Delhi College (Day),7.00,8.00,7.00,7.324
+20085713007,Neha kumari,Zakir Husain Delhi College (Day),7.60,8.00,7.00,7.527
+20085713010,RAKESH KUMAR,Zakir Husain Delhi College (Day),7.20,8.00,7.00,7.392
+20085713011,SANJEEV KUMAR,Zakir Husain Delhi College (Day),7.00,8.00,7.00,7.324
+20085713012,SATYA PRAKASH,Zakir Husain Delhi College (Day),7.00,7.58,7.00,7.189
+20085713014,YASMIN SAIFI,Zakir Husain Delhi College (Day),7.00,7.83,7.00,7.270
