@@ -30651,3 +30651,77 @@ Error at 20 798 241
 Error at 20 799 241
 Courses to be updated
 {"17":[],"18":[],"19":[],"20":[]}
+2022-06-10T01:05:51.377Z
+nov_dec
+Grade
+ASP.NET_SessionId=hbgjzt45bncfzbajjxvc4s45
+Courses to be downloaded
+{"19":["503","504","511","527"],"20":["503","504","511","527","718","744","775","776","777","798","799"],"21":["775","776"]}
+Error at 19 503 063
+Error at 19 503 048
+Error at 19 503 086
+Error at 19 503 084
+Error at 19 503 034
+Error at 19 504 001
+Error at 19 504 039
+Error at 19 504 063
+Error at 19 504 048
+Error at 19 504 086
+Error at 19 511 039
+Error at 19 511 063
+Error at 19 511 048
+Error at 19 511 086
+Error at 19 511 084
+Error at 19 527 039
+Error at 19 527 063
+Error at 19 527 048
+Error at 19 527 086
+Error at 19 527 084
+Error at 20 503 063
+Error at 20 503 048
+Error at 20 503 086
+Error at 20 503 084
+Error at 20 503 034
+Error at 20 504 001
+Error at 20 504 039
+Error at 20 504 063
+Error at 20 504 048
+Error at 20 504 086
+Error at 20 511 039
+Error at 20 511 063
+Error at 20 511 048
+Error at 20 511 086
+Error at 20 511 084
+Error at 20 527 039
+Error at 20 527 063
+Error at 20 527 048
+Error at 20 527 086
+Error at 20 527 084
+Error at 20 718 029
+New course but no college
+Error at 20 775 248
+New course but no college
+Error at 20 777 109
+Error at 20 798 241
+Error at 20 799 241
+Error at 21 775 248
+New course but no college
+Courses to be updated
+{"19":[],"20":[],"21":[]}
+may_june
+Grade
+ASP.NET_SessionId=eef43a45mlhwaq45povevx55
+Courses to be downloaded
+{"17":[],"18":[],"19":[],"20":["107","544","572","718","744","775","776","777","798","799"]}
+Error at 20 107 020
+Error at 20 544 029
+Error at 20 572 013
+Error at 20 718 029
+New course but no college
+Error at 20 775 248
+New course but no college
+Error at 20 777 109
+Error at 20 798 241
+Error at 20 799 241
+Courses to be updated
+{"17":[],"18":[],"19":[],"20":[]}
